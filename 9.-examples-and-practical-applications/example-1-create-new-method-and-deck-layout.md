@@ -7,21 +7,21 @@ description: You will be creating a new method and putting together a Deck Layou
 1. Create a new Method and call it Basic\_Deck, save it to the location “C:\Program Files (x86)\HAMILTON\Methods\Training\_YourNameHere.  You will need to create a new folder called “Training\_YourNameHere” in methods so you can always have copies of what you created in the class. &#x20;
 2. Switch to the Deck Layout View in the Hamilton Method Editor by selecting the “Test Tube” icon in the top, middle of the toolbar. &#x20;
 
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. If necessary, add a “New Instrument”, as shown below, by selecting the “Devices” tab, the “Add new instrument” radio button.  Select the ML\_STAR from the drop down, and then click “Add”.   &#x20;
 
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. In the _Deck Layout_ window, select the _Labware_ tab to begin building the deck layout.
 
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Assure that the _Generate default deck sequences_ checkbox is checked and _Stamp Tool_ is set to _1000uL Channels._
 
 
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Add the following Labware to your deck: \
    \
@@ -47,13 +47,13 @@ Once you’ve populated the deck, refer to the deck view below, and double check
 
 
 
-<figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Save the Method and Deck Layout by selecting the “Save All” button, or use the hotkey shortcut - CTRL + SHIFT + S. &#x20;
 
-<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \***Note – SAVE EARLY AND OFTEN**.  Computers are not perfect, and you can lose a lot of hard work if the computer or software crashes and you have not saved in a while!
 

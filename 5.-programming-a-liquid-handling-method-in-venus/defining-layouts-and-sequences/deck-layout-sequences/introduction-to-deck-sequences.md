@@ -9,11 +9,11 @@ In the context of labware and instrument decks:
 *   **Labware** includes items like plates, tubes, and reservoirs that are positioned on the deck for use in experiments or assays.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (142).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 *   **Instrument decks** are flat surfaces on robotic platforms where labware is placed for automated handling, manipulation, and processing.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (143).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 A **deck sequence** determines the order and arrangement in which the labware is processed. These sequences are critical for defining how the automation system interacts with the labware to perform tasks like pipetting, mixing, heating, or cooling.
 

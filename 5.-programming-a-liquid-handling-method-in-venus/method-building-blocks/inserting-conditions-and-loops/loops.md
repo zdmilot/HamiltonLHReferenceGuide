@@ -18,7 +18,7 @@ Repeat a fixed number of times
 
 Loop counter variable created by the Loop step automatically keeps count of the number of iterations.
 
-<figure><img src="../../../.gitbook/assets/image (83).png" alt="" width="177"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt="" width="177"><figcaption></figcaption></figure>
 
 Loop counter variable = 0 before Loop execution starts,
 
@@ -36,7 +36,7 @@ Repeat while some logic expression is true
 
 To force a Loop to end prematurely, use the Loop Break step. Processing continues with the next step after the End Loop.
 
-<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -85,7 +85,7 @@ Loops can contain other Loops.
 
 Nested loops in laboratory liquid handling are used to automate the process of pipetting multiple samples. For example, the outer loop can iterate through a list of reagents, while the inner loop can iterate through a series of test tubes. This ensures that each reagent is added to each
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt="" width="245"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt="" width="245"><figcaption></figcaption></figure>
 
 Example: an 8 channel STAR with 300uL tips can Dispense 100uL into 3 wells for each 300uL Aspiration. So it will need to repeat the Aspirate and Dispense steps 4 times to completely fill a 96 well plate (Note: for Part Volume Dispenses, the volume for the first and last dispense will be off)
 

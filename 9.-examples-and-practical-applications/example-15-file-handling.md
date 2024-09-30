@@ -19,12 +19,12 @@ description: >-
 \*Note - This should always be the first step in a file read loop (otherwise how do we get the data from the file?)
 
 6. Bring in the Sequence Library by selecting Libraries… from the Method menu.  Browse to and select HSLSeqLib.hsl.  Close the dialog window and a new dropdown will be added to your Toolbox.\
-   ![](<../.gitbook/assets/image (302).png>)
+   ![](<../.gitbook/assets/image (158).png>)
 7. In a similar manner, bring in the Utility Library, HSLUtilLib2.hsl.
 8. Select the SeqAdd step from the Sequence Library and insert it into the Loop step below the File- Read:&#x20;
    1. Enter FilePickList for the Sequence Object, file1\_Labware\_ID as the LabwareID, and file1\_Position as the PositionID. &#x20;
    2. When you close the step, a window will pop up asking you to confirm the new sequence variable.  Click OK.\
-      ![](<../.gitbook/assets/image (304).png>)
+      ![](<../.gitbook/assets/image (160).png>)
 9. Next add the step Array: Set At and add file1\_Volume to the end of arrVolumes.
 10. After the End-Loop add a File: Close step.
 

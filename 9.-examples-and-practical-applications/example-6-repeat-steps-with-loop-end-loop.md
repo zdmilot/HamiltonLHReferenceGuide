@@ -13,18 +13,18 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (271).png" alt="" width="140"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt="" width="140"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (273).png" alt="" width="209"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt="" width="209"><figcaption></figcaption></figure>
 
 </div>
 
 4. Move one pair of the Aspirate – Dispense steps into the Loop – End Loop step. &#x20;
 5. Delete the other three Aspirate-Dispense steps outside the Loop.
 
-<figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 6. Save and launch Run Control. Simulate the method and correct any errors.
 7. Now that you’ve completed looping with a 1000µl Channel, let’s try it with our 384-Well plate stamp using the CO-RE 96 Head.  Open Plates96\_to\_Plate384 from Challenge 4.  Select the “File” and “Save As” from the dropdown and save the method as Plates96\_to\_Plate384\_LoopStep.
@@ -33,6 +33,6 @@ description: >-
 10. Move the Tip Pickup and the Tip Eject into the Loop-End Loop step.&#x20;
 11. Delete the other three Aspirate-Dispense steps.
 
-<figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 12. Save and launch Run Control. Simulate the method and correct any errors.

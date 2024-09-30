@@ -12,7 +12,7 @@ Here we will learn to transfer liquid from the first 8 sample tubes to the first
 
 
 
-<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Begin work on your previous method, Tubes\_to\_Plates.  Go ahead and select “Save As” from the File dropdown menu.  Save this file as Tube\_to\_Plates\_Part\_B.
 2. Once you’ve saved the file, go to the 1000µL Channel Aspirate (Single Step) and change the Sequence counting according to the note above. &#x20;
@@ -36,7 +36,7 @@ GOAL:  Using our previous method, expand the functionality to move from the samp
 
 8. To create a new sequence, toggle to the Deck Layout view.  Look for the “Sequences” tab (next to the labware tab from our first challenge).&#x20;
 
-<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Create a new Sequence by selecting the first column on each of the four 96-Well Plates.  Once selected, select “Save As” and name it Column1x4.  It will now appear in the Deck Sequences scrollable-list. &#x20;
 
@@ -52,4 +52,4 @@ GOAL:  Using our previous method, expand the functionality to move from the samp
 1. Create a new Sequence that consist of the first 8 wells on all four 96-well plates, but starting with the 4thplate and then the 3rd, 2nd, and 1st plates.  Save it as Column1x4\_Reverse.&#x20;
 2. Create a new Sequence that consist of the first 8 tubes of all four sample tube carriers, then the next 8 tubes of all four sample tube carriers, and finally the last 8 tubes of all four sample tube carriers.  Save it as Tubes\_Combined and use the Play Sequence button to play and check these two new sequences.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62) (1).png" alt=""><figcaption></figcaption></figure>

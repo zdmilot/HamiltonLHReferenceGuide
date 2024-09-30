@@ -23,14 +23,14 @@ Low volume pipetting using the 1,000 μL channels is defined as any volume betwe
 
 Multi-dispensing, also known as aliquotting, is the act of aspirating enough total volume to dispense more than once from the same tip. While multi-dispensing can save time and tips, it can take more effort to control for the trueness and precision for each liquid transfer. To decide if pipetting should be implemented as a multi-dispense, refer to the chart on the next page.
 
-<figure><img src="../.gitbook/assets/image (425).png" alt="" width="375"><figcaption><p><em>IMPLEMENT AS A MULTI-DISPENSE VS SINGLE DISPENSE</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (281).png" alt="" width="375"><figcaption><p><em>IMPLEMENT AS A MULTI-DISPENSE VS SINGLE DISPENSE</em></p></figcaption></figure>
 
 ## Method Settings
 
 * Only use 50 μL tips or higher.&#x20;
 * The first and last aliquots are often inaccurate and should be discarded in order to maintain good precision overall amongst the transfers. Some liquids may require 2 pre-dispenses. See the image below for an example of a pre- and post-aliquot transfer that are discarded, ensuring that the transfer in between are within an acceptable range.
 
-<figure><img src="../.gitbook/assets/image (426).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (282).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Limit total number of aliquots per cycle.&#x20;
   * The limit can vary based on transfer volume and tip size, but in general, it is recommended to keep the number of transfers to a minimum for easier control and more consistent liquid handling.&#x20;
@@ -50,11 +50,11 @@ Multi-dispensing, also known as aliquotting, is the act of aspirating enough tot
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (427).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (283).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (428).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (284).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,7 +64,7 @@ A dilution is one of the more common liquid transfers performed and occurs when 
 
 For example, 90 μL of buffer solution is added to all of the wells in a 96-well plate. 10 μL of sample is then added to column 1, mixed, and then 10 μL of that mixture is transferred to column 2, mixed, and so on. Each step dilutes the sample by a factor of 10.
 
-<figure><img src="../.gitbook/assets/image (429).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (285).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Method Settings
 

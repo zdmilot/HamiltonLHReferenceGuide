@@ -1,6 +1,6 @@
 # Deck Layout Sequences
 
-<figure><img src="../../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
 **Deck Sequences list:**
 
@@ -49,7 +49,7 @@ see Invalid Deck Positions
 
 ## Stamp Tool Panel
 
-<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 **Stamp Tool Preview:**
 
@@ -164,79 +164,79 @@ A sequence is a List of Positions that consist of:
 
 <mark style="background-color:green;">POSITION ID</mark> = specific well on a plate, or a specific tube position a sample carrier
 
-<figure><img src="../../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 ## Advantage of Sequence concept
 
 * Flexable & Limitless
 * Can be sorted any way possible\
-  ![](<../../../.gitbook/assets/image (242).png>)
+  ![](<../../../.gitbook/assets/image (98).png>)
 * Not limited to one labware or one labware type\
-  ![](<../../../.gitbook/assets/image (243).png>)
+  ![](<../../../.gitbook/assets/image (99).png>)
 * Can have multiple entries of the same position
 * Can be modified during the Method run by commands\
-  ![](<../../../.gitbook/assets/image (244).png>)\
-  ![](<../../../.gitbook/assets/image (246).png>)
+  ![](<../../../.gitbook/assets/image (100).png>)\
+  ![](<../../../.gitbook/assets/image (102).png>)
 
 ## Creating a Sequence
 
-![](<../../../.gitbook/assets/image (247).png>)
+![](<../../../.gitbook/assets/image (103).png>)
 
 * When labware is added to the deck, a default Sequence is created with the same name as the labware.\
-  ![](<../../../.gitbook/assets/image (248).png>)
+  ![](<../../../.gitbook/assets/image (104).png>)
 * Another way is to select all the desired positions for your self made sequence and save it with a new name. E.g. SourcePlate, DestinationPlate, Dilutant\_A, ReagentB, SourceStack, My\_1000ul\_Tips....\
-  ![](<../../../.gitbook/assets/image (249).png>)\\
+  ![](<../../../.gitbook/assets/image (105).png>)\\
 
 To select the positions for your self made Sequence:
 
-1. Click the Clear Selected button ![](<../../../.gitbook/assets/image (252).png>)
+1. Click the Clear Selected button ![](<../../../.gitbook/assets/image (108).png>)
 2. Do one of the following:
    1. Select (“Rubber Band“) the desired positions\
-      ![](<../../../.gitbook/assets/image (253).png>)
+      ![](<../../../.gitbook/assets/image (109).png>)
    2. Click on labware to select the Stamp Tool “pattern“\
-      ![](<../../../.gitbook/assets/image (254).png>)
+      ![](<../../../.gitbook/assets/image (110).png>)
    3. Click on the Single position select button and then individually click on the desired positions to select.\
-      ![](<../../../.gitbook/assets/image (255).png>)
-3. Click Save As... and provide a name ![](<../../../.gitbook/assets/image (256).png>)
+      ![](<../../../.gitbook/assets/image (111).png>)
+3. Click Save As... and provide a name ![](<../../../.gitbook/assets/image (112).png>)
 
 * Continuing to Rubber Band or to click on positions continues to append those positions to your list
-* When starting a new Sequence, click the Clear Selected button first or your list may contain unwanted positions ![](<../../../.gitbook/assets/image (257).png>)
+* When starting a new Sequence, click the Clear Selected button first or your list may contain unwanted positions ![](<../../../.gitbook/assets/image (113).png>)
 
-<figure><img src="../../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 Creating a Sequence: Stamp Tool
 
 Type of pipetter to use that dictates how positions are sorted when Sequences are first created and what pattern is selected when labware is clicked.
 
-<figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 Pattern examples from clicking A1 well on a 384 well plate:
 
-<figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 ## Editing and Sorting Sequences
 
-Click the Advanced button to bring up the Edit Positions window ![](<../../../.gitbook/assets/image (263).png>)\\
+Click the Advanced button to bring up the Edit Positions window ![](<../../../.gitbook/assets/image (119).png>)\\
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 Note: the order of adding the positions to your sequence is the order they appear in the sequence list
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 From the Edit Positions window, the positions can be:
 
 1. Sorted by Labware, Position, X, Y, and Z co-ordinates in either ascending or decending order
 2. Sorted by starting corner and direction\
-   ![](<../../../.gitbook/assets/image (265).png>)
+   ![](<../../../.gitbook/assets/image (121).png>)
 3. Sorted by the default Stamp Tool order
 4. Positions can also be deleted from list
 
 ## Handling Sequences
 
-<figure><img src="../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 * Clicking a sequence name from the list selects that sequence
 * Right-click a sequence name to Rename it
@@ -248,43 +248,43 @@ From the Edit Positions window, the positions can be:
 
 The Sequence Player will animate the order a Sequence is processes by the Stamp Tool. Use this to test the sort order
 
-<figure><img src="../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
 The Validate button checks for invalid Sequences and provides the options to delete them
 
-<figure><img src="../../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
 ## Using Sequences
 
 * Sequences are used within Method Steps to describe a source or a destination for pipetting and transport
 
-<figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 *   When pipetting, 1st sequence position is assigned to channel 1, the 2nd position to channel 2 and so on until all channels or positions have been assigned and then the processing begins\
     Returning to the same sequence, the 9th position is assigned to channel 1, 10th position assigned to channel 2 and so on until all channels or positions have been assigned.\
     \\
 
-    <figure><img src="../../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 * Pointers keep track of the available positions in a Sequence\
   \
-  ![](<../../../.gitbook/assets/image (322).png>)
+  ![](<../../../.gitbook/assets/image (178).png>)
   * The Current\_Position pointer always points to the next available position (set to index # 1 when first created)
   * The End\_Position pointer always points to the last available position (set to the last index # when first created)
 * Actions, such as pipetting and transport, always start at the Current\_Position and follow the index order
   * If the Sequence Counting is set to Automatic, then the Current\_Position pointer will follow along as positions get processed\
-    ![](<../../../.gitbook/assets/image (324).png>)
+    ![](<../../../.gitbook/assets/image (180).png>)
   * In the illustration below, the first eight positions were processed and the Currrent\_Position pointer now points to index #9\
-    ![](<../../../.gitbook/assets/image (325).png>)\
+    ![](<../../../.gitbook/assets/image (181).png>)\
     \\
   * If the Sequence Counting is set to Manual, then the Current\_Position pointer will not change as positions get processed\
-    ![](<../../../.gitbook/assets/image (327).png>)\
-    ![](<../../../.gitbook/assets/image (328).png>)
+    ![](<../../../.gitbook/assets/image (183).png>)\
+    ![](<../../../.gitbook/assets/image (184).png>)
   * In the illustration below, the first eight positions were processed and the Currrent\_Position pointer continued to point to index #1 which means those first eight positions will be re-proccessed\
-    ![](<../../../.gitbook/assets/image (329).png>)\
+    ![](<../../../.gitbook/assets/image (185).png>)\
     \
     \
     \\
@@ -292,12 +292,12 @@ The Validate button checks for invalid Sequences and provides the options to del
 
       Automatic: "Advance to next positions"\
       \
-      ![](<../../../.gitbook/assets/image (330).png>)\
+      ![](<../../../.gitbook/assets/image (186).png>)\
       \
       \\
   * When all positions are processed, the Current\_Position pointer has no next available position to point to and is set to zero\
     In the illustration below, all positions were processed and the Currrent\_Position pointer now points past the End\_Position pointer indicating that the Sequence has no positions left to process.\
-    ![](<../../../.gitbook/assets/image (332).png>)\
+    ![](<../../../.gitbook/assets/image (188).png>)\
     \
     \
     \
@@ -305,15 +305,15 @@ The Validate button checks for invalid Sequences and provides the options to del
     \\
   *   If all positions in a Sequence have been processed and you try to pipette to the same sequence then an error occurs and your Method is aborted.\\
 
-      <figure><img src="../../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
       To avoid this error or to start over from the beginning of a sequence: Use the Sequence: Set Current Position step\
-      ![](<../../../.gitbook/assets/image (336).png>)\
+      ![](<../../../.gitbook/assets/image (192).png>)\
       \\
   * Also, if positions from a Sequence (e.g. Reagent tub) are to be re-used then reset to the beginning by using the Sequence: Set Current Position step.\
-    ![](<../../../.gitbook/assets/image (337).png>)\
+    ![](<../../../.gitbook/assets/image (193).png>)\
     In fact, the Current Position can be set to any position within the Sequence. Processing will then start from that position.\
-    ![](<../../../.gitbook/assets/image (338).png>)\
+    ![](<../../../.gitbook/assets/image (194).png>)\
     Similarly, the End Position can be set to any position within the Sequence. Only positions between the Current Position and End Position can be processed.\\
 
 ## Sequence Counting
@@ -322,4 +322,4 @@ Manual: "go back to same positions"
 
 Automatic: "Advance to next positions"\
 \
-![](<../../../.gitbook/assets/image (330).png>)
+![](<../../../.gitbook/assets/image (186).png>)

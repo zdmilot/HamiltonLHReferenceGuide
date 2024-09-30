@@ -2,7 +2,7 @@
 
 ## Firmware Command Disclaimer
 
-<table data-header-hidden><thead><tr><th width="69"></th><th width="616"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (403).png" alt="" data-size="line"></td><td>I UNDERSTAND THAT ACCESSING FIRMWARE COMMANDS IS NOT COVERED UNDER ANY WARRANTY AND CAN SEVERELY DAMAGE THE DEVICE.<br><br>ANY DAMAGE DONE IS OF MY OWN DOING AND I WILL BE HELD RESPONSIBLE FOR ANY DAMAGE DONE UTILIZING THESE COMMANDS.</td><td><img src="../.gitbook/assets/image (404).png" alt="" data-size="line"></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="69"></th><th width="616"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (259).png" alt="" data-size="line"></td><td>I UNDERSTAND THAT ACCESSING FIRMWARE COMMANDS IS NOT COVERED UNDER ANY WARRANTY AND CAN SEVERELY DAMAGE THE DEVICE.<br><br>ANY DAMAGE DONE IS OF MY OWN DOING AND I WILL BE HELD RESPONSIBLE FOR ANY DAMAGE DONE UTILIZING THESE COMMANDS.</td><td><img src="../.gitbook/assets/image (260).png" alt="" data-size="line"></td></tr></tbody></table>
 
 \##Firmware Commands Vector allows you to use firmware commands to run the STAR at a low level.
 
@@ -16,13 +16,13 @@ Why would you do this?
 
 Bring in the Firmware Command using the Configuration Editor. The Firmware command dialog box looks like this:
 
-<img src="../.gitbook/assets/image (342).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (198).png" alt="" data-size="original">
 
 ## Formats
 
 Commands and Parameters must be in quotations. Commands are all capitals; Parameters, lower-case:\\
 
-<img src="../.gitbook/assets/image (343).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (199).png" alt="" data-size="original">
 
 ## Warnings
 
@@ -38,7 +38,7 @@ Commands and Parameters must be in quotations. Commands are all capitals; Parame
 
 Firmware Reference Guides are documents that describe the commands, parameters, and error codes.
 
-<img src="../.gitbook/assets/image (347).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (203).png" alt="" data-size="original">
 
 ## Module Names
 

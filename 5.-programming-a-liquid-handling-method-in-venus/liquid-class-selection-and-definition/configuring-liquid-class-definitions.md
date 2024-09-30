@@ -126,7 +126,7 @@ When precision is achieved, the correction curve of the liquid class can be adju
 
 
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 Once verification is complete, make sure the updated liquid class is implemented in your method. The liquid class can then be used by lab technicians running liquid transfers for experiments. Periodically check the performance of the liquid transfers to make sure that no changes are needed. Keep in mind that the correction curve for any default liquid classes cannot be modified.
 

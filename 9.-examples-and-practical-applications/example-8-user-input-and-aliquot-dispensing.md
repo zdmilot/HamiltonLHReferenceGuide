@@ -15,7 +15,7 @@ description: >-
 2. Transfer 50µL (our dispense volume) from Ham\_DW\_Rgt\_L\_0001 to all 12 columns of the first plate (Nun\_96\_Fl\_Lb\_0001) as an Aliquot (multi-dispense:
    1. First, calculate the aspirate volume required using the formula above with the General Step Assignment with Calculation, you can call the variable, intAspirateVolume.
    2. Aspirate the calculated volume from the source reagent plate Ham\_DW\_Rgt\_L\_0001 and set the Dispense Mode to Jet Part Volume. Make sure you select the correct, corresponding liquid class.\
-      ![](<../.gitbook/assets/image (280).png>)\
+      ![](<../.gitbook/assets/image (136).png>)\
       \
 
    3. Next, dispense 50µL back into the source reagent plate Ham\_DW\_Rgt\_L\_0001.
@@ -25,15 +25,15 @@ description: >-
 3. Save and launch Run Control.  Simulate the method and correct any errors.
 4. Modify this method by adding a User Input step at the beginning.  Prompt for the dispense volume storing it in variable intDispenseVolume.
 
-<figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 5. Re-calculate (Using the Assignment with Calculation step) the Aspirate volume and replace the specific volumes with the variables intAspirateVolume and intDispenseVolume in the respective Aspirate and Dispense steps.
 
-<figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 6. Add a User Output step at the end of the Method that will output the Aspirate and Dispense volumes and their descriptions.
 
-<figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 7. Save and launch Run Control. Simulate the method and correct any errors.
 

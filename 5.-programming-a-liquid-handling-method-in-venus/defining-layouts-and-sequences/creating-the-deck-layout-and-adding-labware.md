@@ -6,11 +6,11 @@ description: How to create and configure system layouts in Venus.
 
 To create or modify system layouts in a predefined method, access the System Deck Editor within the Hamilton Method Editor while the method is open. Navigate to this by selecting **View -> System Deck** from the menu.
 
-<figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 This will bring you to the Layout Editor:
 
-<figure><img src="../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 ## Creating a New System Deck <a href="#creating-a-new-system-deck" id="creating-a-new-system-deck"></a>
 
