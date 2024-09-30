@@ -1,0 +1,2 @@
+# Camera/barcode Scanner Input
+
