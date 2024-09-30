@@ -5,13 +5,13 @@ GOAL: Modify the previous method to skip over the first column when aliquotting 
 1. Open Serial Dilution.med and save it as Serial Dilution with Controls.
 2. Add the General step Sequence: Set Current Position to just before the first loop and set it to 9.  Also set the Reset to after loop in the loop step.
 
-<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 
 3. Run in Simulation Mode to make sure it works properly – the first column should remain empty.
 4. Continue to modify the Method.  Insert an Assignment step just after the “Begin Serial Dilution Loop” Comment step to create a new variable, strChannelPattern equal to the string value “11111110”.&#x20;
 5. Modify the sample Aspirate step outside the loop to use “Channel Selection as Variable” under the Channel Settings button.  Channel Use is set to Channel Pattern.  Set Sequence Counting to Manual.
 
-<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
 6. Copy the Dispense step from the Loop and paste it just below the Aspirate step just before the loop. Modify this Dispense step setting Sequence counting to Automatic and use the new channel pattern.
 7. Copy the previous Aspirate step and paste it right after this Dispense Step.

@@ -20,7 +20,7 @@ Why would you do this?
 
 ### Get Last Liquid Level
 
-<figure><img src="../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 The GetLastLiquidLevel command returns the _height_ of the liquid level detected during the previous aspirate or dispense step that used LLD.
 
@@ -28,11 +28,11 @@ To get this piece of data, Right-click on the command and select Bind Return Val
 
 Assign a variable to the value number 3.
 
-<figure><img src="../.gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 To test, use a User Output with this variable. The result is like this:
 
-<figure><img src="../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
 You then need to use the String library to parse out the heights (111.1, 111.2, 111.3, etc.)
 
@@ -42,7 +42,7 @@ You then need to use the String library to parse out the heights (111.1, 111.2, 
 * A Tip Pickup command must already be in the method.
 *   Use the MeasureContainerVolume2 command to have the instrument use LLD to detect the liquid surface.
 
-    <figure><img src="../.gitbook/assets/image (39) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
     Use these values:
 * #### ml\_star:
@@ -71,7 +71,7 @@ GetContainerVolume returns the volume in ml of one channel only. So put this com
 
 Use the \[Bind return value to] field to create a variable for the volume that is returned.
 
-<figure><img src="../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 Don’t forget to convert the returned volume from _ml to ul_, depending on what you need to do with that volume data.
 

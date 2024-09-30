@@ -42,13 +42,13 @@ The iSWAP Transport step allows a simple definition of a transport procedure wit
         Note:\
         If labware orientation and iSWAP grip direction do not match, an error will be generated.
 
-      &#x20;![](<../../../../.gitbook/assets/image (289).png>)
+      &#x20;![](<../../../../.gitbook/assets/image (438).png>)
 
       Fig. 1: Complex movement parameters
 
       &#x20;
 
-      &#x20;![](<../../../../.gitbook/assets/image (288).png>)
+      &#x20;![](<../../../../.gitbook/assets/image (437).png>)
 
       Fig. 2: Labware orientation
 * Automatic grip width calculation depending given access height.

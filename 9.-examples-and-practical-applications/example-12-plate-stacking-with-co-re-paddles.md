@@ -9,11 +9,11 @@ description: >-
 1. Using your Basic\_Deck layout from the beginning, create a new method and call it Stacking Plates.
 2. On the Deep-Well carrier (PLT\_CAR\_L5AC\_A00) add one stack of 4 plates (NUN\_96\_FL, low border).  To do this add one plate to the carrier then right-click on the plate to select Add to Stack from the drop down menu
 
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 3. Add the CO-RE gripper paddles (COREGrip Tool OnWaste 1000uL)
 
-<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 4. Switch to the “Sequence” Tab.  Rubber band the A1 well from the stack of plates and save as SourceStack.  Use the “Advanced” button to sort this sequence from the top down.  This sequence should only have one position (A1 well) per plate.&#x20;
 5. Create a sequence over the 4 plates on the plate carrier.  Save as TargetCarrier.&#x20;

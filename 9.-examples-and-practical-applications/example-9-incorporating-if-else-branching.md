@@ -11,16 +11,16 @@ description: >-
 2. At the top of the Method, add a Comment step with the text “Lame Comment”.
 3. Edit the User Input step and type in the variable, intUserChoice in the Return Value field and select the ‘OK’ and ‘Cancel’ buttons from the “Buttons” dropdown.
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
 4. After the User Input step, insert an If/Else step that compares intUserChoice to 2 (the cancel button, denoted in the “Help” for the User Input step).
 
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
 
 5. Inside the If/Else step add a User Output step and inform the User they have clicked “cancel” so the Method will now end.
 6. Following the User Output step, add the General step Return, which will function to end the method withoutcausing the method to abort.&#x20;
 
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 7. Save and launch Run Control. Simulate the method and correct any errors.
 

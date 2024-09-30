@@ -14,7 +14,7 @@ description: >-
    3. An L5MD Plate Carrier with 1x Source 96-Well plate on one and 3 x Target 96-Well plates.
    4. A Tip carrier with appropriately sized tips.
 2. Using Notepad.exe, create and save a worklist file with two comma separated columns: Save this file as “DilutionWorklist.xls”.\
-   ![](<../.gitbook/assets/image (256).png>)
+   ![](<../.gitbook/assets/image (405).png>)
 3. Start the Method by asking User to select the worklist.
 4. Use the File: Open step to open the worklist using the Excel tab, then cycle through the records to create:
    1. Sample Volume array.
@@ -25,6 +25,6 @@ description: >-
 7. Aspirate the samples using the Sample Volume array and the Source Sequence generated from the worklist.
 8. Proceed with the serial dilution over the DilutionPlate.  Dispensing the samples, then aspirating the Sample volume with mixing before moving to the next column.  Use 150 µL as the mix volume.  At the end, eject the tips with the aspirated liquid from the last column into the waste.
 9. Transport the plate to an off-deck incubator location and wait 10 seconds for incubation to complete. Then transport the plate back to the original position. Use a User Output step to simulate the incubation time.\
-   ![](<../.gitbook/assets/image (255).png>)
+   ![](<../.gitbook/assets/image (404).png>)
 10. Transfer 80% of the liquid from the dilution plate to every third column on the target plates (Column 1 dilution plate goes to column 1 of the target plate; Column 2 dilution plate goes to column 4 of target plate; Column 3 dilution plate goes to column 7 of target plate and so on….).
 11. Save and launch Run Control.  Simulate the method and correct any errors.  Create a Sample Tracking Report for the three final plates and verify that pipetting has occurred correctly.

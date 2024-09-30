@@ -17,7 +17,7 @@ description: >-
    1. Dispense intDispenseVolume to the target Sequence with a Fixed Height of 5 mm and Sequence counting to Manual.
    2. Aspirate intDispenseVolume from the same location but set Sequence counting to Automatic and under the “Advanced…” button, set the number of Mixing Cycles to 2 and the Mixing Volume to the intDispenseVolume.  Reduce the Mix Position to 0 mm.
 
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 7. After the Loop, eject the tips (with the liquid from the last aspirate) into the waste. &#x20;
 8. Save and launch Run Control.  Simulate the method and correct any errors.
@@ -36,7 +36,7 @@ GOAL: Perform a row by row serial dilution by using the CO-RE 96 MPH as the pipe
 
     \*Note - select (2) Row(s) as the “Reduced pattern mode” under the Channel Settings of the CO-RE 96 Head Tip Pickup.&#x20;
 
-<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 8. Modify the serial dilution task to add the new sequences above. &#x20;
 9. Save and launch Run Control.  Simulate the method and correct any errors.  Reset the Stamp tool to 1000µL Channels after completion. &#x20;

@@ -9,32 +9,32 @@ description: >-
 1. Create a new Method and save as Plates96\_to\_Plate384.\
 
 
-<figure><img src="../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 2. Switch to the Deck Layout Editor. &#x20;
 3. Switch to the Sequence Tab and select the Head 96 as the Probe Head.
 
 \*Note – Make sure that you have clicked “Clear Selected” before selecting new sequences! Otherwise, the sequences you are selecting will be appended to whatever sequence was already selected.
 
-<figure><img src="../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 4. Create a new Sequence encompassing all four 96-well plates and save it as PlatesX4
 5. Use the “Advanced…” button to re-sort the 384-Well Plate sequence for use with the CO-RE 96 Head:
    1.  Select the existing 384-Well plate sequence from the list\
 
 
-       <figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
    2. &#x20;Click the “Advanced…” button   &#x20;
    3.  Click the “Apply Stamp Tool” button\
 
 
-       <figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
    4. Click “Ok”
 6. Build the Method using the CO-RE 96 Head steps:
    1.  a. Pickup 300µL Standard Tips\
 
 
-       <figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
    2. Aspirate and Dispense four times from PlatesX4 to Nun\_384\_sq\_0001 each time transferring 50µL   &#x20;
    3.  Eject tips
 
@@ -59,4 +59,4 @@ Optional Expert Challenges
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>

@@ -11,14 +11,14 @@ description: >-
 2. In the Deck Layout editor, change the Stamp Tool from Head 96 to 1000µl Channels
 3. Create a new Sequence, SamplesTubes96 which consists of all 4 Sample Tube Carriers.
 
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
 \*Note - Use the format shown above.  One for each transfer so we can repeat the Aspirate and Dispense steps.
 
 4. Transfer 50µL from 48 samples (our new sequence, SamplesTubes96) to the first 6 columns of first plate sequence (Nun\_96\_Fl\_Lb\_0001).&#x20;
 5. Add the step Sequence: Set Current Position so the SampleTubes96 sequence starts at the first tube again.
 
-<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
 6. Create a second Loop.  Transfer 50µL from 96 samples to 12 columns of second plate (Nun\_96\_Fl\_Lb\_0002).
 7. Add the step Sequence: Set Current Position so that SampleTubes96 sequence starts at the first tube again.

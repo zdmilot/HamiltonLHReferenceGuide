@@ -19,31 +19,31 @@ Note: Administrator privileges are needed to install Venus 4 correctly. Before i
 
 1. Select mount image, mount the Microlab STAR Software VENUS four base package 4.5.0.5217 and select open.
 
-![](<../.gitbook/assets/3 (1) (1).png>)
+![](<../.gitbook/assets/3 (2).png>)
 
-![](<../.gitbook/assets/4 (1) (1).png>)
+![](<../.gitbook/assets/4 (2).png>)
 
 1. Close the Portable WinCDEmu. The installation drive is now mounted on your computer. Open the drive and select the Microlab\_Star folder. Right click on the setup application and select run as administrator. (Note: Administrator rights are needed to install the software properly.)
 
-![](<../.gitbook/assets/5 (1) (1).png>)
+![](<../.gitbook/assets/5 (2).png>)
 
-![](<../.gitbook/assets/6 (1) (1).png>)
+![](<../.gitbook/assets/6 (2).png>)
 
 1. Select yes when prompted to install the SQL database.
 
-![](<../.gitbook/assets/7 (1) (1).png>)
+![](<../.gitbook/assets/7 (2).png>)
 
 1. Select next when prompted to start the Venus 4 installation.
 
-![](<../.gitbook/assets/8 (1) (1).png>)
+![](<../.gitbook/assets/8 (2).png>)
 
 1. Disable all virus protection software and close all other running applications when prompted and select yes.
 
-![](<../.gitbook/assets/9 (1) (1).png>)
+![](<../.gitbook/assets/9 (2).png>)
 
 1. A dialog will them remind you to revalidate your methods. Select yes.
 
-![](<../.gitbook/assets/10 (1) (1).png>)
+![](<../.gitbook/assets/10 (2).png>)
 
 1. Choose the location where Venus 4 files will be installed (Hamilton suggests to keep this default) and select yes.
 
@@ -71,7 +71,7 @@ Note: Administrator privileges are needed to install Venus 4 correctly. Before i
 
 1. Deselect and reselect the labware, methods, HSL libraries and service enhancements check boxes and select next. Click install.
 
-![](<../.gitbook/assets/17 (1).png>)
+![](../.gitbook/assets/17.png)
 
 ![](../.gitbook/assets/18.png)
 

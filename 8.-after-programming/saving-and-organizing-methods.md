@@ -36,6 +36,6 @@ The following sections describe the best practices for saving and exporting meth
 
     1. Export the method as a \*.pkg file and include the original Hamilton files upon export. Include any dependencies and file paths needed by the method in order for it to run properly when imported.
 
-    <figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
     Export methods to local drives before sharing them to shared drives, since exporting directly to shared drives can corrupt files. Certain files such as liquid classes may not be properly exported, so save backups of these files in their respective editors.

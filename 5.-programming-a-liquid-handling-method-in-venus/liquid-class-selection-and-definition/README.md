@@ -7,7 +7,7 @@ coverY: 0
 
 ## Pipetting Mechanics
 
-<figure><img src="../../.gitbook/assets/image (41) (1) (1).png" alt="" width="114"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (190).png" alt="" width="114"><figcaption></figcaption></figure>
 
 **Under ideal conditions**
 
@@ -77,7 +77,7 @@ Defining cohesive forces between liquid molecules:
 * 2nd largest source of error in this study
 * As temperature increased, dispense volume decreased
 
-<figure><img src="../../.gitbook/assets/image (44) (1) (1).png" alt="" width="348"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt="" width="348"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Environmental Humidity" %}
