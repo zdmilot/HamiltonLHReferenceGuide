@@ -1,3 +1,7 @@
+---
+icon: dev
+---
+
 # \[MPE]2 Positive Pressure Extraction & Evaporation Module
 
 All-in-one compact device automating positive pressure SPE & evaporation.

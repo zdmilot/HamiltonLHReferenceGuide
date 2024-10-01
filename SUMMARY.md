@@ -37,6 +37,7 @@
 * [5. Integrated Devices](5.-integrated-devices/README.md)
   * [Device Communication Methods](5.-integrated-devices/device-communication-methods.md)
   * [Specific Devices](5.-integrated-devices/specific-devices/README.md)
+    * [Page](5.-integrated-devices/specific-devices/page.md)
     * [\[MPE\]2 Positive Pressure Extraction & Evaporation Module](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module.md)
     * [Inheco On Deck ThermoCycler (ODTC) Functions](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/README.md)
       * [Page 2](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/page-2.md)
