@@ -228,7 +228,7 @@ Certified RNAse, DNAse, pyrogene free
 * No vertical force for tip attachment or tip ejection&#x20;
 * Allows for multiple tip and needle sizes during the same run
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt="" width="303"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="LLD" %}

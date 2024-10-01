@@ -1,6 +1,0 @@
----
-icon: dev
----
-
-# Database Model
-

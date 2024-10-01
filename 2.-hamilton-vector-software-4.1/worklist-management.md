@@ -1,6 +1,0 @@
----
-icon: dev
----
-
-# Worklist Management
-
