@@ -13,25 +13,25 @@ Importing and exporting methods is a way of archiving and sharing methods progra
     \
 
 
-    ![image](blob:https://app.gitbook.com/65b1beb6-95fe-4163-83f7-6a7b31a81ce6)
+    ![image](../.gitbook/assets/1.png)
 4.  Enable the checkbox “Export original Hamilton files” then select the “…”
 
     \
 
 
-    ![image](blob:https://app.gitbook.com/fc34c8ea-af80-4d42-8198-4433cb274182)
+    ![image](../.gitbook/assets/2.png)
 5.  Browse to the desired output file path and enter a name for the Package File. It is recommended to export the file to a local drive instead of a network drive.
 
     \
 
 
-    ![image](blob:https://app.gitbook.com/9fd75260-24bc-472d-970d-289544c9351e)
+    ![image](../.gitbook/assets/4.png)
 6. Select Save and then select Finish and the \*pkg file will be created. An output window will be displayed during the export process. When completed, select Close. The \*pkg file has been created and can be found in the specified file path.
 
 \
 
 
-![image](blob:https://app.gitbook.com/bb1a7c8c-d84d-4167-acd8-aec59190a25c)
+![image](../.gitbook/assets/5.png)
 
 ‌How to import a method
 
@@ -42,18 +42,18 @@ Importing and exporting methods is a way of archiving and sharing methods progra
     \
 
 
-    ![image](blob:https://app.gitbook.com/cc4349a4-a068-44d5-93cc-477a6d29cfb4)
+    ![image](../.gitbook/assets/7.png)
 4. Select the \*.pkg file you want to import and Select Next
 5. Select “Recovery” and enable the checkbox to “Import original Hamilton files”
 
 \
 
 
-![image](blob:https://app.gitbook.com/5982c5bc-18e1-4644-b08d-a6a3b7fe2cb2)
+![image](../.gitbook/assets/8.png)
 
 7\. Select Finish and the \*pkg file will be imported. An output window will be displayed during the import process. For any file conflict, select Yes or No depending on which file needs to be overwritten. When completed, select Close. The files have been imported and can be located in the same file path as they were on the export system.
 
 \
 
 
-![image](blob:https://app.gitbook.com/018f4976-f61c-460d-8621-c4abab4bdbac)
+![image](../.gitbook/assets/10.png)
