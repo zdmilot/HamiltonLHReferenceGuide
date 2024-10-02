@@ -4,12 +4,110 @@ icon: dev
 
 # Venus file structure
 
+The Hamilton Venus software, widely used for lab automation, organizes its files into various folders and subdirectories. These folders contain vital resources, including methods, labware definitions, libraries, configuration files, and graphical elements necessary for operating Hamilton’s liquid handling robots like the STAR series. Understanding the file structure helps streamline the integration of new methods, labware, and customization of operations, ensuring efficient use of the automation platform.
+
+Here’s a breakdown of key directories and their content, based on the command-line structure of the Venus software installation:
+
+## Key Directories
+
+#### 1. **Bin Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Bin`
+* **Contents:**
+  * Subdirectories such as **BioNex HiG** and **Hamilton MPE2** store device-specific binaries for hardware integration.
+  * Contains libraries and executables necessary for the main software operation.
+  * The **ICL** versions (**ICLv6.0.0.218**, **ICLv6.3.0.297**) hold different versions of Hamilton’s Integrated Control Library, facilitating robotic arm and peripheral equipment communication.
+
+#### 2. **Config Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Config`
+* **Contents:**
+  * Configuration files essential for system-wide settings and operations of Venus software.
+  * Stores preferences for system behavior and can be customized based on specific lab requirements.
+
+#### 3. **Graphic Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Graphic`
+* **Contents:**
+  * Subfolders like **Instrument** and **PipettingDevice** house graphical representations used by the software to display equipment and devices on the graphical user interface (GUI). These graphics are important for visual setup during method design.
+
+#### 4. **Help Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Help`
+* **Contents:**
+  * Documentation and help files to guide users on different aspects of the Venus software.
+
+#### 5. **LabWare Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\LabWare`
+* **Contents:**
+  * Contains definitions of various labware such as plates, tubes, and consumables from different manufacturers (e.g., **Eppendorf**, **Falcon**, **Corning-Costar**).
+  * Subdirectories like **ML\_STAR** house specific labware definitions for Hamilton STAR systems.
+    * Example: **ML\_STAR/384CoReHead** contains labware definitions specific to the 384-channel Co-RE head.
+  * The **Bitmaps** folder may store graphical assets for labware, which are displayed during method creation.
+
+#### 6. **Language Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Language`
+* **Contents:**
+  * Localization and language support files for the Venus software, allowing users to operate the software in multiple languages.
+
+#### 7. **Library Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Library`
+* **Contents:**
+  * This folder holds critical libraries for specific devices and functionalities:
+    * **Agilent PlateLoc**: Contains files and scripts for integrating Agilent PlateLoc Sealer.
+    * **ASWStandard**: Contains Hamilton’s standard automation libraries, with **TraceLevel** managing logging and error reporting.
+    * **Firmware Libraries** and **Hamilton DriverTools**: Store necessary tools and drivers to interface with hardware and firmware.
+
+#### 8. **Methods Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Methods`
+* **Contents:**
+  * Core directory for storing automation methods and workflows. These methods define the steps a Hamilton robot performs during an experiment or process.
+  * Subdirectories include:
+    * **Library Demo Methods**: Contains example methods for training or demonstration purposes, such as dialogs for user input and status tracking.
+    * **HSLLabwrAccess**: Facilitates access to specific labware during method execution.
+    * **Device Tests**: Methods designed to test and validate hardware like pipetting heads and carriers.
+  * Method scripts in this folder guide the robotic system through tasks such as liquid handling, dispensing, and device operation.
+
+#### 9. **Packages and Files Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Packages and Files`
+* **Contents:**
+  * Stores software packages and files that Venus uses for various operations, including custom files required for specific methods.
+
+#### 10. **System Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\System`
+* **Contents:**
+  * Core system files for the Venus software. These files are essential for running the application and should not be modified.
+
+#### 11. **MethodManager2 Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\MethodManager2_v1.0`
+* **Contents:**
+  * **Method Manager 2** allows users to manage, edit, and organize methods within the Venus environment.
+  * Subfolders like **db** (database) and **html** provide backend functionality for managing method-related data.
+
+#### 12. **SiLA Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\SiLA`
+* **Contents:**
+  * Contains drivers for SiLA-compliant devices, including the **Hamilton Driver for BioMed Microplate Reader**. SiLA (Standardization in Lab Automation) promotes device interoperability, enabling seamless integration of SiLA devices.
+
+#### 13. **Uninstall Directory**
+
+* **Path:** `C:\Program Files (x86)\HAMILTON\Uninstall`
+* **Contents:**
+  * Stores files required for removing the Venus software or specific components from the system.
+
+## Eample File Tree Structure:&#x20;
+
+Understanding the file structure of the Hamilton Venus software allows users to efficiently manage and expand the automation platform. Below is an example of the file system installed in Windows using the tree command:
+
 ```
-Microsoft Windows [Version 10.0.19045.3570]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\bio>cd C:\Program Files (x86)\HAMILTON
-
 C:\Program Files (x86)\HAMILTON>tree
 Folder PATH listing for volume OS
 Volume serial number is 4AC5-F73A
@@ -232,10 +330,6 @@ C:.
 │   │   ├───ru
 │   │   ├───sv
 │   │   └───zh-Hans
-│   ├───VertexControllers
-│   │   ├───DeviceController
-│   │   ├───Dialog Controller
-│   │   └───TransportController
 │   └───VoV_Lights
 ├───LogFiles
 │   └───Inheco ODTC
@@ -362,10 +456,6 @@ C:.
 │       │   └───strip-ansi
 │       └───swiftshader
 ├───Methods
-│   ├───AccQ
-│   ├───ASWStandard
-│   │   ├───ASWGlobal
-│   │   └───TraceLevel
 │   ├───Device Tests
 │   ├───HSLLabwrAccess
 │   ├───Library Demo Methods
@@ -418,15 +508,6 @@ C:.
 │   │       ├───StatusDialog
 │   │       ├───UpdateCustomTheme
 │   │       └───UpdateCustomThemeFromDefaultLocation
-│   ├───New Test
-│   ├───Test
-│   ├───Vertex
-│   │   ├───cIEF
-│   │   ├───Flexible
-│   │   ├───IG Workshop
-│   │   ├───Integration Control
-│   │   ├───PercentG
-│   │   └───QXII Touch
 │   ├───VM
 │   └───[MPE]2
 │       └───Resources
@@ -464,6 +545,4 @@ C:.
     │       ├───x64
     │       └───x86
     └───Language
-
-C:\Program Files (x86)\HAMILTON>
 ```
