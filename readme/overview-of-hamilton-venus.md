@@ -6,10 +6,6 @@ coverY: 0
 
 # Overview of Hamilton Venus
 
-## Introduction to Hamilton Venus
-
-### Overview of Hamilton Venus
-
 Hamilton **Venus** is a comprehensive software platform designed to program and control Hamilton’s automated liquid handling robots. It serves as the central tool for method development, device integration, and liquid handling automation, providing a user-friendly interface to create, manage, and run complex workflows. With its robust programming capabilities, Venus enables users to automate everything from simple pipetting tasks to advanced sample preparation, streamlining processes in research, clinical, and industrial laboratories.
 
 <figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
