@@ -21,7 +21,7 @@ If a login with credentials is required or the below steps do not resolve the is
        \
 
 
-       <figure><img src="../.gitbook/assets/image (8).png" alt="" width="343"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="343"><figcaption></figcaption></figure>
 
        \
 
@@ -30,7 +30,7 @@ If a login with credentials is required or the below steps do not resolve the is
    2. To be used when there is a single user login to the Hamilton PC
    3.  This will connect the database to the current Windows user (only)
 
-       <figure><img src="../.gitbook/assets/image (9).png" alt="" width="281"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="281"><figcaption></figcaption></figure>
    4. Perform the following steps:
       * Server: LOCALHOST\HAMILTON
       * Database: HamiltonVectorDB
@@ -43,7 +43,7 @@ If a login with credentials is required or the below steps do not resolve the is
 
 
 
-    <figure><img src="../.gitbook/assets/image (10).png" alt="" width="178"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="178"><figcaption></figcaption></figure>
 
     1. Perform the following steps:
        * Ensure "Create Database" is selected
@@ -63,7 +63,7 @@ If a login with credentials is required or the below steps do not resolve the is
        \
 
 
-       <figure><img src="../.gitbook/assets/image (11).png" alt="" width="281"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="281"><figcaption></figcaption></figure>
 
        \
 
@@ -72,7 +72,7 @@ If a login with credentials is required or the below steps do not resolve the is
    2. Navigate to and select "SQL Server (HAMILTON)"
    3. From the "Startup-type:" drop-down, select "Automatic" and then click "Apply" and finally "OK"
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="254"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="254"><figcaption></figcaption></figure>
 
 
 

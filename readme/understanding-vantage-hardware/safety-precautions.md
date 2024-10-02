@@ -1,6 +1,6 @@
 # Safety Precautions
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Opening the front cover will ABORT the method. A method aborted this way cannot be restarted.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Opening the front cover will ABORT the method. A method aborted this way cannot be restarted.</p></figcaption></figure>
 
 
 
@@ -25,4 +25,4 @@
 * Nothing on the deck should sit higher than 145mm above the deck’s surface.
 * The front cover is equipped with a magnetic switch which is monitored during a method run.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
