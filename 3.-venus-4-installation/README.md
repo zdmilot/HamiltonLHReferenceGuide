@@ -12,7 +12,7 @@ Note: Administrator privileges are needed to install Venus 4 correctly. Before i
 <details>
 
 <summary>1.Open the Portable WinCDEmu-4.0. application located in the Venus 4 software folder.</summary>
-
+![](<../.gitbook/assets/1 (1).png>)
 <img src="../.gitbook/assets/1 (1).png" alt="" data-size="original">
 
 </details>
