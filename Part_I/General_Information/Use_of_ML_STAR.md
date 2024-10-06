@@ -1,7 +1,0 @@
-# Use of the ML STAR
-
-The ML STAR is a robotic pipetting workstation used for pipetting liquid samples in an automated process suitable for medium to high throughput with a high degree of flexibility in pharmaceutical, veterinary, genomics, proteomics, cellomics, and other related fields.
-
-The ML STAR is classified as a general laboratory instrument and is not an _in vitro_ diagnostic device.
-
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Please refer to the ML STAR Line Operator’s Manual to know the main safety regulations, main hazards involved, electrical and biological properties as well as how to operate the product.</p><p>Perform test runs: i) with deionized water and ii) with the final liquids, prior to routine use. Test for all the liquid classes to be used.</p><p>An interruption to the power supply during a run may cause loss of data. If data loss is unacceptable, use an uninteruptable power supply.</p><p>To avoid computer breakdowns, ensure that there is always enough storage capacity on the hard drive.</p></td></tr><tr><td><img src="../../.gitbook/assets/image (23).png" alt=""></td><td><p>ATTENTION</p><p>Opening the front cover during a run will lead to a system abort and may cause data loss.</p></td></tr></tbody></table>
