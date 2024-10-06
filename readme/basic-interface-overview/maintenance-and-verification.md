@@ -4,7 +4,7 @@ Provides interface to periodic maintenance routines to ensure safe and reliable 
 
 Only use distilled water to clean O-rings
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (149) (1).png" alt=""><figcaption></figcaption></figure>
 
 Maintenance Intervals&#x20;
 
