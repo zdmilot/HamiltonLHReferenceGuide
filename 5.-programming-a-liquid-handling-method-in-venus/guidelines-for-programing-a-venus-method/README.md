@@ -7,6 +7,8 @@ description: >-
 
 # Guidelines for Programing a Venus Method
 
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Each programmed method has to be validated by the programmer.</p><p>Note that the methods developed for one particular instrument and configuration do not automatically fit to another instrument or configuration. It might be necessary to make adaptations due to differences in hardware. Please validate imported methods on the target instrument as well.</p></td></tr></tbody></table>
+
 ## 1. Keep it Simple
 
 **Refrain from adding more than what the workflow requires.** Every additional feature adds complexity and test effort, which increases the scope of the project and its risk of possible error.

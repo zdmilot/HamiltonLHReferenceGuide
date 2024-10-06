@@ -9,73 +9,81 @@ coverY: 0
 
 Note: Administrator privileges are needed to install Venus 4 correctly. Before installation, have IT grant admin privileges or request that IT install the software.
 
+<details>
+
+<summary>1.Open the Portable WinCDEmu-4.0. application located in the Venus 4 software folder.</summary>
+
+<img src="../.gitbook/assets/1 (1).png" alt="" data-size="original">
+
+</details>
+
 1. Open the Portable WinCDEmu-4.0. application located in the Venus 4 software folder.
 
-![](<../.gitbook/assets/1 (1).png>)
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Select yes when prompted to install the Portable WINCDEmu Driver.
+2. Select yes when prompted to install the Portable WINCDEmu Driver.
 
 ![](<../.gitbook/assets/2 (1).png>)
 
-1. Select mount image, mount the Microlab STAR Software VENUS four base package 4.5.0.5217 and select open.
+3. Select mount image, mount the Microlab STAR Software VENUS four base package 4.5.0.5217 and select open.
 
 ![](<../.gitbook/assets/3 (2).png>)
 
 ![](<../.gitbook/assets/4 (2).png>)
 
-1. Close the Portable WinCDEmu. The installation drive is now mounted on your computer. Open the drive and select the Microlab\_Star folder. Right click on the setup application and select run as administrator. (Note: Administrator rights are needed to install the software properly.)
+4. Close the Portable WinCDEmu. The installation drive is now mounted on your computer. Open the drive and select the Microlab\_Star folder. Right click on the setup application and select run as administrator. (Note: Administrator rights are needed to install the software properly.)
 
 ![](<../.gitbook/assets/5 (2).png>)
 
 ![](<../.gitbook/assets/6 (2).png>)
 
-1. Select yes when prompted to install the SQL database.
+5. Select yes when prompted to install the SQL database.
 
 ![](<../.gitbook/assets/7 (2).png>)
 
-1. Select next when prompted to start the Venus 4 installation.
+6. Select next when prompted to start the Venus 4 installation.
 
 ![](<../.gitbook/assets/8 (2).png>)
 
-1. Disable all virus protection software and close all other running applications when prompted and select yes.
+7. Disable all virus protection software and close all other running applications when prompted and select yes.
 
 ![](<../.gitbook/assets/9 (2).png>)
 
-1. A dialog will them remind you to revalidate your methods. Select yes.
+8. A dialog will them remind you to revalidate your methods. Select yes.
 
 ![](<../.gitbook/assets/10 (2).png>)
 
-1. Choose the location where Venus 4 files will be installed (Hamilton suggests to keep this default) and select yes.
+9. Choose the location where Venus 4 files will be installed (Hamilton suggests to keep this default) and select yes.
 
 ![](<../.gitbook/assets/11 (1).png>)
 
-1. Select the appropriate instrument.
+10. Select the appropriate instrument.
 
 ![](<../.gitbook/assets/12 (1).png>)
 
-1. Select install to start the installation of Venus 4.
+11. Select install to start the installation of Venus 4.
 
 ![](<../.gitbook/assets/13 (1).png>)
 
-1. Enter laboratory name and select next.
+12. Enter laboratory name and select next.
 
 ![](../.gitbook/assets/14.png)
 
-1. Select use file checksums to validate files and select next.
+13. Select use file checksums to validate files and select next.
 
 ![](../.gitbook/assets/15.png)
 
-1. Select finish to complete the installation of Venus 4 software.
+14. Select finish to complete the installation of Venus 4 software.
 
 ![](<../.gitbook/assets/16 (1).png>)
 
-1. Deselect and reselect the labware, methods, HSL libraries and service enhancements check boxes and select next. Click install.
+15. Deselect and reselect the labware, methods, HSL libraries and service enhancements check boxes and select next. Click install.
 
 ![](../.gitbook/assets/17.png)
 
 ![](../.gitbook/assets/18.png)
 
-1. Click Finish to complete the installation of labware, liquid classes and libraries.
+16. Click Finish to complete the installation of labware, liquid classes and libraries.
 
 ![](../.gitbook/assets/19.png)
 
