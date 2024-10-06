@@ -1,4 +1,8 @@
-# 3. Configuration
+---
+icon: cloud-check
+---
+
+# 4. Software and System Configuration
 
 The ML STAR is available in several configurations. Use the Hamilton System Configuration Editor to configure the VENUS Software to a specific instrument configuration. The primary configuration will be done by the Hamilton Trained Field Service Engineer during the instrument installation.
 
@@ -14,4 +18,4 @@ When the “Hamilton System Configuration Editor” has been activated, the firs
 
 To switch the run mode, select “System Settings” -> “Simulation Settings”:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -3,7 +3,7 @@ description: >-
   Prior to any programming, it is important to understand what the project needs
   as much as possible. Avoid making assumptions which could lead to wasted
   effort and time.
-cover: ../.gitbook/assets/loading-the-testing-robot_49784972486_o.jpg
+cover: ../../.gitbook/assets/loading-the-testing-robot_49784972486_o.jpg
 coverY: 0
 ---
 

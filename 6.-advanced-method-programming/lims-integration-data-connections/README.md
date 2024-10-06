@@ -1,6 +1,6 @@
 # LIMS Integration/Data Connections
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The advances and cost reduction of biomolecular detection and analysis technologies in recent decades have led to an exponential growth of data generated. These developments increase the need for automation in sample processing and data management.
 

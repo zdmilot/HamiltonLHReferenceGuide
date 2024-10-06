@@ -1,3 +1,7 @@
+---
+icon: dev
+---
+
 # VENUS Reinstallation and Upgrades
 
 ![image](blob:https://app.gitbook.com/6be3002c-ecb9-446d-b803-0daac7f52780)
