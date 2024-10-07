@@ -4,8 +4,6 @@ description: Lorraine Wenham - Content Manager at Automata
 
 # A complete guide to automated pipetting
 
-Labs today are ripe for automation.
-
 Integrating lab robots into workflows allows workers to reproduce experiments, streamline throughput and increase efficiency more effectively. And – perhaps most significantly – automation also makes lab workers’ day-to-day much more satisfying; using roots in the lab allows scientists to focus on analysing results and planning the next protocol while avoiding the strain of repetitive work.
 
 ### What is automated pipetting? <a href="#h-what-is-automated-pipetting" id="h-what-is-automated-pipetting"></a>

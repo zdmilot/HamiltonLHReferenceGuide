@@ -1,7 +1,7 @@
 ---
 description: Madeline Wolf
 ---
-
+<img src="../../.gitbook/assets/manual_images/image-3.png" alt="" width="375"><figcaption></figcaption>
 # What is a Lab Automation Engineer?
 
 The first industrial robot was created in 1937. Car manufacturers have relied on robotics since the 1960s, and industrial automation has been commonplace since the 1980s. In 1990, the Human Genome Project began its 13-year effort to sequence the human genome for the first time.
