@@ -10,17 +10,15 @@ For aspiration, three modes are available:
 
 <summary>Height</summary>
 
-
-
 The most important condition for a successful aspiration is to make sure that the tip dips into the liquid. Another important point is to prevent the tip from withdrawing from the liquid during the complete aspiration step.
 
 To make a good contact between the tip and the liquid, the positioning modes are available:
 
-### 1. Fixed height
+#### 1. Fixed height
 
 For the fixed height, a value must be chosen which ensures that the tip is permanently below the liquid level. The programmer must prevent aspiration of air instead of liquid.
 
-### 2. Liquid Level Detection, LLD
+#### 2. Liquid Level Detection, LLD
 
 Vigorously and with more care, the liquid level of the vessel to be aspirated from can be detected. This can be provided by the Microlab STAR Liquid Level Detection (LLD) feature based on either capacitive (cLLD) or pressure (pLLD) signal detection.
 
@@ -30,11 +28,11 @@ Vigorously and with more care, the liquid level of the vessel to be aspirated fr
 
 <summary>Depth</summary>
 
-### Submerge Depth
+#### Submerge Depth
 
 Once the liquid surface is detected, an additional immersion depth of 2mm (specified by default) is used to prevent the aspiration of air.
 
-### ‌Following the Liquid Level
+#### ‌Following the Liquid Level
 
 The tip follows the decreasing liquid level (specified by default) according to the aspirated volume. The distance covered while following the liquid level is computed from the known geometry of the liquid container.
 
@@ -44,11 +42,11 @@ The tip follows the decreasing liquid level (specified by default) according to 
 
 <summary>Air Gaps</summary>
 
-## Blow out air
+### Blow out air
 
 The first step within an aspiration and dispense cycle is to aspirate a variable amount of “blow-out” air, which is used at the end of the (last) dispense, to blow all the liquid out of the tip. This is done with the tips still in the air.
 
-## Transport Air
+### Transport Air
 
 After pulling out of the liquid and before moving to the target container, a variable amount of transport air is aspirated to prevent droplet formation.
 
@@ -66,7 +64,7 @@ When using a fixed height aspiration (or dispense), the position of the transpor
 
 <summary>Speed</summary>
 
-### Swap Speed
+#### Swap Speed
 
 In order to prevent droplets at the tip/needle orifice, the pipetting channel is moving at a slow speed out of the liquid.
 

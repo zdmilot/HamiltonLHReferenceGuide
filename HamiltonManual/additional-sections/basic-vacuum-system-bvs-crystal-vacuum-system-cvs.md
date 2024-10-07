@@ -8,8 +8,7 @@ _The manifold top can be handled either by the iSWAP or the CO-RE Gripper. If th
 
 _For more details about the CVS, refer to the ML STAR Line Operator’s Manual._
 
-\
-
+\\
 
 ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1692.jpg)
 
@@ -17,20 +16,17 @@ _NOTE_
 
 _BVS and CVS are similar and need the same programming steps but different labware. If it is not certain which labware is at hand, teach the position inside the active position to avoid step losses during plate transports._
 
-\
+\\
 
+1.  #### _‌Command Description‌_
 
-1.  ### _‌Command Description‌_
-
-    \
-
+    \\
 
     _The commands for the BVS / CVS are functions of the additional library “HSLVacuuBrandPump.hsl”. To make the library functions available, install the library through “Tools  Hamilton Support Software...“._
 
     _The following commands are integrated in the “HSLVacuuBrandPump” Library:_
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1693.jpg)
 
@@ -38,39 +34,36 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _There are two libraries combined under one library tab: The old HSLVacuuBrandPump library (Low Level Steps) and the new HSLStarBVSLib (High Level Steps)._
 
-    \
+    \\
 
+    | HSLStarBVSLib: (recommended – HIGH LEVEL FUNCTIONS) |                                                                                                                |                                                                                                   |
+    | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+    | Command                                             | Icon                                                                                                           | Action Performed                                                                                  |
+    | BVSAbort                                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1694.jpg" alt="image" data-size="original"></p> | This function is used to stop all pump units and shut down their connections in an abort handler. |
+    | BVSGetAmbientPressure                               | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1695.jpg" alt="image" data-size="original"></p> | Returns the ambient pressure measured with the specified pump unit.                               |
+    | BVSGetSimulationMode                                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1696.jpg" alt="image" data-size="original"></p> | Returns whether simulation mode is set for the specified BVS or not.                              |
+    | BVSInitialize                                       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1697.jpg" alt="image" data-size="original"></p> | This function initializes the connection to the specified BVS.                                    |
+    | BVSSetSimulationMode                                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1698.gif" alt="image" data-size="original"></p> | Sets the specified BVS to simulation mode.                                                        |
+    | BVSTerminate                                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1699.jpg" alt="image" data-size="original"></p> | This function closes the connection to the specified BVS.                                         |
+    | BVSTrack                                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1700.jpg" alt="image" data-size="original"></p> | Tracks a BVS volume move to the vector database.                                                  |
+    | BVSVacuum                                           | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1701.jpg" alt="image" data-size="original"></p> | Runs the vacuum process on the specified BVS.                                                     |
+    | BVSVacuumTrack                                      | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1702.jpg" alt="image" data-size="original"></p> | Runs the vacuum process on the specified BVS. The volume move is tracked to the vector database.  |
 
-    | HSLStarBVSLib: (recommended – HIGH LEVEL FUNCTIONS) |                                                                             |                                                                                                   |
-    | --------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-    | Command                                             | Icon                                                                        | Action Performed                                                                                  |
-    | BVSAbort                                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1694.jpg" alt="image"></p> | This function is used to stop all pump units and shut down their connections in an abort handler. |
-    | BVSGetAmbientPressure                               | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1695.jpg" alt="image"></p> | Returns the ambient pressure measured with the specified pump unit.                               |
-    | BVSGetSimulationMode                                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1696.jpg" alt="image"></p> | Returns whether simulation mode is set for the specified BVS or not.                              |
-    | BVSInitialize                                       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1697.jpg" alt="image"></p> | This function initializes the connection to the specified BVS.                                    |
-    | BVSSetSimulationMode                                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1698.gif" alt="image"></p> | Sets the specified BVS to simulation mode.                                                        |
-    | BVSTerminate                                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1699.jpg" alt="image"></p> | This function closes the connection to the specified BVS.                                         |
-    | BVSTrack                                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1700.jpg" alt="image"></p> | Tracks a BVS volume move to the vector database.                                                  |
-    | BVSVacuum                                           | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1701.jpg" alt="image"></p> | Runs the vacuum process on the specified BVS.                                                     |
-    | BVSVacuumTrack                                      | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1702.jpg" alt="image"></p> | Runs the vacuum process on the specified BVS. The volume move is tracked to the vector database.  |
+    | HSLVacuuBrandPump: (older – LOW LEVEL FUNCTIONS) |                                                                                                                |                                                                                                                                                                       |
+    | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | Command                                          | Icon                                                                                                           | Action Performed                                                                                                                                                      |
+    | Initialize                                       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1703.jpg" alt="image" data-size="original"></p> | Initializes one of up to four pumps on a RS232 COM port.                                                                                                              |
+    | Terminate                                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1704.gif" alt="image" data-size="original"></p> | Closes connection of a selected pump.                                                                                                                                 |
+    | Request actual pressure                          | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1705.jpg" alt="image" data-size="original"></p> | Requests pressure of a selected pump.                                                                                                                                 |
+    | Open Air Admittance Valve                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1706.jpg" alt="image" data-size="original"></p> | Opens air-bleed valve at a selected pump.                                                                                                                             |
+    | Start Pressure Control                           | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1707.jpg" alt="image" data-size="original"></p> | Starts pressure control for a desired duration and, after timeout, open the air-bleed valve for a desired time if necessary.                                          |
+    | Wait For Pump Stopped                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1708.jpg" alt="image" data-size="original"></p> | Waits for the termination of the “Start Pressure Control” Command.                                                                                                    |
+    | Stop Pump Immediate                              | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1709.jpg" alt="image" data-size="original"></p> | Stops a running “Start Pressure Control” Command immediately. The air-bleed valve will be opened. This command is provided for emergency cases (e.g. error handling). |
 
-    | HSLVacuuBrandPump: (older – LOW LEVEL FUNCTIONS) |                                                                             |                                                                                                                                                                       |
-    | ------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Command                                          | Icon                                                                        | Action Performed                                                                                                                                                      |
-    | Initialize                                       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1703.jpg" alt="image"></p> | Initializes one of up to four pumps on a RS232 COM port.                                                                                                              |
-    | Terminate                                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1704.gif" alt="image"></p> | Closes connection of a selected pump.                                                                                                                                 |
-    | Request actual pressure                          | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1705.jpg" alt="image"></p> | Requests pressure of a selected pump.                                                                                                                                 |
-    | Open Air Admittance Valve                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1706.jpg" alt="image"></p> | Opens air-bleed valve at a selected pump.                                                                                                                             |
-    | Start Pressure Control                           | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1707.jpg" alt="image"></p> | Starts pressure control for a desired duration and, after timeout, open the air-bleed valve for a desired time if necessary.                                          |
-    | Wait For Pump Stopped                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1708.jpg" alt="image"></p> | Waits for the termination of the “Start Pressure Control” Command.                                                                                                    |
-    | Stop Pump Immediate                              | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1709.jpg" alt="image"></p> | Stops a running “Start Pressure Control” Command immediately. The air-bleed valve will be opened. This command is provided for emergency cases (e.g. error handling). |
+    \\
+2.  #### _‌Integration of BVS / CVS‌_
 
-    \
-
-2.  ### _‌Integration of BVS / CVS‌_
-
-    \
-
+    \\
 
     [_The labware for the CVS carrier can be downloaded from the_ ](http://www.hamiltoncompany.com/support/laboratory-automation/resource-center)_Resource Center. The labware for the BVS / CVS carrier is saved in the folder “ML STAR CVS”. Three definitions are predefined for BVS / CVS carriers:_
 
@@ -80,8 +73,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _No labware is preloaded on the vacuum system carriers._
 
-    \
-
+    \\
 
     ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1710.jpg)
 
@@ -91,34 +83,25 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _The z-position within the active position of the vacuum system is shown with different levels. See image below._
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1711.jpg) ![image](../.gitbook/manual-images/assets/Image\_1712.jpg)
 
-    \
+    \\
 
-
-    | Plate on position 7 | Plate on position 8 |
-    | ------------------- | ------------------- |
-
-    \
-
+    \\
 
     _Use the zooming and rotating functions to position the labware in a correct level._
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1713.jpg)
 
-    \
-
+    \\
 
     _Use the “Search Labware” Text Field to display all BVS carriers. Select the desired one._
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1714.jpg)
 
@@ -133,8 +116,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     * _A plate carrier for Deep Well Plates “PLT\_CAR\_L5AC\_A00”_
     *   _The ”COREGripTool\_AtWaste\_1000ul” on the waste block_
 
-        \
-
+        \\
 
         _The following plates are needed:_
     * _Corning\_96\_Filter on position 7 (Top) of the BVS. Name it ‘FilterPlateActive’_
@@ -143,8 +125,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
         ![image](../.gitbook/manual-images/assets/Image\_1715.jpg)
     * _The same Cos\_96\_RD in position 5 of the plate carrier, named ‘TargetPlateCarrier’ The deck should like the image presented below._
 
-    \
-
+    \\
 
     _Creating the Sequences_
 
@@ -154,13 +135,11 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _The method for the BVS / CVS should look like the image shown below:_
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1716.jpg)
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1717.jpg)
 
@@ -174,25 +153,21 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _The final sequence manipulation is now used to reset the filter plate sequence back to the start point (current = 1)._
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1718.jpg)
 
-    \
-
+    \\
 
     _Step 4: Aliquote reagent 1 over all filter plate positions._
 
     _Step 5: Activate the vacuum pump to wash the samples._
 
-    \
-
+    \\
 
     ![image](../.gitbook/manual-images/assets/Image\_1719.jpg)
 
-    \
-
+    \\
 
     _PumpID: The id of the vacuum pump. Having more than one pump, count up from 1. DeltaPressure: The negative pressure in millibar, calculated from ambient pressure. Duration: The time of the vacuum action in seconds._
 
@@ -218,8 +193,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _Step 13: will finally terminate the connection between the vacuum pump and PC._
 
-    \
-
+    \\
 
     ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1720.jpg)
 
@@ -227,8 +201,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _The vacuum settings (pressure and duration) are dependent on the filter plates and the application._
 
-    \
-
+    \\
 
     ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1721.jpg)
 
@@ -236,12 +209,10 @@ _BVS and CVS are similar and need the same programming steps but different labwa
 
     _For transports of the BVS/CVS manifold top, the “Grip width” and “Grip height” has to be defined correctly, especially when working with the CO-RE gripper. Otherwise pipetting channels may be damaged._
 
-    \
+    \\
+3.  #### _‌Activating BVS / CVS Maintenance‌_
 
-3.  ### _‌Activating BVS / CVS Maintenance‌_
-
-    \
-
+    \\
 
     _Activation of BVS / CVS maintenance requires the source files “HslStarLineMaintMetConst.hs\_” and “HslStarLineMaintMetConst.stp”. These files can be found in the …\HAMILTON\Library Folder._
 
