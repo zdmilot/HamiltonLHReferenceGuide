@@ -4,11 +4,11 @@
 
 The Control Box connects the \[MPE]² to the power supply and controlling computer. It also connects to the liquid waste and to the laboratory air supply to operate a pump via a Filter/Regulator Unit.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Additional modules, like the Evaporator and Reagent Fill Modules, require an additional Accessory Control Module Extension (ACME) to integrate with the \[MPE]². The ACME connects to the Control Box to communicate with the Logistics Module.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@ The Control Box manages the air flow into the Logistics Module. The \[MPE]² has
 
 The Logistics Module is where the \[MPE]² processes samples. This component can operate as a benchtop device or as an integration with a liquid handling system. Refer to section 4.2 for instructions on integrating the Logistics Module with different Hamilton platforms.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

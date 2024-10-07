@@ -21,4 +21,4 @@
 * Nothing on the deck should sit higher than 145mm above the deck’s surface.
 * The front cover is equipped with a magnetic switch which is monitored during a method run.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

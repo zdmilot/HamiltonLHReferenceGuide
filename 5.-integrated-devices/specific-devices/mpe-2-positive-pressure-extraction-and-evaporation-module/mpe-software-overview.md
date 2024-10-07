@@ -24,7 +24,6 @@ The following procedure applies to an \[MPE]² used as a benchtop device. If usi
    1. The Method View shows which steps are being performed.&#x20;
    2. The Deck View normally shows a colorized model of the deck as the method runs. A deck layout is only present when integrated with an instrument running the Vector software.&#x20;
    3. The Trace View shows the traces for each step as they are executed.\
-      \
 
 6. Compare the deck view with what is on the deck of the \[MPE]² and make sure they match before starting the method. Click on the deck and use the mouse wheel to zoom in on the deck view, or use the view buttons in the View menu.&#x20;
 7. Click the Start button at the top of the Run Control window. The F5 key can also be used to start a method. Figure 5–4: Run Control buttons&#x20;
