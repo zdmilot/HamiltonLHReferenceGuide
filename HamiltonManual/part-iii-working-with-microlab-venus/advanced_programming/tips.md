@@ -15,7 +15,7 @@ _Using the stamp tool for the 5ml-pipetting channel, a sequence on a plate will 
 \
 
 
-![image](../../.gitbook/assets/Image\_623.png)
+![image](../../.gitbook/manual-images/assets/Image\_623.png)
 
 \
 
@@ -32,7 +32,7 @@ _Depending of the immersion depth, the 5ml-pipetting channel may collide with we
 \
 
 
-![ep](../../.gitbook/assets/Image\_624.jpg) ![image](../../.gitbook/assets/Image\_625.png)
+![ep](../../.gitbook/manual-images/assets/Image\_624.jpg) ![image](../../.gitbook/manual-images/assets/Image\_625.png)
 
 
 
@@ -52,7 +52,7 @@ _For distinguishing disposable CO-RE tips, 50µl and CO-RE tips and 300µl, a sp
 \
 
 
-![Originalbild anzeigen](../../.gitbook/assets/Image\_626.jpg)
+![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_626.jpg)
 
 _NOTE_
 
@@ -73,14 +73,14 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![image](../../.gitbook/assets/Image\_627.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_627.jpg)
 
     _When using another tip carrier (e.g. the 50 µl tip carrier) switch to the Deck Layout and change the properties MlStarCarBCOrientation to 1 and the MlStarCarNoReadBarcode to 0._
 
     \
 
 
-    ![image](../../.gitbook/assets/Image\_628.jpg) ![image](../../.gitbook/assets/Image\_629.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_628.jpg) ![image](../../.gitbook/manual-images/assets/Image\_629.jpg)
 
     \
 
@@ -90,7 +90,7 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![image](../../.gitbook/assets/Image\_630.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_630.png)
 
     \
 
@@ -100,7 +100,7 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![Originalbild anzeigen](../../.gitbook/assets/Image\_631.jpg)
+    ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_631.jpg)
 
     _NOTE_
 
@@ -115,7 +115,7 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![Rocket\_Tip](../../.gitbook/assets/Image\_632.png) ![TipRack\_RocketTips](../../.gitbook/assets/Image\_633.jpg)
+    ![Rocket\_Tip](../../.gitbook/manual-images/assets/Image\_632.png) ![TipRack\_RocketTips](../../.gitbook/manual-images/assets/Image\_633.jpg)
 
     \
 
@@ -129,7 +129,7 @@ _All new or special tip types require additional settings (such as configuration
         \
 
 
-        ![image](../../.gitbook/assets/Image\_634.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_634.jpg)
 
         \
 
@@ -147,7 +147,7 @@ _All new or special tip types require additional settings (such as configuration
         \
 
 
-        ![image](../../.gitbook/assets/Image\_635.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_635.png)
 
         \
 
@@ -157,7 +157,7 @@ _All new or special tip types require additional settings (such as configuration
         \
 
 
-        ![image](../../.gitbook/assets/Image\_636.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_636.jpg)
 
         \
 
@@ -167,7 +167,7 @@ _All new or special tip types require additional settings (such as configuration
         \
 
 
-        ![Originalbild anzeigen](../../.gitbook/assets/Image\_637.gif)
+        ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_637.gif)
 
         _‌NOTE_
 
@@ -180,9 +180,9 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![image](../../.gitbook/assets/Image\_638.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_638.png)
 
-    ![image](../../.gitbook/assets/Image\_639.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_639.png)
 
     _The multiprobe heads need more space to pick up tips than the single pipetting channels. Therefore, it is important to use an appropriate Deck Layout. This will avoid collisions at run time._
 
@@ -196,7 +196,7 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![Originalbild anzeigen](../../.gitbook/assets/Image\_640.gif)
+    ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_640.gif)
 
     _NOTE_
 
@@ -211,7 +211,7 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![ntr2](../../.gitbook/assets/Image\_641.jpg) ![ntr1](../../.gitbook/assets/Image\_642.jpg)
+    ![ntr2](../../.gitbook/manual-images/assets/Image\_641.jpg) ![ntr1](../../.gitbook/manual-images/assets/Image\_642.jpg)
 
     \
 
@@ -237,7 +237,7 @@ _All new or special tip types require additional settings (such as configuration
     4. _As desired; single-, row- or column wise (shifted) Tip pickup out of the Tip adapter_
     5. _Ready for pipetting_
 
-    ![Originalbild anzeigen](../../.gitbook/assets/Image\_643.gif)
+    ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_643.gif)
 
     _NOTE_
 
@@ -253,22 +253,22 @@ _All new or special tip types require additional settings (such as configuration
     \
 
 
-    ![image](../../.gitbook/assets/Image\_644.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_644.png)
 
     \
 
 
-    ![image](../../.gitbook/assets/Image\_645.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_645.png)
 
-    ![image](../../.gitbook/assets/Image\_646.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_646.png)
 
-    ![image](../../.gitbook/assets/Image\_647.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_647.png)
 
-    ![image](../../.gitbook/assets/Image\_648.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_648.png)
 
     _In this case, either work from top to bottom over all stacks or transport the Nestable Tip Rack to a collision free position and pick up the tips there._
 
     \
 
 
-    <table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th><th width="205"></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Pos 1 / Rack 4</td><td></td><td>Pos 2 / Rack 4</td><td></td><td>Pos 3 / Rack 4</td><td></td><td>Pos 4 / Rack 4</td><td></td><td><p><img src="../../.gitbook/assets/Image_649.png" alt="image"></p><p>Pos 5 / Rack 4</p></td><td><br></td></tr><tr><td>Pos 1 / Rack 3</td><td></td><td>Pos 2 / Rack 3</td><td></td><td>Pos 3 / Rack 3</td><td></td><td>Pos 4 / Rack 3</td><td></td><td><p><img src="../../.gitbook/assets/Image_650.png" alt="image"></p><p>Pos 5 / Rack 3</p></td><td><br></td></tr><tr><td>Pos 1 / Rack 2</td><td></td><td>Pos 2 / Rack 2</td><td></td><td>Pos 3 / Rack 2</td><td></td><td>Pos 4 / Rack 2</td><td></td><td><p><img src="../../.gitbook/assets/Image_651.png" alt="image"></p><p>Pos 5 / Rack 2</p></td><td><br></td></tr><tr><td>Pos 1 / Rack 1</td><td></td><td>Pos 2 / Rack 1</td><td></td><td>Pos 3 / Rack 1</td><td></td><td>Pos 4 / Rack 1</td><td></td><td><p><img src="../../.gitbook/assets/Image_652.png" alt="image"></p><p>Pos 5 / Rack 1</p></td><td><br></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th><th width="205"></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Pos 1 / Rack 4</td><td></td><td>Pos 2 / Rack 4</td><td></td><td>Pos 3 / Rack 4</td><td></td><td>Pos 4 / Rack 4</td><td></td><td><p><img src="../../.gitbook/manual-images/assets/Image_649.png" alt="image"></p><p>Pos 5 / Rack 4</p></td><td><br></td></tr><tr><td>Pos 1 / Rack 3</td><td></td><td>Pos 2 / Rack 3</td><td></td><td>Pos 3 / Rack 3</td><td></td><td>Pos 4 / Rack 3</td><td></td><td><p><img src="../../.gitbook/manual-images/assets/Image_650.png" alt="image"></p><p>Pos 5 / Rack 3</p></td><td><br></td></tr><tr><td>Pos 1 / Rack 2</td><td></td><td>Pos 2 / Rack 2</td><td></td><td>Pos 3 / Rack 2</td><td></td><td>Pos 4 / Rack 2</td><td></td><td><p><img src="../../.gitbook/manual-images/assets/Image_651.png" alt="image"></p><p>Pos 5 / Rack 2</p></td><td><br></td></tr><tr><td>Pos 1 / Rack 1</td><td></td><td>Pos 2 / Rack 1</td><td></td><td>Pos 3 / Rack 1</td><td></td><td>Pos 4 / Rack 1</td><td></td><td><p><img src="../../.gitbook/manual-images/assets/Image_652.png" alt="image"></p><p>Pos 5 / Rack 1</p></td><td><br></td></tr></tbody></table>

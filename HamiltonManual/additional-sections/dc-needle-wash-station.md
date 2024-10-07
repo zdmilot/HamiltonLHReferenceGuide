@@ -5,7 +5,7 @@
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1641.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1641.jpg)
 
     _NOTE_
 
@@ -25,7 +25,7 @@
     \
 
 
-    ![DC-Wash station](../.gitbook/assets/Image\_1642.jpg)
+    ![DC-Wash station](../.gitbook/manual-images/assets/Image\_1642.jpg)
 
     _b)_
 
@@ -52,13 +52,13 @@
         \
 
 
-        ![Originalbild anzeigen](../.gitbook/assets/Image\_1643.jpg)
+        ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1643.jpg)
 
         _NOTE_
 
         _There is no liquid level sensor in the waste container. Always empty the waste container in refilling the wash solution container._
 
-        ![Originalbild anzeigen](../.gitbook/assets/Image\_1644.jpg)
+        ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1644.jpg)
 
         _NOTE_
 
@@ -77,7 +77,7 @@
             \
 
 
-            <table data-header-hidden><thead><tr><th width="660"></th><th></th><th></th></tr></thead><tbody><tr><td>HSLMlStarDcWashstationLib:</td><td></td><td></td></tr><tr><td>Command</td><td>Icon</td><td>Action Performed</td></tr><tr><td>Wash Settings</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1645.jpg" alt="DCSet"></p></td><td>Sets wash parameters.</td></tr><tr><td>Needle Wash</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1646.jpg" alt="DCwash"></p></td><td>Starts the wash step.</td></tr><tr><td>Needle Wash2</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1647.jpg" alt="DCwash"></p></td><td>Starts the wash step.</td></tr><tr><td>Empty Fill Wash Chamber</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1648.jpg" alt="DCrefill"></p></td><td>Empties or refills the wash chamber.</td></tr></tbody></table>
+            <table data-header-hidden><thead><tr><th width="660"></th><th></th><th></th></tr></thead><tbody><tr><td>HSLMlStarDcWashstationLib:</td><td></td><td></td></tr><tr><td>Command</td><td>Icon</td><td>Action Performed</td></tr><tr><td>Wash Settings</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1645.jpg" alt="DCSet"></p></td><td>Sets wash parameters.</td></tr><tr><td>Needle Wash</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1646.jpg" alt="DCwash"></p></td><td>Starts the wash step.</td></tr><tr><td>Needle Wash2</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1647.jpg" alt="DCwash"></p></td><td>Starts the wash step.</td></tr><tr><td>Empty Fill Wash Chamber</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1648.jpg" alt="DCrefill"></p></td><td>Empties or refills the wash chamber.</td></tr></tbody></table>
 
             \
 
@@ -90,7 +90,7 @@
 
             1.  _Create a new method called DC\_WashstationDemo._
 
-                ![image](../.gitbook/assets/Image\_1649.png)
+                ![image](../.gitbook/manual-images/assets/Image\_1649.png)
 
                 _2_
 
@@ -119,7 +119,7 @@
                 \
 
 
-                ![image](../.gitbook/assets/Image\_1650.jpg) ![image](../.gitbook/assets/Image\_1651.gif)
+                ![image](../.gitbook/manual-images/assets/Image\_1650.jpg) ![image](../.gitbook/manual-images/assets/Image\_1651.gif)
 
                 _HU, HW and HV are the node (ID-) names of the corresponding pump unit_
 

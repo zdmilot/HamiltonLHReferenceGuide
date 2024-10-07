@@ -2,7 +2,7 @@
 
 The installation creates the following default directory structure.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt="" width="503"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/image (66).png" alt="" width="503"><figcaption></figcaption></figure>
 
 The file consists of the following directories listed in the table shown below.
 

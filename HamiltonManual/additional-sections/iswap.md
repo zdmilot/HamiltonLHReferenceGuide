@@ -5,7 +5,7 @@
     \
 
 
-    ![image](../.gitbook/assets/Image\_1501.png)
+    ![image](../.gitbook/manual-images/assets/Image\_1501.png)
 
     _iSWAP (internal Swivel Arm Plate Handler) is a robotic arm that transports microplates, covers of microplates, archive plates or filter plates used for the vacuum box to and from positions on the deck of ML STAR._
 
@@ -19,7 +19,7 @@
         \
 
 
-        ![image](../.gitbook/assets/Image\_1502.png)
+        ![image](../.gitbook/manual-images/assets/Image\_1502.png)
 
         _138 mm_
 
@@ -82,7 +82,7 @@ _iSWAP hand (field of traverse - 90° /+180, relative to the arm)_
 
 _Geometrical definitions of iSWAP_
 
-![Originalbild anzeigen](../.gitbook/assets/Image\_1503.jpg)
+![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1503.jpg)
 
 _NOTE_
 
@@ -114,7 +114,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           \
 
 
-          ![Originalbild anzeigen](../.gitbook/assets/Image\_1504.jpg)
+          ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1504.jpg)
 
           _NOTE_
 
@@ -157,7 +157,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           \
 
 
-          ![image](../.gitbook/assets/Image\_1505.png)
+          ![image](../.gitbook/manual-images/assets/Image\_1505.png)
 
           _ATTENTION_
 
@@ -170,7 +170,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           \
 
 
-          ![image](../.gitbook/assets/Image\_1506.png)
+          ![image](../.gitbook/manual-images/assets/Image\_1506.png)
 
           _The gripping area should be flat and stable. Ensure that the gripper's clamps will not pick up strips instead, the lower part of the plate's frame._
 
@@ -207,7 +207,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           \
 
 
-          ![Originalbild anzeigen](../.gitbook/assets/Image\_1507.jpg)
+          ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1507.jpg)
 
           _NOTE_
 
@@ -245,7 +245,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------- |
           | <p>173050/51</p><p>4 Channels</p><p>8 Channels</p><p>12 Channels</p><p>16 Channels</p><p>173052</p><p>173054</p> | <p><br></p><p>- 221 mm</p><p>- 185 mm</p><p>- 149 mm</p><p>- 113 mm</p><p>- 257 mm</p><p>- 257 mm</p> | <p><br></p><p>+ 605 mm</p><p>+ 605 mm</p><p>+ 605 mm</p><p>+ 605 mm</p><p>+ 605 mm</p><p>+ 605 mm</p> | On all platforms (STARlet STAR, STARplus) |
 
-          ![Originalbild anzeigen](../.gitbook/assets/Image\_1508.jpg)
+          ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1508.jpg)
 
           _NOTE_
 
@@ -272,7 +272,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           \
 
 
-          ![image](../.gitbook/assets/Image\_1509.png)
+          ![image](../.gitbook/manual-images/assets/Image\_1509.png)
 
           _ATTENTION_
 
@@ -289,7 +289,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
 
           _After processing of a sequence, the current position will be set to the next labware ID. If the same plate should be transported several times, select sequence counting '(0) Manually' or set the current position back to the previous position._
 
-          ![Originalbild anzeigen](../.gitbook/assets/Image\_1510.jpg)
+          ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1510.jpg)
 
           _NOTE_
 
@@ -298,7 +298,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           \
 
 
-          ![image](../.gitbook/assets/Image\_1511.gif) ![image](../.gitbook/assets/Image\_1512.gif)
+          ![image](../.gitbook/manual-images/assets/Image\_1511.gif) ![image](../.gitbook/manual-images/assets/Image\_1512.gif)
 
           _In the example above, after the transport of plate Source\_1, the current position will be set to plate Source\_2 (line 5); and after transport of plate Soure\_2 to plate Source\_3 (line 9)._
 
@@ -307,7 +307,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
           \
 
 
-          ![Originalbild anzeigen](../.gitbook/assets/Image\_1513.jpg)
+          ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1513.jpg)
 
           _NOTE_
 
@@ -330,7 +330,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
               | Transport: Easy Steps |                                                                                                    |                               |
               | --------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------- |
               | Command               | Icon                                                                                               | Action Performed              |
-              | iSWAP Transport       | <p><br></p><p><img src="../.gitbook/assets/Image_1514.jpg" alt="NewIMAGES/iswaptransport.bmp"></p> | Transport a plate with iSWAP. |
+              | iSWAP Transport       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1514.jpg" alt="NewIMAGES/iswaptransport.bmp"></p> | Transport a plate with iSWAP. |
 
               \
 
@@ -342,14 +342,14 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
               | Transport: Single Steps        |                                                                                                              |                                                                                                   |
               | ------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
               | Command                        | Icon                                                                                                         | Action Performed                                                                                  |
-              | iSWAP Get Plate                | <p><br></p><p><img src="../.gitbook/assets/Image_1515.gif" alt="NewIMAGES/cmdgetPlate.bmp"></p>              | Picks up a plate from the defined position.                                                       |
-              | iSWAP Place Plate              | <p><br></p><p><img src="../.gitbook/assets/Image_1516.gif" alt="NewIMAGES/cmdplacePlate.bmp"></p>            | Sets a plate down in a defined position.                                                          |
-              | iSWAP Move Plate               | <p><br></p><p><img src="../.gitbook/assets/Image_1517.gif" alt="NewIMAGES/cmdmovePlate.bmp"></p>             | Transfers a plate to another sequence.                                                            |
-              | iSWAP Open Gripper             | <p><br></p><p><img src="../.gitbook/assets/Image_1518.jpg" alt="NewIMAGES/cmdopenGripper.bmp"></p>           | Spreads the fingers of iSWAP’s robotic hand.                                                      |
-              | iSWAP Close Gripper            | <p><br></p><p><img src="../.gitbook/assets/Image_1519.gif" alt="28"></p>                                     | Closes the fingers of iSWAP’s robotic hand.                                                       |
-              | iSWAP Read Plate Barcode       | <p><br></p><p><img src="../.gitbook/assets/Image_1520.jpg" alt="NewIMAGES/cmdreadBarcode.bmp"></p>           | iSWAP transports the labware item it is holding to the barcode reader so its barcode can be read. |
-              | iSWAP Get First Plate Position | <p><br></p><p><img src="../.gitbook/assets/Image_1521.gif" alt="NewIMAGES/CmdgetfirstPlatePosition.bmp"></p> | Sequence over several plates is checked for the first plate position.                             |
-              | iSWAP Park                     | <p><br></p><p><img src="../.gitbook/assets/Image_1522.jpg" alt="NewIMAGES/cmdparkiswap.bmp"></p>             | Parks the iSWAP under the pipetting arm.                                                          |
+              | iSWAP Get Plate                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1515.gif" alt="NewIMAGES/cmdgetPlate.bmp"></p>              | Picks up a plate from the defined position.                                                       |
+              | iSWAP Place Plate              | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1516.gif" alt="NewIMAGES/cmdplacePlate.bmp"></p>            | Sets a plate down in a defined position.                                                          |
+              | iSWAP Move Plate               | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1517.gif" alt="NewIMAGES/cmdmovePlate.bmp"></p>             | Transfers a plate to another sequence.                                                            |
+              | iSWAP Open Gripper             | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1518.jpg" alt="NewIMAGES/cmdopenGripper.bmp"></p>           | Spreads the fingers of iSWAP’s robotic hand.                                                      |
+              | iSWAP Close Gripper            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1519.gif" alt="28"></p>                                     | Closes the fingers of iSWAP’s robotic hand.                                                       |
+              | iSWAP Read Plate Barcode       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1520.jpg" alt="NewIMAGES/cmdreadBarcode.bmp"></p>           | iSWAP transports the labware item it is holding to the barcode reader so its barcode can be read. |
+              | iSWAP Get First Plate Position | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1521.gif" alt="NewIMAGES/CmdgetfirstPlatePosition.bmp"></p> | Sequence over several plates is checked for the first plate position.                             |
+              | iSWAP Park                     | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1522.jpg" alt="NewIMAGES/cmdparkiswap.bmp"></p>             | Parks the iSWAP under the pipetting arm.                                                          |
    2.  ### _‌Programming the iSWAP‌_
 
        \
@@ -361,7 +361,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
 
        _Use the “Search Labware” Field to add the following carriers to the deck: “PLT\_CAR\_L4ST\_LOW\_A00\_4x9\_Nunc96“_
 
-       ![image](../.gitbook/assets/Image\_1523.png)
+       ![image](../.gitbook/manual-images/assets/Image\_1523.png)
 
        _”TIP\_CAR\_480\_ST\_A00”_
 
@@ -379,7 +379,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
        \
 
 
-       ![Originalbild anzeigen](../.gitbook/assets/Image\_1524.jpg)
+       ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1524.jpg)
 
        _NOTE_
 
@@ -393,7 +393,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![Seite\_390\_Graphik](../.gitbook/assets/Image\_1525.jpg)
+           ![Seite\_390\_Graphik](../.gitbook/manual-images/assets/Image\_1525.jpg)
 
            \
 
@@ -402,7 +402,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1526.gif)
+           ![image](../.gitbook/manual-images/assets/Image\_1526.gif)
 
            \
 
@@ -411,7 +411,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1527.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1527.jpg)
 
            \
 
@@ -428,7 +428,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1528.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1528.jpg)
 
            \
 
@@ -441,13 +441,13 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1529.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1529.jpg)
        7.  _Also make sure the “Initial sequence manipulation” are set as follows:_
 
            \
 
 
-           ![image](../.gitbook/assets/Image\_1530.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1530.jpg)
 
            \
 
@@ -456,7 +456,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1531.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1531.jpg)
 
            \
 
@@ -468,14 +468,14 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1532.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1532.jpg)
        13. _To make the method perfect, add an iSWAP park step at the end (the transport step in line 6 was set to park iSWAP = Off)._
        14. _When all of the steps have been done, the method should look like this:_
 
        \
 
 
-       ![image](../.gitbook/assets/Image\_1533.jpg)
+       ![image](../.gitbook/manual-images/assets/Image\_1533.jpg)
 
        \
 
@@ -489,7 +489,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![Originalbild anzeigen](../.gitbook/assets/Image\_1534.jpg)
+           ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1534.jpg)
 
            _NOTE_
 
@@ -505,14 +505,14 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1535.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1535.jpg)
 
            1.  _To create a new variable, enter the Context Menu with a right mouse click and select “New”. The dialog box below will then appear and can be filled out._
 
                \
 
 
-               ![image](../.gitbook/assets/Image\_1536.jpg)
+               ![image](../.gitbook/manual-images/assets/Image\_1536.jpg)
 
                \
 
@@ -521,7 +521,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
                \
 
 
-               ![image](../.gitbook/assets/Image\_1537.gif)
+               ![image](../.gitbook/manual-images/assets/Image\_1537.gif)
            3. _These variables can now be used in all iSWAP or CO-RE gripper commands for the special plate._
            4. _If there are multiple grip commands for this plate in the method, it is much faster to change these values once in the variable definition. Of course, every plate type needs its own parameters._
        2.  #### _‌Move to Positions Outside of the Slot Area‌_
@@ -536,7 +536,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1538.png)
+           ![image](../.gitbook/manual-images/assets/Image\_1538.png)
 
            \
 
@@ -546,7 +546,7 @@ _(an error will appear if there is an attempt to grip a Deep Well Plate with a g
            \
 
 
-           ![image](../.gitbook/assets/Image\_1539.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1539.jpg)
 
            \
 

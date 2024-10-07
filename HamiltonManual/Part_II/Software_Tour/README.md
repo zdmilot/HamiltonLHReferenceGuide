@@ -8,7 +8,7 @@ The master editor called the “Method Editor” combines several sub-editors, w
 
 First option is to use the step oriented method editor. Here, the method is created by adding steps from the toolbox to the step oriented “Method Editor”.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 The second option is through the “Action Editor”. The Action Editor offers a more visual representation of the method.&#x20;
 
@@ -18,4 +18,4 @@ Both editors are using the same set of data. The editors, however, use different
 
 To switch between both views, use the following icons:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/image (90).png" alt=""><figcaption></figcaption></figure>

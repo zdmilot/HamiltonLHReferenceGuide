@@ -11,7 +11,7 @@ _For more details about the CVS, refer to the ML STAR Line Operator’s Manual._
 \
 
 
-![Originalbild anzeigen](../.gitbook/assets/Image\_1692.jpg)
+![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1692.jpg)
 
 _NOTE_
 
@@ -32,7 +32,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![image](../.gitbook/assets/Image\_1693.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1693.jpg)
 
     _The commands control only the VacuuBrand vacuum pump of the BVS / CVS - the vacuum pump itself and the air admittance valve. The controlling of the vacuum system runs in the background, independently from the method. This means that there is no need to create a parallel task. The only thing to do is to set the transport steps to and from the BVS / CVS and the transport of the manifold._
 
@@ -44,26 +44,26 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     | HSLStarBVSLib: (recommended – HIGH LEVEL FUNCTIONS) |                                                                             |                                                                                                   |
     | --------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
     | Command                                             | Icon                                                                        | Action Performed                                                                                  |
-    | BVSAbort                                            | <p><br></p><p><img src="../.gitbook/assets/Image_1694.jpg" alt="image"></p> | This function is used to stop all pump units and shut down their connections in an abort handler. |
-    | BVSGetAmbientPressure                               | <p><br></p><p><img src="../.gitbook/assets/Image_1695.jpg" alt="image"></p> | Returns the ambient pressure measured with the specified pump unit.                               |
-    | BVSGetSimulationMode                                | <p><br></p><p><img src="../.gitbook/assets/Image_1696.jpg" alt="image"></p> | Returns whether simulation mode is set for the specified BVS or not.                              |
-    | BVSInitialize                                       | <p><br></p><p><img src="../.gitbook/assets/Image_1697.jpg" alt="image"></p> | This function initializes the connection to the specified BVS.                                    |
-    | BVSSetSimulationMode                                | <p><br></p><p><img src="../.gitbook/assets/Image_1698.gif" alt="image"></p> | Sets the specified BVS to simulation mode.                                                        |
-    | BVSTerminate                                        | <p><br></p><p><img src="../.gitbook/assets/Image_1699.jpg" alt="image"></p> | This function closes the connection to the specified BVS.                                         |
-    | BVSTrack                                            | <p><br></p><p><img src="../.gitbook/assets/Image_1700.jpg" alt="image"></p> | Tracks a BVS volume move to the vector database.                                                  |
-    | BVSVacuum                                           | <p><br></p><p><img src="../.gitbook/assets/Image_1701.jpg" alt="image"></p> | Runs the vacuum process on the specified BVS.                                                     |
-    | BVSVacuumTrack                                      | <p><br></p><p><img src="../.gitbook/assets/Image_1702.jpg" alt="image"></p> | Runs the vacuum process on the specified BVS. The volume move is tracked to the vector database.  |
+    | BVSAbort                                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1694.jpg" alt="image"></p> | This function is used to stop all pump units and shut down their connections in an abort handler. |
+    | BVSGetAmbientPressure                               | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1695.jpg" alt="image"></p> | Returns the ambient pressure measured with the specified pump unit.                               |
+    | BVSGetSimulationMode                                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1696.jpg" alt="image"></p> | Returns whether simulation mode is set for the specified BVS or not.                              |
+    | BVSInitialize                                       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1697.jpg" alt="image"></p> | This function initializes the connection to the specified BVS.                                    |
+    | BVSSetSimulationMode                                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1698.gif" alt="image"></p> | Sets the specified BVS to simulation mode.                                                        |
+    | BVSTerminate                                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1699.jpg" alt="image"></p> | This function closes the connection to the specified BVS.                                         |
+    | BVSTrack                                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1700.jpg" alt="image"></p> | Tracks a BVS volume move to the vector database.                                                  |
+    | BVSVacuum                                           | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1701.jpg" alt="image"></p> | Runs the vacuum process on the specified BVS.                                                     |
+    | BVSVacuumTrack                                      | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1702.jpg" alt="image"></p> | Runs the vacuum process on the specified BVS. The volume move is tracked to the vector database.  |
 
     | HSLVacuuBrandPump: (older – LOW LEVEL FUNCTIONS) |                                                                             |                                                                                                                                                                       |
     | ------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | Command                                          | Icon                                                                        | Action Performed                                                                                                                                                      |
-    | Initialize                                       | <p><br></p><p><img src="../.gitbook/assets/Image_1703.jpg" alt="image"></p> | Initializes one of up to four pumps on a RS232 COM port.                                                                                                              |
-    | Terminate                                        | <p><br></p><p><img src="../.gitbook/assets/Image_1704.gif" alt="image"></p> | Closes connection of a selected pump.                                                                                                                                 |
-    | Request actual pressure                          | <p><br></p><p><img src="../.gitbook/assets/Image_1705.jpg" alt="image"></p> | Requests pressure of a selected pump.                                                                                                                                 |
-    | Open Air Admittance Valve                        | <p><br></p><p><img src="../.gitbook/assets/Image_1706.jpg" alt="image"></p> | Opens air-bleed valve at a selected pump.                                                                                                                             |
-    | Start Pressure Control                           | <p><br></p><p><img src="../.gitbook/assets/Image_1707.jpg" alt="image"></p> | Starts pressure control for a desired duration and, after timeout, open the air-bleed valve for a desired time if necessary.                                          |
-    | Wait For Pump Stopped                            | <p><br></p><p><img src="../.gitbook/assets/Image_1708.jpg" alt="image"></p> | Waits for the termination of the “Start Pressure Control” Command.                                                                                                    |
-    | Stop Pump Immediate                              | <p><br></p><p><img src="../.gitbook/assets/Image_1709.jpg" alt="image"></p> | Stops a running “Start Pressure Control” Command immediately. The air-bleed valve will be opened. This command is provided for emergency cases (e.g. error handling). |
+    | Initialize                                       | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1703.jpg" alt="image"></p> | Initializes one of up to four pumps on a RS232 COM port.                                                                                                              |
+    | Terminate                                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1704.gif" alt="image"></p> | Closes connection of a selected pump.                                                                                                                                 |
+    | Request actual pressure                          | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1705.jpg" alt="image"></p> | Requests pressure of a selected pump.                                                                                                                                 |
+    | Open Air Admittance Valve                        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1706.jpg" alt="image"></p> | Opens air-bleed valve at a selected pump.                                                                                                                             |
+    | Start Pressure Control                           | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1707.jpg" alt="image"></p> | Starts pressure control for a desired duration and, after timeout, open the air-bleed valve for a desired time if necessary.                                          |
+    | Wait For Pump Stopped                            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1708.jpg" alt="image"></p> | Waits for the termination of the “Start Pressure Control” Command.                                                                                                    |
+    | Stop Pump Immediate                              | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1709.jpg" alt="image"></p> | Stops a running “Start Pressure Control” Command immediately. The air-bleed valve will be opened. This command is provided for emergency cases (e.g. error handling). |
 
     \
 
@@ -83,7 +83,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1710.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1710.jpg)
 
     _NOTE_
 
@@ -94,7 +94,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![image](../.gitbook/assets/Image\_1711.jpg) ![image](../.gitbook/assets/Image\_1712.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1711.jpg) ![image](../.gitbook/manual-images/assets/Image\_1712.jpg)
 
     \
 
@@ -110,7 +110,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![image](../.gitbook/assets/Image\_1713.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1713.jpg)
 
     \
 
@@ -120,7 +120,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![image](../.gitbook/assets/Image\_1714.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1714.jpg)
 
     _Creating the Deck Layout_
 
@@ -140,7 +140,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     * _Corning\_96\_Filter on position 7 (Top) of the BVS. Name it ‘FilterPlateActive’_
     *   _Cos\_96\_RD in position 8 of the BVS on the ‘Bottom’ position, named ‘TargetPlateBVS’_
 
-        ![image](../.gitbook/assets/Image\_1715.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1715.jpg)
     * _The same Cos\_96\_RD in position 5 of the plate carrier, named ‘TargetPlateCarrier’ The deck should like the image presented below._
 
     \
@@ -157,12 +157,12 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![image](../.gitbook/assets/Image\_1716.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1716.jpg)
 
     \
 
 
-    ![image](../.gitbook/assets/Image\_1717.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1717.jpg)
 
     _Method Analysis_
 
@@ -177,7 +177,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![image](../.gitbook/assets/Image\_1718.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1718.jpg)
 
     \
 
@@ -189,7 +189,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![image](../.gitbook/assets/Image\_1719.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1719.jpg)
 
     \
 
@@ -221,7 +221,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1720.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1720.jpg)
 
     _NOTE_
 
@@ -230,7 +230,7 @@ _BVS and CVS are similar and need the same programming steps but different labwa
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1721.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1721.jpg)
 
     _NOTE_
 

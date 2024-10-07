@@ -5,7 +5,7 @@ _Arrays can be used in steps, for example in fields like “Sequence”, “Volu
 \
 
 
-![image](../../.gitbook/assets/Image\_619.png)
+![image](../../.gitbook/manual-images/assets/Image\_619.png)
 
 \
 
@@ -15,7 +15,7 @@ _Clicking the button opens the “Array Index Dialog” as shown below._
 \
 
 
-![image](../../.gitbook/assets/Image\_620.jpg)
+![image](../../.gitbook/manual-images/assets/Image\_620.jpg)
 
 _In this dialog, the following options can be selected:_
 
@@ -26,7 +26,7 @@ _Enter the index of the specific array element (a digit or a variable). This sel
 \
 
 
-![image](../../.gitbook/assets/Image\_621.jpg)
+![image](../../.gitbook/manual-images/assets/Image\_621.jpg)
 
 \
 
@@ -38,7 +38,7 @@ _Enter an array start index, to select a series of array elements. For example i
 \
 
 
-![image](../../.gitbook/assets/Image\_622.jpg)
+![image](../../.gitbook/manual-images/assets/Image\_622.jpg)
 
 \
 

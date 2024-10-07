@@ -15,7 +15,7 @@
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1476.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1476.jpg)
 
     _NOTE_
 
@@ -37,7 +37,7 @@
 
             _The correct positions for the insertion of carriers will be highlighted by the green LEDs._
 
-            ![image](../.gitbook/assets/Image\_1477.png)
+            ![image](../.gitbook/manual-images/assets/Image\_1477.png)
 
             _Autoload Tray_
 
@@ -53,7 +53,7 @@ _The carriers are loaded onto the deck automatically by the “Load Carrier” C
 \
 
 
-![Originalbild anzeigen](../.gitbook/assets/Image\_1478.jpg)
+![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1478.jpg)
 
 _NOTE_
 
@@ -90,7 +90,7 @@ _Without “Load Carrier” Commands in the method_
        \
 
 
-       ![image](../.gitbook/assets/Image\_1479.png)
+       ![image](../.gitbook/manual-images/assets/Image\_1479.png)
 
        \
 
@@ -118,7 +118,7 @@ _Without “Load Carrier” Commands in the Method_
            \
 
 
-           <table data-header-hidden><thead><tr><th width="150"></th><th></th><th></th></tr></thead><tbody><tr><td>Preparation</td><td></td><td></td></tr><tr><td>Command</td><td>Icon</td><td>Action Performed</td></tr><tr><td>Load Carrier</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1480.jpg" alt="NewIMAGES/loadcarrier.bmp"></p></td><td>Load a carrier on the deck.</td></tr><tr><td>Unload Carrier</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1481.jpg" alt="NewIMAGES/UnloadCarrier.bmp"></p></td><td>Unload a carrier from the deck.</td></tr><tr><td>Reload carrier</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1482.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\ReloadCarrier.bmp"></p></td><td>Used to load, unload or reload a carrier.</td></tr><tr><td>Lock/Unlock Front Cover</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1483.jpg" alt="NewIMAGES/LockFrontCover.bmp"></p></td><td>Locks/unlocks the front cover.</td></tr><tr><td>Initialize</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1484.jpg" alt="NewIMAGES/BtnInitialize.bmp"></p></td><td>Initialize the instrument.</td></tr><tr><td>Move Auto Load</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1485.jpg" alt="NewIMAGES/cmdmoveautoload.bmp"></p></td><td>Moves the autoload to a selected track number.</td></tr><tr><td>Calibrate Carrier</td><td><p><br></p><p><img src="../.gitbook/assets/Image_1486.jpg" alt="NewIMAGES/btncalibrate.bmp"></p></td><td>Calibrate precise position of a high-density Microplate (1536 wells) before asp/disp.</td></tr></tbody></table>
+           <table data-header-hidden><thead><tr><th width="150"></th><th></th><th></th></tr></thead><tbody><tr><td>Preparation</td><td></td><td></td></tr><tr><td>Command</td><td>Icon</td><td>Action Performed</td></tr><tr><td>Load Carrier</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1480.jpg" alt="NewIMAGES/loadcarrier.bmp"></p></td><td>Load a carrier on the deck.</td></tr><tr><td>Unload Carrier</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1481.jpg" alt="NewIMAGES/UnloadCarrier.bmp"></p></td><td>Unload a carrier from the deck.</td></tr><tr><td>Reload carrier</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1482.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\ReloadCarrier.bmp"></p></td><td>Used to load, unload or reload a carrier.</td></tr><tr><td>Lock/Unlock Front Cover</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1483.jpg" alt="NewIMAGES/LockFrontCover.bmp"></p></td><td>Locks/unlocks the front cover.</td></tr><tr><td>Initialize</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1484.jpg" alt="NewIMAGES/BtnInitialize.bmp"></p></td><td>Initialize the instrument.</td></tr><tr><td>Move Auto Load</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1485.jpg" alt="NewIMAGES/cmdmoveautoload.bmp"></p></td><td>Moves the autoload to a selected track number.</td></tr><tr><td>Calibrate Carrier</td><td><p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1486.jpg" alt="NewIMAGES/btncalibrate.bmp"></p></td><td>Calibrate precise position of a high-density Microplate (1536 wells) before asp/disp.</td></tr></tbody></table>
 
            \
 
@@ -130,10 +130,10 @@ _Without “Load Carrier” Commands in the Method_
            | ML\_STAR Smart Steps  |                                                                                                                                                       |                                                                                                                                                                                              |
            | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
            | Command               | Icon                                                                                                                                                  | Action performed                                                                                                                                                                             |
-           | Advanced Load setting | <p><br></p><p><img src="../.gitbook/assets/Image_1487.jpg" alt="AdvSet"></p>                                                                          | Define other settings than the default of the load steps.                                                                                                                                    |
-           | Load                  | <p><br></p><p><img src="../.gitbook/assets/Image_1488.jpg" alt="NewIMAGES/btnload.jpg"></p>                                                           | Load carrier on deck.                                                                                                                                                                        |
-           | Unload                | <p><br></p><p><img src="../.gitbook/assets/Image_1489.jpg" alt="NewIMAGES/btnunload.jpg"></p>                                                         | Remove carrier from deck.                                                                                                                                                                    |
-           | Load and match        | <p><br></p><p><img src="../.gitbook/assets/Image_1490.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\LoadAndMatch.bmp"></p> | Load samples and match loading information with worklist information, to generate data for use in the following process steps. An “Import Worklist” must be performed prior to this command. |
+           | Advanced Load setting | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1487.jpg" alt="AdvSet"></p>                                                                          | Define other settings than the default of the load steps.                                                                                                                                    |
+           | Load                  | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1488.jpg" alt="NewIMAGES/btnload.jpg"></p>                                                           | Load carrier on deck.                                                                                                                                                                        |
+           | Unload                | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1489.jpg" alt="NewIMAGES/btnunload.jpg"></p>                                                         | Remove carrier from deck.                                                                                                                                                                    |
+           | Load and match        | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1490.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\LoadAndMatch.bmp"></p> | Load samples and match loading information with worklist information, to generate data for use in the following process steps. An “Import Worklist” must be performed prior to this command. |
 
            \
 
@@ -169,12 +169,12 @@ _Without “Load Carrier” Commands in the Method_
            \
 
 
-           ![image](../.gitbook/assets/Image\_1491.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1491.jpg)
 
            \
 
 
-           ![Originalbild anzeigen](../.gitbook/assets/Image\_1492.jpg)
+           ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1492.jpg)
 
            _NOTE_
 
@@ -208,7 +208,7 @@ _Without “Load Carrier” Commands in the Method_
            \
 
 
-           ![image](../.gitbook/assets/Image\_1493.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1493.jpg)
 
            \
 
@@ -236,13 +236,13 @@ _Without “Load Carrier” Commands in the Method_
                \
 
 
-               ![image](../.gitbook/assets/Image\_1494.gif)
+               ![image](../.gitbook/manual-images/assets/Image\_1494.gif)
            * _Time in hours: Duration in hours within a barcode must be unique._
 
            \
 
 
-           ![image](../.gitbook/assets/Image\_1495.gif)
+           ![image](../.gitbook/manual-images/assets/Image\_1495.gif)
 
            \
 
@@ -254,7 +254,7 @@ _Without “Load Carrier” Commands in the Method_
                \
 
 
-               ![image](../.gitbook/assets/Image\_1496.jpg)
+               ![image](../.gitbook/manual-images/assets/Image\_1496.jpg)
 
                \
 
@@ -264,7 +264,7 @@ _Without “Load Carrier” Commands in the Method_
                \
 
 
-               ![image](../.gitbook/assets/Image\_1497.jpg)
+               ![image](../.gitbook/manual-images/assets/Image\_1497.jpg)
            2.  _To set barcodes on the tubes as unique, select the \[By Position…] Tab._
 
                _In the example shown below, there are two barcodes that should not be checked for distinction. Every barcode in position 1 and 2 is allowed to appear multiple times, but the barcode mask for these barcodes must be correct._
@@ -272,7 +272,7 @@ _Without “Load Carrier” Commands in the Method_
                \
 
 
-               ![12-12-2012 14-08-11](../.gitbook/assets/Image\_1498.png)
+               ![12-12-2012 14-08-11](../.gitbook/manual-images/assets/Image\_1498.png)
 
                \
 
@@ -300,7 +300,7 @@ _Without “Load Carrier” Commands in the Method_
            \
 
 
-           ![image](../.gitbook/assets/Image\_1499.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1499.jpg)
 
            \
 
@@ -310,4 +310,4 @@ _Without “Load Carrier” Commands in the Method_
            \
 
 
-           ![image](../.gitbook/assets/Image\_1500.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_1500.jpg)

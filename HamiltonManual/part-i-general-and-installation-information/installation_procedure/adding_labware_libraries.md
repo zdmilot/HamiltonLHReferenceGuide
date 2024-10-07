@@ -5,13 +5,13 @@ If not all labware and libraries needed for the daily work are installed, or if 
 1. Select "Tools -> Hamilton Support Software..." from the menu bar.
 2.  Select "Modify" on the welcome screen, then \[Next >].
 
-    ![](<../../.gitbook/assets/image (67).png>)\
+    ![](<../../.gitbook/manual-images/assets/image (67).png>)\
 
 
 
 
     A dialog box which lists all installable components in a tree view appears.
-3. Click on a “![](<../../.gitbook/assets/image (68).png>)” sign to open a branch and mark / unmark the required components by ticking the boxes.
+3. Click on a “![](<../../.gitbook/manual-images/assets/image (68).png>)” sign to open a branch and mark / unmark the required components by ticking the boxes.
 4. Click \[Next >] to install the selected items.
 
 | Group                | Content                                                                                                |
@@ -25,5 +25,5 @@ If not all labware and libraries needed for the daily work are installed, or if 
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>A checkbox next to a plus sign does not mean that all possible selections in the tree structure below are also checked.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/manual-images/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>A checkbox next to a plus sign does not mean that all possible selections in the tree structure below are also checked.</p></td></tr></tbody></table>
 

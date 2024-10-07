@@ -25,12 +25,12 @@
 
     | Command            | Icon                                                                                                                                                         | Action Performed                                                      | Parameters to be Specified                                                                                           |
     | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-    | File: Open         | <p><br></p><p><img src="../../.gitbook/assets/Image_672.gif" alt="17"></p>                                                                                   | Open a file before file access                                        | File type, name, handle (reference to file), mode, data exchange variable and other, file- type-dependent parameters |
-    | File: Read         | <p><br></p><p><img src="../../.gitbook/assets/Image_673.gif" alt="18"></p>                                                                                   | Read data out of a file                                               | File handle                                                                                                          |
-    | File: Write        | <p><br></p><p><img src="../../.gitbook/assets/Image_674.gif" alt="19"></p>                                                                                   | Write data into a file\*                                              | File handle                                                                                                          |
-    | File: Set Position | <p><br></p><p><img src="../../.gitbook/assets/Image_675.gif" alt="20"></p>                                                                                   | Set the file-pointer to a specific position for reading               | New position parameters                                                                                              |
-    | File: Close        | <p><br></p><p><img src="../../.gitbook/assets/Image_676.gif" alt="21"></p>                                                                                   | Close a file after file operation(s)                                  | File handle                                                                                                          |
-    | Import Worklist    | <p><br></p><p><img src="../../.gitbook/assets/Image_677.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnImportWorklist.bmp"></p> | Imports worklist data from files into the supported database columns. | Wizard-guided; filename, filetype, delete old data Y/N, table name, column mapping                                   |
+    | File: Open         | <p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_672.gif" alt="17"></p>                                                                                   | Open a file before file access                                        | File type, name, handle (reference to file), mode, data exchange variable and other, file- type-dependent parameters |
+    | File: Read         | <p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_673.gif" alt="18"></p>                                                                                   | Read data out of a file                                               | File handle                                                                                                          |
+    | File: Write        | <p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_674.gif" alt="19"></p>                                                                                   | Write data into a file\*                                              | File handle                                                                                                          |
+    | File: Set Position | <p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_675.gif" alt="20"></p>                                                                                   | Set the file-pointer to a specific position for reading               | New position parameters                                                                                              |
+    | File: Close        | <p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_676.gif" alt="21"></p>                                                                                   | Close a file after file operation(s)                                  | File handle                                                                                                          |
+    | Import Worklist    | <p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_677.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnImportWorklist.bmp"></p> | Imports worklist data from files into the supported database columns. | Wizard-guided; filename, filetype, delete old data Y/N, table name, column mapping                                   |
 
     \
 
@@ -48,7 +48,7 @@
     \
 
 
-    ![image](../../.gitbook/assets/Image\_678.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_678.jpg)
 
     \
 
@@ -57,7 +57,7 @@
     \
 
 
-    ![Originalbild anzeigen](../../.gitbook/assets/Image\_679.gif)
+    ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_679.gif)
 
     _NOTE_
 
@@ -72,14 +72,14 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_680.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_680.jpg)
 
         \
 
     3. _Select the instrument and the sequence, to load all potential samples. To unload unused samples, which means samples without a worklist entry, check the box “Unload unused samples tubes”._
     4.  _Click \[Next >] to continue to the next step of the wizard._
 
-        ![Originalbild anzeigen](../../.gitbook/assets/Image\_681.gif)
+        ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_681.gif)
 
         _NOTE_
 
@@ -92,7 +92,7 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_682.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_682.jpg)
 
         \
 
@@ -101,7 +101,7 @@
     \
 
 
-    ![image](../../.gitbook/assets/Image\_683.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_683.jpg)
 
     _Importing a Worklist Example_
 
@@ -118,7 +118,7 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_684.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_684.jpg)
 
         \
 
@@ -128,13 +128,13 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_685.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_685.jpg)
     6.  _The “Load and Match” Wizard Step 3 will be shown._
 
         \
 
 
-        ![image](../../.gitbook/assets/Image\_686.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_686.png)
 
         \
 
@@ -146,13 +146,13 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_687.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_687.jpg)
     11. _The “1000μl Channel Pipette – Simple (1-1)” Wizard Step 2 will be shown._
 
         \
 
 
-        ![image](../../.gitbook/assets/Image\_688.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_688.jpg)
 
         \
 
@@ -161,7 +161,7 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_689.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_689.jpg)
 
         \
 
@@ -173,7 +173,7 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_690.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_690.jpg)
 
         \
 
@@ -184,14 +184,14 @@
         \
 
 
-        ![image](../../.gitbook/assets/Image\_691.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_691.jpg)
     20. _Select the desired dispense mode and an applicable liquid class from the list. Leave the rest of the values in the dialog with the default settings. Click \[Next >] to continue._
     21. _The “1000μl Channel Pipette – Simple (1-1)” Wizard Step 5 will be shown._
 
         \
 
 
-        ![image](../../.gitbook/assets/Image\_692.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_692.jpg)
 
         \
 
@@ -229,7 +229,7 @@
     \
 
 
-    ![Originalbild anzeigen](../../.gitbook/assets/Image\_693.gif)
+    ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_693.gif)
 
     _NOTE_
 

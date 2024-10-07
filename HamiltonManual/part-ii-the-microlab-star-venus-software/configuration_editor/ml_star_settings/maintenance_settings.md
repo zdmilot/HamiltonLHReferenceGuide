@@ -4,4 +4,4 @@ The maintenance procedures can be enabled here. The user of the system is period
 
 
 
-<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/manual-images/assets/image (86).png" alt=""><figcaption></figcaption></figure>

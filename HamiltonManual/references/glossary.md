@@ -78,4 +78,4 @@
 | TADM                | Total Aspiration and Dispensing Monitoring. The pressure inside each individual pipetting channel is monitored, during aspiration and dispensing.                                                                                                             |
 | Tip                 | Disposable tip for pipetting                                                                                                                                                                                                                                  |
 
-![image](../.gitbook/assets/Image\_1726.png)
+![image](../.gitbook/manual-images/assets/Image\_1726.png)

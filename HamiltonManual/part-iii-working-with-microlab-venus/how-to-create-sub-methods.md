@@ -24,13 +24,13 @@ Method 2
 \
 
 
-![image](../.gitbook/assets/Image\_464.png)
+![image](../.gitbook/manual-images/assets/Image\_464.png)
 
 Method 2
 
 Submeth-Lib 1
 
-![image](../.gitbook/assets/Image\_465.png)
+![image](../.gitbook/manual-images/assets/Image\_465.png)
 
 Method 1
 
@@ -60,7 +60,7 @@ Although sub methods and sub method libraries are different in terms of scope, t
            \
 
 
-           ![right klick here](../.gitbook/assets/Image\_466.gif)
+           ![right klick here](../.gitbook/manual-images/assets/Image\_466.gif)
 
            \
 
@@ -69,7 +69,7 @@ Although sub methods and sub method libraries are different in terms of scope, t
            \
 
 
-           ![image](../.gitbook/assets/Image\_467.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_467.jpg)
 
            \
 
@@ -81,7 +81,7 @@ Although sub methods and sub method libraries are different in terms of scope, t
            \
 
 
-           ![image](../.gitbook/assets/Image\_468.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_468.jpg)
 
            One or more parameters can be assigned to a sub-method, to do this, perform the succeeding steps:
        5. Click \[Add] for each parameter to be assigned.
@@ -112,7 +112,7 @@ Although sub methods and sub method libraries are different in terms of scope, t
            \
 
 
-           ![image](../.gitbook/assets/Image\_469.jpg)
+           ![image](../.gitbook/manual-images/assets/Image\_469.jpg)
 
            \
 
@@ -128,7 +128,7 @@ Although sub methods and sub method libraries are different in terms of scope, t
        \
 
 
-       ![sub-methode](../.gitbook/assets/Image\_470.gif)
+       ![sub-methode](../.gitbook/manual-images/assets/Image\_470.gif)
 
        \
 
@@ -152,7 +152,7 @@ Although sub methods and sub method libraries are different in terms of scope, t
        \
 
 
-       ![image](../.gitbook/assets/Image\_471.jpg)
+       ![image](../.gitbook/manual-images/assets/Image\_471.jpg)
 
        \
 
@@ -166,4 +166,4 @@ Although sub methods and sub method libraries are different in terms of scope, t
        \
 
 
-       ![image](../.gitbook/assets/Image\_472.jpg)
+       ![image](../.gitbook/manual-images/assets/Image\_472.jpg)

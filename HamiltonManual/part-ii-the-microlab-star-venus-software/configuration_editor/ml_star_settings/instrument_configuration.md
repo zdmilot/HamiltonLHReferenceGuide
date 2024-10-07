@@ -1,6 +1,6 @@
 # Instrument Configuration
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/manual-images/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 The following can be selected in the “Instrument configuration” Menu:
 

@@ -7,7 +7,7 @@ _Deck Areas for Random Access of Different Numbers of Pipetting Channels_
 \
 
 
-![image](../../.gitbook/assets/Image\_653.gif)
+![image](../../.gitbook/manual-images/assets/Image\_653.gif)
 
 \
 
@@ -23,7 +23,7 @@ _To achieve a batch-like process, all sequences involved must consist of blocks 
     \
 
 
-    ![Originalbild anzeigen](../../.gitbook/assets/Image\_654.gif)
+    ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_654.gif)
 
     _NOTE_
 

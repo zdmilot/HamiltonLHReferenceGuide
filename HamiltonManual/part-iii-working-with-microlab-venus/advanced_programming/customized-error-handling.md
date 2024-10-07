@@ -61,7 +61,7 @@ _Fully automated (walk away):_
 
                _Because of this, every instrument-specific Smart Step, Easy Step or Single Step has an \[Error Settings…] Button. Here is an example of the “1000μl Channel Aspirate” (Single Step):_
 
-               * ![image](../../.gitbook/assets/Image\_1177.png)
+               * ![image](../../.gitbook/manual-images/assets/Image\_1177.png)
            * _Like all the other types of errors found in the list, “Liquid Level Error” is activated with the default settings._
 
         \
@@ -72,7 +72,7 @@ _Fully automated (walk away):_
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1178.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1178.jpg)
 
         | <p>The Column <em>Step</em> shows all the individual parts of a Smart Step (what is executed inside a Smart Step)</p><p>The Column <em>Step ID</em> allows the the programmer to select:</p><p>or to pass an ID for a customized behavior in case of an error.</p> |
         | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -82,16 +82,16 @@ _Fully automated (walk away):_
         * _1 - Abort / Cancel Step_
         * _0 - Default error recovery_
 
-        ![image](../../.gitbook/assets/Image\_1179.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1179.png)
 
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1180.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1180.jpg)
 
         _Use the Go To column to customize the error handling:_
 
-        ![image](../../.gitbook/assets/Image\_1181.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1181.png)
 
         _To keep it simple for the programmer, the Go To leads towards the submethod library containing the customizeable error handling._
 
@@ -104,14 +104,14 @@ _Fully automated (walk away):_
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1182.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1182.jpg)
 
         _This Single Step can now be modified to control the behavior in case of an error, in the same way as on a directly programmed Single Step._
 
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1183.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1183.jpg)
 
         _Schematic Explanation_
 
@@ -120,10 +120,10 @@ _Fully automated (walk away):_
 
         | <p><br></p>                                                                                                                         | The Error handling defined in this section will be executed |
         | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-        | <p><img src="../../.gitbook/assets/Image_1184.jpg" alt="image"></p><p>Smart Step A has Step ID 11 defined for an Aspirate Error</p> | Same is true for Smart Step B with Step ID 12.              |
+        | <p><img src="../../.gitbook/manual-images/assets/Image_1184.jpg" alt="image"></p><p>Smart Step A has Step ID 11 defined for an Aspirate Error</p> | Same is true for Smart Step B with Step ID 12.              |
         | <p><br></p><p>Of course, both Smart Steps could use the same error Step ID!</p>                                                     |                                                             |
 
-        ![image](../../.gitbook/assets/Image\_1185.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1185.jpg)
 
         \
 
@@ -135,25 +135,25 @@ _Fully automated (walk away):_
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1186.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1186.jpg)
 
         _During import, check the flag ‘Import original Hamilton files’._
 
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1187.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1187.jpg)
 
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1188.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1188.png)
 
         _ATTENTION_
 
         _Please be aware that the imported Submethod Library will overwrite the existing one! If you have added customized code blocks in your existing library, please copy this code before importing and add it after the import._
 
-        ![image](../../.gitbook/assets/Image\_1189.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1189.png)
 
         _-1: Abort/Cancel (jump to Error handling by the user)_
 
@@ -173,11 +173,11 @@ _Fully automated (walk away):_
 
         _As seen, the Single Step in the Submethod Library acts as a ‘container’ for the error behavior. To customize it, just make the desired changes in the error handling of this step._
 
-        ![image](../../.gitbook/assets/Image\_1190.gif)
+        ![image](../../.gitbook/manual-images/assets/Image\_1190.gif)
 
-        ![image](../../.gitbook/assets/Image\_1191.gif)
+        ![image](../../.gitbook/manual-images/assets/Image\_1191.gif)
 
-        ![image](../../.gitbook/assets/Image\_1192.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1192.png)
 
         _To do so, the following steps have to be performed:_
 
@@ -194,12 +194,12 @@ _Fully automated (walk away):_
         * _In the line Aspirate, click on_
         *   _In the Submethod Library, double-click the Aspirate Step_
 
-            ![image](../../.gitbook/assets/Image\_1193.png)
+            ![image](../../.gitbook/manual-images/assets/Image\_1193.png)
 
             \
 
 
-            ![image](../../.gitbook/assets/Image\_1194.png)
+            ![image](../../.gitbook/manual-images/assets/Image\_1194.png)
         *   _In the Aspirate Step, click the_
 
             _Error Settings Tab_
@@ -207,7 +207,7 @@ _Fully automated (walk away):_
             \
 
 
-            ![image](../../.gitbook/assets/Image\_1195.jpg)
+            ![image](../../.gitbook/manual-images/assets/Image\_1195.jpg)
 
             _The Error Handling Panel opens:_
         * _Select the Clot Error line_
@@ -230,9 +230,9 @@ _Fully automated (walk away):_
         * _Insert the StepID in the Smart Step Aspirate Error definition_
         * _Confirm with OK, then close the Smart Step with Finish_
 
-        ![image](../../.gitbook/assets/Image\_1196.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1196.png)
 
-        ![image](../../.gitbook/assets/Image\_1197.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1197.png)
 
         _Adding more Error Blocks with unique Step IDs_
 
@@ -243,7 +243,7 @@ _Fully automated (walk away):_
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1198.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1198.png)
 
         \
 
@@ -255,9 +255,9 @@ _Fully automated (walk away):_
         \
 
 
-        ![image](../../.gitbook/assets/Image\_1199.png)
+        ![image](../../.gitbook/manual-images/assets/Image\_1199.png)
 
-        ![image](../../.gitbook/assets/Image\_1200.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_1200.jpg)
 
         \
 
@@ -272,12 +272,12 @@ _Fully automated (walk away):_
             \
 
 
-            ![image](../../.gitbook/assets/Image\_1201.jpg)
+            ![image](../../.gitbook/manual-images/assets/Image\_1201.jpg)
 
             \
 
 
-            ![image](../../.gitbook/assets/Image\_1202.jpg)
+            ![image](../../.gitbook/manual-images/assets/Image\_1202.jpg)
 
             _As seen in the image above, the checkboxes “Use Default” and the “Timeout: Infinite” are not activated._
 
@@ -297,7 +297,7 @@ _Fully automated (walk away):_
             \
 
 
-            ![image](../../.gitbook/assets/Image\_1203.jpg)
+            ![image](../../.gitbook/manual-images/assets/Image\_1203.jpg)
 
             \
 
@@ -311,7 +311,7 @@ _Fully automated (walk away):_
             \
 
 
-            ![Originalbild anzeigen](../../.gitbook/assets/Image\_1204.gif)
+            ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_1204.gif)
 
             _NOTE_
 

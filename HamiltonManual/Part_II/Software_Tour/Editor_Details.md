@@ -18,7 +18,7 @@ The output of the method editor is a linked set of files that may be executed by
 
     Changing the View
 
-    <figure><img src="../../.gitbook/assets/image (117).png" alt="" width="111"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/manual-images/assets/image (117).png" alt="" width="111"><figcaption></figcaption></figure>
 
     These windows can be activated by selecting the “View” Menu:\
 
@@ -28,7 +28,7 @@ The output of the method editor is a linked set of files that may be executed by
 
     The “Tool Bar” Icons are shown on the left of the corresponding menu functions.
 
-    <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/manual-images/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
     The toolbars shown in the images below can be activated by clicking the “View -> Toolbars” Menu
 

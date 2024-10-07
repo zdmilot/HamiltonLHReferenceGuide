@@ -5,7 +5,7 @@ _To be able to group the labware in the selection tree of the System Deck Editor
 \
 
 
-![image](../../.gitbook/assets/Image\_519.jpg)
+![image](../../.gitbook/manual-images/assets/Image\_519.jpg)
 
 \
 
@@ -18,7 +18,7 @@ _However, in creating an own new labware, connection should be done manually._
     \
 
 
-    ![image](../../.gitbook/assets/Image\_520.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_520.jpg)
 
     \
 
@@ -28,7 +28,7 @@ _However, in creating an own new labware, connection should be done manually._
     \
 
 
-    ![image](../../.gitbook/assets/Image\_521.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_521.jpg)
 
     \
 
@@ -37,7 +37,7 @@ _However, in creating an own new labware, connection should be done manually._
     \
 
 
-    ![image](../../.gitbook/assets/Image\_522.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_522.jpg)
 
     \
 
@@ -47,13 +47,13 @@ _However, in creating an own new labware, connection should be done manually._
     \
 
 
-    ![image](../../.gitbook/assets/Image\_523.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_523.png)
 8.  _The screen below will appear._
 
     \
 
 
-    ![image](../../.gitbook/assets/Image\_524.jpg)
+    ![image](../../.gitbook/manual-images/assets/Image\_524.jpg)
 
     \
 

@@ -2,7 +2,7 @@
 
 At the end of the aspiration step, transport air has been aspirated. The first step of the dispensing procedure is to search for the liquid surface or to move to a fixed height.
 
-<figure><img src="../../../../../.gitbook/assets/Image_1363.png" alt="" width="379"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/manual-images/assets/Image_1363.png" alt="" width="379"><figcaption></figcaption></figure>
 
 * In order to ensure that the specified accuracy is achieved, volumes below 20µl should always be dispensed onto or into a (liquid) surface. For dispensing at liquid surface, use cLLD to detect the position of the surface and then dispense while following the rising liquid level.
 * When the liquid level is known, dispensing from a fixed height while following the rising liquid level is also possible.
@@ -19,7 +19,7 @@ At the end of the aspiration step, transport air has been aspirated. The first s
 
 The “Surface Part Volume” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/manual-images/assets/image (1).png" alt="" data-size="original">
 
 1. When the target well is reached, the pipetting channel starts searching for the liquid surface (cLLD).
 2. At an immersion depth of 2 mm (default setting), transport air and liquid (part volume) are dispensed.
@@ -34,7 +34,7 @@ The “Surface Part Volume” Dispensing Mode works as follows:
 
 The “Surface Empty Tip” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/manual-images/assets/image (4).png" alt="" data-size="original">
 
 1. When the target well is reached, the pipetting channel starts searching for the liquid surface (cLLD).
 2. At an immersion depth of 2 mm (default setting), transport air and liquid are dispensed while the pipetting channel is moving up in z-direction (following the liquid level).
@@ -51,7 +51,7 @@ The “Surface Empty Tip” Dispensing Mode works as follows:
 
 The “Jet Part Volume” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/manual-images/assets/image (2).png" alt="" data-size="original">
 
 1. When the target well is reached, the pipetting channel starts to move to the fixed height (dispensing height).
 2. At the dispensing height the transport air and liquid (part volume) are dispensed while the pipetting channel is moving up in z-direction (following the liquid level).
@@ -66,7 +66,7 @@ The “Jet Part Volume” Dispensing Mode works as follows:
 
 The “Jet Empty Tip” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/manual-images/assets/image (3).png" alt="" data-size="original">
 
 1. When the empty target well is reached, the pipetting channel moves to a fixed height (e.g. 2 mm above the bottom of the well).
 2. Transport air and liquid are dispensed while the pipetting channel is moving up in z-direction (following the liquid level).
@@ -83,7 +83,7 @@ The “Jet Empty Tip” Dispensing Mode works as follows:
 
 The “Touch off” Function is used if very small amounts of liquid shall be aspirated or dispensed into a manually placed labware or labware with great tolerances. The “Touch off” Function will move to a certain height over the well bottom and smoothly move downwards. As soon as the tip hits the bottom of the container, the motor current of the z-drive increases. This change will be detected and the z-move stops. From that position, the pipetting channels moves back up the specified distance “Dispense position above touch” and starts dispensing.
 
-![image](../../../../../.gitbook/assets/Image\_1368.jpg)\
+![image](../../../../../.gitbook/manual-images/assets/Image\_1368.jpg)\
 
 
 </details>
@@ -94,7 +94,7 @@ The “Touch off” Function is used if very small amounts of liquid shall be as
 
 For a small amount of liquid, there is the possibility of dispensing liquid to the side of the well with the “Side touch” Mode (available in the Single Steps / Easy Steps).
 
-![image](../../../../../.gitbook/assets/Image\_1369.jpg)
+![image](../../../../../.gitbook/manual-images/assets/Image\_1369.jpg)
 
 
 
@@ -102,7 +102,7 @@ The “Side touch” Mode will move the tip to a specified height in the center 
 
 The values for “Touch off height” and “Right” move have to be defined in the container data in the Labware Editor.
 
-![image](../../../../../.gitbook/assets/Image\_1370.jpg)
+![image](../../../../../.gitbook/manual-images/assets/Image\_1370.jpg)
 
 </details>
 

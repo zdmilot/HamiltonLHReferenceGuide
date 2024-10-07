@@ -5,7 +5,7 @@ _The Wash station 96 is an optional device for washing 96 disposable tips in par
 \
 
 
-![Originalbild anzeigen](../.gitbook/assets/Image\_1652.jpg)
+![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1652.jpg)
 
 _NOTE_
 
@@ -23,7 +23,7 @@ _The picture below shows a complete, fully connected wash station 96:_
 \
 
 
-![186380\_a](../.gitbook/assets/Image\_1653.jpg)
+![186380\_a](../.gitbook/manual-images/assets/Image\_1653.jpg)
 
 _a)_
 
@@ -42,7 +42,7 @@ _Liquid level sensors inside the washer unit prevent flooding of the system. On 
 \
 
 
-![Originalbild anzeigen](../.gitbook/assets/Image\_1654.jpg)
+![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1654.jpg)
 
 _NOTE_
 
@@ -64,8 +64,8 @@ _When re-using washed tips, pipetting precision may decrease by a factor of 3._
     | -------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------- |
     | CO-RE 96 Probe Head        |                                                                                                           |                                       |
     | Command                    | Icon                                                                                                      | Action Performed                      |
-    | CO-RE 96 Head Wash         | <p><br></p><p><img src="../.gitbook/assets/Image_1655.jpg" alt="NewIMAGES/core96headwash.bmp"></p>        | Wash tips using the default settings. |
-    | CO-RE 96 Head Empty Washer | <p><br></p><p><img src="../.gitbook/assets/Image_1656.jpg" alt="NewIMAGES/core96heademptyWasher.bmp"></p> | Empty washer.                         |
+    | CO-RE 96 Head Wash         | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1655.jpg" alt="NewIMAGES/core96headwash.bmp"></p>        | Wash tips using the default settings. |
+    | CO-RE 96 Head Empty Washer | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1656.jpg" alt="NewIMAGES/core96heademptyWasher.bmp"></p> | Empty washer.                         |
 
     \
 
@@ -81,7 +81,7 @@ _When re-using washed tips, pipetting precision may decrease by a factor of 3._
     \
 
 
-    ![image](../.gitbook/assets/Image\_1657.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1657.jpg)
 
     \
 
@@ -93,7 +93,7 @@ _When re-using washed tips, pipetting precision may decrease by a factor of 3._
     \
 
 
-    ![image](../.gitbook/assets/Image\_1658.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1658.jpg)
 
     _Add a wash station, slide waste and a standard tip carrier to the deck. Use the “Search Labware” Field to add the following labware:_
 
@@ -111,7 +111,7 @@ _When re-using washed tips, pipetting precision may decrease by a factor of 3._
     \
 
 
-    ![image](../.gitbook/assets/Image\_1659.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1659.jpg)
 
     1. _Pick up tips from the tip carrier. Set “Manually” for sequence counting to eject the tips to the pickup position (Step 2)._
     2. _In line 3, use the “CO-RE 96 Head Wash” Wash Step without modifying the default values. These values guarantee and are the basis for good wash results._
@@ -120,12 +120,12 @@ _When re-using washed tips, pipetting precision may decrease by a factor of 3._
     \
 
 
-    ![image](../.gitbook/assets/Image\_1660.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1660.jpg)
 
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1661.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1661.jpg)
 
     _NOTE_
 
@@ -138,9 +138,9 @@ _When re-using washed tips, pipetting precision may decrease by a factor of 3._
     \
 
 
-    ![image](../.gitbook/assets/Image\_1662.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1662.jpg)
 
     _Use the “Begin Parallel” and “End Parallel” Steps to do this._
 
     _In the CO-RE 96 Head empty washer step, set the washer parameters to “(2) On – chamber one only” to have the maximum speed up._
-3. ![image](../.gitbook/assets/Image\_1663.jpg)
+3. ![image](../.gitbook/manual-images/assets/Image\_1663.jpg)

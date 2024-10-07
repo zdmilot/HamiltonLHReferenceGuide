@@ -12,7 +12,7 @@ _With this information from the sample tracker, the user can:_
 \
 
 
-![Originalbild anzeigen](../../.gitbook/assets/Image\_655.gif)
+![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_655.gif)
 
 _NOTE_
 
@@ -28,7 +28,7 @@ _To change the settings, click from the “Tools  System Configuration Editor
 \
 
 
-![image](../../.gitbook/assets/Image\_656.png)
+![image](../../.gitbook/manual-images/assets/Image\_656.png)
 
 \
 
@@ -40,7 +40,7 @@ _Once the access functions are activated for a method, the group “Data Handlin
 \
 
 
-![image](../../.gitbook/assets/Image\_657.jpg)
+![image](../../.gitbook/manual-images/assets/Image\_657.jpg)
 
 \
 
@@ -50,7 +50,7 @@ _Once the access functions are activated for a method, the group “Data Handlin
     \
 
 
-    <table data-header-hidden><thead><tr><th width="382"></th><th></th><th></th></tr></thead><tbody><tr><td>Command</td><td>Icon</td><td>Action Performed</td></tr><tr><td>Generate Mapping File</td><td><p><br></p><p><img src="../../.gitbook/assets/Image_658.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnGenerateMappingFile.bmp"></p></td><td>Generates a mapping file with information for selected sequence(s).</td></tr><tr><td>Set Labware Barcode</td><td><p><br></p><p><img src="../../.gitbook/assets/Image_659.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnSetLabwareBarcode.bmp"></p></td><td>Set barcode for labware which was or cannot be read by built in reader.</td></tr><tr><td>Remove Labware</td><td><p><br></p><p><img src="../../.gitbook/assets/Image_660.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnRemoveLabware.bmp"></p></td><td>Remove labware data from the database stop generation of mapping information.</td></tr><tr><td>Import Worklist</td><td><p><br></p><p><img src="../../.gitbook/assets/Image_661.jpg" alt="image"></p></td><td>Imports an external worklist into the internal Hamilton database. Works in combination with “Load and Match”.</td></tr><tr><td>Update Job Status</td><td><p><br></p><p><img src="../../.gitbook/assets/Image_662.jpg" alt="image"></p></td><td>Changes the status of a job on the Hamilton database.</td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="382"></th><th></th><th></th></tr></thead><tbody><tr><td>Command</td><td>Icon</td><td>Action Performed</td></tr><tr><td>Generate Mapping File</td><td><p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_658.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnGenerateMappingFile.bmp"></p></td><td>Generates a mapping file with information for selected sequence(s).</td></tr><tr><td>Set Labware Barcode</td><td><p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_659.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnSetLabwareBarcode.bmp"></p></td><td>Set barcode for labware which was or cannot be read by built in reader.</td></tr><tr><td>Remove Labware</td><td><p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_660.jpg" alt="I:\Documents\Kunden\Hamilton\scharfeVersionProgMan\ProgmanPics\BtnRemoveLabware.bmp"></p></td><td>Remove labware data from the database stop generation of mapping information.</td></tr><tr><td>Import Worklist</td><td><p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_661.jpg" alt="image"></p></td><td>Imports an external worklist into the internal Hamilton database. Works in combination with “Load and Match”.</td></tr><tr><td>Update Job Status</td><td><p><br></p><p><img src="../../.gitbook/manual-images/assets/Image_662.jpg" alt="image"></p></td><td>Changes the status of a job on the Hamilton database.</td></tr></tbody></table>
 2.  #### _‌Generating a Mapping File‌_
 
     \
@@ -70,7 +70,7 @@ _Once the access functions are activated for a method, the group “Data Handlin
     \
 
 
-    ![image](../../.gitbook/assets/Image\_663.png)
+    ![image](../../.gitbook/manual-images/assets/Image\_663.png)
 
     \
 
@@ -94,12 +94,12 @@ _Once the access functions are activated for a method, the group “Data Handlin
         \
 
 
-        ![image](../../.gitbook/assets/Image\_664.jpg)
+        ![image](../../.gitbook/manual-images/assets/Image\_664.jpg)
 
         \
 
 
-        ![Originalbild anzeigen](../../.gitbook/assets/Image\_665.gif)
+        ![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_665.gif)
 
         _NOTE_
 
@@ -112,7 +112,7 @@ _Once the access functions are activated for a method, the group “Data Handlin
         \
 
 
-        ![image](../../.gitbook/assets/Image\_666.gif)
+        ![image](../../.gitbook/manual-images/assets/Image\_666.gif)
 
         \
 
@@ -122,7 +122,7 @@ _Once the access functions are activated for a method, the group “Data Handlin
         \
 
 
-        ![image](../../.gitbook/assets/Image\_667.gif)
+        ![image](../../.gitbook/manual-images/assets/Image\_667.gif)
 
         \
 
@@ -134,7 +134,7 @@ _Once the access functions are activated for a method, the group “Data Handlin
     \
 
 
-    ![image](../../.gitbook/assets/Image\_668.gif)
+    ![image](../../.gitbook/manual-images/assets/Image\_668.gif)
 
     \
 

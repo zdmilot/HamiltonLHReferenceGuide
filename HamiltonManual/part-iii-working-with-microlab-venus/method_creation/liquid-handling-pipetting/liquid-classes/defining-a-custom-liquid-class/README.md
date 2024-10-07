@@ -4,14 +4,14 @@ _To define a custom liquid class, for instance, for a new liquid:_
 
 1.  _Select a predefined liquid class in the liquid editor main window_
 
-    ![image](../../../../../.gitbook/assets/Image\_1392.jpg)
+    ![image](../../../../../.gitbook/manual-images/assets/Image\_1392.jpg)
 
     \
 
 2.  _From the Liquid Class Menu, click “Create”._\
 
 
-    ![image](../../../../../.gitbook/assets/Image\_1393.jpg)
+    ![image](../../../../../.gitbook/manual-images/assets/Image\_1393.jpg)
 
     \
 

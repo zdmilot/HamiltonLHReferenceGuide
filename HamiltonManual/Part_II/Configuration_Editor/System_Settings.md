@@ -11,4 +11,4 @@ In the system settings, specify the following:
 * Some sound settings
 * Names of the laboratory system
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/image (71).png" alt=""><figcaption></figcaption></figure>

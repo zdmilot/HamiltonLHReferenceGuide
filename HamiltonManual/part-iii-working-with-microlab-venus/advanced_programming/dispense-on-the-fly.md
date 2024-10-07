@@ -5,7 +5,7 @@ _VENUS Software offers a dispense on the fly (Single Step). This step does not s
 \
 
 
-![image](../../.gitbook/assets/Image\_612.png)
+![image](../../.gitbook/manual-images/assets/Image\_612.png)
 
 _ATTENTION_
 
@@ -46,14 +46,14 @@ _Start X-Offset_
 
 _The dispense normally starts in the center of the well. For larger volumes, shift the start point to the left to make sure the full volume is dispensed into the well._
 
-![image](../../.gitbook/assets/Image\_613.jpg)
+![image](../../.gitbook/manual-images/assets/Image\_613.jpg)
 
 _The display below shows distances to be specified._
 
 \
 
 
-![image](../../.gitbook/assets/Image\_614.gif)
+![image](../../.gitbook/manual-images/assets/Image\_614.gif)
 
 \
 
@@ -76,7 +76,7 @@ _Exclude Labware Positions_
 
 _This option allows to not dispense to specified positions._
 
-![image](../../.gitbook/assets/Image\_615.jpg)
+![image](../../.gitbook/manual-images/assets/Image\_615.jpg)
 
 \
 
@@ -88,7 +88,7 @@ _Add a separate dispense step after dispense on the fly, using the dispense mode
 \
 
 
-![Originalbild anzeigen](../../.gitbook/assets/Image\_616.gif)
+![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_616.gif)
 
 _NOTE_
 
@@ -101,7 +101,7 @@ _The x-speed during dispense depends on the volume, the liquid class parameters 
 \
 
 
-![image](../../.gitbook/assets/Image\_617.gif)
+![image](../../.gitbook/manual-images/assets/Image\_617.gif)
 
 _A table guide to find the correct settings. Liquid: Water_
 
@@ -109,7 +109,7 @@ _Tip Size: High volume 1000ul, no filter_
 
 _Liquid Class:High\_Volume\_Water\_DispenseJet\_Part Shots per pipetting channel: 12 (full plate)_
 
-![Originalbild anzeigen](../../.gitbook/assets/Image\_618.gif)
+![Originalbild anzeigen](../../.gitbook/manual-images/assets/Image\_618.gif)
 
 _NOTE_
 

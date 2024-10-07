@@ -1,6 +1,6 @@
 # Error Settings
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 The “Error Settings” allows a specification of:
 

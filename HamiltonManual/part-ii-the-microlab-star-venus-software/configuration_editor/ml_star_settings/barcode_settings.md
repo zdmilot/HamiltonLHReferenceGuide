@@ -8,4 +8,4 @@ The “Barcode settings” allows:
 
 The storage location of the barcode is dependent on the operating system and the language settings.
 
-<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/manual-images/assets/image (83).png" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1622.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1622.jpg)
 
     _NOTE_
 
@@ -24,7 +24,7 @@
     \
 
 
-    ![CRWashStation](../.gitbook/assets/Image\_1623.jpg)
+    ![CRWashStation](../.gitbook/manual-images/assets/Image\_1623.jpg)
 
     1. _CR Washer Unit_
     2. _b) Pump Unit A and Tubing_
@@ -64,15 +64,15 @@
         | ----------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
         | 1000µl-Pipetting Channel            |                                                                                                          |                                                                                  |
         | Command                             | Icon                                                                                                     | Action Performed                                                                 |
-        | 1000μl Channel Tip Pick Up          | <p><br></p><p><img src="../.gitbook/assets/Image_1624.gif" alt="image"></p>                              | Picks up a CO-RE tip or needle.                                                  |
-        | 1000μl Channel Start Needle Wash    | <p><br></p><p><img src="../.gitbook/assets/Image_1625.jpg" alt="NewIMAGES/btnstartneedleWash.bmp"></p>   | Starts a needle wash module.                                                     |
-        | 1000μl Channel Wait For Needle Wash | <p><br></p><p><img src="../.gitbook/assets/Image_1626.jpg" alt="NewIMAGES/BtnWaitForNeedleWash.bmp"></p> | Waits for the needle wash module to be ready.                                    |
-        | 1000μl Channel Tip Eject            | <p><br></p><p><img src="../.gitbook/assets/Image_1627.gif" alt="image"></p>                              | Discards the tip into the tip waste or the needle into the wash station or rack. |
+        | 1000μl Channel Tip Pick Up          | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1624.gif" alt="image"></p>                              | Picks up a CO-RE tip or needle.                                                  |
+        | 1000μl Channel Start Needle Wash    | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1625.jpg" alt="NewIMAGES/btnstartneedleWash.bmp"></p>   | Starts a needle wash module.                                                     |
+        | 1000μl Channel Wait For Needle Wash | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1626.jpg" alt="NewIMAGES/BtnWaitForNeedleWash.bmp"></p> | Waits for the needle wash module to be ready.                                    |
+        | 1000μl Channel Tip Eject            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1627.gif" alt="image"></p>                              | Discards the tip into the tip waste or the needle into the wash station or rack. |
 
         \
 
 
-        ![Originalbild anzeigen](../.gitbook/assets/Image\_1628.jpg)
+        ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1628.jpg)
 
         _NOTE_
 
@@ -97,9 +97,9 @@
         | ML\_STAR Smart Steps          |                                                                                                           |                                           |
         | ----------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
         | Command                       | Icon                                                                                                      | Action Performed                          |
-        | 1000μl Needle Wash Settings   | <p><br></p><p><img src="../.gitbook/assets/Image_1629.jpg" alt="NewIMAGES/btnneedleWashSettings.bmp"></p> | Sets Wash Parameters.                     |
-        | 1000μl Channel Needle Pick Up | <p><br></p><p><img src="../.gitbook/assets/Image_1630.jpg" alt="image"></p>                               | Picks up a needle.                        |
-        | 1000μl Channel Needle Eject   | <p><br></p><p><img src="../.gitbook/assets/Image_1631.jpg" alt="image"></p>                               | Ejects the needle for (optional) washing. |
+        | 1000μl Needle Wash Settings   | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1629.jpg" alt="NewIMAGES/btnneedleWashSettings.bmp"></p> | Sets Wash Parameters.                     |
+        | 1000μl Channel Needle Pick Up | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1630.jpg" alt="image"></p>                               | Picks up a needle.                        |
+        | 1000μl Channel Needle Eject   | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1631.jpg" alt="image"></p>                               | Ejects the needle for (optional) washing. |
 *   ### _‌Programming the CR Needle Wash Station‌_
 
     \
@@ -112,7 +112,7 @@
         \
 
 
-        ![image](../.gitbook/assets/Image\_1632.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1632.jpg)
 
         \
 
@@ -121,7 +121,7 @@
     \
 
 
-    ![image](../.gitbook/assets/Image\_1633.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1633.jpg)
 
     _Creating the Deck Layout_
 
@@ -130,7 +130,7 @@
         \
 
 
-        ![image](../.gitbook/assets/Image\_1634.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1634.jpg)
 
         \
 
@@ -139,7 +139,7 @@
     \
 
 
-    ![image](../.gitbook/assets/Image\_1635.gif)
+    ![image](../.gitbook/manual-images/assets/Image\_1635.gif)
 
     \
 
@@ -158,7 +158,7 @@
     \
 
 
-    ![image](../.gitbook/assets/Image\_1636.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1636.jpg)
 
     1. _Define the wash settings using the “Needle Wash Settings” Smart Step (line 2)._
     2.  _This table shows default values of the wash parameters for 1000µl, 300µl and 10µl-volume needles._
@@ -180,13 +180,13 @@
         \
 
 
-        ![image](../.gitbook/assets/Image\_1637.gif)
+        ![image](../.gitbook/manual-images/assets/Image\_1637.gif)
     5.  _The next step would be to pick up the needles:_
 
         \
 
 
-        ![image](../.gitbook/assets/Image\_1638.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1638.jpg)
 
         \
 
@@ -196,7 +196,7 @@
         \
 
 
-        ![image](../.gitbook/assets/Image\_1639.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1639.jpg)
 
         \
 
@@ -205,7 +205,7 @@
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1640.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1640.jpg)
 
     _NOTE_
 

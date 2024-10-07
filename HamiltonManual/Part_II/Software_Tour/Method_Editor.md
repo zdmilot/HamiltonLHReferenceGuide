@@ -5,27 +5,27 @@ This section is a fast and easy introduction to the “Method Editor”. This se
 \
 
 
-<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (109).png" alt="" data-size="original"></td><td>Access the “Method Editor” by double clicking the “STAR Method Editor” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> MICROLAB STAR Method Editor” Menu.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/manual-images/assets/image (109).png" alt="" data-size="original"></td><td>Access the “Method Editor” by double clicking the “STAR Method Editor” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> MICROLAB STAR Method Editor” Menu.</td></tr></tbody></table>
 
 \
 
 
 1.  When started, the application appears as the image shown below:
 
-    <figure><img src="../../.gitbook/assets/image (111).png" alt="" width="563"><figcaption></figcaption></figure>
-2.  To create a method, click on the “ ![](<../../.gitbook/assets/image (113).png>) ” Icon found on the tool bar or select “File -> New -> Method” as shown in the image below.
+    <figure><img src="../../.gitbook/manual-images/assets/image (111).png" alt="" width="563"><figcaption></figcaption></figure>
+2.  To create a method, click on the “ ![](<../../.gitbook/manual-images/assets/image (113).png>) ” Icon found on the tool bar or select “File -> New -> Method” as shown in the image below.
 
-    <figure><img src="../../.gitbook/assets/image (112).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/manual-images/assets/image (112).png" alt="" width="563"><figcaption></figcaption></figure>
 3.  A selection dialog appears as shown in the image below.
 
-    <figure><img src="../../.gitbook/assets/image (114).png" alt="" width="505"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/manual-images/assets/image (114).png" alt="" width="505"><figcaption></figcaption></figure>
 4.  Select “Methods“ and type a file name for the first method, then click the \[Save] Button. The new method is saved and the step editor window will be displayed:
 
-    <figure><img src="../../.gitbook/assets/image (115).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/manual-images/assets/image (115).png" alt="" width="563"><figcaption></figcaption></figure>
 5.  To switch to other views like the “Deck Layout” or the “Action Editor”, use the quick link icons found on the toolbar.\
 
 
-    <figure><img src="../../.gitbook/assets/image (116).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/manual-images/assets/image (116).png" alt="" width="563"><figcaption></figcaption></figure>
 
     \*This icon leads to the action editor if the Microlab STAR scheduling software is not installed. When the scheduling software is installed, this icon will lead to the activity editor.
 

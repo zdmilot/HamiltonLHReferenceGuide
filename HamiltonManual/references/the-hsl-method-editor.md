@@ -7,14 +7,14 @@ _The editor is an acclaimed and outstanding text editor. An hsl file can be writ
 \
 
 
-![image](../.gitbook/assets/Image\_1722.gif)
+![image](../.gitbook/manual-images/assets/Image\_1722.gif)
 
 \
 
 
 _Before an HSL file is run, it has to be compiled (translated) into a basic computer language. This is done by the “MICROLAB STAR Run” Program, which should already be familiar._
 
-![image](../.gitbook/assets/Image\_1723.png)
+![image](../.gitbook/manual-images/assets/Image\_1723.png)
 
 \
 
@@ -26,7 +26,7 @@ _Unlike a C/C++ program, the file is compiled just before it is run. This is don
 \
 
 
-![image](../.gitbook/assets/Image\_1724.jpg)
+![image](../.gitbook/manual-images/assets/Image\_1724.jpg)
 
 \
 
@@ -456,7 +456,7 @@ _Unlike a C/C++ program, the file is compiled just before it is run. This is don
     \
 
 
-    ![image](../.gitbook/assets/Image\_1725.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1725.jpg)
 
     _It is located in the “Help Menu  Help Topics” and provides fundamental information in three categories:_
 

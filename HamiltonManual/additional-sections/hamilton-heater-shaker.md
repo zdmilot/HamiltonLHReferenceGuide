@@ -5,7 +5,7 @@
 \
 
 
-![image](../.gitbook/assets/Image\_1594.jpg)
+![image](../.gitbook/manual-images/assets/Image\_1594.jpg)
 
 _The Hamilton Heater Shaker (HHS) is designed to heat and/or shake standard Microplates in SBS format._
 
@@ -35,23 +35,23 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
     | Library Function |                                                                             |                                                                                                               |
     | ---------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
     | Number of HHS    | Icon                                                                        | Action Performed                                                                                              |
-    | 1 – 2            | <p><br></p><p><img src="../.gitbook/assets/Image_1595.jpg" alt="image"></p> | <p>Create Star Device</p><p>(Establish a connection to 1 or 2 shakers connected via TCC)</p>                  |
-    | 1 – 8            | <p><br></p><p><img src="../.gitbook/assets/Image_1596.jpg" alt="image"></p> | <p>Create USB Device</p><p>(Establish a connection to up to 8 heater shakers using the heater shaker box)</p> |
+    | 1 – 2            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1595.jpg" alt="image"></p> | <p>Create Star Device</p><p>(Establish a connection to 1 or 2 shakers connected via TCC)</p>                  |
+    | 1 – 8            | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1596.jpg" alt="image"></p> | <p>Create USB Device</p><p>(Establish a connection to up to 8 heater shakers using the heater shaker box)</p> |
 
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1597.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1597.jpg)
 
     _NOTE_
 
     _It is required to establish a connection to all heater shakers that will be used in the method. If, for example, only two out of four shakers have been initialized, only these two shakers can be started using the “StartAllShaker” Function._
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1598.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1598.jpg)
 
     _NOTE_
 
-    ![image](../.gitbook/assets/Image\_1599.png)
+    ![image](../.gitbook/manual-images/assets/Image\_1599.png)
 
     _The VENUS Help Function contains a description of all functions of the heater shaker library with a description of parameters passed to the functions or obtained by them. The help documentation can be_
 
@@ -70,7 +70,7 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
         \
 
 
-        ![image](../.gitbook/assets/Image\_1600.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1600.jpg)
 
         _Overview of a method to run the heater shaker at 200 rpm for 10 minutes at 65°C_
 
@@ -84,12 +84,12 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML450280](../.gitbook/assets/Image\_1601.png)
+            ![SNAGHTML450280](../.gitbook/manual-images/assets/Image\_1601.png)
 
             \
 
 
-            ![Originalbild anzeigen](../.gitbook/assets/Image\_1602.jpg)
+            ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1602.jpg)
 
             _NOTE_
 
@@ -98,21 +98,21 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML12dd760](../.gitbook/assets/Image\_1603.png)
+            ![SNAGHTML12dd760](../.gitbook/manual-images/assets/Image\_1603.png)
 
             _If there has been already a method inserted, when editing, the add-on “Edit” is imprinted._
 
             \
 
 
-            ![SNAGHTML12e2d6c](../.gitbook/assets/Image\_1604.png)
+            ![SNAGHTML12e2d6c](../.gitbook/manual-images/assets/Image\_1604.png)
 
             _Step 2: Use the variable containing the device number to access the correct heater shaker. Set the temperature to 65°C. If the “waitForTempReached” Option is chosen with the setting “1”, the method will pause at this step until the defined temperature has been reached and is stable for 180 seconds. Only then the method will continue to the next step. If a pause to the method is not wanted but rather carry out other tasks in parallel to the heating process, the “waitForTempReached” should be set to “0”. At a later time, the temperature can be checked and if necessary, wait for the heating process to finish using the “WaitForTempCtrl” Command._
 
             \
 
 
-            ![SNAGHTML4846c1](../.gitbook/assets/Image\_1605.png)
+            ![SNAGHTML4846c1](../.gitbook/manual-images/assets/Image\_1605.png)
 
             \
 
@@ -122,14 +122,14 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML11c328a](../.gitbook/assets/Image\_1606.png)
+            ![SNAGHTML11c328a](../.gitbook/manual-images/assets/Image\_1606.png)
 
             _Step 4: This command will wait until the shaker defined by the device number has finished the timed shaking process. If the shaker is already finished before this function is called, the method will immediately proceed with the next step. This function will also open the plate lock._
 
             \
 
 
-            ![SNAGHTML11d3a66](../.gitbook/assets/Image\_1607.png)
+            ![SNAGHTML11d3a66](../.gitbook/manual-images/assets/Image\_1607.png)
 
             \
 
@@ -139,19 +139,19 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML11e194f](../.gitbook/assets/Image\_1608.png)
+            ![SNAGHTML11e194f](../.gitbook/manual-images/assets/Image\_1608.png)
 
             _Step 6: If the heater shaker will not be used any longer, the connection can be terminated. At the end of a method or upon abort, the connection is automatically terminated and will stop heating as well as shaking. The plate lock will then open._
 
             \
 
 
-            ![SNAGHTML11f2b69](../.gitbook/assets/Image\_1609.png)
+            ![SNAGHTML11f2b69](../.gitbook/manual-images/assets/Image\_1609.png)
 
             \
 
 
-            ![image](../.gitbook/assets/Image\_1610.jpg)
+            ![image](../.gitbook/manual-images/assets/Image\_1610.jpg)
 
             _The figure above shows a schematic view of the heating and shaking process of Example 1._
     2.  #### _‌Safety Measures Upon Method Abort‌_
@@ -173,7 +173,7 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
         \
 
 
-        ![image](../.gitbook/assets/Image\_1611.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1611.jpg)
 
         1.  _‌Step by Step Analysis of Example 2_
 
@@ -189,7 +189,7 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML1200dea](../.gitbook/assets/Image\_1612.png)
+            ![SNAGHTML1200dea](../.gitbook/manual-images/assets/Image\_1612.png)
 
             \
 
@@ -199,14 +199,14 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML12108db](../.gitbook/assets/Image\_1613.png)
+            ![SNAGHTML12108db](../.gitbook/manual-images/assets/Image\_1613.png)
 
             _Step 7-9: Wait until all heater shakers have reached the set temperature before proceeding to the next step._
 
             \
 
 
-            ![SNAGHTML1220cd1](../.gitbook/assets/Image\_1614.png)
+            ![SNAGHTML1220cd1](../.gitbook/manual-images/assets/Image\_1614.png)
 
             \
 
@@ -216,14 +216,14 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML1230fce](../.gitbook/assets/Image\_1615.png)
+            ![SNAGHTML1230fce](../.gitbook/manual-images/assets/Image\_1615.png)
 
             _Step 13: All shakers can be started in parallel. Here, the shaking speed is set to 2000 rpm. This function will automatically close the plate lock on all shakers._
 
             \
 
 
-            ![SNAGHTML123f51d](../.gitbook/assets/Image\_1616.png)
+            ![SNAGHTML123f51d](../.gitbook/manual-images/assets/Image\_1616.png)
 
             \
 
@@ -233,14 +233,14 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML124934f](../.gitbook/assets/Image\_1617.png)
+            ![SNAGHTML124934f](../.gitbook/manual-images/assets/Image\_1617.png)
 
             _Step 17-19: The temperature control of the heater shaker can be terminated after its usage. If the temperature control is not stopped, heating will continue even after terminating the shaking process._
 
             \
 
 
-            ![SNAGHTML12535c5](../.gitbook/assets/Image\_1618.png)
+            ![SNAGHTML12535c5](../.gitbook/manual-images/assets/Image\_1618.png)
 
             \
 
@@ -250,7 +250,7 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
             \
 
 
-            ![SNAGHTML1262541](../.gitbook/assets/Image\_1619.png)
+            ![SNAGHTML1262541](../.gitbook/manual-images/assets/Image\_1619.png)
     4.  #### _‌Monitoring the Performance of the Hamilton Heater Shaker‌_
 
         \
@@ -267,7 +267,7 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
         \
 
 
-        ![image](../.gitbook/assets/Image\_1620.png)
+        ![image](../.gitbook/manual-images/assets/Image\_1620.png)
 
         _ATTENTION_
 
@@ -283,4 +283,4 @@ _The HHS can be heated to temperatures up to 105°C. The temperature is constant
         \
 
 
-        ![image](../.gitbook/assets/Image\_1621.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1621.jpg)

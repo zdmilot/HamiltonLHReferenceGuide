@@ -7,7 +7,7 @@ _A maximum of two TCCs can be placed on one ML STAR and controlled by the VENUS 
 \
 
 
-![image](../.gitbook/assets/Image\_1679.gif)
+![image](../.gitbook/manual-images/assets/Image\_1679.gif)
 
 \
 
@@ -17,7 +17,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
 \
 
 
-![image](../.gitbook/assets/Image\_1680.gif)
+![image](../.gitbook/manual-images/assets/Image\_1680.gif)
 
 \
 
@@ -36,8 +36,8 @@ _The method is also using the sample tracker to store the pipetting data to a fi
     | ----------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------- |
     | Preparation             |                                                                                                    |                                     |
     | Command                 | Icon                                                                                               | Action Performed                    |
-    | Set Carrier Temperature | <p><br></p><p><img src="../.gitbook/assets/Image_1681.jpg" alt="NewIMAGES/setcarrierTemp.bmp"></p> | Sets the temperature of a TCC.      |
-    | Get Carrier Temperature | <p><br></p><p><img src="../.gitbook/assets/Image_1682.jpg" alt="NewIMAGES/getcarrierTemp.bmp"></p> | Retrieves the temperature of a TCC. |
+    | Set Carrier Temperature | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1681.jpg" alt="NewIMAGES/setcarrierTemp.bmp"></p> | Sets the temperature of a TCC.      |
+    | Get Carrier Temperature | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1682.jpg" alt="NewIMAGES/getcarrierTemp.bmp"></p> | Retrieves the temperature of a TCC. |
 
     _Typical times (at 40% rel. humidity) to heat and cool a Microplate are (Tambient ≈ 20°C):_
 
@@ -74,7 +74,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
     \
 
 
-    ![image](../.gitbook/assets/Image\_1683.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1683.jpg)
 
     \
 
@@ -95,7 +95,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
     \
 
 
-    ![image](../.gitbook/assets/Image\_1684.gif)
+    ![image](../.gitbook/manual-images/assets/Image\_1684.gif)
 
     \
 
@@ -105,7 +105,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
     \
 
 
-    ![image](../.gitbook/assets/Image\_1685.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1685.jpg)
 
     \
 
@@ -121,7 +121,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
         \
 
 
-        ![image](../.gitbook/assets/Image\_1686.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1686.jpg)
 
         \
 
@@ -132,7 +132,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
         \
 
 
-        ![image](../.gitbook/assets/Image\_1687.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1687.jpg)
 
         \
 
@@ -147,7 +147,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
         \
 
 
-        ![image](../.gitbook/assets/Image\_1688.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1688.jpg)
 
         \
 
@@ -157,7 +157,7 @@ _The method is also using the sample tracker to store the pipetting data to a fi
         \
 
 
-        ![image](../.gitbook/assets/Image\_1689.gif)
+        ![image](../.gitbook/manual-images/assets/Image\_1689.gif)
 
         \
 
@@ -168,10 +168,10 @@ _The method is also using the sample tracker to store the pipetting data to a fi
         \
 
 
-        ![image](../.gitbook/assets/Image\_1690.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1690.jpg)
 
         \
 
     19. _The resulting file is shown below. If customized column names are specified, all columns are marked with a “T” refers to the Target Sequence while all columns beginning with “S” refers to the Source Sequence.‌_
 
-    ![image](../.gitbook/assets/Image\_1691.gif)
+    ![image](../.gitbook/manual-images/assets/Image\_1691.gif)

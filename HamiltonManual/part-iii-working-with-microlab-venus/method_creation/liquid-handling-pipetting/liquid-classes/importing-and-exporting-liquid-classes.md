@@ -10,7 +10,7 @@ _Liquid classes are stored in a database file. Opening the liquid editor loads l
     \
 
 
-    ![image](../../../../.gitbook/assets/Image\_1394.jpg)
+    ![image](../../../../.gitbook/manual-images/assets/Image\_1394.jpg)
 
     \
 
@@ -19,13 +19,13 @@ _Liquid classes are stored in a database file. Opening the liquid editor loads l
     \
 
 
-    ![image](../../../../.gitbook/assets/Image\_1395.jpg)
+    ![image](../../../../.gitbook/manual-images/assets/Image\_1395.jpg)
 3.  _Click the \[Open file...] Button to open the desired liquid database (in .mdb format)._
 
     \
 
 
-    ![image](../../../../.gitbook/assets/Image\_1396.jpg)
+    ![image](../../../../.gitbook/manual-images/assets/Image\_1396.jpg)
 
     \
 
@@ -36,7 +36,7 @@ _Liquid classes are stored in a database file. Opening the liquid editor loads l
     \
 
 
-    ![image](../../../../.gitbook/assets/Image\_1397.jpg)
+    ![image](../../../../.gitbook/manual-images/assets/Image\_1397.jpg)
 
     \
 

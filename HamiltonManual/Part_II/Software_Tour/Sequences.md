@@ -12,11 +12,11 @@ Example
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Image_336.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/Image_336.gif" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,14 +36,14 @@ Every sequence (such as the ones shown below) has three pointers which may chang
 
 > **Example:**
 >
-> <img src="../../.gitbook/assets/image (205).png" alt="" data-size="original">
+> <img src="../../.gitbook/manual-images/assets/image (205).png" alt="" data-size="original">
 >
 > Within the method, all three pointers may be modified or requested through the appropriate functions.\
 >
 
-| <img src="../../.gitbook/assets/image (206).png" alt="" data-size="original">                                                                                   | A **default sequence** is created automatically when plates or tube racks are placed on the deck. The sorting of these sequences is depending on the selected stamp tool.  |
+| <img src="../../.gitbook/manual-images/assets/image (206).png" alt="" data-size="original">                                                                                   | A **default sequence** is created automatically when plates or tube racks are placed on the deck. The sorting of these sequences is depending on the selected stamp tool.  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><p>Having for instance, the stamp tool for the CO-RE 96 Probe Head activated, the default sequence will be optimized to be processed with this head.</p> | <img src="../../.gitbook/assets/image (207).png" alt="" data-size="original">                                                                                              |
+| <p></p><p>Having for instance, the stamp tool for the CO-RE 96 Probe Head activated, the default sequence will be optimized to be processed with this head.</p> | <img src="../../.gitbook/manual-images/assets/image (207).png" alt="" data-size="original">                                                                                              |
 
 
 
@@ -70,7 +70,7 @@ Custom sequences can be defined graphically in two ways:
 > 3. Dispense to Plates
 > 4. Eject to Waste
 >
-> <img src="../../.gitbook/assets/image (208).png" alt="" data-size="original">
+> <img src="../../.gitbook/manual-images/assets/image (208).png" alt="" data-size="original">
 
 
 
@@ -94,7 +94,7 @@ In an example of a 96-well Microplate and the 8-Pipetting Channel STAR, the defa
 \
 
 
-<table data-header-hidden><thead><tr><th width="156"></th><th width="412"></th><th></th></tr></thead><tbody><tr><td><p>1st pipetting: </p><p>2nd pipetting: </p><p>3rd pipetting: </p><p>4th pipetting:</p><p>…</p></td><td><p>A1; B1; C1; D1; E1; F1; G1; H1 ( = column 1) </p><p>A2; B2; C2; D2; E2; F2; G2; H2 ( = column 2) </p><p>A3; B3; C3; D3; E3; F3; G3; H3 ( = column 3)</p><p> A4; B4; C4; D4; E4; F4; G4; H4 ( = column 4)</p><p>…</p></td><td><p></p><p><img src="../../.gitbook/assets/Image_345.jpg" alt="MTP"></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="156"></th><th width="412"></th><th></th></tr></thead><tbody><tr><td><p>1st pipetting: </p><p>2nd pipetting: </p><p>3rd pipetting: </p><p>4th pipetting:</p><p>…</p></td><td><p>A1; B1; C1; D1; E1; F1; G1; H1 ( = column 1) </p><p>A2; B2; C2; D2; E2; F2; G2; H2 ( = column 2) </p><p>A3; B3; C3; D3; E3; F3; G3; H3 ( = column 3)</p><p> A4; B4; C4; D4; E4; F4; G4; H4 ( = column 4)</p><p>…</p></td><td><p></p><p><img src="../../.gitbook/manual-images/assets/Image_345.jpg" alt="MTP"></p></td></tr></tbody></table>
 
 
 
@@ -109,6 +109,6 @@ Now all of the pipetting spots of the 96-well plates are merged into one sequenc
 
 Only one pipetting step is now needed because of merging the 96-well Microplates to one source sequence.
 
-<figure><img src="../../.gitbook/assets/Image_346.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/manual-images/assets/Image_346.jpg" alt=""><figcaption></figcaption></figure>
 
 The programming of the reformatting steps then becomes much easier. Within only one pipetting step, all wells of the four 96-well Microplates can be transferred to the 384-well Microplate.

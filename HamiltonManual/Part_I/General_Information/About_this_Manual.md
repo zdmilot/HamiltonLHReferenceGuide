@@ -14,7 +14,7 @@ Warnings and notes are included in this manual to emphasize important and critic
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (23).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>Any warning or important information will be accompanied by this symbol. Read these items carefully.</p></td></tr><tr><td><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Information which can be useful but not essential to the task at hand is given.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/manual-images/assets/image (23).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>Any warning or important information will be accompanied by this symbol. Read these items carefully.</p></td></tr><tr><td><img src="../../.gitbook/manual-images/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Information which can be useful but not essential to the task at hand is given.</p></td></tr></tbody></table>
 
 
 

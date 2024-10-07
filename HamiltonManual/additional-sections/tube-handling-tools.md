@@ -5,7 +5,7 @@
 \
 
 
-![tubeGripper](../.gitbook/assets/Image\_1582.jpg)
+![tubeGripper](../.gitbook/manual-images/assets/Image\_1582.jpg)
 
 _This section provides all necessary information about the tube-gripper. This tool can be used to move tubes to a barcode reader (if the Autoload option is not installed), to load/unload tubes to an integrated centrifuge, to pick specific tubes from multiple carriers into one target carrier, to move tubes to a balance (measuring evaporation), etc._
 
@@ -24,14 +24,14 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
     \
 
 
-    ![image](../.gitbook/assets/Image\_1583.gif)
+    ![image](../.gitbook/manual-images/assets/Image\_1583.gif)
 
     _In the Method Editor, the tube-gripper steps are found:_
 
     \
 
 
-    ![image](../.gitbook/assets/Image\_1584.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1584.jpg)
 
     _“Tube Grip Get”_
 
@@ -45,7 +45,7 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
         \
 
 
-        ![image](../.gitbook/assets/Image\_1585.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1585.jpg)
 
         \
 
@@ -60,9 +60,9 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
         \
 
 
-        ![image](../.gitbook/assets/Image\_1586.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1586.jpg)
 
-        ![Originalbild anzeigen](../.gitbook/assets/Image\_1587.gif)
+        ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1587.gif)
 
         _NOTE_
 
@@ -83,7 +83,7 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
         \
 
 
-        ![image](../.gitbook/assets/Image\_1588.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1588.jpg)
 
         \
 
@@ -100,7 +100,7 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
     \
 
 
-    ![image](../.gitbook/assets/Image\_1589.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1589.jpg)
 
     _In order to link the value of the barcode to a variable, the return value of the step has to be linked._
 
@@ -109,7 +109,7 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
         \
 
 
-        ![image](../.gitbook/assets/Image\_1590.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1590.jpg)
 
         \
 
@@ -118,13 +118,13 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
         \
 
 
-        ![image](../.gitbook/assets/Image\_1591.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1591.jpg)
 
         \
 
     3. _Type in or select a variable that will hold the value of the barcode. Finish with \[OK]._
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1592.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1592.jpg)
 
     _NOTE_
 
@@ -135,4 +135,4 @@ _This tool is mounted on a pipetting channel and can be moved over the deck in t
     \
 
 
-    ![image](../.gitbook/assets/Image\_1593.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1593.jpg)

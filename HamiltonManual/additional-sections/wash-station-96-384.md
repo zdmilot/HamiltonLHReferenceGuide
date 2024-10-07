@@ -7,7 +7,7 @@ _The Wash Station 96/384 is an optional device for washing 96/384 disposable tip
 \
 
 
-![Originalbild anzeigen](../.gitbook/assets/Image\_1664.jpg)
+![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1664.jpg)
 
 _NOTE_
 
@@ -23,7 +23,7 @@ _The picture below shows a complete, hooked-up wash station 96/384:_
 \
 
 
-![190245](../.gitbook/assets/Image\_1665.jpg)
+![190245](../.gitbook/manual-images/assets/Image\_1665.jpg)
 
 1. _a) Washer unit 96/384_
    1. _Pump unit H and tubing_
@@ -47,7 +47,7 @@ _Liquid level sensors inside the washer unit prevent flooding of the system. The
 \
 
 
-![Originalbild anzeigen](../.gitbook/assets/Image\_1666.jpg)
+![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1666.jpg)
 
 _NOTE_
 
@@ -67,8 +67,8 @@ _Always empty the waste container when refilling the wash solution container. Wh
     | -------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------- |
     | CO-RE 96 Probe Head        |                                                                                                           |                  |
     | Command                    | Icon                                                                                                      | Action Performed |
-    | CO-RE 96 Head Wash         | <p><br></p><p><img src="../.gitbook/assets/Image_1667.jpg" alt="NewIMAGES/core96headwash.bmp"></p>        | Wash tips.       |
-    | CO-RE 96 Head Empty Washer | <p><br></p><p><img src="../.gitbook/assets/Image_1668.jpg" alt="NewIMAGES/core96heademptyWasher.bmp"></p> | Empty washer.    |
+    | CO-RE 96 Head Wash         | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1667.jpg" alt="NewIMAGES/core96headwash.bmp"></p>        | Wash tips.       |
+    | CO-RE 96 Head Empty Washer | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1668.jpg" alt="NewIMAGES/core96heademptyWasher.bmp"></p> | Empty washer.    |
 
     \
 
@@ -77,13 +77,13 @@ _Always empty the waste container when refilling the wash solution container. Wh
     | --------------------------- | ---------------------------------------------------------------------------- | ---------------- |
     | CO-RE 384 Probe Head        |                                                                              |                  |
     | Command                     | Icon                                                                         | Action Performed |
-    | CO-RE 384 Head Wash         | <p><br></p><p><img src="../.gitbook/assets/Image_1669.jpg" alt="AA384W"></p> | Wash tips.       |
-    | CO-RE 384 Head Empty Washer | <p><br></p><p><img src="../.gitbook/assets/Image_1670.jpg" alt="AA384E"></p> | Empty washer.    |
+    | CO-RE 384 Head Wash         | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1669.jpg" alt="AA384W"></p> | Wash tips.       |
+    | CO-RE 384 Head Empty Washer | <p><br></p><p><img src="../.gitbook/manual-images/assets/Image_1670.jpg" alt="AA384E"></p> | Empty washer.    |
 
     \
 
 
-    ![image](../.gitbook/assets/Image\_1671.png)
+    ![image](../.gitbook/manual-images/assets/Image\_1671.png)
 
     _ATTENTION_
 
@@ -100,7 +100,7 @@ _Always empty the waste container when refilling the wash solution container. Wh
     \
 
 
-    ![image](../.gitbook/assets/Image\_1672.gif)
+    ![image](../.gitbook/manual-images/assets/Image\_1672.gif)
 
     \
 
@@ -112,7 +112,7 @@ _Always empty the waste container when refilling the wash solution container. Wh
     \
 
 
-    ![image](../.gitbook/assets/Image\_1673.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1673.jpg)
 
     \
 
@@ -137,7 +137,7 @@ _Always empty the waste container when refilling the wash solution container. Wh
     \
 
 
-    ![image](../.gitbook/assets/Image\_1674.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1674.jpg)
 
     _The step in line 1 initializes the instrument._
 
@@ -146,7 +146,7 @@ _Always empty the waste container when refilling the wash solution container. Wh
     \
 
 
-    ![SNAGHTMLddc391](../.gitbook/assets/Image\_1675.png)
+    ![SNAGHTMLddc391](../.gitbook/manual-images/assets/Image\_1675.png)
 
     \
 
@@ -156,18 +156,18 @@ _Always empty the waste container when refilling the wash solution container. Wh
         \
 
 
-        ![image](../.gitbook/assets/Image\_1676.jpg)
+        ![image](../.gitbook/manual-images/assets/Image\_1676.jpg)
     2. _Eject the tips. Use “Eject on tip pick up position” to eject the tips back into the tip carrier._
 
     \
 
 
-    ![image](../.gitbook/assets/Image\_1677.jpg)
+    ![image](../.gitbook/manual-images/assets/Image\_1677.jpg)
 
     \
 
 
-    ![Originalbild anzeigen](../.gitbook/assets/Image\_1678.jpg)
+    ![Originalbild anzeigen](../.gitbook/manual-images/assets/Image\_1678.jpg)
 
     _NOTE_
 
