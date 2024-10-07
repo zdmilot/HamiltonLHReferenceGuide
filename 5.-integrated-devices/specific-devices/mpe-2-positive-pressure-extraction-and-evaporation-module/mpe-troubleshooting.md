@@ -1,4 +1,4 @@
-# \[MPE]²Troubleshooting
+# \[MPE]² Troubleshooting
 
 8 Troubleshooting
 

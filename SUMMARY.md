@@ -68,7 +68,8 @@
 * [5. Setting Up a Method Before Programming](4.-setting-up-a-method-before-programming/README.md)
   * [End User Notification Methodologies](4.-setting-up-a-method-before-programming/end-user-notification-methodologies.md)
   * [Big data and bigger problems](4.-setting-up-a-method-before-programming/big-data-and-bigger-problems.md)
-  * [Barcoding](4.-setting-up-a-method-before-programming/barcoding.md)
+  * [Barcoding](4.-setting-up-a-method-before-programming/barcoding/README.md)
+    * [Barcoding and Sample Tracking in the Lab](4.-setting-up-a-method-before-programming/barcoding/barcoding-and-sample-tracking-in-the-lab.md)
   * [Assay Automation Background and Preparation](4.-setting-up-a-method-before-programming/assay-automation-background-and-preparation.md)
   * [Residual Volumes/Dead Volume Reference for Labware](4.-setting-up-a-method-before-programming/residual-volumes-dead-volume-reference-for-labware.md)
   * [Dispense Methodologies](4.-setting-up-a-method-before-programming/dispense-methodologies.md)
@@ -88,6 +89,8 @@
     * [Creating liquid classes from a MAD or TADM dataset](4.-setting-up-a-method-before-programming/liquid-class-selection-and-definition/creating-liquid-classes-from-a-mad-or-tadm-dataset.md)
     * [Volume Verification](4.-setting-up-a-method-before-programming/liquid-class-selection-and-definition/volume-verification.md)
 * [6. Programming a Liquid Handling Method in Venus](5.-programming-a-liquid-handling-method-in-venus/README.md)
+  * [Hamilton Vantage Hardware Add-Ons](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/README.md)
+    * [Tube-gripper‌](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/tube-handling-tools.md)
   * [How to Create a Deck Layout](5.-programming-a-liquid-handling-method-in-venus/how-to-create-a-deck-layout.md)
   * [Method Building Blocks](5.-programming-a-liquid-handling-method-in-venus/method-building-blocks/README.md)
     * [Sequences](5.-programming-a-liquid-handling-method-in-venus/method-building-blocks/sequences.md)
@@ -158,14 +161,15 @@
   * [Device Communication Methods](5.-integrated-devices/device-communication-methods.md)
   * [Specific Devices](5.-integrated-devices/specific-devices/README.md)
     * [Basic Vacuum System (BVS) / Crystal Vacuum System (CVS)](5.-integrated-devices/specific-devices/page.md)
-    * [\[MPE\]²](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/README.md)
+    * [\[MPE\]²](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module.md)
       * [\[MPE\]² Device Overview](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/mpe-device-overview.md)
       * [\[MPE\]² Software Overview](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/mpe-software-overview.md)
       * [\[MPE\]² Programming](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/mpe-programming.md)
-      * [\[MPE\]²Troubleshooting](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/mpe-troubleshooting.md)
+      * [\[MPE\]² Troubleshooting](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/mpe-troubleshooting.md)
     * [Inheco ODTC](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/README.md)
       * [Page 2](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/page-2.md)
       * [Return Codes](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/return-codes.md)
+    * [HHS (Hamilton Heater Shaker)](5.-integrated-devices/specific-devices/hamilton-heater-shaker.md)
 * [8. Advanced Method Programming](6.-advanced-method-programming/README.md)
   * [Message Brokerage for Data Exchanges between Cloud Software Services](6.-advanced-method-programming/message-brokerage-for-data-exchanges-between-cloud-software-services.md)
   * [Run Two STARs from One PC and One Method](6.-advanced-method-programming/run-two-stars-from-one-pc-and-one-method.md)
@@ -551,56 +555,6 @@
   * [CO-RE 96 Head pattern mode limitations](13.-error-index/co-re-96-head-pattern-mode-limitations.md)
 * [15. Glossary](14.-glossary.md)
 
-## The Automated Lab Articles
-
-* [Proteomics: Into the Fold](the-automated-lab-articles/proteomics-into-the-fold.md)
-* [Experiment Smarter, Not Harder: Design of Experiments (DOE) Fundamentals](the-automated-lab-articles/experiment-smarter-not-harder-design-of-experiments-doe-fundamentals.md)
-
-## Part I: General and Installation Information
-
-* [General Information](HamiltonManual/README.md)
-  * [About this Manual](HamiltonManual/Part\_I/General\_Information/About\_this\_Manual.md)
-  * [Use of the ML STAR](HamiltonManual/Part\_I/General\_Information/Use\_of\_ML\_STAR.md)
-* [VENUS Software Installation Procedure](HamiltonManual/part-i-general-and-installation-information/installation\_procedure/README.md)
-  * [Oracle Database Installation](HamiltonManual/part-i-general-and-installation-information/installation\_procedure/oracle\_database\_installation.md)
-  * [Authentication Systems](HamiltonManual/part-i-general-and-installation-information/installation\_procedure/authentication\_systems.md)
-  * [Adding Labware and Libraries](HamiltonManual/part-i-general-and-installation-information/installation\_procedure/adding\_labware\_libraries.md)
-  * [File Structure](HamiltonManual/part-i-general-and-installation-information/installation\_procedure/file\_structure.md)
-
-## Part II: The Microlab STAR VENUS Software
-
-* [Hamilton System Configuration Editor](HamiltonManual/Part\_II/Configuration\_Editor/README.md)
-  * [System Settings](HamiltonManual/Part\_II/Configuration\_Editor/System\_Settings.md)
-  * [Vector Database Connection](HamiltonManual/Part\_II/Configuration\_Editor/Vector\_Database\_Connection.md)
-  * [Error Settings](HamiltonManual/Part\_II/Configuration\_Editor/Error\_Settings.md)
-  * [Security Settings](HamiltonManual/Part\_II/Configuration\_Editor/Security\_Settings.md)
-  * [Step Selection](HamiltonManual/Part\_II/Configuration\_Editor/Step\_Selection.md)
-  * [General Steps Settings](HamiltonManual/Part\_II/Configuration\_Editor/General\_Steps\_Settings.md)
-  * [ML STAR Smart Steps Settings](HamiltonManual/Part\_II/Configuration\_Editor/ML\_STAR\_Smart\_Steps\_Settings.md)
-  * [Data Handling Steps Settings](HamiltonManual/Part\_II/Configuration\_Editor/Data\_Handling\_Steps\_Settings.md)
-  * [Custom Dialog Steps Settings](HamiltonManual/Part\_II/Configuration\_Editor/Custom\_Dialog\_Steps\_Settings.md)
-  * [ML STAR Settings](HamiltonManual/part-ii-the-microlab-star-venus-software/configuration\_editor/ml\_star\_settings/README.md)
-    * [Barcode Settings](HamiltonManual/part-ii-the-microlab-star-venus-software/configuration\_editor/ml\_star\_settings/barcode\_settings.md)
-    * [Communication Settings](HamiltonManual/part-ii-the-microlab-star-venus-software/configuration\_editor/ml\_star\_settings/communication\_settings.md)
-    * [Instrument Configuration](HamiltonManual/part-ii-the-microlab-star-venus-software/configuration\_editor/ml\_star\_settings/instrument\_configuration.md)
-    * [Maintenance Settings](HamiltonManual/part-ii-the-microlab-star-venus-software/configuration\_editor/ml\_star\_settings/maintenance\_settings.md)
-    * [Simulator Settings](HamiltonManual/part-ii-the-microlab-star-venus-software/configuration\_editor/ml\_star\_settings/simulator\_settings.md)
-    * [Step Selection Settings](HamiltonManual/part-ii-the-microlab-star-venus-software/configuration\_editor/ml\_star\_settings/step\_selection\_settings.md)
-* [ML VENUS Software Tour](HamiltonManual/Part\_II/Software\_Tour/README.md)
-  * [Methods](HamiltonManual/Part\_II/Software\_Tour/Methods.md)
-  * [Introducing the Method Editor](HamiltonManual/Part\_II/Software\_Tour/Method\_Editor.md)
-  * [Method Editor Details](HamiltonManual/Part\_II/Software\_Tour/Editor\_Details.md)
-  * [Menu Options](HamiltonManual/part-ii-the-microlab-star-venus-software/software\_tour/editor\_details-1.md)
-  * [Method Export and Import‌](HamiltonManual/part-ii-the-microlab-star-venus-software/software\_tour/method-export-and-import.md)
-  * [Toolbox Window](HamiltonManual/part-ii-the-microlab-star-venus-software/software\_tour/toolbox-window.md)
-  * [Command Overview by Step Groups](HamiltonManual/Part\_II/Software\_Tour/Command\_Overview.md)
-  * [System Deck](HamiltonManual/Part\_II/Software\_Tour/System\_Deck.md)
-  * [Sequences](HamiltonManual/Part\_II/Software\_Tour/Sequences.md)
-  * [Labware](HamiltonManual/part-ii-the-microlab-star-venus-software/software\_tour/labware/README.md)
-    * [Labware Types](HamiltonManual/part-ii-the-microlab-star-venus-software/software\_tour/labware/labware-types.md)
-    * [Reference Position](HamiltonManual/part-ii-the-microlab-star-venus-software/software\_tour/labware/reference-position.md)
-    * [Height Parameters](HamiltonManual/part-ii-the-microlab-star-venus-software/software\_tour/labware/height-parameters.md)
-
 ## Part III: Working with Microlab VENUS
 
 * [How to Create a Deck Layout](part-iii-working-with-microlab-venus/how-to-create-a-deck-layout/README.md)
@@ -654,14 +608,16 @@
 * [Loading Labware / Labware Handling](HamiltonManual/additional-sections/labware\_handling.md)
 * [iSWAP](HamiltonManual/additional-sections/iswap.md)
 * [CO-RE Gripper](HamiltonManual/additional-sections/co\_re\_gripper.md)
-* [Tube Handling Tools‌](HamiltonManual/additional-sections/tube-handling-tools.md)
-* [Hamilton Heater Shaker](HamiltonManual/additional-sections/hamilton-heater-shaker.md)
 * [‌CR Needle Wash Station‌](HamiltonManual/additional-sections/cr-needle-wash-station.md)
 * [DC Needle Wash Station‌](HamiltonManual/additional-sections/dc-needle-wash-station.md)
 * [Wash Station 96‌](HamiltonManual/additional-sections/wash-station-96.md)
 * [Wash Station 96/384‌](HamiltonManual/additional-sections/wash-station-96-384.md)
 * [Temperature Controlled Carrier (TCC)](HamiltonManual/additional-sections/temperature-controlled-carrier-tcc.md)
-* [Basic Vacuum System (BVS) / Crystal Vacuum System (CVS)](HamiltonManual/additional-sections/basic-vacuum-system-bvs-crystal-vacuum-system-cvs.md)
+
+## The Automated Lab Articles
+
+* [Proteomics: Into the Fold](the-automated-lab-articles/proteomics-into-the-fold.md)
+* [Experiment Smarter, Not Harder: Design of Experiments (DOE) Fundamentals](the-automated-lab-articles/experiment-smarter-not-harder-design-of-experiments-doe-fundamentals.md)
 
 ## References
 
