@@ -1,6 +1,6 @@
 # Data Handling Steps Settings
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The “Data Handling” Section allows the enabling or disabling of the following functions:
 

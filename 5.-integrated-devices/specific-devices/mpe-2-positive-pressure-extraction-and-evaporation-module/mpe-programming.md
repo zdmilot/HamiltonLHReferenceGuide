@@ -29,7 +29,7 @@ The ConnectUsingCOM command connects to the \[MPE]2 using a USB cable. This comm
 
 * comPort: Enter the port on the controlling computer to which the \[MPE]2 is connected. To find the COM port, open the File Explorer, right-click This PC, and select Manage. In the Computer Management window, select Device Manager. The COM port connections are listed under “Ports (COM & LPT)”.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 Figure 6–1: Obtaining COM port values
 
@@ -345,7 +345,7 @@ distance between the liquid level in the wells and the needles during evaporatio
 * needleOffset: Enter the initial distance in millimeters between the needle tips and the top of the plate.
 * evaporatorTravelDistance: Enter the depth in millimeters of the plate being evaporated.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image.png" alt="" data-size="original"></td><td><p>WARNING</p><p>Subtract the depth of any remaining liquid in the wells from the well depth to avoid contaminating the Evaporator’s needles.l.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (144).png" alt="" data-size="original"></td><td><p>WARNING</p><p>Subtract the depth of any remaining liquid in the wells from the well depth to avoid contaminating the Evaporator’s needles.l.</p></td></tr></tbody></table>
 
 * evaporateTime: Enter the duration of the Evaporate step in seconds.
 * followRate: Enter the rate in mm/s to reduce the distance between the needle tips and the plate. This value must be less than the evaporatorTravelDistance divided by the evaporateTime.

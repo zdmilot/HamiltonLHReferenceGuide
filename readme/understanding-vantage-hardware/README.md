@@ -228,7 +228,7 @@ Certified RNAse, DNAse, pyrogene free
 * No vertical force for tip attachment or tip ejection&#x20;
 * Allows for multiple tip and needle sizes during the same run
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="303"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="LLD" %}
@@ -264,7 +264,7 @@ Using MAD during the aspiration, pressure changes are monitored for the followin
 * Pressure decrease due to aspiration of clot. The pressure drops below a lower clot threshold indicating a clot was detected.&#x20;
 * Minimum pressure difference between the start and the end of the liquid transfer
 
-<figure><img src="../../.gitbook/assets/image (23) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <details>
 
@@ -291,7 +291,7 @@ Using MAD during the aspiration, pressure changes are monitored for the followin
 {% endtab %}
 
 {% tab title="TADM" %}
-[Total Air Displacement Monitoring (TADM)](../../6.-advanced-method-programming/total-air-displacement-monitoring-tadm.md) monitors aspiration and dispense of a liquid in real time. The pressure sensor in the channel is used during both aspiration and dispense steps to detect errors, like clots, foam, and lack of liquid. Upper and lower tolerance bands can be established and monitored for exception.&#x20;
+[Total Air Displacement Monitoring (TADM)](../../6.-advanced-method-programming/total-air-displacement-monitoring-tadm/) monitors aspiration and dispense of a liquid in real time. The pressure sensor in the channel is used during both aspiration and dispense steps to detect errors, like clots, foam, and lack of liquid. Upper and lower tolerance bands can be established and monitored for exception.&#x20;
 
 TADM can be used in two different modes:
 

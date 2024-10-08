@@ -6,7 +6,7 @@ Containers are vessels which hold liquids. They are usually placed in racks. The
 
 The filename has the extension “.ctr”.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Pipetting is only done into containers! </p><p>Sequences can be created on containers only! </p><p>CO-RE tips and needles are also defined as containers.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Pipetting is only done into containers! </p><p>Sequences can be created on containers only! </p><p>CO-RE tips and needles are also defined as containers.</p></td></tr></tbody></table>
 
 
 

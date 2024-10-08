@@ -16,7 +16,7 @@ Example
 
  
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,14 +36,14 @@ Every sequence (such as the ones shown below) has three pointers which may chang
 
 > **Example:**
 >
-> <img src="../../.gitbook/assets/image (120).png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/image (120) (1).png" alt="" data-size="original">
 >
 > Within the method, all three pointers may be modified or requested through the appropriate functions.\
 >
 
-| <img src="../../.gitbook/assets/image (121).png" alt="" data-size="original">                                                                                   | A **default sequence** is created automatically when plates or tube racks are placed on the deck. The sorting of these sequences is depending on the selected stamp tool.  |
+| <img src="../../.gitbook/assets/image (121) (1).png" alt="" data-size="original">                                                                               | A **default sequence** is created automatically when plates or tube racks are placed on the deck. The sorting of these sequences is depending on the selected stamp tool.  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><p>Having for instance, the stamp tool for the CO-RE 96 Probe Head activated, the default sequence will be optimized to be processed with this head.</p> | <img src="../../.gitbook/assets/image (122).png" alt="" data-size="original">                                                                                              |
+| <p></p><p>Having for instance, the stamp tool for the CO-RE 96 Probe Head activated, the default sequence will be optimized to be processed with this head.</p> | <img src="../../.gitbook/assets/image (122) (1).png" alt="" data-size="original">                                                                                          |
 
 
 
@@ -70,7 +70,7 @@ Custom sequences can be defined graphically in two ways:
 > 3. Dispense to Plates
 > 4. Eject to Waste
 >
-> <img src="../../.gitbook/assets/image (123).png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/image (123) (1).png" alt="" data-size="original">
 
 
 

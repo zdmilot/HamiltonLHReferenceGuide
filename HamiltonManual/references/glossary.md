@@ -15,8 +15,7 @@
 | Work Area              | The area of the ML STAR to which access is provided during the processing. Elements to be pipetted or handled can be placed in this area.                                                          |
 | Worklist               | <p>Information according to which a method is to be executed on the ML STAR. A worklist may contain different parameters e.g.</p><p>Pipetting volume, heating temperature, shaking speed, etc.</p> |
 
-\
-
+\\
 
 | Term                     | Definition                                                                                                                                                                                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,5 +76,3 @@
 | Side Touch          | Pipetting on the wall of a container of its center to prevent droplets.                                                                                                                                                                                       |
 | TADM                | Total Aspiration and Dispensing Monitoring. The pressure inside each individual pipetting channel is monitored, during aspiration and dispensing.                                                                                                             |
 | Tip                 | Disposable tip for pipetting                                                                                                                                                                                                                                  |
-
-![image](../.gitbook/manual-images/assets/Image\_1726.png)

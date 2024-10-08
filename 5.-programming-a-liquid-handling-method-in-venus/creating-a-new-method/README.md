@@ -4,20 +4,20 @@
 
 1.  When started, the application appears as the image shown below:
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-2.  To create a method, click on the “ ![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>) ” Icon found on the tool bar or select “File -> New -> Method” as shown in the image below.
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+2.  To create a method, click on the “ ![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>) ” Icon found on the tool bar or select “File -> New -> Method” as shown in the image below.
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 3.  A selection dialog appears as shown in the image below.
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt="" width="505"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="505"><figcaption></figcaption></figure>
 4.  Select “Methods“ and type a file name for the first method, then click the \[Save] Button. The new method is saved and the step editor window will be displayed:
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 5.  To switch to other views like the “Deck Layout” or the “Action Editor”, use the quick link icons found on the toolbar.\
 
 
-    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
     \*This icon leads to the action editor if the Microlab STAR scheduling software is not installed. When the scheduling software is installed, this icon will lead to the activity editor.
 

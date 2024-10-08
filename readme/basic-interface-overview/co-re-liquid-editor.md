@@ -2,7 +2,7 @@
 
 The Hamilton Co-RE Liquid Editor is a powerful tool designed for managing liquid handling processes in lab automation systems. The primary function of the editor is to define and manage **liquid classes**, which are sets of parameters that dictate how a pipette aspirates and dispenses liquids. These parameters ensure accurate and consistent pipetting, regardless of the type of liquid being handled.
 
-<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt="" data-size="original"></td><td>Access the CO-RE Liquid Editor‌ by double clicking the “Hamilton CO-RE Liquid Editor‌” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> Hamilton CO-RE Liquid Editor‌”.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Access the CO-RE Liquid Editor‌ by double clicking the “Hamilton CO-RE Liquid Editor‌” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> Hamilton CO-RE Liquid Editor‌”.</td></tr></tbody></table>
 
 <div>
 
@@ -10,7 +10,7 @@ The Hamilton Co-RE Liquid Editor is a powerful tool designed for managing liquid
 
  
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt="" width="462"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" width="462"><figcaption></figcaption></figure>
 
 </div>
 

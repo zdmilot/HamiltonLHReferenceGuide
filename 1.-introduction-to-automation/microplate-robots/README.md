@@ -6,7 +6,7 @@ What is or isn’t a robot is surprisingly hard to agree on, but in this context
 
 #### Articulated Robots
 
-<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Articulated robot arms are the standard in industrial automation, but they are much less common in the lab. They are most popularly constructed with 6 axes, excluding the end effector.
 
