@@ -212,7 +212,7 @@
   * [Trace Commands](6.-advanced-method-programming/trace-commands.md)
   * [HSL Commands](6.-advanced-method-programming/hsl-commands.md)
   * [SQL Commands](6.-advanced-method-programming/sql-commands.md)
-  * [Error Handling](6.-advanced-method-programming/error-handling.md)
+  * [Customized Error Handling](6.-advanced-method-programming/error-handling.md)
   * [Using Parallel Processes](6.-advanced-method-programming/using-parallel-processes.md)
   * [Advanced Variables](6.-advanced-method-programming/advanced-variables.md)
   * [Worklist and LIMS Data Import](6.-advanced-method-programming/worklist-and-lims-data-import/README.md)

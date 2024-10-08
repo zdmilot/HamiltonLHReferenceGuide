@@ -7,42 +7,41 @@
 
 ![image](../../.gitbook/assets/Image\_1594.jpg)
 
-_The Hamilton Heater Shaker (HHS) is designed to heat and/or shake standard Microplates in SBS format._
+The Hamilton Heater Shaker (HHS) is designed to heat and/or shake standard Microplates in SBS format.
 
-_To operate the HHS, a specific library is required. The maximum shaking speed depends on the labware used._&#x20;
+To operate the HHS, a specific library is required. The maximum shaking speed depends on the labware used.&#x20;
 
-_Before the heating or shaking is started, the plates are locked and positioned in the center of the HHS. When heating or shaking has been finished, the plates are unlocked and can then easily be removed from the HHS._
+Before the heating or shaking is started, the plates are locked and positioned in the center of the HHS. When heating or shaking has been finished, the plates are unlocked and can then easily be removed from the HHS.
 
-_The HHS can be heated to temperatures up to 105°C. The temperature is constantly measured by two sensors, one located in the middle and one at the edge of the adapter plate._
+The HHS can be heated to temperatures up to 105°C. The temperature is constantly measured by two sensors, one located in the middle and one at the edge of the adapter plate.
 
 \
 
 
-## _Programming the Hamilton Heater Shaker‌_
+## Programming the Hamilton Heater Shaker‌
 
-_The following two examples demonstrate the use of the HHS._
+The following two examples demonstrate the use of the HHS.
 
-_Before using the HHS, a connection and device number has to be generated. After the connection has been established, the heater shaker will be initialized._
+Before using the HHS, a connection and device number has to be generated. After the connection has been established, the heater shaker will be initialized.
 
-_The library offers two commands for this task, depending on the kind of connection determined by the hardware. For connections made via TCC, use the “CreateStarDevice” Command (used for connecting 1 or 2 heater shakers); otherwise use the “CreateUSBDevice” Command. In both cases, a device number is generated that can be stored in a variable. This variable must be used in all other commands of the library to control the heater shaker._\
+The library offers two commands for this task, depending on the kind of connection determined by the hardware. For connections made via TCC, use the “CreateStarDevice” Command (used for connecting 1 or 2 heater shakers); otherwise use the “CreateUSBDevice” Command. In both cases, a device number is generated that can be stored in a variable. This variable must be used in all other commands of the library to control the heater shaker.\
 
 
-| Library Function |                                                                                |                                                                                                               |
-| ---------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| Number of HHS    | Icon                                                                           | Action Performed                                                                                              |
-| 1 – 2            | <p><br></p><p><img src="../../.gitbook/assets/Image_1595.jpg" alt="image"></p> | <p>Create Star Device</p><p>(Establish a connection to 1 or 2 shakers connected via TCC)</p>                  |
-| 1 – 8            | <p><br></p><p><img src="../../.gitbook/assets/Image_1596.jpg" alt="image"></p> | <p>Create USB Device</p><p>(Establish a connection to up to 8 heater shakers using the heater shaker box)</p> |
+| Number of HHS | Icon                                                                           | Action Performed                                                                                              |
+| ------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| 1 – 2         | <p><br></p><p><img src="../../.gitbook/assets/Image_1595.jpg" alt="image"></p> | <p>Create Star Device</p><p>(Establish a connection to 1 or 2 shakers connected via TCC)</p>                  |
+| 1 – 8         | <p><br></p><p><img src="../../.gitbook/assets/Image_1596.jpg" alt="image"></p> | <p>Create USB Device</p><p>(Establish a connection to up to 8 heater shakers using the heater shaker box)</p> |
 
-### _Safety Measures Upon Method Abort‌_
+### Safety Measures Upon Method Abort‌
 
-_As soon as the method is aborted, the heater shaker will automatically be stopped. This implies that the heating and shaking process is stopped. The plate lock is opened and the connection to the heater shaker is terminated. No further precautions within the submethod “OnAbort” are required._\
+As soon as the method is aborted, the heater shaker will automatically be stopped. This implies that the heating and shaking process is stopped. The plate lock is opened and the connection to the heater shaker is terminated. No further precautions within the submethod “OnAbort” are required.\
 
 
 <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is required to establish a connection to all heater shakers that will be used in the method. If, for example, only two out of four shakers have been initialized, only these two shakers can be started using the “StartAllShaker” Function.</em></p></td></tr><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The VENUS Help Function contains a description of all functions of the heater shaker library with a description of parameters passed to the functions or obtained by them. The help documentation can be accessed by clicking on the yellow question mark within the dialog windows:</em><br><em>NOTE</em></p><p><img src="../../.gitbook/assets/Image_1599.png" alt="image"></p><p></p></td></tr><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>When inserting a step in the method for the first time, on the toolbar, the “New” Add-on is imprinted.</em></p></td></tr></tbody></table>
 
-### _‌Example 1: Controlling One Hamilton Heater Shaker‌_
+### ‌Example 1: Controlling One Hamilton Heater Shaker‌
 
-_In this example, a single heater shaker is connected via the ML STAR instrument TCC connector. The heater shaker is heated to 65°C followed by 10 mins shaking at 200 rpm. A detailed description of all the steps can be found in the following section._\
+In this example, a single heater shaker is connected via the ML STAR instrument TCC connector. The heater shaker is heated to 65°C followed by 10 mins shaking at 200 rpm. A detailed description of all the steps can be found in the following section.\
 
 
 <figure><img src="../../.gitbook/assets/Image_1600.jpg" alt=""><figcaption></figcaption></figure>
@@ -96,9 +95,9 @@ _The figure above shows a schematic view of the heating and shaking process of E
 
 
 
-### _Example 2: Controlling Multiple Hamilton Heater Shakers‌_
+### Example 2: Controlling Multiple Hamilton Heater Shakers‌
 
-_This example shows the usage of multiple heater shakers via USB and the heater shaker box. The connection via USB and HSB is needed in order to control more than two heater shakers. The method is using three heater shakers with different temperature settings._
+This example shows the usage of multiple heater shakers via USB and the heater shaker box. The connection via USB and HSB is needed in order to control more than two heater shakers. The method is using three heater shakers with different temperature settings.
 
 <figure><img src="../../.gitbook/assets/Image_1611.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -153,18 +152,18 @@ _**Step 20:** The connections to the heater shakers are terminated. This step ca
 
 
 
-## _‌Monitoring the Performance of the Hamilton Heater Shaker‌_
+## ‌Monitoring the Performance of the Hamilton Heater Shaker‌
 
-_For some applications, it might be desirable to monitor the performance of the heater shaker. The library offers the possibility to monitor the shaking speed and temperature during an application. The status of the heater shaker is continuously written to the trace file. The settings for the monitoring can be adjusted within the functions “BeginMonitoring” and “SetTempParameter”._
+For some applications, it might be desirable to monitor the performance of the heater shaker. The library offers the possibility to monitor the shaking speed and temperature during an application. The status of the heater shaker is continuously written to the trace file. The settings for the monitoring can be adjusted within the functions “BeginMonitoring” and “SetTempParameter”.
 
-_Within the function “BeginMonitoring” the intervals can be defined, like how often the performance of the heater shaker will be checked and the deviation from the set shaking speed that will be tolerated. Choosing which action will be taken if monitoring reports an out of range measurement is also possible._
+Within the function “BeginMonitoring” the intervals can be defined, like how often the performance of the heater shaker will be checked and the deviation from the set shaking speed that will be tolerated. Choosing which action will be taken if monitoring reports an out of range measurement is also possible.
 
-_All settings regarding the temperature control have to be made within the function “SetTempParameter”, although the default settings are usually already sufficient._
+All settings regarding the temperature control have to be made within the function “SetTempParameter”, although the default settings are usually already sufficient.
 
-_After monitoring, the return value from the function “EndMonitoring” can be examined. The function reports whether heating or shaking or both were out of range._
+After monitoring, the return value from the function “EndMonitoring” can be examined. The function reports whether heating or shaking or both were out of range.
 
 <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/Image_1620.png" alt="image"></p><p></p></td><td><p>ATTENTION</p><p><em>Placing a cold plate on the hot heater shaker will cool down the heater shaker so that the temperature might fall below the defined tolerated temperature range. In this case, the “BeginMonitoring” Function will return an error even if heating is working correctly.</em></p><p><em>To avoid this kind of error, the “StartTempCtrl” Function has to be used immediately before the transport step. This results in heating the heater shaker again until the temperature is stable for 3 min. Monitoring is paused during the “StartTempCtrl” Step.</em></p></td></tr></tbody></table>
 
-_The image below is an example of the monitoring function._
+The image below is an example of the monitoring function.
 
 <figure><img src="../../.gitbook/assets/Image_1621.jpg" alt=""><figcaption></figcaption></figure>
