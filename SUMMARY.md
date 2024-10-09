@@ -186,7 +186,6 @@
       * [\[MPE\]² Programming](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/mpe-programming.md)
       * [\[MPE\]² Troubleshooting](5.-integrated-devices/specific-devices/mpe-2-positive-pressure-extraction-and-evaporation-module/mpe-troubleshooting.md)
     * [Inheco ODTC](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/README.md)
-      * [Page 2](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/page-2.md)
       * [Return Codes](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/return-codes.md)
     * [HHS (Hamilton Heater Shaker)](HamiltonManual/additional-sections/hamilton-heater-shaker.md)
     * [Temperature Controlled Carrier (TCC)](5.-integrated-devices/specific-devices/temperature-controlled-carrier-tcc.md)
