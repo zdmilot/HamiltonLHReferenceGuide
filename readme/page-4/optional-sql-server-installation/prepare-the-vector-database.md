@@ -16,7 +16,7 @@ Depending on whether the database was set up by VENUS during the original instal
 * Under System Settings (1) click the line titled Vector Database connection (2)
 *   Click \[…] on the right side (3)
 
-    ![](<../../../.gitbook/assets/image (32) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (32) (1) (1) (1).png>)\
 
 * On the Vector Database Connection Settings screen, enter the server name (if using the default VENUS database install or following instructions from Section 2, the Server will be LOCALHOST\HAMILTON) (1)
 * Enter a database name (2), typically:
@@ -28,7 +28,7 @@ Depending on whether the database was set up by VENUS during the original instal
   * Set Trusted Connection to No (3)
 *   If the database was installed manually, Click Prepare Server (6) and follow the remaining instructions – if the database was installed by VENUS during the original install, skip this step, click Test Connection, and then click OK to finish setup
 
-    ![](<../../../.gitbook/assets/image (33) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (33) (1) (1) (1).png>)\
 
 *   On the Vector Database Server Preparation screen, make sure Create Database
 
@@ -38,14 +38,14 @@ Depending on whether the database was set up by VENUS during the original instal
 * Enter the same Username and Password (4) used in the previous screen
 *   Click OK (5)
 
-    ![](<../../../.gitbook/assets/image (34) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (34) (1) (1) (1).png>)\
 
 
     \
 
 *   When presented with the “Are you sure you want to prepare the database server?” dialog, click Yes (1)
 
-    ![](<../../../.gitbook/assets/image (35) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (35) (1) (1) (1).png>)\
 
 
     \
@@ -54,7 +54,7 @@ Depending on whether the database was set up by VENUS during the original instal
 
     OK (1)
 
-    ![](<../../../.gitbook/assets/image (36) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (36) (1) (1) (1).png>)\
 
 
     \
@@ -65,7 +65,7 @@ Depending on whether the database was set up by VENUS during the original instal
 * Click OK to acknowledge the pop-up
 *   Click OK (2) to complete the setup
 
-    ![](<../../../.gitbook/assets/image (37) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (37) (1) (1) (1).png>)\
 
 
 

@@ -6,7 +6,7 @@ The iSWAP works on the basis of sequences (see Section 15.1.7 iSWAP Movement). P
 
 After processing of a sequence, the current position will be set to the next labware ID. If the same plate should be transported several times, select sequence counting '(0) Manually' or set the current position back to the previous position.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Sequence positions for transport steps are always differentiated by the labware ID. The current position of the transport sequence is to set the next labware ID in the sequence.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Sequence positions for transport steps are always differentiated by the labware ID. The current position of the transport sequence is to set the next labware ID in the sequence.</p></td></tr></tbody></table>
 
 <div>
 
@@ -22,5 +22,5 @@ In the example above, after the transport of plate Source\_1, the current positi
 
 It is recommended to define separate sequences for transport and pipetting, because the behavior of transport and pipetting is different.&#x20;
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The orientation of the plate depends on plate positioning on the deck and not on sequences. The orientation can be changed under the “Labware” Tab by the function ”Adjust Labware Position” – “Rotation”)</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The orientation of the plate depends on plate positioning on the deck and not on sequences. The orientation can be changed under the “Labware” Tab by the function ”Adjust Labware Position” – “Rotation”)</p></td></tr></tbody></table>
 

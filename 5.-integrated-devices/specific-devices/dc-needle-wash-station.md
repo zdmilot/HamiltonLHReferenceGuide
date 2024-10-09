@@ -2,7 +2,7 @@
 
 In combination with a wash station, re-usable steel needles can be used for pipetting with the spreadable pipetting channels of the ML STAR, instead of using the disposable tips. The result of washing the needles depends on the wash setting.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is recommended to use the “Needle Pickup” SmartStep. If the “1000μl Channel Tip Pick Up” Single Step is used, a “1000μl Channel Wait for Needle Wash” Step has to be programmed before the tip pick up step.</em></p><p><em>With the Easy Step ASPIRATE, the needle pick up is also possible.</em></p><p><em>With the Easy Step DISPENSE, needle eject and start washing is also possible.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is recommended to use the “Needle Pickup” SmartStep. If the “1000μl Channel Tip Pick Up” Single Step is used, a “1000μl Channel Wait for Needle Wash” Step has to be programmed before the tip pick up step.</em></p><p><em>With the Easy Step ASPIRATE, the needle pick up is also possible.</em></p><p><em>With the Easy Step DISPENSE, needle eject and start washing is also possible.</em></p></td></tr></tbody></table>
 
 
 
@@ -16,7 +16,7 @@ The DC needle wash station does not allow parallel washing and pipetting. Liquid
 
 The DC needle wash station consists of 32 positions for needles. Two different sets of needles can be used simultaneously. All types of needles (10 µl, 300 µl and 1000 µl) can be washed.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>There is no liquid level sensor in the waste container. Always empty the waste container in refilling the wash solution container.</em></p></td></tr><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The DC Needle Wash Station is no longer available.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>There is no liquid level sensor in the waste container. Always empty the waste container in refilling the wash solution container.</em></p></td></tr><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The DC Needle Wash Station is no longer available.</em></p></td></tr></tbody></table>
 
 
 
