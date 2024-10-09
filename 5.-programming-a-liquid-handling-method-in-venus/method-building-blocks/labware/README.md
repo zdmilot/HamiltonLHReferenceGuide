@@ -12,7 +12,7 @@ The benefits of a plate carrier to the left of Track 1 are:
 * Work positions available for Multi-Probe Heads
 * Labware storage positions available for iSWAP / CO-RE Grips
 
-<figure><img src="../../../../.gitbook/assets/image (124) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (124) (1).png" alt=""><figcaption></figcaption></figure>
 
 Definition
 
@@ -20,7 +20,7 @@ A labware item describes the geometry of objects which can be dealt with as a wh
 
 The ML STAR can be used with all kind of labware such as tubes, microplates, reagent troughs, etc. VENUS Software comes with a set of standard labware definitions.
 
-<figure><img src="../../../../.gitbook/assets/image (125) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (125) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pre-loaded Tips and Tube Carriers
 
@@ -31,7 +31,7 @@ There are also pre-loaded racks and carriers available, for example, a tip carri
 \
 
 
-<figure><img src="../../../../.gitbook/assets/image (128) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (128) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

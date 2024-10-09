@@ -16,4 +16,4 @@ To access this dialog:&#x20;
 
 5\. The dialog box shown below will appear.
 
-<figure><img src="../../../../.gitbook/assets/image (129) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (129) (1).png" alt=""><figcaption></figcaption></figure>

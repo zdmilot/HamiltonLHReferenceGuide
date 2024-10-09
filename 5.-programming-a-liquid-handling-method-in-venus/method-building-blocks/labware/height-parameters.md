@@ -6,7 +6,7 @@ The maximum pipetting height is the deepest position the tip or needle can be pl
 
 The LLD search height is the height at which the speed of the pipetting channel is reduced to look for the liquid surface.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
 
 **Container:**
 
@@ -41,7 +41,7 @@ Regarding the z position, two different cases of rack placement on the deck can 
 
 A “Container-Based” Rack is placed with the container bottom directly on the carrier (e.g. the microplates on a plate carrier):
 
-<img src="../../../../.gitbook/assets/image (461).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (461).png" alt="" data-size="original">
 
 The reference position Z0 is the lowest position in the well. Here, the reference height is calculated from
 
@@ -63,7 +63,7 @@ A "Rack-Based" Rack is placed with the frame on the instrument deck (e.g., a tub
 
 A “Rack-Based” Rack is placed with the frame on the instrument deck (e.g., a tube rack, where Zcarrier (H) = 0, because the tube rack is used directly as a carrier)
 
-![](<../../../../.gitbook/assets/image (462).png>)
+![](<../../../.gitbook/assets/image (462).png>)
 
 The reference position Z0 is the lowest position in the well. The reference height is calculated using: Z0 = Zdeck+Zcarrier+Zbasediff+Zthickness
 

@@ -25,7 +25,7 @@ Pipetting: In general, pipetting by the principle of air displacement (as with h
 
 The pipetting mode (e.g., surface or jet mode) and the liquid class determine the behavior of the instrument. Pipetting mode and liquid class represent two independent sets of information, both of which have to be specified.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Always use the same liquid class for one aspiration and dispense cycle. Otherwise uncalculated residual volumes may be left within the tip, or other errors regarding plunger position / movements may occur.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Always use the same liquid class for one aspiration and dispense cycle. Otherwise uncalculated residual volumes may be left within the tip, or other errors regarding plunger position / movements may occur.</p></td></tr></tbody></table>
 
 \
 
@@ -108,15 +108,15 @@ _Here is what the various parameters mean:_
 {% tab title="Step 1" %}
 _To start the Liquid Editor, select "ML STAR Series Liquid Editor" from the “Tools” Menu of the Method Editor._
 
-![image](../../../../.gitbook/assets/Image\_1382.jpg)
+![image](../../../../../.gitbook/assets/Image\_1382.jpg)
 
 _or Double-click the program icon found on the desktop_
 
-![image](../../../../.gitbook/assets/Image\_1383.jpg)
+![image](../../../../../.gitbook/assets/Image\_1383.jpg)
 
 _or Open a pipetting step and use the info sign to show the liquid details._
 
-![image](../../../../.gitbook/assets/Image\_1384.jpg)
+![image](../../../../../.gitbook/assets/Image\_1384.jpg)
 
 
 {% endtab %}
@@ -124,19 +124,19 @@ _or Open a pipetting step and use the info sign to show the liquid details._
 {% tab title="Step 2" %}
 From there, open the liquid editor:
 
-![image](../../../../.gitbook/assets/Image\_1385.jpg)
+![image](../../../../../.gitbook/assets/Image\_1385.jpg)
 {% endtab %}
 
 {% tab title="Step 3" %}
 _The liquid editor main window opens with a list of liquid classes as presented below._
 
-![image](../../../../.gitbook/assets/Image\_1386.jpg)
+![image](../../../../../.gitbook/assets/Image\_1386.jpg)
 {% endtab %}
 
 {% tab title="Step 4" %}
 _Double-click on a liquid class. This will activate the “Edit Liquid Class” Dialog._
 
-![image](../../../../.gitbook/assets/Image\_1387.jpg)
+![image](../../../../../.gitbook/assets/Image\_1387.jpg)
 
 
 {% endtab %}
@@ -158,7 +158,7 @@ _Range Button_
     \
 
 
-    ![image](../../../../.gitbook/assets/Image\_1389.jpg)
+    ![image](../../../../../.gitbook/assets/Image\_1389.jpg)
 3. _A correction curve shows a target volume and a corrected volume._
 
 _Target Volume_
@@ -180,14 +180,14 @@ Liquid Notes\
 
 
 
-![image](../../../../.gitbook/assets/Image\_1390.gif)
+![image](../../../../../.gitbook/assets/Image\_1390.gif)
 
 _Under this tab, information can be stored concerning the way the custom-made liquid class is determined. Information about the accuracy reached with this liquid class can also be stored here._
 
 \
 
 
-![Originalbild anzeigen](../../../../.gitbook/assets/Image\_1391.jpg)
+![Originalbild anzeigen](../../../../../.gitbook/assets/Image\_1391.jpg)
 
 _NOTE_
 
