@@ -5,9 +5,9 @@ When used as a benchtop device, the \[MPE]² utilizes Hamilton’s Vector softwa
 The software is composed of several different editors. The following editors are relevant for the \[MPE]² when used as a benchtop device:&#x20;
 
 * The Method Editor allows the user to create custom methods that drive the \[MPE]². It is accessed via the Hamilton Method Editor icon on the desktop.\
-  ![](<../../../.gitbook/assets/image (22) (1).png>)
+  ![](<../../../.gitbook/assets/image (22) (1) (1).png>)
 * The System Configuration Editor allows the user to change the system settings. From the Method Editor, click Tools > System Configuration Editor.\
-  ![](<../../../.gitbook/assets/image (23) (1).png>)\
+  ![](<../../../.gitbook/assets/image (23) (1) (1).png>)\
   \
 
 
@@ -20,7 +20,7 @@ The following procedure applies to an \[MPE]² used as a benchtop device. If usi
 3. Prepare the required filter and collection plates for the run. To make sure that the filter and collection plates are compatible with the \[MPE]², refer to section 5.3.
 4. Open the Hamilton Run Control program and use File > Open to find the desired method. Methods are stored by default in C:\Program Files (x86) > Hamilton > Methods.
 5. Click on View and select the desired view windows. Once these windows are opened, they can be resized and rearranged as necessary, as shown in Figure 5–4. The views can also be turned on and off by clicking the appropriate toggle buttons on the right side of the icon bar. \
-   ![](<../../../.gitbook/assets/image (24) (1).png>)
+   ![](<../../../.gitbook/assets/image (24) (1) (1).png>)
    1. The Method View shows which steps are being performed.&#x20;
    2. The Deck View normally shows a colorized model of the deck as the method runs. A deck layout is only present when integrated with an instrument running the Vector software.&#x20;
    3. The Trace View shows the traces for each step as they are executed.\

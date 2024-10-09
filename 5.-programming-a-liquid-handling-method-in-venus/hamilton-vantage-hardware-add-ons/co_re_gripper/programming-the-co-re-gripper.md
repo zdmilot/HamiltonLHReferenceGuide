@@ -6,11 +6,11 @@ Reading of the plate’s barcode is done by a third party barcode reader. In the
 
 The positions where to get the plates and where to put it after reading are not specified directly, but in an array. An array can be imaged as a table with two columns. In column one, the index is stored. This value is not changeable by the user. It always starts at one. The second column of the array can be filled by the user. Either a variable of type integer, float, and string can be stored or a sequence name can be stored in this cell.
 
-<figure><img src="../../../.gitbook/assets/image (119).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (119) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Far ahead in the method, these arrays can be read out and the values from e.g. the second column can be used as pipetting volumes, number of loops etc. (in case of an array of variables) or these values specify where to aspirate, where to get a plate etc. (in case of an array of sequences).
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The CO-RE gripper works on the base of sequences. Plates are moved from one sequence to another. The sequences remain fixed on the deck, but the plates change sequences.</p></td></tr><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Target and source plate positions must be of the same labware type.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The CO-RE gripper works on the base of sequences. Plates are moved from one sequence to another. The sequences remain fixed on the deck, but the plates change sequences.</p></td></tr><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Target and source plate positions must be of the same labware type.</p></td></tr></tbody></table>
 
 Creating the Deck Layout&#x20;
 
@@ -22,7 +22,7 @@ To work through this example, create the Deck Layout by following these steps:&#
 4. Add a plate “Nun\_96\_Fl\_Lb (low border)” directly on the deck. The coordinates should be x = 1100 / y = 150 / z = 150. This will be our position to read the plate’s barcode. Name it "ReadPosition". External in this case means that is not built in the ML STAR, but of course it must be located on the track area so the CO-RE gripper is able to reach the position.
 5. Add the COREGripTool\_AtWaste\_1000μl to the waste (it will snap).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -41,20 +41,20 @@ The following tables give a brief overview of the available ML STAR –specific 
 
 {% tabs %}
 {% tab title="Easy Steps" %}
-<table><thead><tr><th>Command</th><th width="183">Icon</th><th>Action Performed</th></tr></thead><tbody><tr><td>1000µl Channel CO-RE Grip Transport</td><td><p><br><img src="../../../.gitbook/assets/image (108).png" alt=""></p><p></p></td><td>Transports a plate from start sequence to end sequence using the 1000μl-pipetting hannels and the 1000μl CO-RE Grip tool.</td></tr><tr><td>5ml Channel CO-RE Grip Transport</td><td><p><br><img src="../../../.gitbook/assets/image (109).png" alt=""></p><p></p></td><td>Transports a plate from start sequence to end sequence using the 5ml-pipetting channels and the 5ml CO-RE Grip tool.</td></tr></tbody></table>
+<table><thead><tr><th>Command</th><th width="183">Icon</th><th>Action Performed</th></tr></thead><tbody><tr><td>1000µl Channel CO-RE Grip Transport</td><td><p><br><img src="../../../.gitbook/assets/image (108) (1).png" alt=""></p><p></p></td><td>Transports a plate from start sequence to end sequence using the 1000μl-pipetting hannels and the 1000μl CO-RE Grip tool.</td></tr><tr><td>5ml Channel CO-RE Grip Transport</td><td><p><br><img src="../../../.gitbook/assets/image (109) (1).png" alt=""></p><p></p></td><td>Transports a plate from start sequence to end sequence using the 5ml-pipetting channels and the 5ml CO-RE Grip tool.</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Single Steps" %}
-| Command                                | Icon                                                                             | Action Performed                                                                                         |
-| -------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 1000µl Channel CO-RE Grip Get Plate    | ![](<../../../.gitbook/assets/image (114).png>)                                  | Picks up a plate from the defined position.                                                              |
-| 1000µl Channel CO-RE Grip Place Plate  | <img src="../../../.gitbook/assets/image (111).png" alt="" data-size="original"> | Sets a plate down in a defined position.                                                                 |
-| 1000µl Channel CO-RE Grip Move Plate   | ![](<../../../.gitbook/assets/image (112).png>)                                  | Transfers a plate to another sequence.                                                                   |
-| 1000µl Channel CO-RE Grip Read Barcode | <p><br><img src="../../../.gitbook/assets/image (113).png" alt=""></p><p></p>    | Barcode of the plate held is read (after unloading the carrier that the CO-RE gripper will be moved to). |
-| 5ml Channel CO-RE Grip Get Plate       | <img src="../../../.gitbook/assets/image (115).png" alt="" data-size="original"> | Picks up a plate from the defined position.                                                              |
-| 5ml Channel CO-RE Grip Place Plate     | <img src="../../../.gitbook/assets/image (116).png" alt="" data-size="original"> | Sets a plate down in a defined position.                                                                 |
-| 5ml Channel CO-RE Grip Move Plate      | <img src="../../../.gitbook/assets/image (117).png" alt="" data-size="original"> | Transfers a plate to another sequence.                                                                   |
-| 5ml Channel CO-RE Grip Read Barcode    | <img src="../../../.gitbook/assets/image (118).png" alt="" data-size="original"> | Barcode of the plate held is read (after unloading the carrier that the CO-RE gripper will be moved to). |
+| Command                                | Icon                                                                                 | Action Performed                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 1000µl Channel CO-RE Grip Get Plate    | ![](<../../../.gitbook/assets/image (114) (1).png>)                                  | Picks up a plate from the defined position.                                                              |
+| 1000µl Channel CO-RE Grip Place Plate  | <img src="../../../.gitbook/assets/image (111) (1).png" alt="" data-size="original"> | Sets a plate down in a defined position.                                                                 |
+| 1000µl Channel CO-RE Grip Move Plate   | ![](<../../../.gitbook/assets/image (112) (1).png>)                                  | Transfers a plate to another sequence.                                                                   |
+| 1000µl Channel CO-RE Grip Read Barcode | <p><br><img src="../../../.gitbook/assets/image (113) (1).png" alt=""></p><p></p>    | Barcode of the plate held is read (after unloading the carrier that the CO-RE gripper will be moved to). |
+| 5ml Channel CO-RE Grip Get Plate       | <img src="../../../.gitbook/assets/image (115) (1).png" alt="" data-size="original"> | Picks up a plate from the defined position.                                                              |
+| 5ml Channel CO-RE Grip Place Plate     | <img src="../../../.gitbook/assets/image (116) (1).png" alt="" data-size="original"> | Sets a plate down in a defined position.                                                                 |
+| 5ml Channel CO-RE Grip Move Plate      | <img src="../../../.gitbook/assets/image (117) (1).png" alt="" data-size="original"> | Transfers a plate to another sequence.                                                                   |
+| 5ml Channel CO-RE Grip Read Barcode    | <img src="../../../.gitbook/assets/image (118) (1).png" alt="" data-size="original"> | Barcode of the plate held is read (after unloading the carrier that the CO-RE gripper will be moved to). |
 {% endtab %}
 {% endtabs %}
 
@@ -66,7 +66,7 @@ The following tables give a brief overview of the available ML STAR –specific 
 
 The resulting method should look like shown below:
 
-![](<../../../.gitbook/assets/image (121).png>)\
+![](<../../../.gitbook/assets/image (121) (1).png>)\
 
 
 1. The method will start with an initialization step. This step is always needed if a method does not start with a Smart Step or an Easy Step.
@@ -246,5 +246,5 @@ Six tracks on the left side of the barcode reading position (inclusive) have to 
 \
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is recommended to use the pipetting channels closest to the front for transporting plates to the barcode reader.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is recommended to use the pipetting channels closest to the front for transporting plates to the barcode reader.</p></td></tr></tbody></table>
 

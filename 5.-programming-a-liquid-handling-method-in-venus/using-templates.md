@@ -6,7 +6,7 @@
 
 A “Templates” or “Toolbox Templates” Tab is available. This is where the existing templates can be found.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Templates are not part of the basic installation of VENUS Software. They have to be added after the installation of VENUS Software.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Templates are not part of the basic installation of VENUS Software. They have to be added after the installation of VENUS Software.</p></td></tr></tbody></table>
 
 
 
@@ -14,7 +14,7 @@ A “Templates” or “Toolbox Templates” Tab is available. This is where the
 
 Templates have to be stored in the folder C:\Program files\HAMILTON\Library\Templates (the non-bold sections of the path may differ if a different language is in use).
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>For the availability of templates, please consult a local Hamilton Representative.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>For the availability of templates, please consult a local Hamilton Representative.</p></td></tr></tbody></table>
 
 
 
@@ -68,7 +68,7 @@ There are two ways to change a template:
 {% tab title="Change an added template in a method" %}
 If the templates steps need modification, just click on the Template’s Tab in the method. This switches to the e.g. SerialDilution96\_1 steps. Here, all necessary changes can be made to completely fulfill all the requirements. For example, an aspiration of a sample can be modified with a mix step.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Changes made in the method under the Template’s Tab are only valid for the particular template.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Changes made in the method under the Template’s Tab are only valid for the particular template.</p></td></tr></tbody></table>
 
 
 
@@ -80,7 +80,7 @@ It is also possible to add the same template several times into the same method.
 {% tab title="Change the template’s source file" %}
 If a template should be changed to reduce the adaption work in every method, open the original Template file in the C:\Program Files\HAMILTON\Library\Templates folder. This folder is where the original Template files are stored. The Templates can be opened and modified from here. After applying the necessary changes, save the new version and open up a method to include the new version.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Changing an original template file will have no effect on the previously included templates. </p><p>Only the newly added templates will contain the changes made in the original file.e method under the Template’s Tab are only valid for the particular template.<br>All following includes will then contain the changes made on the template.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Changing an original template file will have no effect on the previously included templates. </p><p>Only the newly added templates will contain the changes made in the original file.e method under the Template’s Tab are only valid for the particular template.<br>All following includes will then contain the changes made on the template.</p></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
