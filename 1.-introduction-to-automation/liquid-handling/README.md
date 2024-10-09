@@ -10,7 +10,7 @@ Is that vastly oversimplifying the centuries of scientific achievement that made
 
 Liquid Handlers are the robots designed to automate that transferring of liquid from one place to another. Each liquid handler model has its own strengths, weaknesses, and quirks, but the basic construction is this: a pipetting end effector attached to a [cartesian robot](https://theautomatedlab.com/article.html?content=lab-robots), all bolted to a deck that is designed to help the robot locate and interact with labware. The choices made in designing each of these elements define the capabilities of a liquid handler.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="351"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="351"><figcaption></figcaption></figure>
 
 #### Pipetting Heads
 

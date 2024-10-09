@@ -10,7 +10,7 @@
         \
 
 
-        <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,5 +20,5 @@
    *   selection of graphic device for the computer\
 
 
-       <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 

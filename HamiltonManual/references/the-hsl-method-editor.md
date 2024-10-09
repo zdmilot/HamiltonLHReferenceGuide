@@ -5,7 +5,7 @@ HSL or Hamilton Standard Language is the underlying programming language that th
 The editor is an acclaimed and outstanding text editor. An hsl file can be written using a text editor however the checksum lines have to be checked personally.\
 
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Before an HSL file is run, it has to be compiled (translated) into a basic computer language. This is done by the “MICROLAB STAR Run” Program, which should already be familiar.
 

@@ -23,7 +23,7 @@ The iSWAP can be used over the whole deck area and the adjoining zones. The tabl
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The minimal and maximal absolute positions of the x- and y-movement cannot be reached by the default settings of transport commands. Use the settings of “Complex movement” in the transport commands. </p><p></p><p>The standard configuration of an ML STAR Series instrument is WITH acrylic covers. The maximal and minimal absolute positions of the x-movement can only be reached if the acrylic glass shields (left, right) are removed. </p><p></p><p>This is not only a mechanical issue. The instrument configuration has to be changed as well. Please contact a Hamilton Representative.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The minimal and maximal absolute positions of the x- and y-movement cannot be reached by the default settings of transport commands. Use the settings of “Complex movement” in the transport commands. </p><p></p><p>The standard configuration of an ML STAR Series instrument is WITH acrylic covers. The maximal and minimal absolute positions of the x-movement can only be reached if the acrylic glass shields (left, right) are removed. </p><p></p><p>This is not only a mechanical issue. The instrument configuration has to be changed as well. Please contact a Hamilton Representative.</p></td></tr></tbody></table>
 
 
 
@@ -33,7 +33,7 @@ The iSWAP can be used over the whole deck area and the adjoining zones. The tabl
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>If a plate has to be gripped down low on the deck, enough space must also be left on the deck for the arm and gripper of iSWAP.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>If a plate has to be gripped down low on the deck, enough space must also be left on the deck for the arm and gripper of iSWAP.</p></td></tr></tbody></table>
 
 
 
