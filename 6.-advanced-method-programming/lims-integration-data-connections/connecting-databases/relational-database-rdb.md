@@ -14,5 +14,5 @@ Important concepts about Relational Databases:
 * Keys can maintain relationships between tables (Referential Integrity)
 * Users can create queries at run-time that group separate data tables together using these primary/foreign key relationships.
 
-<figure><img src="../../../.gitbook/assets/image (27) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

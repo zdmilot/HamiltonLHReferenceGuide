@@ -2,7 +2,7 @@
 
 This section is a fast and easy introduction to the “Method Editor”. This section discusses the primary simple steps up to the programming proper. Setting up of the application can be started without explaining the details of VENUS Software. More detailed and illustrated examples can be found in other sections of this manual.
 
-<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Access the “Method Editor” by double clicking the “STAR Method Editor” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> MICROLAB STAR Method Editor”.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Access the “Method Editor” by double clicking the “STAR Method Editor” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> MICROLAB STAR Method Editor”.</td></tr></tbody></table>
 
 \
 Toolbox Window
@@ -13,21 +13,21 @@ Right clicking on Toolbox background brings up context menu to change the way St
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (151) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (151) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (152) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (152) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (154) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (154) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (153) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (153) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -37,29 +37,29 @@ Right clicking on Toolbox background brings up context menu to change the way St
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (155) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (156) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ### View Options
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (157) (1).png" alt=""><figcaption></figcaption></figure>
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (159) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (160) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (161) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Grouping Steps
 
@@ -70,7 +70,7 @@ Visual element to structure steps in collapsible groups to only display an icon 
 3. ➕sign = Expands
 4. &#x20;▬  sign = Collapses
 
-<figure><img src="../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (163) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@ The output of the method editor is a linked set of files that may be executed by
 
     Changing the View
 
-    <figure><img src="../../../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png" alt="" width="111"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1).png" alt="" width="111"><figcaption></figcaption></figure>
 
     These windows can be activated by selecting the “View” Menu:\
 
@@ -102,7 +102,7 @@ The output of the method editor is a linked set of files that may be executed by
 
     The “Tool Bar” Icons are shown on the left of the corresponding menu functions.
 
-    <figure><img src="../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     The toolbars shown in the images below can be activated by clicking the “View -> Toolbars” Menu
 

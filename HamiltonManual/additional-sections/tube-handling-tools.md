@@ -45,7 +45,7 @@ _This step is used to place a gripped tube. The parameters to pass are the follo
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The relative clamp open width is a relative value. If the gripped tube requires a clamp position of 20mm, there is only 4mm left to open (because 24mm is the maximum opening width).</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The relative clamp open width is a relative value. If the gripped tube requires a clamp position of 20mm, there is only 4mm left to open (because 24mm is the maximum opening width).</p></td></tr></tbody></table>
 
 
 
@@ -94,5 +94,5 @@ _In order to link the value of the barcode to a variable, the return value of th
 3. _Type in or select a variable that will hold the value of the barcode. Finish with \[OK]._\
    ![](<../../.gitbook/assets/image (473).png>)
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The tube-gripper is able to grip tubes with an outer diameter of 8 to 22mm. The tube-gripper clamps need additional space when gripping tubes with large diameter (15 – 22mm). In an event like this, leave a space on the left and right of the tube carrier.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The tube-gripper is able to grip tubes with an outer diameter of 8 to 22mm. The tube-gripper clamps need additional space when gripping tubes with large diameter (15 – 22mm). In an event like this, leave a space on the left and right of the tube carrier.</p></td></tr></tbody></table>
 

@@ -12,4 +12,4 @@ coverY: -98
 2. Click on the Run Control’s green START arrow&#x20;
 3. A log file trace will be written as the run proceeds&#x20;
 4. Click the red STOP LIGHT to return to the Method Editor when run has completed\
-   ![](<../.gitbook/assets/image (164).png>)
+   ![](<../.gitbook/assets/image (164) (1).png>)

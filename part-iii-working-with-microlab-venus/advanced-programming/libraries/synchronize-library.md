@@ -1,2 +1,0 @@
-# Synchronize Library
-

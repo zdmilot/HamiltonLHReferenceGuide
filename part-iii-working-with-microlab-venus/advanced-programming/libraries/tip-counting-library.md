@@ -1,2 +1,0 @@
-# Tip Counting Library
-

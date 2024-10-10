@@ -8,10 +8,10 @@ If a runtime error occurs, the command branches into a different program path.
 
 The command generates three entries in the method:
 
-| ![](<../../.gitbook/assets/image (144) (1) (1).png>)  (1. entry): | Begin Error Handling by the User.                     |
-| ----------------------------------------------------------------- | ----------------------------------------------------- |
-|   ![](<../../.gitbook/assets/image (145) (1).png>)(2. entry)      | End Error Handling by the User / Begin Error Handler. |
-|  ![](<../../.gitbook/assets/image (146) (1).png>) (3. entry)      | End Error Handler                                     |
+| ![](<../../.gitbook/assets/image (144) (1) (1) (1).png>)  (1. entry): | Begin Error Handling by the User.                     |
+| --------------------------------------------------------------------- | ----------------------------------------------------- |
+|   ![](<../../.gitbook/assets/image (145) (1) (1).png>)(2. entry)      | End Error Handling by the User / Begin Error Handler. |
+|  ![](<../../.gitbook/assets/image (146) (1) (1).png>) (3. entry)      | End Error Handler                                     |
 
 All errors occurring during the steps execution in the observed part (steps between the 1. and the 2. entry) are handled by the user. This means, that in case of an error the program execution continues immediately at the first step in the error handler.
 

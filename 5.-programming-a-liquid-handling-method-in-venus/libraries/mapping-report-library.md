@@ -1,0 +1,9 @@
+# Mapping Report Library
+
+The HSL mapping report library provides functions to create mapped report files for the labware out of the sample tracking database within a method run.
+
+The “HSLMAPREPORT” Prefix has been removed for a better overview.
+
+<table><thead><tr><th width="273">Command</th><th width="73">Icon</th><th>Action Performed</th></tr></thead><tbody><tr><td>AddFilterSequence</td><td><img src="../../.gitbook/assets/image (627).png" alt="" data-size="original"></td><td>Adds the specified filter sequence to the list of filters influencing the report file formatter. Once one or more filter sequences are set, only information about positions that match with a position in one of the filter sequences appears in the mapping report file.</td></tr><tr><td>RemoveAllFilterSequences</td><td><img src="../../.gitbook/assets/image (628).png" alt="" data-size="original"></td><td>Removes all filter sequences from the list of filters influencing the report file formatter.</td></tr><tr><td>GenerateMappingFile</td><td><img src="../../.gitbook/assets/image (631).png" alt="" data-size="original"></td><td>Creates the report-mapping files.</td></tr><tr><td>GetListSeparator</td><td><img src="../../.gitbook/assets/image (629).png" alt="" data-size="original"></td><td>Returns the list-separator, used as column- delimiter within the character separated value (.csv) report-mapping file.</td></tr><tr><td>DeleteFile</td><td><img src="../../.gitbook/assets/image (630).png" alt="" data-size="original"></td><td>Deletes the specified file.</td></tr><tr><td>SetElementBarcode</td><td><img src="../../.gitbook/assets/image (632).png" alt="" data-size="original"></td><td>Sets the barcode to the associated labware within the sample tracking database.</td></tr><tr><td>RemoveElement</td><td><img src="../../.gitbook/assets/image (633).png" alt="" data-size="original"></td><td>Removes the given labware from the access of sample tracking.</td></tr></tbody></table>
+
+\

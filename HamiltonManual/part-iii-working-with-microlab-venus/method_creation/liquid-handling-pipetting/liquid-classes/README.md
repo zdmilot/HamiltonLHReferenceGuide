@@ -25,7 +25,7 @@ Pipetting: In general, pipetting by the principle of air displacement (as with h
 
 The pipetting mode (e.g., surface or jet mode) and the liquid class determine the behavior of the instrument. Pipetting mode and liquid class represent two independent sets of information, both of which have to be specified.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Always use the same liquid class for one aspiration and dispense cycle. Otherwise uncalculated residual volumes may be left within the tip, or other errors regarding plunger position / movements may occur.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Always use the same liquid class for one aspiration and dispense cycle. Otherwise uncalculated residual volumes may be left within the tip, or other errors regarding plunger position / movements may occur.</p></td></tr></tbody></table>
 
 \
 
