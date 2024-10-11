@@ -6,105 +6,87 @@
 
 The HSL Method Editor allows for the modification and creation of Hamilton Standard Language (.hsl) files.
 
-## Modifying the Method
 
-Write a HSL Method by doing the following activities:
 
-### Write text
 
-Use the text editor to write the method. See keybord shortcuts and edit menu.
 
-### Insert steps, sequences, and other items
+## Application Menus
 
-This items may be inserted by three ways:
 
-* Use the insert menu.
-* Doubleclick on an item in the toolbox.
-* Drag\&Drop an item in the toolbox to the active window.
 
-### Edit and delete step
+{% tabs %}
+{% tab title="File" %}
+| Command             | Description                                                   |
+| ------------------- | ------------------------------------------------------------- |
+| New                 | Creates a new Method.                                         |
+| Open                | Opens an existing Method.                                     |
+| Close               | Closes an opened Method.                                      |
+| Save                | Saves an opened Method.                                       |
+| Save As             | Save an open Method with a new name.                          |
+| Validate            | Flags the opened method as validated.                         |
+| View Design History | Shows the design history of current Method.                   |
+| File Import         | Starts the Import Method/Library wizard.                      |
+| File Export         | Starts the Export Method/Library wizard.                      |
+| Print               | Prints a Method.                                              |
+| Print Preview       | Displays the Method on the screen as it would appear printed. |
+| Print Setup         | Selects a printer and printer connection.                     |
+| Exit                | Exits 'Hamilton HSL Method Editor'.                           |
+{% endtab %}
 
-Use the commands Edit Step (Edit menu) and Delete Step (Edit menu).
+{% tab title="Edit " %}
+| Command                 | Description                                                 |
+| ----------------------- | ----------------------------------------------------------- |
+| Undo                    | Reverse previous editing operation.                         |
+| Redo                    | Reverse previous undo operation.                            |
+| Cut                     | Deletes data from the Method and moves it to the clipboard. |
+| Copy                    | Copies data from the Method to the clipboard.               |
+| Paste                   | Pastes data from the clipboard into the Method.             |
+| Delete                  | Deletes the selection.                                      |
+| Find                    | Finds the specified text.                                   |
+| Find Next               | Finds the next occurrence of specified text.                |
+| Replace                 | Replaces the specific text with different text.             |
+| Select All              | Selects the entire Method.                                  |
+| Edit Step               | Edits the properties of the selected step.                  |
+| Delete Step             | Removes the selected step.                                  |
+| Go to Next Error        | Shows next error.                                           |
+| Go to Previous Error    | Shows previous error.                                       |
+| Bookmarks               |                                                             |
+| Toggle Bookmark         | Toggles a bookmark for the current line on and off.         |
+| Go to Next Bookmark     | Moves to the line containing the next bookmark.             |
+| Go to Previous Bookmark | Moves to the line containing the previous bookmark.         |
+| Delete All Bookmarks    | Deletes all bookmarks in the active view.                   |
+{% endtab %}
 
-### Perform Syntax Check
+{% tab title="View" %}
+| Command                  | Description                                                   |
+| ------------------------ | ------------------------------------------------------------- |
+| Toolbar                  | Shows or hides the toolbar.                                   |
+| Status Bar               | Shows or hides the status bar.                                |
+| Toolbox                  | Shows or hides the toolbox.                                   |
+| Output                   | Shows or hides the output window.                             |
+| Toolbox Views            |                                                               |
+| Tree View/ Shortcut View | Toggles toolbox view between shortcut view and tree view.     |
+| Icon View/ List View     | Toggles active shortcut view between icon view and list view. |
+|                          |                                                               |
+| View All Stepdata        | Toggles between displaying all or few step data.              |
+| Editor Settings          | Changes the text editor settings.                             |
+| Color and Font Settings  | Changes the color and font settings of the text editor.       |
+| View Whitespaces         | Changes the representation of white spaces.                   |
+{% endtab %}
 
-Check if the method has correct syntax. Use the command Syntax Check (Tools menu).
+{% tab title="Tools" %}
+| Command                     | Description                                                                             |
+| --------------------------- | --------------------------------------------------------------------------------------- |
+| Syntax Check                | Performs a syntax check of the active method.                                           |
+| System Deck Editor          | Editor for system decks.                                                                |
+| Sequence Editor             | Editor for labware Edits custom processing sequences.                                   |
+| Labware Editor              | Define labware using editing tool.                                                      |
+| Run                         | Runs this method.                                                                       |
+| System Configuration Editor | Starts the System Configuration Editor to configure different settings of the software. |
+| Hamilton Product Support    | Install labware, libraries, and other supported software.                               |
+| Tool 1, 2, 3, 4             | These menu items are generated from the registered Tools of the instruments in use.     |
+| Refresh Variables           | Refresh variables.                                                                      |
+| Refresh Toolbox             | Refresh toolbox and variables.                                                          |
+{% endtab %}
+{% endtabs %}
 
-## Keyboard Shortcuts
-
-The following table lists the shortcuts for the text editor:
-
-&#x20;
-
-| Shortcut            | Command                                             |
-| ------------------- | --------------------------------------------------- |
-| Shift+Ctrl+8        | Toggle View Whitespace                              |
-| Ctrl+A              | Select All                                          |
-| Ctrl+E              | Edit step at cursor position                        |
-| Ctrl+C              | Copy                                                |
-| Ctrl+F              | Find                                                |
-| Ctrl+H              | Replace                                             |
-| Ctrl+L              | Cut Line                                            |
-| Shift+Ctrl+L        | Delete Line                                         |
-| Ctrl+U              | Selection to lowercase                              |
-| Shift+Ctrl+U        | Selection to uppercase                              |
-| Ctrl+V              | Paste                                               |
-|                     |                                                     |
-| Alt+Backspace       | Undo                                                |
-| Shift+Alt+Backspace | Redo                                                |
-|                     |                                                     |
-| Shift+Delete        | Cut                                                 |
-|                     |                                                     |
-| Ctrl+Down           | Scroll Down                                         |
-| Shift+Down          | Move cursor down and extend selection               |
-| End                 | Move cursor to end of line                          |
-| Ctrl+End            | Move cursor to end of method                        |
-| Shift+End           | Move cursor to end of line and extend selection     |
-| Shift+Ctrl+End      | Move cursor to end of method and extend selection   |
-|                     |                                                     |
-| Escape              | Clear selection                                     |
-| F2                  | Go to next bookmark                                 |
-| Ctrl+F2             | Toggle bookmark                                     |
-| Shift+F2            | Go to previous bookmark                             |
-| Shift+Ctrl+F2       | Delete all bookmarks                                |
-|                     |                                                     |
-| F3                  | Find next                                           |
-| Ctrl+F3             | Find next word                                      |
-| Shift+F3            | Find previous                                       |
-| Shift+Ctrl+F3       | Find previous word                                  |
-|                     |                                                     |
-| Home                | Move cursor to begin of line                        |
-| Ctrl+Home           | Move cursor to begin of method                      |
-| Shift+Home          | Move cursor to begin of line and extend selection   |
-| Shift+Ctrl+Home     | Move cursor to begin of method and extend selection |
-|                     |                                                     |
-| Insert              | Toggle overwrite and insert mode                    |
-| Ctrl+Insert         | Copy selection                                      |
-| Shift+Insert        | Paste selection                                     |
-|                     |                                                     |
-| Ctrl+Left           | Move cursor to begin of word                        |
-| Shift+Left          | Move cursor left and extend selection               |
-| Shift+Ctrl+Left     | Move cursor to begin of word and extend selection   |
-|                     |                                                     |
-| Shift+PageDown      | Move cursor a page down and extend selection        |
-| Shift+PageUp        | Move cursor a page up and extend selection          |
-|                     |                                                     |
-| Ctrl+Right          | Move cursor to begin of word                        |
-| Shift+Right         | Move cursor right and extend selection              |
-| Shift+Ctrl+Right    | Move cursor to begin of word and extend selection   |
-|                     |                                                     |
-| Tab                 | Indent selection                                    |
-| Shift+Tab           | Undo indent selection                               |
-|                     |                                                     |
-| Ctrl+Up             | Scroll window up                                    |
-| Shift+UP            | Move cursor up and extend selection                 |
-|                     |                                                     |
-| Shift+Ctrl+W        | Select word                                         |
-| Ctrl+X              | Cut                                                 |
-| Ctrl+Y              | Redo                                                |
-| Ctrl+Z              | Undo                                                |
-| Shift+Ctrl+Z        | Redo                                                |
-
-&#x20;
-
-&#x20;
