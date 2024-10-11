@@ -14,7 +14,8 @@ Opentrons
 
 Agilent
 
-
+Integra\
+![](<../../../.gitbook/assets/image (4).png>)
 
 ## what are your needs:
 

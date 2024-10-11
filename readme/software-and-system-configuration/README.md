@@ -14,8 +14,8 @@ Or double-click the “Hamilton.HxConfigEditor.exe” in the directory “HAMILT
 
 When the “Hamilton System Configuration Editor” has been activated, the first decision to be made – prior to the run – is whether to run the method with a real instrument or to simulate the run without using the instrument. Run simulation is a tool for testing whether a method has been programmed correctly. The run simulator creates a method trace file with pipetting pattern and other useful information.
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To switch the run mode, select “System Settings” -> “Simulation Settings”:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

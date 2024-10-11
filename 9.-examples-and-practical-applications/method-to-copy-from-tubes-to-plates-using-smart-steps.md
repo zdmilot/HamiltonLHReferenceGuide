@@ -75,7 +75,7 @@ This method copies tubes. It aspirates liquid from tubes in a carrier and dispen
 6.  To do so, use the \[Add] Button from the “Load” Dialog. Finish with \[OK].\
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Be reminded that the sequences to be loaded can be selected through the graphical Deck Layout View and by using the “Drag and Drop” technique on the list fields in the “Load” Dialog (with Ctrl + left mouse “Drag and Drop”). The two windows (Deck Layout View and “Load” Dialog) are interactive: when a sequence in the “Load” Dialog is clicked, this sequence flashes with a specific color in the Deck Layout View.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Be reminded that the sequences to be loaded can be selected through the graphical Deck Layout View and by using the “Drag and Drop” technique on the list fields in the “Load” Dialog (with Ctrl + left mouse “Drag and Drop”). The two windows (Deck Layout View and “Load” Dialog) are interactive: when a sequence in the “Load” Dialog is clicked, this sequence flashes with a specific color in the Deck Layout View.</em></p></td></tr></tbody></table>
 
     \
 

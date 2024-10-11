@@ -4,7 +4,7 @@
 
 If you want to connect more than 2 table, simply add more JOINS to the query!
 
-<figure><img src="../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
 
 
@@ -21,7 +21,7 @@ WHERE t1.some_column = value;
 
 ## Example Query
 
-<figure><img src="../../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Let’s say your protocol just scanned your pcr plate: Barcode read was 10001
 
@@ -35,7 +35,7 @@ WHERE j.barcode = ‘10001’
 
 this would give you the following result set:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 ## Other Types of Querys
 
