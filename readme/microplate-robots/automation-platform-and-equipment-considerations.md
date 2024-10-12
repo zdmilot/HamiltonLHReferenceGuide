@@ -1,10 +1,12 @@
 # Levels of Liquid Handling Automation
 
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 ### 1. **Manual Single-Channel Pipettes**
 
 Manual single-channel pipettes are widely used for single-point workflows and small-scale projects in research and development. They provide flexibility, which is crucial in workflows such as cell culture, where precise liquid handling may not be as critical as the movement of liquids, such as aspirating supernatants or transferring small volumes.
 
-<figure><img src="../../../.gitbook/assets/image (799).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (799).png" alt=""><figcaption></figcaption></figure>
 
 Example Workflows:
 
@@ -21,7 +23,7 @@ While manual pipettes offer flexibility, they pose a higher risk of human error,
 
 Multichannel pipettes increase workflow throughput while maintaining a low cost. These tools are ideal for plate-based assays, like total protein or BCA assays, where distributing reagents quickly and accurately is crucial.
 
-<figure><img src="../../../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
 
 **Example Workflows:**
 
@@ -34,7 +36,7 @@ However, they still carry the risk of human error, especially when attention to 
 
 Brands like Integra Biosciences, Mettler Toledo Rainin, and Eppendorf provide electronic single-channel pipettes. These devices offer programmability for repetitive tasks, such as creating standard curves or conducting precise dispensing in multi-step assays.
 
-<figure><img src="../../../.gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>
 
 **Example Workflows:**
 
@@ -49,11 +51,11 @@ Electronic multichannel pipettes automate multiple simultaneous aspirations and 
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,11 +76,11 @@ Devices like the Integra Assist Plus or Waters Andrew Pipetting Robot convert ma
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (805).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (805).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/img.jpg.avif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/img.jpg.avif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -100,11 +102,11 @@ Devices like the Integra MINI 96 and Rainin MicroPro are critical for adding rea
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (811).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (811).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (812).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (812).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -123,7 +125,7 @@ These devices are great for specific use cases but have limitations when it come
 
 Devices like the Integra ViaFlow or Benchmark AutoMATE use robotic arms to move liquids across multiple samples simultaneously, offering increased speed and semi-automated workflows.
 
-<figure><img src="../../../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
 
 **Example Workflows:**
 
@@ -142,15 +144,15 @@ Devices like the Agilent Bravo or Formulatrix F.A.S.T. feature multi-axis heads 
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (813).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (813).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (814).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (814).png" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (816).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (816).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -171,11 +173,11 @@ Automated liquid handling robots have the capability to provide single channel a
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (817).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (817).png" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (818).png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (818).png" alt="" width="248"><figcaption></figcaption></figure>
 
 </div>
 
@@ -194,7 +196,7 @@ These workcells provide full walkaway time usually and provide reproducibility, 
 
 Fully integrated workcells such as HighRes Biosolutions or Automata combine multiple devices into a cohesive system capable of executing end-to-end workflows. These systems allow for liquid handling, plate washing, reading, and other assay-related tasks to be linked seamlessly.
 
-<figure><img src="../../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
 
 **Example Workflows:**
 

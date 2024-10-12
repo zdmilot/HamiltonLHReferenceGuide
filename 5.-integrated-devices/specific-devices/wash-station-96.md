@@ -2,7 +2,7 @@
 
 The Wash station 96 is an optional device for washing 96 disposable tips in parallel. The tips are washed both outside and inside at the same time: on the outside in the wash chamber of the wash station 96 and on the inside by aspiration/dispense cycles with the CO-RE 96 Probe Head. The result of washing the tips depends on the wash setting.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If carry-over is not acceptable for the application, use new disposable tips for each aspiration step.</em></p><p><em>The wash station 96 is no longer available. It was replaced by the wash station 96/384.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If carry-over is not acceptable for the application, use new disposable tips for each aspiration step.</em></p><p><em>The wash station 96 is no longer available. It was replaced by the wash station 96/384.</em></p></td></tr></tbody></table>
 
 Sample transfers may be done using new disposable tips, while reagents, buffers, etc. may be distributed with washed tips.
 
@@ -13,7 +13,7 @@ The picture below shows a complete, fully connected wash station 96:\
 
 Liquid level sensors inside the washer unit prevent flooding of the system. On the other hand, the washer unit recognizes if there is not enough liquid to fill the wash chamber.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>There is no liquid level sensor in the waste container. In case of refilling the wash solution container, always empty the waste container.</em></p><p><em>When re-using washed tips, pipetting precision may decrease by a factor of 3.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>There is no liquid level sensor in the waste container. In case of refilling the wash solution container, always empty the waste container.</em></p><p><em>When re-using washed tips, pipetting precision may decrease by a factor of 3.</em></p></td></tr></tbody></table>
 
 
 
@@ -65,7 +65,7 @@ The resulting method should look like the image shown below.
 
     <figure><img src="../../.gitbook/assets/image (92) (1).png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The method can be accelerated when programming the last “Refill wash chamber” Command parallel to the succeeding method steps.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The method can be accelerated when programming the last “Refill wash chamber” Command parallel to the succeeding method steps.</em></p></td></tr></tbody></table>
 
 ### Creating a Modified Method
 

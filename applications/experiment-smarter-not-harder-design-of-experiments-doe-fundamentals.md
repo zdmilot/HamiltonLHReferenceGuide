@@ -4,6 +4,8 @@ description: Sudha Gollapudi
 
 # Experiment Smarter, Not Harder: Design of Experiments (DOE) Fundamentals
 
+{% embed url="https://theautomatedlab.com/article.html?content=doe-1" %}
+
 #### Leveraging Design of Experiments (DOE)
 
 Design of Experiments (DOE) is a framework that helps engineers, scientists, and researchers understand the impact of multiple variables on an outcome. By systematically planning and analyzing experiments, DOE helps in optimizing processes, improving quality, and identifying significant factors that influence a response. Here, we’ll explore the core concepts of DOE, different types of experimental designs, their applications, and resources to deepen your understanding.

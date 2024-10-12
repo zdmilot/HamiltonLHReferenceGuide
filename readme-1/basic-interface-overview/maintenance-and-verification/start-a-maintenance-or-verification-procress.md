@@ -4,7 +4,7 @@ After a process or more than one was selected you can start the defined method t
 
 During a Maintenance or Verification Process is running the user has no access on the running Process but the run can be Halt.
 
-## ![](<../../../.gitbook/assets/image (16).png>) Halt a Maintenance or Verification Process
+## ![](<../../../.gitbook/assets/image (16) (1).png>) Halt a Maintenance or Verification Process
 
 During a Maintenance or Verification Process is running the user has no access on the running Process but he can halt the run.
 

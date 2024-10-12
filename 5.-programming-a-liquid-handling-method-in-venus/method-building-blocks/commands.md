@@ -4,7 +4,7 @@ Command Overview by Step Groups
 
 The VENUS Software offers various standard Command Libraries. For the ML STAR instrument, the software offers three levels of commands which are:
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>After a new installation a reduced selection of steps are available. To make hidden steps available, enable them via the Configuration Editor.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>After a new installation a reduced selection of steps are available. To make hidden steps available, enable them via the Configuration Editor.</p></td></tr></tbody></table>
 
 1. **Smart Steps**, which combine a complete pipetting task such as plate copy, serial dilution, pooling etc. Smart Steps are incorporated with customizable error handling which includes a guided programming wizard, predefined error recoveries and customized recovery strategies.
 2. **Easy Steps**, which are combinations of e.g. tip pickup and aspiration. Easy steps allow very flexible programming and also include full error handling. However, the sequence support is limited (e.g. for pipetting into all wells of the entire plate, a loop must be added).
@@ -25,7 +25,7 @@ Smart Steps are powerful commands for programming the ML STAR.
 
 To use instrument-specific steps (load, pipette, etc.) the method has to be linked to an existing deck layout first while keeping the “Smart Steps” Checkbox selected.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Once a deck layout has been linked to a method, the instrument specific steps will be visible in the toolbox.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Once a deck layout has been linked to a method, the instrument specific steps will be visible in the toolbox.</p></td></tr></tbody></table>
 
 Smart Steps combine many single steps for specific tasks like filling a microplate starting with tubes, aliquoting a reagent to a complete plate, loading the deck, etc. The available Smart Steps are listed in the following table.\
 

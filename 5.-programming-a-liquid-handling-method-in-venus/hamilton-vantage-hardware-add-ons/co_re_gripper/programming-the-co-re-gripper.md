@@ -10,7 +10,7 @@ The positions where to get the plates and where to put it after reading are not 
 
 Far ahead in the method, these arrays can be read out and the values from e.g. the second column can be used as pipetting volumes, number of loops etc. (in case of an array of variables) or these values specify where to aspirate, where to get a plate etc. (in case of an array of sequences).
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The CO-RE gripper works on the base of sequences. Plates are moved from one sequence to another. The sequences remain fixed on the deck, but the plates change sequences.</p></td></tr><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Target and source plate positions must be of the same labware type.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The CO-RE gripper works on the base of sequences. Plates are moved from one sequence to another. The sequences remain fixed on the deck, but the plates change sequences.</p></td></tr><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Target and source plate positions must be of the same labware type.</p></td></tr></tbody></table>
 
 Creating the Deck Layout&#x20;
 
@@ -246,5 +246,5 @@ Six tracks on the left side of the barcode reading position (inclusive) have to 
 \
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is recommended to use the pipetting channels closest to the front for transporting plates to the barcode reader.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is recommended to use the pipetting channels closest to the front for transporting plates to the barcode reader.</p></td></tr></tbody></table>
 

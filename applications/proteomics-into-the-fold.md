@@ -4,6 +4,8 @@ description: Sudha Gollapudi
 
 # Proteomics: Into the Fold
 
+{% embed url="https://theautomatedlab.com/article.html?content=proteomics" %}
+
 Proteomics, one of the foundational “-omics” fields, is the large-scale study of proteins. Proteins perform critical functions include catalyzing reactions, providing structure, and regulating biological pathways. An organism’s proteome is dynamic and responds to changing conditions of the cellular environment. This dynamism is why proteomics is both a popular and difficult field of study. Characterizing proteins is crucial to studying disease biomarkers, drug targets, or basic biological processes.
 
 Lab automation is revolutionizing biological research by enabling faster, more scalable, and more reproducible experiments. Automation is particularly crucial in proteomics, where scientists often need to analyze thousands of proteins across many samples. If many conditions and timepoints are desired, automation is important for reducing human error and increasing throughput. By marrying technology and biology, scientists can accelerate progress in areas where understanding proteins is key.

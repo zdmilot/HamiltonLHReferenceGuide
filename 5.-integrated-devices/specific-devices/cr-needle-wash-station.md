@@ -4,7 +4,7 @@
 
 In combination with a wash station, re-usable steel needles can be used for pipetting with the spreadable 1000μl-pipetting channels of the ML STAR, instead of using the disposable tips. The result of washing needles depends on the wash setting.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If carry-over is not acceptable for the application, use new disposable tips for each aspiration step instead of washed steel needles.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If carry-over is not acceptable for the application, use new disposable tips for each aspiration step instead of washed steel needles.</em></p></td></tr></tbody></table>
 
 
 
@@ -23,7 +23,7 @@ The wash cycle of the CR needle wash station works in parallel to the pipetting 
 
 The following tables in this section give a brief overview of the available commands for the CR needle wash station.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is recommended to use the “SmartStep Needle Pickup”. If the “1000μl- Channel Tip Pick Up” Single Step is used, a “1000μl Channel Wait for Needle Wash” Step has to be programmed before the tip pick up step.</em></p><p><em>With the Easy Step ASPIRATE, the needle pick up is also possible.</em></p><p><em>With the Easy Step DISPENSE, needle eject and start washing is also possible.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is recommended to use the “SmartStep Needle Pickup”. If the “1000μl- Channel Tip Pick Up” Single Step is used, a “1000μl Channel Wait for Needle Wash” Step has to be programmed before the tip pick up step.</em></p><p><em>With the Easy Step ASPIRATE, the needle pick up is also possible.</em></p><p><em>With the Easy Step DISPENSE, needle eject and start washing is also possible.</em></p></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="Single Steps" %}
@@ -123,7 +123,7 @@ The resulting method should look like this:
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is recommended to use the “Needle Pickup” Smart Step. If the “1000μl Channel Tip Pick Up” Single Step is used, a “1000μl Channel Wait for Needle Wash” Step has to be programmed before the tip pick up step.</em></p><p><em>With the Easy Step ASPIRATE, the needle pick up is also possible.</em></p><p><em>With the Easy Step DISPENSE, needle eject and start washing is also possible.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is recommended to use the “Needle Pickup” Smart Step. If the “1000μl Channel Tip Pick Up” Single Step is used, a “1000μl Channel Wait for Needle Wash” Step has to be programmed before the tip pick up step.</em></p><p><em>With the Easy Step ASPIRATE, the needle pick up is also possible.</em></p><p><em>With the Easy Step DISPENSE, needle eject and start washing is also possible.</em></p></td></tr></tbody></table>
 
 
 
