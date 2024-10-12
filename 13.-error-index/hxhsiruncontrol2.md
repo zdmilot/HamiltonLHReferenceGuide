@@ -20,4 +20,4 @@ If all positions in a Sequence have been processed and you try to pipette to the
 
 To avoid this error or to start over from the beginning of a sequence: Use the Sequence: Set Current Position step
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

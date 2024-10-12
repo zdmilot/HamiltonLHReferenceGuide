@@ -19,7 +19,7 @@ To achieve a batch-like process, all sequences involved must consist of blocks o
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The limitation of the random access area on an instrument deck is also valid for instruments equipped with 5ml-pipetting channels and any combination of 1000µl-pipetting channels and 5ml-pipetting channels. Other equipment such as the tube gripper or the camera channel will also reduce the area for random channel access.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The limitation of the random access area on an instrument deck is also valid for instruments equipped with 5ml-pipetting channels and any combination of 1000µl-pipetting channels and 5ml-pipetting channels. Other equipment such as the tube gripper or the camera channel will also reduce the area for random channel access.</p></td></tr></tbody></table>
 
 
 

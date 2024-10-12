@@ -10,17 +10,17 @@ The “Barcode settings” allows:
 
 The storage location of the barcode is dependent on the operating system and the language settings.
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Communication Settings
 
 The “Communication settings” Header is only active if “instrument” Mode has been selected. In “Simulator” Mode, there is no communication port to select.
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Instrument Configuration
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The following can be selected in the “Instrument configuration” Menu:
 
@@ -39,11 +39,11 @@ The maintenance procedures can be enabled here. The user of the system is period
 
 
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Simulator Settings
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 “Simulator configuration” allows the selection of the built-in option with which the simulated instrument should run. Make sure that the devices to be used by the system are activated (“Available”) in the simulation configuration to simulate a method without any error messages.
 
@@ -53,6 +53,6 @@ The maintenance procedures can be enabled here. The user of the system is period
 
 The “Step selection” Section allows the including or excluding of Single Steps in the method editor toolbar.
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE </p><p>TADM settings are only available if the ML STAR VENUS TADM feature 5.1 is installed. For more information, contact a local Hamilton Representative. </p><p></p><p>VENUS TADM Feature 5.1 records and monitors pressure curves for every individual pipetting channel. It defines customized tolerance bands for acceptable pipetting limits and detects a wide variety of pipetting errors and sample conditions. TADM features help in customizing liquid classes and monitor processes at the same time gives the opportunity to have a look inside the pipetting channel. With VENUS M Software, the TADM test aspiration pressure curves are analysed to indicate pipetting performance.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE </p><p>TADM settings are only available if the ML STAR VENUS TADM feature 5.1 is installed. For more information, contact a local Hamilton Representative. </p><p></p><p>VENUS TADM Feature 5.1 records and monitors pressure curves for every individual pipetting channel. It defines customized tolerance bands for acceptable pipetting limits and detects a wide variety of pipetting errors and sample conditions. TADM features help in customizing liquid classes and monitor processes at the same time gives the opportunity to have a look inside the pipetting channel. With VENUS M Software, the TADM test aspiration pressure curves are analysed to indicate pipetting performance.</p></td></tr></tbody></table>

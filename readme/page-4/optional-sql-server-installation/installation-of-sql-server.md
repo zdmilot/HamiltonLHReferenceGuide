@@ -15,38 +15,38 @@ USB, ISO, and DVD media of the VENUS software install all include the Microlab\_
 * Right-click Setup.exe and select Run as administrator
 * Wait while the SQL Server 2014 software prepares the necessary files
 
-<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Once the SQL Server Installation Center screen appears, verify you are on the
 
     Installation (1) menu by clicking on the text
 * Click the hyperlink New SQL Server stand-alone installation or add features to an existing installation (2)
 
-<figure><img src="../../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the checkbox for I accept the license terms (1)
 *   Click Next (2)
 
-    ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 *   If presented with a Microsoft Update or Product Updates screen, click Next (1)
 
     \
-    ![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+    ![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 *   Wait while the installer prepares various files
 
-    ![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 *   Make sure all available features are selected (1) and click Next (2)
 
-    ![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 * Select Named instance (1)
 * Enter the name HAMILTON as the instance name (2)
 * Click the text box for Instance ID, it should automatically update to HAMILTON (3)
 *   Click Next (4)
 
-    ![](<../../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 * Depending on IT policies, the SYSTEM account may need to be used to run the SQL Server Database Engine:
   * Click the drop-down for the Account Name (1)
@@ -56,7 +56,7 @@ USB, ISO, and DVD media of the VENUS software install all include the Microlab\_
   * Click OK (5)
 *   Click Next (6)
 
-    ![](<../../../.gitbook/assets/image (26) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (26) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 * Click Mixed Mode (SQL Server authentication and Windows authentication) (1)
 * Enter the password ‘mkdpw:V43’ into both password boxes (2)
