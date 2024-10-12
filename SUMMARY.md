@@ -460,8 +460,6 @@
   * [UNKNOWN ERRORS](13.-error-index/unknown-errors/README.md)
     * [Page 3](13.-error-index/unknown-errors/page-3.md)
   * [Collection of Errors](13.-error-index/collection-of-errors.md)
-  * [:](13.-error-index/0xa223000d-underspecified.md)
-  * [0xa223003a : Unable to find file](13.-error-index/0xa223003a-unable-to-find-file.md)
   * [0xa223003b : File not updatable](13.-error-index/0xa223003b-file-not-updatable.md)
   * [0xa223003c : Recursive call](13.-error-index/0xa223003c-recursive-call.md)
   * [0xa223003d : Failed to wait for thread(s)](13.-error-index/0xa223003d-failed-to-wait-for-thread-s.md)

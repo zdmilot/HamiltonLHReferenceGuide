@@ -23,4 +23,8 @@ return;
 }
 </code></pre></td></tr><tr><td>0xa223000d</td><td>Underspecified</td><td><p></p><p>The executor detected at the specified line underspecified formal parameters of a function.</p><p> </p><p>The following example illustrates this error:</p><pre class="language-clike"><code class="lang-clike">variable i;
 i = IVal(); /* error 0xa223000d: underspecified actual parameters */
-</code></pre></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+</code></pre></td></tr><tr><td>0xa223003a</td><td>Unable to find file</td><td><p></p><p>The executor could not find the file specified.</p><p> </p><p>The following example illustrates this error:</p><pre><code>method main()
+{
+&#x3C;&#x3C; "c:\\nonexist.hsl";  /* error 0xa2230013: unable to find file */
+}
+</code></pre></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
