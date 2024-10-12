@@ -1,3 +1,7 @@
+---
+icon: dev
+---
+
 # Whileloop
 
 ## While loop

@@ -1,14 +1,4 @@
-# PredefinedConstants1
-
-## Predefined Constants
-
-&#x20;
-
-&#x20;
-
-## Predefined Constants
-
-&#x20;
+# Predefined Constants
 
 Since the following constants are built into HSL, i.e. it is not necessary to explicitly define them before use. These constants can be used anywhere in the code to represent the values shown.
 
@@ -42,7 +32,3 @@ Since the following constants are built into HSL, i.e. it is not necessary to ex
 | HSL\_ACTION\_METHOD |             | Scheduler constant, automatically defined if the Parser recognizes a method containing actions.                                                                                                                                                                                                                 |
 
 &#x20;
-
-***
-
-_Created with the Personal Edition of HelpNDoc:_ [_Maximize Your CHM Help File Capabilities with HelpNDoc_](https://www.helpndoc.com/feature-tour/create-chm-help-files/)

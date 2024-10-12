@@ -1,3 +1,7 @@
+---
+icon: dev
+---
+
 # Loopstatement
 
 ## Loop statement

@@ -1,10 +1,4 @@
-# Predefinedconstants
-
-## Predefined constants
-
-## Predefined Constants
-
-&#x20;
+# Predefined Constants
 
 Since the following constants are built into HSL, i.e. it is not necessary to explicitly define them before use. These constants can be used anywhere in the code to represent the values shown.
 
@@ -59,76 +53,44 @@ Since the following constants are built into HSL, i.e. it is not necessary to ex
 
 &#x20;
 
-#### Remarks
+## Remarks
 
 The Parser constant HSL\_RUNTIME will always be defined at run-time, but not at edit-time, i.e the parsing at edit-time can be sped up by using the predefined constant HSL\_RUNTIME as follows:
-
-&#x20;
 
 Split the HSL library into two files. The first file defines the library functions with an empty implementation. The second file, which is included by the first file, provides the real implementation of all functions defined in the first file. The implementation being used at edit-time and at run-time, respectively, is controlled by the predefined constant HSL\_RUNTIME.
 
 &#x20;
 
-#### Example
+## Example
 
-&#x20;
-
-\#ifndef \_\_HSLMthLib\_hsl\_\_
-
-\#define \_\_HSLMthLib\_hsl\_\_ 1
-
-&#x20;
-
-// #define MTH\_DEVELOP 1
-
-&#x20;
-
-\#ifdef MTH\_DEVELOP
-
-\#ifndef HSL\_RUNTIME
-
-\#define HSL\_RUNTIME 1
-
-\#endif
-
-\#endif
-
-&#x20;
-
+```clike
+#ifndef __HSLMthLib_hsl__
+#define __HSLMthLib_hsl__ 1
+ 
+// #define MTH_DEVELOP 1
+ 
+#ifdef MTH_DEVELOP
+#ifndef HSL_RUNTIME
+#define HSL_RUNTIME 1
+#endif
+#endif
+ 
 // Interface to Math functions
-
-\#ifndef HSL\_RUNTIME
-
+#ifndef HSL_RUNTIME
 function MthMin(variable number1, variable number2)  {}
-
 function MthMax(variable number1, variable number2)  {}
-
 function MthRound(variable number, variable numDecimalPlaces) {}
-
 function MthSin(variable number)  {}
-
 function MthCos(variable number)  {}
-
 function MthTan(variable number)  {}
-
 // ...
-
-\#endif
-
-&#x20;
-
+#endif
+ 
 // Implementation of Math functions
+#ifdef HSL_RUNTIME
+#include "HSLMthLibImpl.hsl"
+#endif
+ 
+#endif
+```
 
-\#ifdef HSL\_RUNTIME
-
-\#include "HSLMthLibImpl.hsl"
-
-\#endif
-
-&#x20;
-
-\#endif
-
-***
-
-_Created with the Personal Edition of HelpNDoc:_ [_Produce online help for Qt applications_](https://www.helpndoc.com/feature-tour/create-help-files-for-the-qt-help-framework)

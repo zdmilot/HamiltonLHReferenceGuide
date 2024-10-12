@@ -1,12 +1,6 @@
 # Functions
 
-## Functions
-
-## Functions
-
-&#x20;
-
-What Is a Function?
+## What Is a Function?
 
 HSL functions perform actions. They can also return results. Sometimes these are the results of calculations or comparisons.&#x20;
 
@@ -18,7 +12,7 @@ HSL supports two kinds of functions: those that are built into the language, and
 
 &#x20;
 
-Special Built-in Functions
+## Special Built-in Functions
 
 The HSL language includes several built-in functions. Some of them enable the handling of expressions and special characters, and convert strings to numeric values. For example, IStr() and FStr() are used to convert numbers to strings.&#x20;
 
@@ -26,40 +20,24 @@ Consult the library functions and element functions for more information about t
 
 &#x20;
 
-Creating Own Functions
+## Creating Own Functions
 
 Programmers can create their own functions and use them wherever needed. A function definition consists of a function header and a block of HSL statements.&#x20;
 
 The TrimLeadingZeros function in the following example takes as its argument a barcode string, and trims leading zero characters from the string before returning with the number representation of the barcode.&#x20;
 
-&#x20;
-
-**function** TrimLeadingZeros     // Function keyword followed by function name
-
-(**string** barcode)              // Formal arguments
-
+```clike
+function TrimLeadingZeros     // Function keyword followed by function name
+(string barcode)              // Formal arguments
 {
-
-**variable** index, length;  // Variable declarations
-
-**string** null;
-
+variable index, length;  // Variable declarations
+string null;
 null = "0";              // HSL statements
-
 length = barcode.GetLength();
-
-**for** (index = 0; index < length; index++)
-
+for (index = 0; index < length; index++)
 if (null.Compare(barcode.Mid(index, 1)) != 0)
-
 break;
-
-**return**(IVal(barcode.Mid(index,length)));
-
+return(IVal(barcode.Mid(index,length)));
 }                             // Function body
+```
 
-&#x20;
-
-***
-
-_Created with the Personal Edition of HelpNDoc:_ [_Free HTML Help documentation generator_](https://www.helpndoc.com)

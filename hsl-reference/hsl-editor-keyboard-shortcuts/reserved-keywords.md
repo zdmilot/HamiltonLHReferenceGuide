@@ -1,14 +1,6 @@
-# Reservedkeywords
-
-## Reserved keywords
-
-## Keywords
-
-&#x20;
+# Reserved Keywords
 
 The following words are reserved words and can only be used with their pre-defined meaning:
-
-&#x20;
 
 | **Keywords** |
 | :----------: |
