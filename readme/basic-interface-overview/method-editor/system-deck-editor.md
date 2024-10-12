@@ -1,5 +1,10 @@
 # System Deck Editor
 
+The System Deck Editor is used to create a System Layout representing the various instruments, devices, labware, sequences and resources of your system that may be used to create methods using the Method Editor.
+
+<figure><img src="../../../.gitbook/assets/image (741).png" alt=""><figcaption></figcaption></figure>
+
+\
 The System Deck Editor window can display two different views of the instrument.
 
 The system view (available by pressing the System Tab in the lower left of the window) shows the instrument from the outside including all surrounding instruments such as 3rd party components etc. The programmer is able to design the real environment in the software by adding instruments (e.g. ML STAR pipetting workstation, rack runner plate handling robot, etc.) and other devices (e.g. readers, washers, incubators, plate hotels, etc.) onto the system deck.

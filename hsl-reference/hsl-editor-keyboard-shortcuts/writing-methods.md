@@ -23,19 +23,19 @@ function g()
  
 method myMethod()         // "main" program
 {
- //...
- if (f() == 0)
- {
-   //...
-   Trace("f failed\n");
- }
- if (g() == 0)
- {
   //...
-  Trace("g failed\n");
- }
- //...
- return;
+  if (f() == 0)
+  {
+    //...
+    Trace("f failed\n");
+  }
+  if (g() == 0)
+  {
+   //...
+   Trace("g failed\n");
+  }
+  //...
+  return;
 }
 ```
 
@@ -94,10 +94,6 @@ function TrimLeadingZeros    // Function keyword followed by function name
 ```
 
 
-
-
-
-&#x20;
 
 ## Statements
 

@@ -1,14 +1,5 @@
 # HHS (Hamilton Heater Shaker)
 
-
-
-{% file src="../../.gitbook/assets/HHS_Operators_Manual_PN_624175_04.pdf" %}
-
-## _Hamilton Heater Shaker‌_
-
-\
-
-
 ![image](../../.gitbook/assets/Image\_1594.jpg)
 
 The Hamilton Heater Shaker (HHS) is designed to heat and/or shake standard Microplates in SBS format.
@@ -171,3 +162,122 @@ After monitoring, the return value from the function “EndMonitoring” can be 
 The image below is an example of the monitoring function.
 
 <figure><img src="../../.gitbook/assets/Image_1621.jpg" alt=""><figcaption></figcaption></figure>
+
+## HAMILTON Heater Shaker (HHS) Specifications
+
+### HHS Dimensions
+
+| **Dimension** | **Measurement** |
+| ------------- | --------------- |
+| Width (X)     | 150 mm          |
+| Height (Z)    | 90 mm           |
+| Depth (Y)     | 105 mm          |
+| Weight        | 2500 g          |
+
+### Labware Compatibility
+
+* Standard microtiter plates with adapter
+* Standard deep well plates with adapter
+* Maximum weight (incl. adapter): 500 g
+
+### Temperature Specifications
+
+| **Target Temperature** | **Ramp Time** | **Deviation (Middle to Edge)** | **Tolerance Band**  |
+| ---------------------- | ------------- | ------------------------------ | ------------------- |
+| 37 °C                  | 3 min         | 36.0 °C - 38.0 °C              | 35.0 °C - 39.0 °C   |
+| 60 °C                  | 10 min        | 58.5 °C - 61.5 °C              | 57.0 °C - 63.0 °C   |
+| 90 °C                  | 20 min        | 88.0 °C - 92.0 °C              | 86.0 °C - 94.0 °C   |
+| 100 °C                 | 30 min        | 97.5 °C - 102.5 °C             | 95.0 °C - 105.0 °C  |
+| 105 °C                 | 35 min        | 102.5 °C - 107.5 °C            | 100.0 °C - 110.0 °C |
+
+#### Temperature Control
+
+* From 5 °C above ambient temperature to 105 °C
+* Controlled by two sensors (located in the middle and at the edge of the adapter plate)
+
+### Shaking Specifications
+
+| **Shaking Direction**          | **Shaking Orbits (peak to peak)** |
+| ------------------------------ | --------------------------------- |
+| Clockwise and Counterclockwise | 1.5 mm, 2.0 mm, 3.0 mm            |
+
+#### Acceleration and Deceleration
+
+* **Acceleration**: 2.0 s (from 0 to max rpm)
+* **Deceleration**: 2.0 s (from max rpm to 0)
+
+#### Recommended Shaking Speeds (rpm)
+
+| **Orbit** | **MTP** | **DWP** | **Sarstedt** | **Customized** |
+| --------- | ------- | ------- | ------------ | -------------- |
+| 1.5 mm    | N/A     | 2000    | 1800         | N/A            |
+| 2.0 mm    | 2500    | 2000    | N/A          | 2000           |
+| 3.0 mm    | 2400    | 1800    | N/A          | 1800           |
+
+### Operating Data
+
+| **Parameter**         | **Value**                       |
+| --------------------- | ------------------------------- |
+| Power consumption     | 41 V / 100 W (max.)             |
+| Power supply          | ML STAR Line workstation or HSB |
+| Installation category | II                              |
+| Pollution degree      | 2                               |
+| Temperature range     | 15 °C – 35 °C                   |
+| Relative humidity     | 15% - 85% (no condensation)     |
+| Noise level           | < 65 dBA with max. speed        |
+| Altitude              | Max. 2000 m above sea level     |
+| Lifetime              | 6 years                         |
+| Usage                 | Indoor use only                 |
+
+### Storage and Transportation
+
+| **Parameter**     | **Value**                   |
+| ----------------- | --------------------------- |
+| Temperature range | -25 °C - +70 °C             |
+| Relative humidity | 10% - 90% (no condensation) |
+
+### Communication
+
+* CAN via TCC connector or via USB
+
+***
+
+## HAMILTON Heater Shaker Box (HSB) Specifications
+
+### HHS Box Dimensions
+
+| **Dimension** | **Measurement** |
+| ------------- | --------------- |
+| Width (X)     | 370 mm          |
+| Height (Z)    | 90 mm           |
+| Depth (Y)     | 210 mm          |
+| Weight        | 6000 g          |
+
+### Operating Data
+
+| **Parameter**              | **Value**                   |
+| -------------------------- | --------------------------- |
+| Voltage                    | 115 VAC / 230 VAC ± 10 %    |
+| Frequency                  | 50/60 Hz                    |
+| Power consumption          | 750 VA (max.)               |
+| Delayed action fuse (115V) | 10 A (T10AL250)             |
+| Delayed action fuse (230V) | 5 A (T5AL250)               |
+| Installation category      | II                          |
+| Pollution degree           | 2                           |
+| Temperature range          | 15 °C – 35 °C               |
+| Relative humidity          | 15% - 85% (no condensation) |
+| Noise level                | < 65 dBA                    |
+| Altitude                   | Max. 2000 m above sea level |
+| Lifetime                   | 6 years                     |
+| Usage                      | Indoor use only             |
+
+### Storage and Transportation
+
+| **Parameter**     | **Value**                   |
+| ----------------- | --------------------------- |
+| Temperature range | -25 °C - +70 °C             |
+| Relative humidity | 10% - 90% (no condensation) |
+
+### HHS Connectors
+
+* 8 connectors
