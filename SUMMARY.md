@@ -465,7 +465,6 @@
   * [0xa223003b : File not updatable](13.-error-index/0xa223003b-file-not-updatable.md)
   * [0xa223003c : Recursive call](13.-error-index/0xa223003c-recursive-call.md)
   * [0xa223003d : Failed to wait for thread(s)](13.-error-index/0xa223003d-failed-to-wait-for-thread-s.md)
-  * [0xa1220007: Unrecognized token](13.-error-index/0xa1220007-unrecognized-token.md)
   * [0xa223003e : Time-out interval elapsed](13.-error-index/0xa223003e-time-out-interval-elapsed.md)
   * [0xa1230002: Inserting idetifier failed](13.-error-index/0xa1230002-inserting-idetifier-failed.md)
   * [0xa1230003: Identifier not found](13.-error-index/0xa1230003-identifier-not-found.md)
