@@ -16,52 +16,44 @@ There are multiple ways to determine that the ASW libraries were imported improp
 \
 
 
-![image](blob:https://app.gitbook.com/969d7652-43e8-453a-ac77-04a2b78be852)
+Opening a method in the Method Editor generates HSL syntax errors that involve the following libraries:
 
-*   ## Opening a method in the Method Editor generates HSL syntax errors that involve the following libraries:
+* ASWGlobal
+* TraceLevel
+*   HSLExtensions
+
+
 
     \
 
 
-    * ## ASWGlobal
-    * ## TraceLevel
-    *   ## HSLExtensions
-
-        \
-
-
-        ![image](blob:https://app.gitbook.com/6fc2a418-f83c-4d24-bdae-35e3559fe536)
-
-        \
-
-
-        ![image](blob:https://app.gitbook.com/02aefc0a-9d7a-4891-9f2a-990e5da1cfef)
-* ## The ASW Status Dialog status window doesn’t display during runtime in a method that uses the ASW Status Dialog.
+    ![image](blob:https://app.gitbook.com/02aefc0a-9d7a-4891-9f2a-990e5da1cfef)
+* The ASW Status Dialog status window doesn’t display during runtime in a method that uses the ASW Status Dialog.
 
 \
 
 
 ‌Uninstall Default and Duplicate Libraries
 
-## 1. Open up Control Panel -> Uninstall a program
+Open up Control Panel -> Uninstall a program
 
 \
 
 
 ![image](blob:https://app.gitbook.com/8e96775a-960f-426e-a61e-8b97bd91a4e3)
 
-1. ## Delete the following folders in the C:\Program Files (x86)\HAMILTON\Library directory:
-   * ## ASWStandard
-   * ## ASWStandard Dialogs
-   * ## ASW Status
-   *   ## HSLExtensions
+1. Delete the following folders in the C:\Program Files (x86)\HAMILTON\Library directory:
+   * ASWStandard
+   * ASWStandard Dialogs
+   * ASW Status
+   *   HSLExtensions
 
        \
 
-2. ## Delete any duplicate instances of the libraries found in the C:\Program Files (x86)\HAMILTON\Methods directory:
-   * ## ASWStandard
-   * ## ASWStandard Dialogs
-   * ## HSLExtensions
+2. Delete any duplicate instances of the libraries found in the C:\Program Files (x86)\HAMILTON\Methods directory:
+   * ASWStandard
+   * ASWStandard Dialogs
+   * HSLExtensions
 
 \
 
@@ -70,10 +62,10 @@ There are multiple ways to determine that the ASW libraries were imported improp
 
 Run the installers for the ASW and HSL Extensions Libraries in the following order and confirm they are installed in the default Library directory:
 
-1. ## ASWStandard
-2. ## ASWGUI
-3. ## HSLExtensions
-4. ## ASW Vector Dialogs (if needed)
+1. ASWStandard
+2. ASWGUI
+3. HSLExtensions
+4. ASW Vector Dialogs (if needed)
 
 \
 
