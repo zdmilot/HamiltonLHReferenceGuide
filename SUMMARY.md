@@ -744,6 +744,7 @@
   * [Xxmoduleindownloadmode](13.-error-index/xxmoduleindownloadmode.md)
   * [HxHsIRunControl2](13.-error-index/hxhsiruncontrol2.md)
 * [16. Glossary](14.-glossary.md)
+* [17. FAQ](17.-faq.md)
 
 ## Applications
 
