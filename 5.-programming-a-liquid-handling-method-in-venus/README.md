@@ -1,7 +1,7 @@
 ---
-cover: ../.gitbook/assets/Hamilton_Artel.jpg
-coverY: -192.83845547675335
+cover: ../.gitbook/assets/AdobeStock_2970408.jpeg
+coverY: -238
 ---
 
-# 6. Programming a Liquid Handling Method in Venus
+# 8. Programming a Liquid Handling Method in Venus
 

@@ -1,4 +1,9 @@
-# Libraries
+---
+cover: ../.gitbook/assets/AdobeStock_211501792.jpeg
+coverY: 0
+---
+
+# 10. Libraries
 
 A library is a collection of standard functions which the programmer can choose from when writing methods in addition to the toolbox elements. The best-known functions are the mathematical functions. For these, VENUS Software provides a mathematical function library. There are several other libraries that can be found to be useful. If the library required hasn’t been installed yet, install it through "Tools -> Hamilton Support Software...".
 

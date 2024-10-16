@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/mol_diagn_cobas_4800_2 (1).jpg
+coverY: 0
+---
+
 # 1. Introduction to Automation
 
 ## Liquid handling

@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/Women-in-Lab.jpg
+cover: .gitbook/assets/92471 (1).jpg
 coverY: 0
 ---
 
-# 1. Introduction
+# 5. Introduction to Vantage
 
 This comprehensive guide delves into the intricacies of liquid handling with a focus on the Vantage liquid handling platform, as well as operations running on Hamilton Venus software. Designed to cater to both newcomers and seasoned professionals, this resource covers fundamental concepts of liquid handling while offering advanced insights and troubleshooting tips for optimizing your processes.
 

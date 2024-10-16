@@ -3,11 +3,11 @@ description: >-
   Prior to any programming, it is important to understand what the project needs
   as much as possible. Avoid making assumptions which could lead to wasted
   effort and time.
-cover: ../../.gitbook/assets/loading-the-testing-robot_49784972486_o.jpg
-coverY: 0
+cover: ../.gitbook/assets/AdobeStock_512544148_Editorial_Use_Only.jpeg
+coverY: -78
 ---
 
-# Defining Project Needs
+# 4. Automation Assay Checklist - Defining Project Needs
 
 ## Review the System Configuration <a href="#review-the-system-configuration" id="review-the-system-configuration"></a>
 
