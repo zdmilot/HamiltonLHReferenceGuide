@@ -5,19 +5,19 @@
 In order to teach off deck positions, the iSWAP must be used as a teaching tool. In teaching mode, the iSWAP is manually guided to a particular location on deck, while holding the labware of interest, and the taught coordinates are saved to the system deck layout. Some off deck locations and system configurations may result in positions that cannot be reached by the iSWAP or are challenging to estimate in order to allow teaching. Errors such as the one below may be seen. This guide is intended to provide instructions on how to address such challenges with teaching off deck positions.\
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## How to teach off deck sites with the iSWAP
 
 For this example, the system is configured with a device on the left hand side (LHS) of a STAR deck and will require the plate to be transferred with a wide grip.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 First, it is important to note that one cannot teach a plate site if the starting position is outside of the iSWAP reach, so do not put the plate to be taught too far outside of the system deck layout.
 
 Start the teaching of the target position using the following coordinates and orientation:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 When teaching the position use the following settings, getting a plate from POS 1 on a standard plate carrier on the deck in wide grip mode:
 

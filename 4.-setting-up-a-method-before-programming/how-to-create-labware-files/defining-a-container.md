@@ -15,7 +15,7 @@ A completed container can then be used in a rack definition.
 4.  Remember that the Base Point for all further references is the inside bottom point.\
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 5.  Set the clearance height at 80 mm (75 mm for the container length plus additional 5 mm for the traveling); measured from the container inner base (Base Point). The clearance height is the height at which the pipetting arm can pass over the container without touching it.\
 
 

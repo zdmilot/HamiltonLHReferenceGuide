@@ -28,12 +28,12 @@ If flushing the waste lines does not work, the check valve may need to be cleane
 
 <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>WARNING</p><p>Treat the check valve as contaminated. Wear appropriate PPE when removing and cleaning the check valve.</p></td></tr></tbody></table>
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Figure 8–1: Check valve
 
 1. Remove both ends of the tubing from the check valve.
-2. Using pliers and a wrench (or another pair of pliers), unscrew the two halves of the check valve. Keep the check valve vertical to keep the spring and steel ball within from falling out.![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+2. Using pliers and a wrench (or another pair of pliers), unscrew the two halves of the check valve. Keep the check valve vertical to keep the spring and steel ball within from falling out.![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Figure 8–2: Unscrewing the check valve
 

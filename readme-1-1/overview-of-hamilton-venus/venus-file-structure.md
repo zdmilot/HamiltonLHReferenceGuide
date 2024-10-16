@@ -6,7 +6,7 @@ icon: dev
 
 The installation creates the following default directory structure.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="503"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="503"><figcaption></figcaption></figure>
 
 The file consists of the following directories listed in the table shown below.
 
