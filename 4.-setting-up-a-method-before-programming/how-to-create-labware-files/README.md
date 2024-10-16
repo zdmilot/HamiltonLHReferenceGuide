@@ -14,7 +14,7 @@ To define the new labware:
 3.  To create a new labware, select “File -> New“ from the Labware Editor Menu. The sub-menu offers five choices, which are the different types of labware. This will be explained in the succeeding sub-sections.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 

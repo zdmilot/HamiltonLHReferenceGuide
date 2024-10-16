@@ -15,22 +15,22 @@ A completed container can then be used in a rack definition.
 4.  Remember that the Base Point for all further references is the inside bottom point.\
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 5.  Set the clearance height at 80 mm (75 mm for the container length plus additional 5 mm for the traveling); measured from the container inner base (Base Point). The clearance height is the height at which the pipetting arm can pass over the container without touching it.\
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 6. Set the maximum pipetting height (minimum height above tube bottom) counted from the container bottom to 4 mm. This allows the tip to go down to a position of 4 mm above the tube bottom (this gives the “Dead Volume”).
 7. Click the checkbox for Liquid Level Detection, to mark it.
 8.  With the assumption that the last 7 mm will not contain any liquid and with some additional LLD space (here 2.5 mm) the liquid seeking height is 70 mm.\
     \
     An information will be prompted when an unexpected LLD is found.
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 9. Set the “touch-off at bottom height” to 0 mm.
 10. “Touch-off at bottom height” is the position of the tip when dispensing with “touch off” into an empty container.
 11. If a side touch dispensing on the container is not wanted, leave the “wick side of container” checkbox unmarked.\
-    ![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)\
+    ![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png>)\
     \
     A **Side Touch Dispense** is a special dispense mode to prevent droplets on the tips end.\
 

@@ -170,6 +170,7 @@
       * [Accessible Areas](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/iswap/accessible-areas.md)
       * [Sequence Definitions](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/iswap/sequence-definitions.md)
       * [Programming the iSWAP](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/iswap/programming-the-iswap.md)
+      * [Teaching Off Deck with the iSWAP](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/iswap/teaching-off-deck-with-the-iswap.md)
       * [Helpful Hints](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/iswap/helpful-hints.md)
     * [Tube-gripper‌](HamiltonManual/additional-sections/tube-handling-tools.md)
     * [CO-RE Gripper](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/co\_re\_gripper/README.md)

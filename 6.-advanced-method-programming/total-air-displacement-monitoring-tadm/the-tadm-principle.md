@@ -6,11 +6,11 @@
 
 Figure 3 and Figure 4 explain in detail how the mechanical movement of the plunger influences the flow of liquid inside the tip and the shape of the resulting pressure curve for an aspiration or a dispense step. The lower part of Figure 3 and Figure 4 contain schematic drawings of the situation within the tip at the start, during, and at the end of the pipetting step (Pi = air pressure inside the tip, Ph = hydrostatic pressure inside the tip, pressure).
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 3: TADM curves: Aspiration</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 3: TADM curves: Aspiration</strong></p></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 4: TADM curves: Dispense</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 4: TADM curves: Dispense</strong></p></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@ Obviously, the TADM feature would not be feasible if the pressure curves obtaine
 
 Figure 5 explains at what time the reference point for the pressure curves is zeroed depending on whether an aspiration or a dispense step is programmed. This is important to know if consecutive aspiration or dispensing (aliquoting) steps use the same liquid class and volume.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="358"><figcaption><p><strong>Fig. 5: Pressure value adjustments for aspiration and dispense steps</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="358"><figcaption><p><strong>Fig. 5: Pressure value adjustments for aspiration and dispense steps</strong></p></figcaption></figure>
 
 Because the pressure value is not re-zeroed between consecutive aspiration steps, TADM curves from the different aspiration cycles will be shifted, as can be seen in Figure 6 (left side, 2 aspirations of 400μl each). In other words, the reference point for the start of an aspiration curve will always be the pressure value obtained before the tip was picked up. Since the pressure value is re-zeroed between consecutive dispensing steps, curves as seen in Figure
 
