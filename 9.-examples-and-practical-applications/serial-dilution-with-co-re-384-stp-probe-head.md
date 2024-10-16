@@ -70,7 +70,7 @@ Only one additional sequence is used in this method. Make sure the stamp tool is
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Ensure that all methods are tested. It is recommended to run a simulation first, fThis is the pattern of the CO-RE 384 Probe Head and NOT the pipetting pattern on the plate.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Ensure that all methods are tested. It is recommended to run a simulation first, fThis is the pattern of the CO-RE 384 Probe Head and NOT the pipetting pattern on the plate.</em></p></td></tr></tbody></table>
 
     \
     \

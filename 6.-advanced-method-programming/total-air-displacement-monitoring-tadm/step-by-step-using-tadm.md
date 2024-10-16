@@ -9,11 +9,11 @@ The TADM principle can be used in two different ways:
 
 However, special attention has to be paid to a number of settings that can effectiveness and behavior of TADM (see Figure 9 below).
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Fig. 9: TADM settings and modes</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Fig. 9: TADM settings and modes</em></p></figcaption></figure>
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></p><p></p></td><td><p><em>ATTENTION</em></p><p><em>If TADM is not enabled for the liquid class, no TADM monitoring will take place for this liquid class even if the TADM mode is set to monitoring.</em></p><p><em>If a tolerance band has not been defined for a specific volume used during</em></p><p><em>pipetting in TADM monitoring mode, the run will be aborted.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></p><p></p></td><td><p><em>ATTENTION</em></p><p><em>If TADM is not enabled for the liquid class, no TADM monitoring will take place for this liquid class even if the TADM mode is set to monitoring.</em></p><p><em>If a tolerance band has not been defined for a specific volume used during</em></p><p><em>pipetting in TADM monitoring mode, the run will be aborted.</em></p></td></tr></tbody></table>
 
 <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12.jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The temperature of the liquid can have a significant influence on the pressure</em></p><p><em>curve. It is mandatory that the liquid used for recording the reference pressure curves have the same temperature as the liquid used during routine work.</em></p></td></tr></tbody></table>
 
@@ -55,7 +55,7 @@ During the development and testing phase, the instrument should be set to “TAD
 
 The settings for the TADM modes / TADM Upload Modes can be set individually for every pipetting device such as 1000ul channels, 5ml channels and the CO-RE 96 Head.
 
-![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1).png>)
+![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1) (1).png>)
 
 Select your instrument (STAR, STARlet, STARplus) in the left of the window, and then scroll down the right side of the window to the entry "TADM settings". Change "TADM Mode" to "Recording" for the desired pipetting devices. Close the System Configuration Editor and save the changes.
 

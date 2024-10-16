@@ -33,7 +33,7 @@ The iSWAP can be used over the whole deck area and the adjoining zones. The tabl
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>If a plate has to be gripped down low on the deck, enough space must also be left on the deck for the arm and gripper of iSWAP.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>If a plate has to be gripped down low on the deck, enough space must also be left on the deck for the arm and gripper of iSWAP.</p></td></tr></tbody></table>
 
 
 

@@ -5,7 +5,7 @@ Hamilton provides two independent authentication systems for the Hamilton softwa
 * Operating System Authentication System
 * Hamilton Authentication System
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION </p><p>Access rights must first be defined for the “Lab Service” before any changes can be made in the System Configuration Editor. </p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION </p><p>Access rights must first be defined for the “Lab Service” before any changes can be made in the System Configuration Editor. </p></td></tr></tbody></table>
 
 
 
@@ -60,7 +60,7 @@ VENUS Software has five different levels of access authorization.
 
     <figure><img src="../../.gitbook/assets/image (136) (1) (1).png" alt="" width="311"><figcaption></figcaption></figure>
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION</p><p>Decide if the user is to be defined only locally or also for the domain (when the PC is in a network environment).</p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION</p><p>Decide if the user is to be defined only locally or also for the domain (when the PC is in a network environment).</p></td></tr></tbody></table>
 
     \
 
@@ -103,7 +103,7 @@ VENUS Software has five different levels of access authorization.
     \
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION</p><p>Unregistered users cannot operate the VENUS Software – not even LAN administrators. The following error message is displayed in the case of unauthorized access attempts:<br><img src="../../.gitbook/assets/image (143) (1) (1).png" alt=""></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION</p><p>Unregistered users cannot operate the VENUS Software – not even LAN administrators. The following error message is displayed in the case of unauthorized access attempts:<br><img src="../../.gitbook/assets/image (143) (1) (1).png" alt=""></p></td></tr></tbody></table>
 
 
 
@@ -113,7 +113,7 @@ VENUS Software has five different levels of access authorization.
 
 The Hamilton authentication system is a log-on system implemented by the Hamilton Software to apply user rights independently from the operating system.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION</p><p>The Hamilton authentication system does not comply with 21 CFR Part 11.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td><td><p>ATTENTION</p><p>The Hamilton authentication system does not comply with 21 CFR Part 11.</p></td></tr></tbody></table>
 
 
 

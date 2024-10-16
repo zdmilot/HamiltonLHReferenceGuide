@@ -26,7 +26,7 @@ To define a Carrier:
 
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>The clearance height defines – the traverse height at which the pipetting channels can move without collision.</em></p><p><em>Clearance height should not exceed 140mm.</em></p><p><em>Wrong clearance height definitions can lead to serious damages.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>The clearance height defines – the traverse height at which the pipetting channels can move without collision.</em></p><p><em>Clearance height should not exceed 140mm.</em></p><p><em>Wrong clearance height definitions can lead to serious damages.</em></p></td></tr></tbody></table>
 3.  In the next window, the sites hosting the plates have to be defined:
 
     <figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>

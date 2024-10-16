@@ -6,7 +6,7 @@ description: How to automate decision-making and repeated actions in Venus.
 
 ![](<../../../.gitbook/assets/0 (1).png>)
 
-### ![](<../../../.gitbook/assets/1 (1).jpeg>)Loops <a href="#slide-number-2" id="slide-number-2"></a>
+### ![](<../../../.gitbook/assets/1 (1) (1).jpeg>)Loops <a href="#slide-number-2" id="slide-number-2"></a>
 
 Found under the General Tab, the **Loop** Step is used to repeat specific steps (also known as _iterate_)
 
@@ -20,7 +20,7 @@ Repeat until the controlling & selected sequence has reached its end
 
 Repeat until the selected file has reached its end: no more records
 
-### ![](<../../../.gitbook/assets/2 (1).jpeg>)Using Loops <a href="#slide-number-3" id="slide-number-3"></a>
+### ![](<../../../.gitbook/assets/2 (1) (1).jpeg>)Using Loops <a href="#slide-number-3" id="slide-number-3"></a>
 
 ![](<../../../.gitbook/assets/3 (1) (1).png>)Add the General Step **Loop** to your Method and the **Loop** dialogue window appears
 
@@ -37,19 +37,19 @@ Examples:
 1. ![](<../../../.gitbook/assets/6 (1) (1) (1).png>)Repeat the step 12 times
 2. Repeat forever or until the step Loop-Break is encountered
 
-![](<../../../.gitbook/assets/7 (1) (1).png>)
+![](<../../../.gitbook/assets/7 (1) (1) (1).png>)
 
 1. Repeat the pipetting steps until all sequence positions in
 
-![](<../../../.gitbook/assets/8 (1) (1).png>)TargetPlatesX4 are processed
+![](<../../../.gitbook/assets/8 (1) (1) (1).png>)TargetPlatesX4 are processed
 
-1. ![](<../../../.gitbook/assets/9 (1) (1).png>)Read each record from the work list until the end-of-file is reached
+1. ![](<../../../.gitbook/assets/9 (1) (1) (1).png>)Read each record from the work list until the end-of-file is reached
 
 ### Loops <a href="#slide-number-5" id="slide-number-5"></a>
 
 **“Iterate over sequence” =** Repeat the steps inside the loop until the “**Controlling**” sequence runs out of positions (i.e. reaches it’s **End Position)**
 
-![](<../../../.gitbook/assets/10 (1) (1) (1).png>)
+![](<../../../.gitbook/assets/10 (1) (1) (1) (1).png>)
 
 **=**
 
@@ -71,7 +71,7 @@ When more than one sequence is checked as **Controlling** then the Loop will end
 
 ![](<../../../.gitbook/assets/15 (1) (1).jpeg>)**Loop counter variable** created by the **Loop** step automatically keeps count of the number of iterations. **Loop counter variable** = **0** before **Loop** execution starts, and is incremented by **1** every time the **Loop** body is entered
 
-![](<../../../.gitbook/assets/16 (1) (1).png>)**Loops** can contain other **Loops**
+![](<../../../.gitbook/assets/16 (1) (1) (1).png>)**Loops** can contain other **Loops**
 
 Example: an 8 channel STAR with 300uL tips can Dispense 100uL into 3 wells for each 300uL Aspiration. So it will need to repeat the Aspirate and Dispense steps 4 times to completely fill a 96 well plate **(Note: for Part Volume Dispenses, the volume for the first and last dispense will be off)**
 

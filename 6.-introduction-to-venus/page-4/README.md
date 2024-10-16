@@ -43,22 +43,22 @@ Using VENUS Software requires access to a Microsoft SQL Server. If the “Micros
 
 1.  During installation, a prompt will be displayed asking if the SQL Server 2014 Service Pack 2 (SP2) shal be installed.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="267"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="267"><figcaption></figcaption></figure>
 2. Click \[Yes] to continue. If \[No] is chosen, please prepare the following information to be able to use another SQL Server:
    * Microsoft SQL Server Location
    * Database User Name and Password
 3.  Click \[Next >] to continue.
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 4.  Click \[Yes] to continue after the virus protection software and all other applications have been closed.
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 5.  Click \[Yes] to continue.
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 6.  If necessary, change the installation destination and click \[Next >] to continue.
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 
 </details>
 
@@ -69,16 +69,16 @@ Using VENUS Software requires access to a Microsoft SQL Server. If the “Micros
 1. Select the instrument from the dialog shown. This will install one of the following instrument deck layouts as the default layout.
 2.  Click \[Next >] to continue.
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 3.  Click \[Install] to continue with the installation process.
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 4.  Specify the laboratory name and click \[Next >] to confirm the name.
 
-    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 5. The installation of the VENUS Software will now start.
 
-<img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 
 

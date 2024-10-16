@@ -12,15 +12,15 @@ Importing and exporting methods is a way of archiving and sharing methods progra
 
 
 
-    <figure><img src="../.gitbook/assets/7 (1).png" alt="" width="294"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/7 (1) (1).png" alt="" width="294"><figcaption></figcaption></figure>
 4. Select the \*.pkg file you want to import and Select Next
 5. Select “Recovery” and enable the checkbox to “Import original Hamilton files”
 
-<figure><img src="../.gitbook/assets/8 (1).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (1) (1).png" alt="" width="294"><figcaption></figcaption></figure>
 
 7\. Select Finish and the \*pkg file will be imported. An output window will be displayed during the import process. For any file conflict, select Yes or No depending on which file needs to be overwritten. When completed, select Close. The files have been imported and can be located in the same file path as they were on the export system.
 
-<figure><img src="../.gitbook/assets/10 (1) (1).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (1) (1) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Export" %}

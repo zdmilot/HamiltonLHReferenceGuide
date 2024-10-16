@@ -29,7 +29,7 @@ To create this Deck Layout perform the following steps:
 10. Key in “ST 48” in the “Search Labware” Field. Add the “TIP\_CAR\_480\_ST\_A00”.
 11. Save the Deck Layout.
 
-<table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>Be aware that the CO-RE 96 Probe Head may require more space to pick up tips than the single pipetting channels.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>Be aware that the CO-RE 96 Probe Head may require more space to pick up tips than the single pipetting channels.</p></td></tr></tbody></table>
 
 
 

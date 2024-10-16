@@ -6,11 +6,11 @@
 
 Figure 3 and Figure 4 explain in detail how the mechanical movement of the plunger influences the flow of liquid inside the tip and the shape of the resulting pressure curve for an aspiration or a dispense step. The lower part of Figure 3 and Figure 4 contain schematic drawings of the situation within the tip at the start, during, and at the end of the pipetting step (Pi = air pressure inside the tip, Ph = hydrostatic pressure inside the tip, pressure).
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 3: TADM curves: Aspiration</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 3: TADM curves: Aspiration</strong></p></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 4: TADM curves: Dispense</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 4: TADM curves: Dispense</strong></p></figcaption></figure>
 
 
 
@@ -18,13 +18,13 @@ Obviously, the TADM feature would not be feasible if the pressure curves obtaine
 
 Figure 5 explains at what time the reference point for the pressure curves is zeroed depending on whether an aspiration or a dispense step is programmed. This is important to know if consecutive aspiration or dispensing (aliquoting) steps use the same liquid class and volume.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="358"><figcaption><p><strong>Fig. 5: Pressure value adjustments for aspiration and dispense steps</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="358"><figcaption><p><strong>Fig. 5: Pressure value adjustments for aspiration and dispense steps</strong></p></figcaption></figure>
 
 Because the pressure value is not re-zeroed between consecutive aspiration steps, TADM curves from the different aspiration cycles will be shifted, as can be seen in Figure 6 (left side, 2 aspirations of 400μl each). In other words, the reference point for the start of an aspiration curve will always be the pressure value obtained before the tip was picked up. Since the pressure value is re-zeroed between consecutive dispensing steps, curves as seen in Figure
 
 6 (right side, dispensing 100 μl 8 times) will be obtained, where the curves from all consecutive dispense cycles are not shifted.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Fig. 6: Consecutive aspiration and dispense steps and the resulting TADM curves</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Fig. 6: Consecutive aspiration and dispense steps and the resulting TADM curves</strong></p></figcaption></figure>
 
 
 
@@ -51,7 +51,7 @@ The type of pipetting step (aspiration or dispensing) influences what kind of sc
 
 ### **Possible pipetting errors during aspiration**
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><em>Fig. 7: Typical TADM curves for correct and erroneous aspiration steps</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><em>Fig. 7: Typical TADM curves for correct and erroneous aspiration steps</em></p></figcaption></figure>
 
 
 
@@ -59,7 +59,7 @@ A pressure value below the normal, error-free aspiration curve means that the pr
 
 **3.3.2 Possible pipetting errors during dispensing**
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Fig. 8: Typical TADM curves for correct and erroneous dispensing steps</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Fig. 8: Typical TADM curves for correct and erroneous dispensing steps</strong></p></figcaption></figure>
 
 A pressure value above the error-free dispensing curve means that the pressure increases because as the plunger continues to move inside the channel, the liquid level inside the tip does not. A pressure signal below the error-free curve signifies that as the plunger pushes the air inside the channel, the liquid that leaves the tip has less resitance than the reference liquid.
 
@@ -96,11 +96,11 @@ The TADM principle can be used in two different ways:
 
 However, special attention has to be paid to a number of settings that can effectiveness and behavior of TADM (see Figure 9 below).
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Fig. 9: TADM settings and modes</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Fig. 9: TADM settings and modes</em></p></figcaption></figure>
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></p><p></p></td><td><p><em>ATTENTION</em></p><p><em>If TADM is not enabled for the liquid class, no TADM monitoring will take place for this liquid class even if the TADM mode is set to monitoring.</em></p><p><em>If a tolerance band has not been defined for a specific volume used during</em></p><p><em>pipetting in TADM monitoring mode, the run will be aborted.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></p><p></p></td><td><p><em>ATTENTION</em></p><p><em>If TADM is not enabled for the liquid class, no TADM monitoring will take place for this liquid class even if the TADM mode is set to monitoring.</em></p><p><em>If a tolerance band has not been defined for a specific volume used during</em></p><p><em>pipetting in TADM monitoring mode, the run will be aborted.</em></p></td></tr></tbody></table>
 
 <table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12.jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The temperature of the liquid can have a significant influence on the pressure</em></p><p><em>curve. It is mandatory that the liquid used for recording the reference pressure curves have the same temperature as the liquid used during routine work.</em></p></td></tr></tbody></table>
 
@@ -142,7 +142,7 @@ During the development and testing phase, the instrument should be set to “TAD
 
 The settings for the TADM modes / TADM Upload Modes can be set individually for every pipetting device such as 1000ul channels, 5ml channels and the CO-RE 96 Head.
 
-![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1).png>)
+![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1) (1).png>)
 
 Select your instrument (STAR, STARlet, STARplus) in the left of the window, and then scroll down the right side of the window to the entry "TADM settings". Change "TADM Mode" to "Recording" for the desired pipetting devices. Close the System Configuration Editor and save the changes.
 

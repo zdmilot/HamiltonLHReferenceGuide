@@ -2,7 +2,7 @@
 
 **PURPOSE**
 
-* ![Image](<../.gitbook/assets/0 (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
+* ![Image](<../.gitbook/assets/0 (1) (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
 * Text based labeling is one of the first problems in switching to high throughput automation and it is the simplest to solve
 * Starting early and with a unified approach to sample labeling and tracking will allow assays to grow and expand without severe bottlenecks, saving time when testing requirements expand
 * Adhesive labels and ink based marking are not compatible with solvents needed for proper cell culture nor are they durable enough with long term storage in extreme temperatures
@@ -18,7 +18,7 @@
 
 **STANDING ON THE SHOULDERS OF GIANTS**
 
-![](../.gitbook/assets/1.jpeg)![](../.gitbook/assets/2.jpeg)![](../.gitbook/assets/3.jpeg)
+![](<../.gitbook/assets/1 (1).jpeg>)![](<../.gitbook/assets/2 (1).jpeg>)![](<../.gitbook/assets/3 (1).jpeg>)
 
 *
   * Normal laboratory environments, such as liquid nitrogen and -80 and even wet and cold environments such as using wet ice or even using liquid nitrogen, snap freeze samples are already treacherous environments for laboratory containers, and tubes
@@ -62,9 +62,9 @@ Improve Customer & Employee Satisfaction
 
 **BARCODING STRATEGIES**
 
-![](<../.gitbook/assets/11 (1).png>)![](<../.gitbook/assets/12 (1).png>)
+![](<../.gitbook/assets/11 (1) (1).png>)![](<../.gitbook/assets/12 (1) (1).png>)
 
-![Picture 3](<../.gitbook/assets/13 (1).jpeg>) ![Picture 6](../.gitbook/assets/14.jpeg)
+![Picture 3](<../.gitbook/assets/13 (1) (1).jpeg>) ![Picture 6](../.gitbook/assets/14.jpeg)
 
 **HOW TO AUTOMATE BARCODE LABELING**
 
@@ -81,11 +81,11 @@ Improve Customer & Employee Satisfaction
 * While employee safety and comfort may seem like a natural bonus of implementing automation, these benefits also boost efficiency and productivity.
 * Prioritizing these factors in the laboratory can help maximize the results of a safer process and environment.
 
-![þÿ](../.gitbook/assets/17.png)Reduction in Labeling Time: By adopting LVL tubes and leveraging partnerships, the project aims to significantly reduce the time scientists spend on labeling, thus accelerating research workflows.
+![þÿ](<../.gitbook/assets/17 (1).png>)Reduction in Labeling Time: By adopting LVL tubes and leveraging partnerships, the project aims to significantly reduce the time scientists spend on labeling, thus accelerating research workflows.
 
 Eliminating Traditional Labeling System Pain Points: The shift to pre-etched labware addresses common issues with traditional labeling systems, such as label detachment, illegibility, re-labeling and time consumption.
 
-![þÿ](../.gitbook/assets/18.png)Enhancing Lab Automation: The initiative is designed to enhance lab efficiency, organization, and streamline processes, contributing to a more effective and reliable lab environment.
+![þÿ](<../.gitbook/assets/18 (1).png>)Enhancing Lab Automation: The initiative is designed to enhance lab efficiency, organization, and streamline processes, contributing to a more effective and reliable lab environment.
 
 **AUTOMATED CAPPING AND DE-CAPPING**
 

@@ -10,7 +10,7 @@ The TADM feature 5.1 supports all pipetting channels such as the (old) 300μl ch
 
 TADM (Total Aspiration and Dispense Monitoring) is a tool to increase the safety and the robustness of pipetting processes. A pressure sensor inside each individual pipetting channel constantly records the pressure in the system during aspiration and dispensing.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Fig. 1: Air displacement system with pressure sensor for TADM</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Fig. 1: Air displacement system with pressure sensor for TADM</strong></p></figcaption></figure>
 
 The software generates a pressure / time curve (See Fig. 2) that is different for each liquid (class) and each volume pipetted. The values obtained by the pressure sensor during a pipetting step (aspiration or dispensing) can be compared to user-defined values, which means real-time monitoring of the pipetting process.
 

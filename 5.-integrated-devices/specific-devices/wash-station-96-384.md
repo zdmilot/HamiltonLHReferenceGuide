@@ -35,7 +35,7 @@ The table below gives a brief overview of the available commands for the wash st
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>The CO-RE 384 Probe Head performs a blow out after the wash steps. The software automatically uses the tip picking up position (tip rack). Therefore do not reload the tip rack of the pick-up position if performing any wash steps.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>The CO-RE 384 Probe Head performs a blow out after the wash steps. The software automatically uses the tip picking up position (tip rack). Therefore do not reload the tip rack of the pick-up position if performing any wash steps.</p></td></tr></tbody></table>
 
 
 

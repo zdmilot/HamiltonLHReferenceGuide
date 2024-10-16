@@ -18,4 +18,4 @@ When the “Hamilton System Configuration Editor” has been activated, the firs
 
 To switch the run mode, select “System Settings” -> “Simulation Settings”:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

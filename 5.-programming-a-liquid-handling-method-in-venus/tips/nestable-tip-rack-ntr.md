@@ -5,11 +5,11 @@ The Nestable Tip Rack (NTR) is designed to stack disposable tip racks which incr
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -45,7 +45,7 @@ Working with the CO-RE 96 Probe Head and Nestable Tip Racks will need some preca
 There is danger of collision when the CO-RE 96 Probe Head is picking up tips from lower positions if the neighboring positions are completely filled:\
 
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 In this case, either work from top to bottom over all stacks or transport the Nestable Tip Rack to a collision free position and pick up the tips there.
 

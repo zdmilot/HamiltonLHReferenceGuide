@@ -17,7 +17,7 @@ To add labware to the deck layout, make sure the “Labware” Tab is selected, 
 
 <figure><img src="../../.gitbook/assets/image (30) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>If a tube carrier is placed directly adjacent to a plate or a tip carrier, using low volume tips may lead to a collision when the</em> pipetting <em>channel moves down to aspirate from the bottom of the tubes. Pipetting channels with low volume tips fitted cannot reach the deck surface. (Δz = 14.5 mm, zmin = 114,5 mm from origin) In this case, use larger tip sizes.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>If a tube carrier is placed directly adjacent to a plate or a tip carrier, using low volume tips may lead to a collision when the</em> pipetting <em>channel moves down to aspirate from the bottom of the tubes. Pipetting channels with low volume tips fitted cannot reach the deck surface. (Δz = 14.5 mm, zmin = 114,5 mm from origin) In this case, use larger tip sizes.</em></p></td></tr></tbody></table>
 
 
 

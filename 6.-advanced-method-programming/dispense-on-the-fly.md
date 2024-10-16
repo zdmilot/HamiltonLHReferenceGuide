@@ -2,7 +2,7 @@
 
 VENUS Software offers a dispense on the fly (Single Step). This step does not stop the x- movement while pipetting which allows a very fast dispensing of liquid, e.g. to fill a plate with reagent.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>This feature is available for 1000µl-pipetting channels and for 5ml-pipetting channels.</em>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>This feature is available for 1000µl-pipetting channels and for 5ml-pipetting channels.</em>.</p></td></tr></tbody></table>
 
 
 

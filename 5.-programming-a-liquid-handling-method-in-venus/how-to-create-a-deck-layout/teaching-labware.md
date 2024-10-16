@@ -41,7 +41,7 @@ To teach a labware position:
 * Location: The default x/y/z- coordinate is determined by the mouse-cursor when dropping the labware onto the deck. Keep in mind that the Z-Axis has an offset of 100mm
 * Rotation: The labware can be rotated and aligned as required. The rotation functions, the orientation of the labware can also be adjusted.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Before the pipetting channel with the teaching needle is moving from the waste block (picking up position) to the rough position of the labware, make sure there is no danger of collision with objects higher than 140 mm (from the deck surface).</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Before the pipetting channel with the teaching needle is moving from the waste block (picking up position) to the rough position of the labware, make sure there is no danger of collision with objects higher than 140 mm (from the deck surface).</em></p></td></tr></tbody></table>
 
 
 
@@ -66,7 +66,7 @@ Normally only the first position has to be taught. If the rows and columns of a 
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Make sure that the chosen step size will not trigger a crash. The system can be seriously damaged when colliding with the</em> pipetting <em>channels. All collision control must be made by the user</em>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Make sure that the chosen step size will not trigger a crash. The system can be seriously damaged when colliding with the</em> pipetting <em>channels. All collision control must be made by the user</em>.</p></td></tr></tbody></table>
 
 
 
@@ -80,9 +80,9 @@ Normally only the first position has to be taught. If the rows and columns of a 
 
 The actual position and increment step size is displayed.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Make sure that the step size is appropriate. When moving the x-arm with a step size of 100 mm, make sure to decrease the step size first. Otherwise, the pipetting channel will move 100 mm downwards and will possibly crash</em>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Make sure that the step size is appropriate. When moving the x-arm with a step size of 100 mm, make sure to decrease the step size first. Otherwise, the pipetting channel will move 100 mm downwards and will possibly crash</em>.</p></td></tr></tbody></table>
 
 
 
@@ -90,10 +90,10 @@ The actual position and increment step size is displayed.
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 9. Click \[OK], to transfer the data to the deck layout.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Do not use</em> [Move Probe] <em>in the simulation mode. The computer will try to establish a connection to an instrument several times otherwise will prompt a communication error after approximately 10 seconds.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Do not use</em> [Move Probe] <em>in the simulation mode. The computer will try to establish a connection to an instrument several times otherwise will prompt a communication error after approximately 10 seconds.</em></p></td></tr></tbody></table>
 
 
 
@@ -103,7 +103,7 @@ Teaching Labware with the 5ml-pipetting channels is very similar to teaching wit
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The teaching needle is available optionally and not part of the standard delivery package. It is also used in the maintenance methods.</em></p></td></tr><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Before the pipetting channel with the teaching needle is moving from the waste block (picking up position) to the approximate position of the labware, make sure there is no danger of collision with objects higher than 140 mm (above the deck surface):</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The teaching needle is available optionally and not part of the standard delivery package. It is also used in the maintenance methods.</em></p></td></tr><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Before the pipetting channel with the teaching needle is moving from the waste block (picking up position) to the approximate position of the labware, make sure there is no danger of collision with objects higher than 140 mm (above the deck surface):</em></p></td></tr></tbody></table>
 
 
 
@@ -125,15 +125,15 @@ The following steps describe how to teach a position with the iSWAP is done:
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. Clicking \[Move Probe…] will prompt the dialog shown below.
 5.  Select “iSWAP” and click \[OK]\
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>If the iSWAP is moving with the plate to the approximate position, make sure that there is no danger of collision with other objects higher than 140 mm (above the deck surface).</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>If the iSWAP is moving with the plate to the approximate position, make sure that there is no danger of collision with other objects higher than 140 mm (above the deck surface).</em></p></td></tr></tbody></table>
 
 \
 
@@ -143,21 +143,21 @@ The following steps describe how to teach a position with the iSWAP is done:
 8.  The iSWAP picks up the selected labware and moves to the x/y - coordinate of the position to be taught.\
 
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 9. The keyboard (arrow keys, page up, page down) can guide the iSWAP to the labware. The correct position is reached if the labware is touching the bottom of the transfer position. Prevent the iSWAP from crashing.
 10. Click \[OK] to proceed.\
 
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 11. When \[Cancel] is clicked, the iSWAP puts the labware back to the picking-up position and moves to its park position.\
 
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 12. The taught coordinates are now stored. If the iSWAP cannot move up to the traverse height (e.g. shelving position where the iSWAP would collide with the shelf above it).
 13. Click \[OK] if the iSWAP is in a collision-free position.\
 
 
-    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 14. The coordinates have been stored. The taught x/y/z coordinates are displayed in the “Adjust Labware Position” Window.
 15. Press \[OK] to transfer the data to the deck layout.\
     \

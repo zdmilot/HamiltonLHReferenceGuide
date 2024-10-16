@@ -30,13 +30,13 @@ First, create a new method. This will also add a Deck Layout with the same name 
     \
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7.  In the tree list right above the tabs, expand “ML STAR Carriers -> Plate Carriers” and select “PLT\_CAR\_L5MD\_A00”. This is a carrier for microplates.\
     \
     \
     An image of the selected carrier is shown in the right-hand box.
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 8. “Drag and Drop” the carrier from the box onto the deck.
 9. Repeat the steps above to add a tip carrier with 300μl Tips (without filter). Click “ML STAR Carriers -> Tip Carriers 96” and “Drag and Drop” the TIP\_CAR480\_BC\_ST\_A00 onto the deck.
 10. Following the previous steps, add three sample carriers to the deck. Click “ML STAR Carriers -> Sample Carriers -> 32 positions -> SMP\_CAR\_32\_12x95\_A00” and drag it onto the deck. Repeat this step until there are 3 sample carriers on the deck.
@@ -46,18 +46,18 @@ First, create a new method. This will also add a Deck Layout with the same name 
 14. Change the LabwareID of the plate to “TargetPlate”.\
 
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 15. Delete two of the three reagent troughs (they are not needed). Select a trough and press the Delete key on the keyboard or right-click the trough and select “Delete” from the Context Menu.
 16. Click the “Sequences” Tab to start editing the sequences. The upper part of the window changes to sequence editing.
 17. Click the \[Clear selected] Button to make sure that nothing is selected.
 18. Click and hold the left mouse button at one corner of the sample carriers and move over all three sample carriers.\
 
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 19. The positions appear in dark brown.\
 
 
-    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 20. Click the \[Save as] Button and enter the sequences name as shown in the image.
 21. Save by clicking \[OK].
 
@@ -67,7 +67,7 @@ First, create a new method. This will also add a Deck Layout with the same name 
 2.  The action editor window should appear as presented below.\
 
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. Click the “Load” action and drag it in the right section of the window. The action dialog appears as follows:
 4. Leave the default values for the “Display name”, “Color”, “Duration” and “Symbol” selection. In the “Insert Step” Field, the loading step can be included.
 5. This dialog allows the creation of a method which will run on an instrument. Actions without steps can only be used for calculations.
@@ -79,17 +79,17 @@ First, create a new method. This will also add a Deck Layout with the same name 
 
 
 
-    <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7.  The action dialog will be closed and the “Load” Smart Step Dialog will open as follows:\
 
 
-    <figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="472"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" width="472"><figcaption></figcaption></figure>
 8. Add the sequences to load by clicking the \[Add] Button and selecting the required sequences.
 9. Click \[OK] to close the “Load” Dialog
 10. The “Load” Icon is now visible in the window as shown below.\
 
 
-    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 11. Drag the action “Pipette 1000μl Channels” to the right window. The action data dialog will open.
 12. Leave the default values for the “Display name”, “Color”, “Duration” and “Symbol” selection. To execute the pipetting, select the “1000μl Channel Pipette – Aliquot” for the liquid transfer from the buffer trough onto the target plate.\
 
