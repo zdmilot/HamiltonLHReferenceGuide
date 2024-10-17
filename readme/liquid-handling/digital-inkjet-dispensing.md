@@ -15,7 +15,7 @@ Non-contact microdispensing systems offer accurate and high-throughput depositio
 The general fluid property requirements for a fluid to be used in a piezoelectric demand-mode ink-jet device are as follows: Viscosity = 0.5-40cp (Newtonian); Surface Tension = 20-70 dynes/cm. Fluids with properties outside these ranges may be dispensed using ink-jet devices, but with increased difficulty / decreased performance (see figure to the right). The left image of the figure shows an unstable inkjet microdispensing associated with high frequency deposition of a low surface tension, low viscosity solvent. The right image presents a stable inkjet microdispensing obtained using a higher surface tension and higher viscosity fluid at the same frequency. Combinations of the extreme values may also have poorer performance. If the fluid is heated or cooled, the above properties are required at the orifice. The viscosity and surface tension values described are appropriate for fluids with a specific gravity near 1. For high-density fluids, such as molten metals, the values above should be converted to kinematic values using the density of water. Newtonian behavior is not strictly required, but the fluid properties at the orifice flow conditions must be in the above range. Thus, as shear thinning fluid could have a low shear rate viscosity much higher than the 40cp. Viscoelastic behavior causes significant performance problems. Fluids properties can be modified to better match the demand-mode ink-jet requirements by changing the concentration of solute and/or solvent or by adding viscosity and surface tension modifying agents, such as glycols, glycerin, alcohols and surfactants.\
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -29,11 +29,11 @@ MicroFab has dispensed a wide variety of biologically relevant fluids and reagen
 
 Biopolymer microdispensing has applications in tissue engineering and drug delivery, such as creation of cell attachment sites, scaffolds for tissue engineering, and coatings and drug delivery systems for controlled drug release. Polymeric materials can also be dispensed to create and/or modify solid support structures, such improving adhesion / wetting or repulsion / non-wetting at very high resolution.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Example of 450um diameter acrylamide gel pads containing different concentrations of catalyst printed onto a microscope glass slide; polymerization was UV initiated.</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Example of 450um diameter acrylamide gel pads containing different concentrations of catalyst printed onto a microscope glass slide; polymerization was UV initiated.</em></p></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Examples of 50um wide lines of Poly(lactic acid) (PLLA) microdeposited by ink-jet onto a polystyrene substrate. Note in the right image that overprinting can be used to build up layered structures.</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Examples of 50um wide lines of Poly(lactic acid) (PLLA) microdeposited by ink-jet onto a polystyrene substrate. Note in the right image that overprinting can be used to build up layered structures.</em></p></figcaption></figure>
 
 
 

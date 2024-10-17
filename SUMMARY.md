@@ -570,6 +570,8 @@
       * [Refreshing image 'cache' used by Hamilton custom dialog editor](6.-advanced-method-programming/data-input-output/custom-dialogs/refreshing-image-cache-used-by-hamilton-custom-dialog-editor.md)
       * [How to abort a method on the custom dialog?](6.-advanced-method-programming/data-input-output/custom-dialogs/how-to-abort-a-method-on-the-custom-dialog-1.md)
       * [Changing Color Options in Dialog Boxes](6.-advanced-method-programming/data-input-output/custom-dialogs/changing-color-options-in-dialog-boxes.md)
+      * [Importing Custom Dialog Templates](6.-advanced-method-programming/data-input-output/custom-dialogs/importing-custom-dialog-templates.md)
+      * [Creating a Custom Dialog in Venus Method Editor](6.-advanced-method-programming/data-input-output/custom-dialogs/creating-a-custom-dialog-in-venus-method-editor.md)
       * [Vector Dialogs (ASW Standard Dialogs)](6.-advanced-method-programming/data-input-output/custom-dialogs/vector-dialogs-asw-standard-dialogs/README.md)
         * [ActivateSoundForNextDialog](6.-advanced-method-programming/data-input-output/custom-dialogs/vector-dialogs-asw-standard-dialogs/activatesoundfornextdialog.md)
         * [AppendStatusText](6.-advanced-method-programming/data-input-output/custom-dialogs/vector-dialogs-asw-standard-dialogs/appendstatustext.md)

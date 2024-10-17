@@ -16,7 +16,7 @@ All StoreX units have the same compact dimensions. StoreX has a user front door 
 
 Inside the StoreX climate chamber there is a handling system that allows random transport of plates. Plates can be moved internally as well as transferred to and from the environment. Access times are short and the internal climate is kept stable even for short time periods between accesses.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A Handler (4) is used for vertical transport as well as loading and unloading of samples. The Handler consists of a Vertical Positioning Drive (40), a Turn Drive (42) and a Shovel Drive (43). The Handler has a number of vertical positions which are determined by the number of stacker levels and the loading or unloading level.&#x20;
 
@@ -38,7 +38,7 @@ The Transfer Station is the location where the samples are taken by or put on by
 
 Inside the StoreX climate chamber of higher capacity instruments there is a handling system that includes a positionable carrousel thus allowing random access and transport of plates. Plates can be moved internally as well as transferred to and from the environment. Access times are short and the internal climate is kept stable even for short time periods between accesses.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A Handler is used for vertical transport as well as loading and unloading of samples. The Handler consists of a Vertical Positioning Drive, a Turn Drive and a Shovel Drive an a Rotating Drive. The Handler has a number of vertical positions which are determined by the number of stacker levels and the loading or unloading level.
 

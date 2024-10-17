@@ -6,11 +6,11 @@
 
 Figure 3 and Figure 4 explain in detail how the mechanical movement of the plunger influences the flow of liquid inside the tip and the shape of the resulting pressure curve for an aspiration or a dispense step. The lower part of Figure 3 and Figure 4 contain schematic drawings of the situation within the tip at the start, during, and at the end of the pipetting step (Pi = air pressure inside the tip, Ph = hydrostatic pressure inside the tip, pressure).
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 3: TADM curves: Aspiration</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 3: TADM curves: Aspiration</strong></p></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 4: TADM curves: Dispense</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><strong>Fig. 4: TADM curves: Dispense</strong></p></figcaption></figure>
 
 
 
