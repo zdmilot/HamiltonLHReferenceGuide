@@ -1,8 +1,6 @@
 # WorklistDialogAddRow
 
-| �WorklistDialogAddRow |   |
-| --------------------- | - |
-| �Syntax               |   |
+## Syntax
 
 | WorklistDialogAddRow ( | variable i\_intID,             |           |   |
 | ---------------------- | ------------------------------ | --------- | - |
@@ -11,14 +9,11 @@
 |                        | variable i\_intProcessingMode, |           |   |
 |                        | variable i\_arrValueColumns\[] | )variable |   |
 
-Add a row in the work list view with default columns and custom columns.
-
-�\
+Add a row in the work list view with default columns and custom columns.\
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments              | range        | description                                                                                                                                       |
 | ---------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,8 +26,7 @@ Add a row in the work list view with default columns and custom columns.
 | ASWGLOBAL::BOOL::TRUE  | boolean      | if successfully                                                                                                                                   |
 | ASWGLOBAL::BOOL::FALSE |              |                                                                                                                                                   |
 
-| Example of WorklistDialog |   |
-| ------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -43,6 +37,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

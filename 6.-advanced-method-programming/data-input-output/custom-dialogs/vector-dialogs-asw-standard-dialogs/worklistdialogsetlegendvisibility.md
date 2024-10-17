@@ -1,8 +1,6 @@
 # WorklistDialogSetLegendVisibility
 
-| WorklistDialogSetLegendVisibility |   |
-| --------------------------------- | - |
-| �Syntax                           |   |
+## Syntax
 
 | WorklistDialogSetLegendVisibility ( | variable i\_blnIsVisible) | variable |
 | ----------------------------------- | ------------------------- | -------- |
@@ -15,8 +13,7 @@ The icon descriptions can be changed by using the function WorklistDialogSetReso
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments              | range   | description       |
 | ---------------------- | ------- | ----------------- |
@@ -25,8 +22,7 @@ The icon descriptions can be changed by using the function WorklistDialogSetReso
 | ASWGLOBAL::BOOL::TRUE  | boolean | if successful     |
 | ASWGLOBAL::BOOL::FALSE | boolean |                   |
 
-| Example of WorklistDialog |   |
-| ------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -37,6 +33,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

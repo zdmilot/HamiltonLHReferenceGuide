@@ -1,8 +1,6 @@
 # WorklistDialogSetResources
 
-| �WorklistDialogSetResources |   |
-| --------------------------- | - |
-| �Syntax                     |   |
+## Syntax
 
 | WorklistDialogSetResources ( | variable i\_strDialogTitle,                    |   |
 | ---------------------------- | ---------------------------------------------- | - |
@@ -29,8 +27,7 @@ Sets the generic resources in the work list view like dialog titles, labels, the
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments                             | range   | description                                 |
 | ------------------------------------- | ------- | ------------------------------------------- |
@@ -55,8 +52,7 @@ Sets the generic resources in the work list view like dialog titles, labels, the
 | ASWGLOBAL::BOOL::FALSE                |         |                                             |
 |                                       |         |                                             |
 
-| Example of WorklistDialog |   |
-| ------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -67,6 +63,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

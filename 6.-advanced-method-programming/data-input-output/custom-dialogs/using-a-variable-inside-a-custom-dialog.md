@@ -25,7 +25,7 @@ First part is pretty simple.
 For a dialog that prompts the user for a number of plates you could set something up like this:\
 
 
-[![image](https://labautomation.io/uploads/default/optimized/2X/e/e35af167724ec91b10ca3f5c8deba879433b79c9\_2\_690x459.png)image1011×673 46 KB](https://labautomation.io/uploads/default/original/2X/e/e35af167724ec91b10ca3f5c8deba879433b79c9.png)
+[![image](https://labautomation.io/uploads/default/optimized/2X/e/e35af167724ec91b10ca3f5c8deba879433b79c9\_2\_690x459.png)](https://labautomation.io/uploads/default/original/2X/e/e35af167724ec91b10ca3f5c8deba879433b79c9.png)
 
 The initial value is retrieved from int\_maxPlate and then the dialog box replaces that value with whatever is chosen. So this snippet would show 5 when the method is run, then if you traced it out after it would be whatever is set in the numerical value.
 
@@ -89,22 +89,9 @@ Using this would look something like:
 
 This assumes you’re aspirating from a buffer trough with the sequence defined in the layout (which is why we’re not incrementing that sequence - manual counting) and you’re incrementing the seq\_dispense in the dispense step (automatic counting). Then the volume is taken from the array you made when reading the file and that array index is incremented with every loop at the end.
 
-Note: I didn’t simulate this so there may be errors ![:face\_with\_spiral\_eyes:](https://labautomation.io/images/emoji/twitter/face\_with\_spiral\_eyes.png?v=12)
+Note: I didn’t simulate this so there may be errors&#x20;
 
 1 Like[NFred](https://labautomation.io/u/NFred) August 23, 2024, 5:58am6
 
-Thanks so much again ![:slight\_smile:](https://labautomation.io/images/emoji/twitter/slight\_smile.png?v=12)
+Thanks so much again&#x20;
 
-1 Like
-
-* [Home](https://labautomation.io/)
-* &#x20;
-* [Categories](https://labautomation.io/categories)
-* &#x20;
-* [Guidelines](https://labautomation.io/guidelines)
-* &#x20;
-* [Terms of Service](https://labautomation.io/tos)
-* &#x20;
-* [Privacy Policy](https://labautomation.io/privacy)
-
-Powered by [Discourse](https://www.discourse.org/), best viewed with JavaScript enabled

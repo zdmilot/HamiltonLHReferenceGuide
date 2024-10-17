@@ -1,30 +1,24 @@
 # LoginDialog
 
-| �LoginDialog |   |
-| ------------ | - |
-| �Syntax      |   |
+## Syntax
 
-| LoginDialog ( | variable i\_strDialogTitle,           |   |
-| ------------- | ------------------------------------- | - |
-|               | variable i\_intButtonType,            |   |
-|               | variable i\_intDialogHeight,          |   |
-|               | variable i\_intDialogWidth,           |   |
-|               | variable i\_strMessage,               |   |
-|               | variable i\_intEncryption,            |   |
-|               | variable i\_intEncoding,              |   |
-|               | variable i\_intEncodingCodepage,      |   |
-|               | variable& o\_strUserName,             |   |
-|               | variable& o\_strUserPassword,         |   |
-|               | variable& o\_arrUserPasswordBytes\[], |   |
-|               | ) variable                            |   |
-|               |                                       |   |
+| LoginDialog ( | variable i\_strDialogTitle,           |
+| ------------- | ------------------------------------- |
+|               | variable i\_intButtonType,            |
+|               | variable i\_intDialogHeight,          |
+|               | variable i\_intDialogWidth,           |
+|               | variable i\_strMessage,               |
+|               | variable i\_intEncryption,            |
+|               | variable i\_intEncoding,              |
+|               | variable i\_intEncodingCodepage,      |
+|               | variable& o\_strUserName,             |
+|               | variable& o\_strUserPassword,         |
+|               | variable& o\_arrUserPasswordBytes\[], |
+|               | ) variable                            |
 
 Creates an LoginDialog.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument                | range              | description                                                                                                            |
 | ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -50,6 +44,3 @@ For examples or demo please see also (Copy & Paste to Explorer Address Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\LoginDialog\TestMethod\_LoginDialog.med
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

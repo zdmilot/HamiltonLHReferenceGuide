@@ -1,8 +1,6 @@
 # ListSelectDialog
 
-| �ListSelectDialog |   |
-| ----------------- | - |
-| �Syntax           |   |
+## Syntax
 
 | ListSelectDialog ( | variable i\_strDialogTitle,   |            |
 | ------------------ | ----------------------------- | ---------- |
@@ -17,10 +15,7 @@
 
 Creates an List Select Dialog.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument           | range              | description                                                                                                            |
 | ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -34,8 +29,7 @@ Creates an List Select Dialog.
 | \&o\_strSelection  | string             | the selected value, if selected                                                                                        |
 | return values      | integer \[-9..7]   | value of clicked dialog button (see also ASWGlobal.hsl) or error value (return value < 0, see also chapter Errorcodes) |
 
-| Example of ListSelectDialog |   |
-| --------------------------- | - |
+## Example of ListSelectDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -46,6 +40,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

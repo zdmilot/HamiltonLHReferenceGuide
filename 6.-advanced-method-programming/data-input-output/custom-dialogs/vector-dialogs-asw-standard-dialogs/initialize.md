@@ -1,13 +1,10 @@
 # Initialize
 
-| �Initialize |   |
-| ----------- | - |
-| �Syntax     |   |
+## Syntax
 
 Initializes the library and resources of the dialogs. (required)
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | Return Values          | range   | description               |
 | ---------------------- | ------- | ------------------------- |
@@ -23,6 +20,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

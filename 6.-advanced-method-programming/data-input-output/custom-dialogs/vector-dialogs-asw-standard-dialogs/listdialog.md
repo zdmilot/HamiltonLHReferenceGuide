@@ -1,8 +1,6 @@
 # ListDialog
 
-| �ListDialog |   |
-| ----------- | - |
-| �Syntax     |   |
+## Syntax
 
 | ListDialog ( | variable i\_strDialogTitle,  |   |
 | ------------ | ---------------------------- | - |
@@ -30,10 +28,7 @@ b)    The Timer will be stopped as soon as there is an interaction by the user (
 
 In this case dialog have to be closed by the user.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument           | range              | description                                                                                                            | key |
 | ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | --- |
@@ -57,6 +52,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

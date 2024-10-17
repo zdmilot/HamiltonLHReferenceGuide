@@ -1,20 +1,15 @@
 # WorklistDialogSetColumns
 
-| �WorklistDialogSetColumns |   |
-| ------------------------- | - |
-| �Syntax                   |   |
+## Syntax
 
 | WorklistDialogSetColumns ( | variable i\_arrColumnNames\[] ) variable |   |
 | -------------------------- | ---------------------------------------- | - |
 
-Sets the columns names of the worklist view.
-
-�\
+Sets the columns names of the worklist view.\
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments              | range        | description                                                                                                                                                                                      |
 | ---------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -23,8 +18,7 @@ Sets the columns names of the worklist view.
 | ASWGLOBAL::BOOL::TRUE  | boolean      | if successful                                                                                                                                                                                    |
 | ASWGLOBAL::BOOL::FALSE | boolean      |                                                                                                                                                                                                  |
 
-| Example of WorklistDialog |   |
-| ------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -35,6 +29,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

@@ -1,21 +1,16 @@
 # WorklistDialogSetStatusColumn
 
-| �WorklistDialogSetStatusColumn |   |
-| ------------------------------ | - |
-| �Syntax                        |   |
+## Syntax
 
 | WorklistDialogSetStatusColumn ( | variable i\_blnIsColumnVisibility, |   |
 | ------------------------------- | ---------------------------------- | - |
 |                                 | variable i\_strStatusColumnName    | ) |
 
-Set the header and visibility of the �Status� column.
-
-�\
+Set the header and visibility of the �Status� column.\
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments                | range   | description                                                               |
 | ------------------------ | ------- | ------------------------------------------------------------------------- |
@@ -25,8 +20,7 @@ Set the header and visibility of the �Status� column.
 | ASWGLOBAL::BOOL::TRUE    | boolean | if successful                                                             |
 | ASWGLOBAL::BOOL::FALSE   | boolean |                                                                           |
 
-| Example of WorklistDialog |   |
-| ------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -37,6 +31,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

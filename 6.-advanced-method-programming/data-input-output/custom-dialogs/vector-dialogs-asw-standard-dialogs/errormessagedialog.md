@@ -4,28 +4,22 @@ icon: dev
 
 # ErrorMessageDialog
 
-| �ErrorDialog |   |
-| ------------ | - |
-| �Syntax      |   |
+## Syntax
 
-| ErrorDialog ( | variable i\_strDialogTitle,      |   |
-| ------------- | -------------------------------- | - |
-|               | variable i\_intIconType,         |   |
-|               | variable i\_intButtonType,       |   |
-|               | variable i\_intDialogHeight,     |   |
-|               | variable i\_intDialogWidth,      |   |
-|               | variable i\_intTimeOut,          |   |
-|               | variable i\_strMainMessage,      |   |
-|               | variable i\_strSupplementMessage |   |
-|               | ) variable                       |   |
-|               |                                  |   |
+| ErrorDialog ( | variable i\_strDialogTitle,      |
+| ------------- | -------------------------------- |
+|               | variable i\_intIconType,         |
+|               | variable i\_intButtonType,       |
+|               | variable i\_intDialogHeight,     |
+|               | variable i\_intDialogWidth,      |
+|               | variable i\_intTimeOut,          |
+|               | variable i\_strMainMessage,      |
+|               | variable i\_strSupplementMessage |
+|               | ) variable                       |
 
 Creates a ErrorDialog.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument                | range              | description                                                                                                            |
 | ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -38,8 +32,7 @@ Creates a ErrorDialog.
 | i\_strSupplementMessage | integer \[0..1]    | Extend message information                                                                                             |
 | return values           | integer \[-9..7]   | value of clicked dialog button (see also ASWGlobal.hsl) or error value (return value < 0, see also chapter Errorcodes) |
 
-| Example of FileBrowserDialog |   |
-| ---------------------------- | - |
+## Example of FileBrowserDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -50,6 +43,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

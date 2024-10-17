@@ -1,18 +1,16 @@
 # MessageDialog
 
-| �MessageDialog |   |
-| -------------- | - |
-| �Syntax        |   |
+## Syntax
 
-| MessageDialog ( | variable i\_strDialogTitle,  |   |
-| --------------- | ---------------------------- | - |
-|                 | variable i\_intIconType,     |   |
-|                 | variable i\_intButtonType,   |   |
-|                 | variable i\_intDialogHeight, |   |
-|                 | variable i\_intDialogWidth,  |   |
-|                 | variable i\_intTimeOut,      |   |
-|                 | variable i\_strMessage       |   |
-|                 | ) variable                   |   |
+| MessageDialog ( | variable i\_strDialogTitle,  |
+| --------------- | ---------------------------- |
+|                 | variable i\_intIconType,     |
+|                 | variable i\_intButtonType,   |
+|                 | variable i\_intDialogHeight, |
+|                 | variable i\_intDialogWidth,  |
+|                 | variable i\_intTimeOut,      |
+|                 | variable i\_strMessage       |
+|                 | ) variable                   |
 
 Creates a message dialog (optional with timeout auto closing).
 
@@ -26,10 +24,7 @@ b)    The Timer will be stopped as soon as there is an interaction by the user (
 
 In this case dialog have to be closed by the user.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument           | range              | description                                                                                                            |
 | ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -51,6 +46,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

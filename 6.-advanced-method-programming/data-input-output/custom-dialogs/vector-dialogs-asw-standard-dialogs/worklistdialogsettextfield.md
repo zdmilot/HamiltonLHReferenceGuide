@@ -1,8 +1,6 @@
 # WorklistDialogSetTextField
 
-| �WorklistDialogSetTextField |   |
-| --------------------------- | - |
-| �Syntax                     |   |
+## Syntax
 
 | WorklistDialogSetTextField ( | variable i\_strTextField | ) variable |
 | ---------------------------- | ------------------------ | ---------- |
@@ -13,8 +11,7 @@ Set generic text field.
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments              | range   | description                           |
 | ---------------------- | ------- | ------------------------------------- |
@@ -24,8 +21,7 @@ Set generic text field.
 | ASWGLOBAL::BOOL::TRUE  | boolean | true if successfully set              |
 | ASWGLOBAL::BOOL::FALSE |         |                                       |
 
-| Example of WorklistDialogSetTextField |   |
-| ------------------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -36,6 +32,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

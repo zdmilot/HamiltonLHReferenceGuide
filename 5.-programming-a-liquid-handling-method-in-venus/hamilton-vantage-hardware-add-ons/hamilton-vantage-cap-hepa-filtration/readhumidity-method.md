@@ -14,9 +14,9 @@ AddLanguageTabSet("ID0EACA");
 
 ## **Parameters**
 
-| Name     | Type                                                                                                                                                                                                  | Description             |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| humidity | [System. AddLanguageSpecificTextSet("LSTBCF82E1A\_0?cs=.\|vb=.\|cpp=::\|nu=.\|fs=."); Single](https://docs.microsoft.com/dotnet/api/system.single)AddLanguageSpecificTextSet("LSTBCF82E1A\_1?cpp=%"); | Humidity value returned |
+| Name     | Type                                                                 | Description             |
+| -------- | -------------------------------------------------------------------- | ----------------------- |
+| humidity | [System.Single](https://docs.microsoft.com/dotnet/api/system.single) | Humidity value returned |
 
 ## **Return Value**
 

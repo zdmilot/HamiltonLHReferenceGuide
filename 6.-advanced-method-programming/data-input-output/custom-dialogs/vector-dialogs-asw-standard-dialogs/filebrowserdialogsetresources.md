@@ -1,18 +1,15 @@
 # FileBrowserDialogSetResources
 
-| �FileBrowserDialogSetResources |   |
-| ------------------------------ | - |
-| �Syntax                        |   |
+## Syntax
 
-| FileBrowserDialogSetResources ( | variable i\_strCaptionBrowseButton, |   |
-| ------------------------------- | ----------------------------------- | - |
-|                                 | variable i\_strFileDialogTitle      |   |
-|                                 | ) variable                          |   |
+| FileBrowserDialogSetResources ( | variable i\_strCaptionBrowseButton, |
+| ------------------------------- | ----------------------------------- |
+|                                 | variable i\_strFileDialogTitle      |
+|                                 | ) variable                          |
 
 Sets the browse button and windows browse dialog title resources (captions / localizations).
 
-| Arguments & Return Values |   |
-| ------------------------- | - |
+## Arguments & Return Values
 
 | arguments                 | range   | description                              |
 | ------------------------- | ------- | ---------------------------------------- |
@@ -31,6 +28,3 @@ For examples or demo please see also (Copy & Paste to Explorer Address Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

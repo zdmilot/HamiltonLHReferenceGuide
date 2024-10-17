@@ -40,7 +40,7 @@ The power of the PCS stems from the ratiometric photometry technology and standa
 * Complies with regulatory requirements (CAP, CLIA, ISO, CLSI).
 * Facilitates compliance to 21 CFR Part 11.
 
-## Hamilton Liquid Verification Kit
+## Hamilton Liquid Verification Kit ([see LVK](../performance-characteristics/hamilton-liquid-verification-kit-lvk.md))
 
 #### Optimize and Verify Pipetting Performance with Convenience and Ease
 

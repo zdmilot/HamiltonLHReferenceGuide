@@ -1,19 +1,10 @@
 # TestDialog
 
-| TestDialog |   |
-| ---------- | - |
+## Syntax:
 
-Syntax:
+| TestDialog () |
+| ------------- |
 
-| TestDialog () |   |
-| ------------- | - |
-|               |   |
-|               |   |
+## Description:
 
-Description:
-
-Only a dialog for testing purposes with predefined parameters.\
-\
-
-
-� by Hamilton Bonaduz AG
+Only a dialog for testing purposes with predefined parameters.

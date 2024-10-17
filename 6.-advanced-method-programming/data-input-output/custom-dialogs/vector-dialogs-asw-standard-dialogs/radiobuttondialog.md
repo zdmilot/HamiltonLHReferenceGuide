@@ -1,31 +1,26 @@
 # RadioButtonDialog
 
-| �RadioButtonDialog |   |
-| ------------------ | - |
-| �Syntax            |   |
+## Syntax
 
-| RadioButtonDialog( | variable i\_strDialogTitle,     |   |
-| ------------------ | ------------------------------- | - |
-|                    | variable i\_intButtonType,      |   |
-|                    | variable i\_intDialogHeight ,   |   |
-|                    | variable i\_intDialogWidth,     |   |
-|                    | variable i\_strTopText,         |   |
-|                    | variable i\_strBottomText,      |   |
-|                    | variable i\_arrLabels\[],       |   |
-|                    | variable i\_arrTooltips\[],     |   |
-|                    | variable i\_arrIsEditable\[],   |   |
-|                    | variable \&io\_arrIsSelected\[] |   |
-|                    | variable i\_arrGroupName\[],    |   |
-|                    | variable i\_intWrapOrientation, |   |
-|                    | variable i\_intSortDirection    |   |
-|                    | ) variable                      |   |
+| RadioButtonDialog( | variable i\_strDialogTitle,     |
+| ------------------ | ------------------------------- |
+|                    | variable i\_intButtonType,      |
+|                    | variable i\_intDialogHeight ,   |
+|                    | variable i\_intDialogWidth,     |
+|                    | variable i\_strTopText,         |
+|                    | variable i\_strBottomText,      |
+|                    | variable i\_arrLabels\[],       |
+|                    | variable i\_arrTooltips\[],     |
+|                    | variable i\_arrIsEditable\[],   |
+|                    | variable \&io\_arrIsSelected\[] |
+|                    | variable i\_arrGroupName\[],    |
+|                    | variable i\_intWrapOrientation, |
+|                    | variable i\_intSortDirection    |
+|                    | ) variable                      |
 
 Creates a n-RadioButton Dialog.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument              | range              | description                                                                                                                                                                                                  |
 | --------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,8 +39,7 @@ Creates a n-RadioButton Dialog.
 | i\_intSortDirection   | integer \[0..2]    | <p>defines the sorting direction for the labels (important for the arrangement in a group)</p><p>if you choose �Unsorted� your given order by default (array i_arrLabels) is used</p><p>(Enumerations R)</p> |
 | return values         | integer \[-9..7]   | value of clicked dialog button (see also ASWGlobal.hsl) or error value (return value < 0, see also chapter Errorcodes)                                                                                       |
 
-| Example of RadioButtonDialog |   |
-| ---------------------------- | - |
+## Example of RadioButtonDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Address Field):
 
@@ -56,6 +50,3 @@ For examples or demo please see also (Copy & Paste to Explorer Address Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

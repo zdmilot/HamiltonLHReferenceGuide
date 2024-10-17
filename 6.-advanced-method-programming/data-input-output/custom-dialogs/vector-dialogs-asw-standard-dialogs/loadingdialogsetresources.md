@@ -1,8 +1,6 @@
 # LoadingDialogSetResources
 
-| �LoadingDialogSetResources |   |
-| -------------------------- | - |
-| �Syntax                    |   |
+## Syntax
 
 | LoadingSetResources ( | variable i\_arrColumnHeaders ) variable |   |
 | --------------------- | --------------------------------------- | - |
@@ -15,8 +13,7 @@ Column 1��������� Column 2��������� Column 3
 
 "Position"��� "Quantity"��� "Description"
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments              | range   | description                     |
 | ---------------------- | ------- | ------------------------------- |
@@ -34,6 +31,3 @@ For examples or demo please see also (Copy & Paste to Explorer Address Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

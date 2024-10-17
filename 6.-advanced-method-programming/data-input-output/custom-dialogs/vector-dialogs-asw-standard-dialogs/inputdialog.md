@@ -1,25 +1,22 @@
 # InputDialog
 
-| �InputDialog |   |
-| ------------ | - |
-| �Syntax      |   |
+## Syntax
 
-| InputDialog( | variable i\_strDialogTitle,        |   |
-| ------------ | ---------------------------------- | - |
-|              | variable i\_intButtonType,         |   |
-|              | variable i\_intDialogHeight ,      |   |
-|              | variable i\_intDialogWidth,        |   |
-|              | variable i\_strTopText,            |   |
-|              | variable i\_strBottomText,         |   |
-|              | Variable i\_arrInputListLabels\[], |   |
-|              | variable i\_arrInputListValues\[], |   |
-|              | variable i\_arrInputListUnits\[],  |   |
-|              | Variable i\_arrDataTypes\[],       |   |
-|              | variable i\_arrRanges\[],          |   |
-|              | variable i\_arrCustomToolTip\[],   |   |
-|              | Variable \&o\_arrResult\[]         |   |
-|              | ) variable                         |   |
-|              |                                    |   |
+| InputDialog( | variable i\_strDialogTitle,        |
+| ------------ | ---------------------------------- |
+|              | variable i\_intButtonType,         |
+|              | variable i\_intDialogHeight ,      |
+|              | variable i\_intDialogWidth,        |
+|              | variable i\_strTopText,            |
+|              | variable i\_strBottomText,         |
+|              | Variable i\_arrInputListLabels\[], |
+|              | variable i\_arrInputListValues\[], |
+|              | variable i\_arrInputListUnits\[],  |
+|              | Variable i\_arrDataTypes\[],       |
+|              | variable i\_arrRanges\[],          |
+|              | variable i\_arrCustomToolTip\[],   |
+|              | Variable \&o\_arrResult\[]         |
+|              | ) variable                         |
 
 Creates an Input Dialog.
 
@@ -33,8 +30,7 @@ On mouse over textbox a tooltip will be shown which contains the range and the d
 
 The index g) is the localization customized with InputDialogSetResource()
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument                 | range                 | description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | key   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -62,6 +58,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

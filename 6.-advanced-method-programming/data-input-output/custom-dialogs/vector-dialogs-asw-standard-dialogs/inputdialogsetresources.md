@@ -1,8 +1,6 @@
 # InputDialogSetResources
 
-| �InputDialogSetResources |   |
-| ------------------------ | - |
-| �Syntax                  |   |
+## Syntax
 
 | InputDialogSetResources ( | variable i\_arrInputListHeaderLocalization) variable |   |
 | ------------------------- | ---------------------------------------------------- | - |
@@ -19,8 +17,7 @@ i\_ arrInputListHeaderLocalization must contain three and only three elements of
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments                         | range   | description                    |
 | --------------------------------- | ------- | ------------------------------ |
@@ -38,6 +35,3 @@ For examples or demo please see also (Copy & Paste to Explorer Address Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

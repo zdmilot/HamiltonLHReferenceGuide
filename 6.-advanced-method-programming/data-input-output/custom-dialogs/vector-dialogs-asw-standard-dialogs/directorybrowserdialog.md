@@ -13,7 +13,6 @@
 |                          | variable i\_strInitialDirectory,    |
 |                          | variable \&o\_strSelectedFolder,    |
 |                          | ) variable                          |
-|                          |                                     |
 
 ## Description
 

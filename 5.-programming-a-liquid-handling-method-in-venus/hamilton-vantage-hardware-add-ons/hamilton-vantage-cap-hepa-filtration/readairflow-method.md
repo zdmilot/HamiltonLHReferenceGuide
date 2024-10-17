@@ -14,9 +14,9 @@ AddLanguageTabSet("ID0EACA");
 
 ## **Parameters**
 
-| Name    | Type                                                                                                                                                                                                  | Description                                                                      |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| airFlow | [System. AddLanguageSpecificTextSet("LST203136B2\_0?cs=.\|vb=.\|cpp=::\|nu=.\|fs=."); Single](https://docs.microsoft.com/dotnet/api/system.single)AddLanguageSpecificTextSet("LST203136B2\_1?cpp=%"); | Airflow value returned. If the sensor does not exist it returns a reading of 50. |
+| Name    | Type                                                                 | Description                                                                      |
+| ------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| airFlow | [System.Single](https://docs.microsoft.com/dotnet/api/system.single) | Airflow value returned. If the sensor does not exist it returns a reading of 50. |
 
 **Return Value**
 

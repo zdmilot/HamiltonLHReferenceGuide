@@ -1,8 +1,6 @@
 # WorklistDialogShow
 
-| WorklistDialogShow |   |
-| ------------------ | - |
-| �Syntax            |   |
+## Syntax
 
 | WorklistDialogShow ( | variable i\_intDialogHeight,   |   |
 | -------------------- | ------------------------------ | - |
@@ -38,8 +36,9 @@ Note that the WorklistDialog has to be initialized first by using following func
 
 9\.       WorklistDialogShow
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+
+
+## Arguments & Return Values
 
 | arguments              | range             | description                                       |
 | ---------------------- | ----------------- | ------------------------------------------------- |
@@ -52,8 +51,7 @@ Note that the WorklistDialog has to be initialized first by using following func
 | ASWGLOBAL::BOOL::TRUE  | boolean           | true if successfully set                          |
 | ASWGLOBAL::BOOL::FALSE |                   |                                                   |
 
-| Example of WorklistDialogShow |   |
-| ----------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -64,6 +62,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

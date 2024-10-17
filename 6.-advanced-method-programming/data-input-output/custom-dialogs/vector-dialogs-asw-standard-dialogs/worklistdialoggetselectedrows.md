@@ -1,20 +1,15 @@
 # WorklistDialogGetSelectedRows
 
-| �WorklistDialogGetSelectedRows |   |
-| ------------------------------ | - |
-| �Syntax                        |   |
+## Syntax
 
 | WorklistDialogGetSelectedRows ( | variable & o\_arrIDs\[] | ) variable |
 | ------------------------------- | ----------------------- | ---------- |
 
-Gets selected id�s of the worklist dialog. Select with f).
-
-�\
+Gets selected id�s of the worklist dialog. Select with f).\
 \
 
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments              | range   | description                            |
 | ---------------------- | ------- | -------------------------------------- |
@@ -23,8 +18,7 @@ Gets selected id�s of the worklist dialog. Select with f).
 | ASWGLOBAL::BOOL::TRUE  | boolean | if successful                          |
 | ASWGLOBAL::BOOL::FALSE |         |                                        |
 
-| Example of WorklistDialog |   |
-| ------------------------- | - |
+## Example of WorklistDialog
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -35,6 +29,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

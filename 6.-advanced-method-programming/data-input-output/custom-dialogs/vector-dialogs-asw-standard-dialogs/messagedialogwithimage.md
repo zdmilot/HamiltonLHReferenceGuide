@@ -1,21 +1,19 @@
 # MessageDialogWithImage
 
-| �MessageDialogWithImage |   |
-| ----------------------- | - |
-| �Syntax                 |   |
+## Syntax
 
-| MessageDialogWithImage ( | variable i\_strDialogTitle,  |   |
-| ------------------------ | ---------------------------- | - |
-|                          | variable i\_intIconType,     |   |
-|                          | variable i\_intButtonType,   |   |
-|                          | variable i\_intDialogHeight, |   |
-|                          | variable i\_intDialogWidth,  |   |
-|                          | variable i\_intTimeOut,      |   |
-|                          | variable i\_strMessage,      |   |
-|                          | variable i\_strImage,        |   |
-|                          | Variable i\_intMaxImageWidth |   |
-|                          | ) variable                   |   |
-|                          |                              |   |
+| MessageDialogWithImage ( | variable i\_strDialogTitle,  |
+| ------------------------ | ---------------------------- |
+|                          | variable i\_intIconType,     |
+|                          | variable i\_intButtonType,   |
+|                          | variable i\_intDialogHeight, |
+|                          | variable i\_intDialogWidth,  |
+|                          | variable i\_intTimeOut,      |
+|                          | variable i\_strMessage,      |
+|                          | variable i\_strImage,        |
+|                          | Variable i\_intMaxImageWidth |
+|                          | ) variable                   |
+|                          |                              |
 
 Creates message dialog with an image.
 
@@ -29,10 +27,7 @@ b)    The Timer will be stopped as soon as there is an interaction by the user (
 
 In this case dialog have to be closed by the user.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument            | range              | description                                                                                                            | key |
 | ------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | --- |
@@ -47,8 +42,7 @@ In this case dialog have to be closed by the user.
 | i\_intMaxImageWidth | integer \[0..5999] | max displaying width of the image                                                                                      | j)  |
 | return values       | integer \[-9..7]   | value of clicked dialog button (see also ASWGlobal.hsl) or error value (return value < 0, see also chapter Errorcodes) |     |
 
-| Example of MessageDialogWithImage |   |
-| --------------------------------- | - |
+## Example of MessageDialogWithImage
 
 For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 
@@ -59,6 +53,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

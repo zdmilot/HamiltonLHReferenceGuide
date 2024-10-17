@@ -1,16 +1,13 @@
 # LoginDialogSetResources
 
-| �LoginDialogSetResources |   |
-| ------------------------ | - |
-| �Syntax                  |   |
+## Syntax
 
-| LoginDialogSetResources ( | variable i\_arrLabels ) variable |   |
-| ------------------------- | -------------------------------- | - |
+| LoginDialogSetResources ( | variable i\_arrLabels ) variable |
+| ------------------------- | -------------------------------- |
 
 Sets the optional related labels of the text boxes.
 
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | arguments              | range   | description             |
 | ---------------------- | ------- | ----------------------- |
@@ -28,6 +25,3 @@ For examples or demo please see also (Copy & Paste to Explorer Address Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

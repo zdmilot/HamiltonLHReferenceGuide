@@ -2,17 +2,17 @@
 
 ## Syntax
 
-| <p> </p><p>CheckBoxDialog(</p> | <p> </p><p>variable i_strDialogTitle,</p>  | <p> </p><p> </p> |
-| ------------------------------ | ------------------------------------------ | ---------------- |
-|                                | variable i\_intButtonType,                 |                  |
-|                                | variable i\_intDialogHeight ,              |                  |
-|                                | variable i\_intDialogWidth,                |                  |
-|                                | variable i\_strTopText,                    |                  |
-|                                | variable i\_strBottomText,                 |                  |
-|                                | variable i\_arrLabels\[],                  |                  |
-|                                | variable i\_arrTooltips\[],                |                  |
-|                                | variable i\_arrIsEditable\[],              |                  |
-|                                | variable \&io\_arrIsSelected\[] ) variable |                  |
+| <p> </p><p>CheckBoxDialog(</p> | <p> </p><p>variable i_strDialogTitle,</p>  |
+| ------------------------------ | ------------------------------------------ |
+|                                | variable i\_intButtonType,                 |
+|                                | variable i\_intDialogHeight ,              |
+|                                | variable i\_intDialogWidth,                |
+|                                | variable i\_strTopText,                    |
+|                                | variable i\_strBottomText,                 |
+|                                | variable i\_arrLabels\[],                  |
+|                                | variable i\_arrTooltips\[],                |
+|                                | variable i\_arrIsEditable\[],              |
+|                                | variable \&io\_arrIsSelected\[] ) variable |
 
 ## Description
 

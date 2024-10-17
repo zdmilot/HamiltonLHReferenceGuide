@@ -1,8 +1,6 @@
 # LoadingDialog
 
-| �LoadingDialog |   |
-| -------------- | - |
-| �Syntax        |   |
+## Syntax
 
 | LoadingDialog ( | variable i\_strDialogTitle,           |            |
 | --------------- | ------------------------------------- | ---------- |
@@ -36,10 +34,7 @@ To customize the column captions of the list, use the function LoadingDialogSetR
 
 The nominal height and width of an image is 100x100.
 
-
-
-| �Arguments & Return Values |   |
-| -------------------------- | - |
+## Arguments & Return Values
 
 | argument                     | range              | description                                                                                                            |
 | ---------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -67,6 +62,3 @@ For examples or demo please see also (Copy & Paste to Explorer Adress Field):
 64Bit OS (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
-
-| �� by Hamilton Bonaduz AG |   |
-| ------------------------- | - |

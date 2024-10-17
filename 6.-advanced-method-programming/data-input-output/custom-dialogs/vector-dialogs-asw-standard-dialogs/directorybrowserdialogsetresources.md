@@ -4,16 +4,14 @@
 
 &#x20;
 
-| DirectoryBrowserDialogSetResources ( | variable i\_strCaptionBrowseButton,   |   |
-| ------------------------------------ | ------------------------------------- | - |
-|                                      | variable i\_strDirectoryDialogTitle); |   |
-|                                      | ) variable                            |   |
+| DirectoryBrowserDialogSetResources ( | variable i\_strCaptionBrowseButton,   |
+| ------------------------------------ | ------------------------------------- |
+|                                      | variable i\_strDirectoryDialogTitle); |
+|                                      | ) variable                            |
 
 &#x20;
 
 ## Description
-
-&#x20;
 
 Sets the browse button and windows browse dialog title resources (captions / localizations).
 
