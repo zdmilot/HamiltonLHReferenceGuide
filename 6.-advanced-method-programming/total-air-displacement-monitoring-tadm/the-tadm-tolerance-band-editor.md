@@ -18,7 +18,7 @@ The TADM Tolerance Band Editor consists of several parts, as shown in its main w
 
 The TADM window consists of three tabs (Upper Curve, Lower Curve, TADM Curves). The first two tabs contain the coordinates for the points of the upper and lower tolerance bands respectively. The third tab lists the properties of the displayed TADM curves. The following properties can be viewed: the method name of the run where the TADM curve was recorded, the channel number, pipette date, pipette result (processed/aborted), TADM mode (Recording/Monitoring), and the Curve ID. TADM curves of aborted pipetting steps are displayed in red in the plotting area, while successfully processed ones are displayed in dark blue.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12.jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The Pipette result “Aborted” can only occur if the run was performed in Monitoring mode.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The Pipette result “Aborted” can only occur if the run was performed in Monitoring mode.</em></p></td></tr></tbody></table>
 
 
 
