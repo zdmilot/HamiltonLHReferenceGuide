@@ -15,7 +15,7 @@
   * 70% Ethanol or Microcide SQ, Bottle (3896-01 — 8oz, 3896-02 — 32oz)
   * Lint-free cotton swabs (yearly maintenance only)
 
-<table data-header-hidden><thead><tr><th width="116"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p>Only use distilled water to clean O-rings</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="116"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p>Only use distilled water to clean O-rings</p></td></tr></tbody></table>
 
 <details>
 

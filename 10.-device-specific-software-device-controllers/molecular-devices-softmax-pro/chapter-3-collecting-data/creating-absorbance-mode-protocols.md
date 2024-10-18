@@ -40,6 +40,6 @@ It is good scientific practice to designate wells in the plate to serve as plate
 
 You can use the PathCheck Pathlength Measurement Technology feature to normalize the data to a 1 cm pathlength. See PathCheck Pathlength Measurement Technology on page 280.
 
-![](<../../../.gitbook/assets/0 (8).png>)
+![](<../../../.gitbook/assets/0 (8) (1).png>)
 
 **Note:** Assay optimization requires the use of a computer and SoftMax Pro Software.

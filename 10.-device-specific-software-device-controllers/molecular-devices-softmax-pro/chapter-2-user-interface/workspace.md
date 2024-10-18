@@ -8,11 +8,11 @@ In the Ribbon, use the View tab to split the Workspace to view multiple document
 
 Use the three buttons below the Document tabs to change the Workspace view. Use each Workspace view to manage the open document and experiment results.
 
-![](<../../../.gitbook/assets/2 (10).png>) Use the **Document** view to scroll through the experiment sections.
+![](<../../../.gitbook/assets/2 (10) (1).png>) Use the **Document** view to scroll through the experiment sections.
 
-![](<../../../.gitbook/assets/3 (13).png>) Use the **Comparison** view to drag sections from the Navigation Tree and arrange them in the Workspace wherever you want.
+![](<../../../.gitbook/assets/3 (13) (1).png>) Use the **Comparison** view to drag sections from the Navigation Tree and arrange them in the Workspace wherever you want.
 
-![](<../../../.gitbook/assets/4 (15).png>) Use the **Workflow** view to manage complex experiments that include repeated tasks and multitask kinetic reads.
+![](<../../../.gitbook/assets/4 (15) (1).png>) Use the **Workflow** view to manage complex experiments that include repeated tasks and multitask kinetic reads.
 
 The left side of the Workspace is the Navigation Tree that displays the experiments in the open document. Each document can contain a virtually unlimited number of experiments. Each experiment can contain a virtually unlimited number of Note, Plate, Cuvette Set, Group, and Graph sections.
 
@@ -48,9 +48,9 @@ After you define the experiment in the Document view or the Comparison view, use
 
 To create a workflow:
 
-![](<../../../.gitbook/assets/8 (9).png>) Drag tasks from the menu on the left to the timeline on the right. ![](<../../../.gitbook/assets/9 (9).png>) To define repeated tasks, place the tasks in a Cycle task.
+![](<../../../.gitbook/assets/8 (9) (1).png>) Drag tasks from the menu on the left to the timeline on the right. ![](<../../../.gitbook/assets/9 (9) (1).png>) To define repeated tasks, place the tasks in a Cycle task.
 
-![](<../../../.gitbook/assets/10 (7).png>) In the Ribbon, Use the Workflow tab to start, pause, resume, and cancel the workflow.
+![](<../../../.gitbook/assets/10 (7) (1).png>) In the Ribbon, Use the Workflow tab to start, pause, resume, and cancel the workflow.
 
 ### Workspace Sections <a href="#bookmark1" id="bookmark1"></a>
 
@@ -66,15 +66,15 @@ Use the Workspace to manage documents. Each document can contain a virtually unl
 
 Each experiment is made up of Note sections, Plate sections, Cuvette Set sections, Group sections, and Graph sections. You can create and edit sections at any point in the data collection process: before you collect data, to adjust how you collect data, and to manage the presentation of the data you collect. Links in the following list take you to the description of the settings for each section. The SoftMax Pro Software - GxP edition allows you to lock each section to restrict changes. See Locking and Unlocking Sections on page 253.
 
-![](<../../../.gitbook/assets/13 (7).png>) ![](<../../../.gitbook/assets/14 (4).jpeg>) **Note** - Use Note sections to enter text and report summary information to the experiment. Note sections can contain text, Summary formulas, images such as your
+![](<../../../.gitbook/assets/13 (7) (1).png>) ![](<../../../.gitbook/assets/14 (4).jpeg>) **Note** - Use Note sections to enter text and report summary information to the experiment. Note sections can contain text, Summary formulas, images such as your
 
 company logo, and images of the other sections in the document. See Note Sections on page 70.
 
-![](<../../../.gitbook/assets/15 (5).png>) ![](<../../../.gitbook/assets/16 (4).jpeg>) **Plate** - Use Plate sections to define plate settings and instrument settings to collect data from the instrument. Use plate settings you to define the data display and data reduction. Each Plate section can have unique instrument settings to run different types of reads within the experiment. See Plate Sections on page 76.
+![](<../../../.gitbook/assets/15 (5) (1).png>) ![](<../../../.gitbook/assets/16 (4).jpeg>) **Plate** - Use Plate sections to define plate settings and instrument settings to collect data from the instrument. Use plate settings you to define the data display and data reduction. Each Plate section can have unique instrument settings to run different types of reads within the experiment. See Plate Sections on page 76.
 
-![](<../../../.gitbook/assets/17 (8).png>) ![](<../../../.gitbook/assets/18 (5).jpeg>) **Cuvette Set** - Use Cuvette Set sections to define instrument settings to collect data from a cuvette port. Each Cuvette Set section can have unique instrument settings to run different types of reads. See Cuvette Set Sections on page 80.
+![](<../../../.gitbook/assets/17 (8) (1).png>) ![](<../../../.gitbook/assets/18 (5).jpeg>) **Cuvette Set** - Use Cuvette Set sections to define instrument settings to collect data from a cuvette port. Each Cuvette Set section can have unique instrument settings to run different types of reads. See Cuvette Set Sections on page 80.
 
-![](<../../../.gitbook/assets/19 (5).png>) ![](<../../../.gitbook/assets/20 (5).png>) **Group** - Use Group sections to combine the data from wells in a plate or several cuvettes into groups. You create Group sections in the Template Editor dialog when you work with Plate sections and Cuvette Set sections. See Group Sections on page 82.
+![](<../../../.gitbook/assets/19 (5) (1).png>) ![](<../../../.gitbook/assets/20 (5) (1).png>) **Group** - Use Group sections to combine the data from wells in a plate or several cuvettes into groups. You create Group sections in the Template Editor dialog when you work with Plate sections and Cuvette Set sections. See Group Sections on page 82.
 
 &#x20; **Graph** Use Graph sections to define the graphical presentation of the data the software collects as scatter plot graphs or bar graphs. See Graph Sections on page 85.
 

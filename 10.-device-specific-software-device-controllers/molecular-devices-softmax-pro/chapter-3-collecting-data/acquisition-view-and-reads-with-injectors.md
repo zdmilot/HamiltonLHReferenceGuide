@@ -4,17 +4,17 @@ The Settings dialog for the SpectraMax i3, SpectraMax i3x, SpectraMax iD3, and S
 
 The Acquisition view uses an acquisition plan with tools that allows you to define settings in a workflow design when you need to do multi-step plate reads.
 
-![](<../../../.gitbook/assets/1 (7).png>)
+![](<../../../.gitbook/assets/1 (7) (1).png>)
 
 **Note:** You must use the Acquisition view to define reads with injection.
 
 To switch between the views:
 
-![](<../../../.gitbook/assets/2 (7).png>) Click ![](<../../../.gitbook/assets/3 (3).jpeg>) in the lower-left corner in the Settings dialog.
+![](<../../../.gitbook/assets/2 (7) (1).png>) Click ![](<../../../.gitbook/assets/3 (3) (1).jpeg>) in the lower-left corner in the Settings dialog.
 
 **Note:** If you define a read with injection and then switch to the Standard view, your settings are not saved.
 
-![](<../../../.gitbook/assets/4 (11).png>)
+![](<../../../.gitbook/assets/4 (11) (1).png>)
 
 The following image shows a read for a 96-well Standard plate of an entire plate with an Acquisition Plan for a Luminescence Kinetic read with SmartInject technology. The Acquisition Plan starts with plate optimization and does 10 baseline reads before the injection step. It then delays one second after the injection ends before the Luminescence read starts. All the acquisition steps are in a Loop between the For Each Well node and the Next Well node.
 
@@ -31,33 +31,33 @@ Use the top area of the dialog to select the plate settings, read area, and read
 
 **CAUTION!** If the plate has a lid, you must verify that the plate height with a lid is set accurately in the Plate Editor dialog before you start a read.
 
-![](<../../../.gitbook/assets/7 (4).png>)![](<../../../.gitbook/assets/8 (4).png>)
+![](<../../../.gitbook/assets/7 (4) (1).png>)![](<../../../.gitbook/assets/8 (4) (1).png>)
 
 1. Click **Read Area**:
 
-![](<../../../.gitbook/assets/9 (4).png>) Select the **Select All** check box to read all the wells in the plate.
+![](<../../../.gitbook/assets/9 (4) (1).png>) Select the **Select All** check box to read all the wells in the plate.
 
-![](<../../../.gitbook/assets/10 (2).png>) To select a contiguous, rectangular region on the plate, use your mouse to drag the pointer and select the wells to read.
+![](<../../../.gitbook/assets/10 (2) (1).png>) To select a contiguous, rectangular region on the plate, use your mouse to drag the pointer and select the wells to read.
 
 1. Select a **Read Order**:
 
-![](<../../../.gitbook/assets/11 (2).png>) Select **Row** to read the entire plate row-by-row.
+![](<../../../.gitbook/assets/11 (2) (1).png>) Select **Row** to read the entire plate row-by-row.
 
-![](<../../../.gitbook/assets/12 (4).png>) Select **Column** to read the entire plate column-by-column.
+![](<../../../.gitbook/assets/12 (4) (1).png>) Select **Column** to read the entire plate column-by-column.
 
-![](<../../../.gitbook/assets/13 (4).png>) To do a Well read order, add a For Each Well loop in the Acquisition view.
+![](<../../../.gitbook/assets/13 (4) (1).png>) To do a Well read order, add a For Each Well loop in the Acquisition view.
 
 ### Toolbox and Acquisition Plan
 
 The lower area of the dialog provides a toolbox that contains the available steps and the Acquisition Plan that displays the time line of steps for the protocol.
 
-![](<../../../.gitbook/assets/14 (3).png>) ![](<../../../.gitbook/assets/15 (3).jpeg>) **Shake** - Add a Shake step to have the instrument shake the plate in the chamber.
+![](<../../../.gitbook/assets/14 (3) (1).png>) ![](<../../../.gitbook/assets/15 (3).jpeg>) **Shake** - Add a Shake step to have the instrument shake the plate in the chamber.
 
-Click ![](<../../../.gitbook/assets/16 (3).png>) to display Shake settings where you define the shake duration and shake method. To shake the plate at the same time as an injection, add a SmartInject™ step not an Inject step or a Shake step.
+Click ![](<../../../.gitbook/assets/16 (3) (1).png>) to display Shake settings where you define the shake duration and shake method. To shake the plate at the same time as an injection, add a SmartInject™ step not an Inject step or a Shake step.
 
-![](<../../../.gitbook/assets/17 (4).png>) ![](<../../../.gitbook/assets/18 (2).jpeg>) **Plate Optimizer** - Add a Plate Optimizer node to have the software display the Pre- Read Optimization Options dialog before the plate is read. You can place this step only at the beginning of the Acquisition Plan. See Show Pre-Read Optimization Options on page 143.
+![](<../../../.gitbook/assets/17 (4) (1).png>) ![](<../../../.gitbook/assets/18 (2).jpeg>) **Plate Optimizer** - Add a Plate Optimizer node to have the software display the Pre- Read Optimization Options dialog before the plate is read. You can place this step only at the beginning of the Acquisition Plan. See Show Pre-Read Optimization Options on page 143.
 
-![](<../../../.gitbook/assets/19 (2).png>) ![](<../../../.gitbook/assets/20 (1).jpeg>) **Delay** - Add a Delay step after an Inject step or a SmartInject step to have the instrument wait after the injection before the read begins. Click  to display Delay settings where you define the number of seconds to wait between steps (from 0.001 seconds to 100 seconds). The Delay node compensates for the hardware delay. See below for details.
+![](<../../../.gitbook/assets/19 (2) (1).png>) ![](<../../../.gitbook/assets/20 (1) (1).jpeg>) **Delay** - Add a Delay step after an Inject step or a SmartInject step to have the instrument wait after the injection before the read begins. Click  to display Delay settings where you define the number of seconds to wait between steps (from 0.001 seconds to 100 seconds). The Delay node compensates for the hardware delay. See below for details.
 
 &#x20; **Inject** - Add an Inject step for a simple injection. Click  to display Inject settings. Select the injector to use and enter the number of microliters (μL) to dispense. You can dispense from 1 μL to the maximum allowable volume of the well, based on the plate type you select. Define the dispense volume based on the requirements of your assay and the net volume available in the well. To shake the plate after an injection, add a Shake step after the Inject step. To shake the plate during an injection, use a SmartInject step not an Inject step.
 

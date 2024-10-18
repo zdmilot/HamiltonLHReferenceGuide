@@ -6,13 +6,13 @@ FRET relies on the distance-dependent transfer of energy from a donor molecule t
 
 While there are many factors that influence FRET, the primary conditions that need to be met for FRET to occur are relatively few:
 
-![](<../../../.gitbook/assets/0 (5).png>) The donor and acceptor molecules must be in close proximity to each other.
+![](<../../../.gitbook/assets/0 (5) (1).png>) The donor and acceptor molecules must be in close proximity to each other.
 
-![](<../../../.gitbook/assets/1 (5).png>) The absorption or excitation spectrum of the acceptor must overlap the fluorescence emission spectrum of the donor.
+![](<../../../.gitbook/assets/1 (5) (1).png>) The absorption or excitation spectrum of the acceptor must overlap the fluorescence emission spectrum of the donor.
 
 The degree to which they overlap is referred to as the spectral overlap integral (J).
 
-![](<../../../.gitbook/assets/2 (5).png>)The donor and acceptor transition must be approximately parallel.
+![](<../../../.gitbook/assets/2 (5) (1).png>)The donor and acceptor transition must be approximately parallel.
 
 ### Creating Fluorescence Polarization Mode Protocols
 
@@ -21,9 +21,9 @@ To create a Fluorescence Polarization Mode protocol:
 1. Start the software. See Starting the Software on page 7.
 2. Select an instrument. See Selecting an Instrument on page 58.
 3. In the Navigation Tree, select a Plate section or Cuvette Set section.
-4. Click ![](<../../../.gitbook/assets/3 (2).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
+4. Click ![](<../../../.gitbook/assets/3 (2) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. For the SpectraMax Paradigm and SpectraMax i3x, select a Fluorescence Polarization (FP) Detection Cartridge.
-6. Select the ![](<../../../.gitbook/assets/4 (1).jpeg>) **FP** read mode.
+6. Select the ![](<../../../.gitbook/assets/4 (1) (1).jpeg>) **FP** read mode.
 7. Select a Read Type.
 8. Define the settings.
 

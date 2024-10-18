@@ -2,7 +2,7 @@
 
 **PURPOSE**
 
-* ![Image](<../.gitbook/assets/0 (1) (1) (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
+* ![Image](<../.gitbook/assets/0 (1) (1) (1) (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
 * Text based labeling is one of the first problems in switching to high throughput automation and it is the simplest to solve
 * Starting early and with a unified approach to sample labeling and tracking will allow assays to grow and expand without severe bottlenecks, saving time when testing requirements expand
 * Adhesive labels and ink based marking are not compatible with solvents needed for proper cell culture nor are they durable enough with long term storage in extreme temperatures
@@ -18,7 +18,7 @@
 
 **STANDING ON THE SHOULDERS OF GIANTS**
 
-![](<../.gitbook/assets/1 (1) (1).jpeg>)![](<../.gitbook/assets/2 (1) (1).jpeg>)![](<../.gitbook/assets/3 (1) (1).jpeg>)
+![](<../.gitbook/assets/1 (1) (1) (1).jpeg>)![](<../.gitbook/assets/2 (1) (1) (1).jpeg>)![](<../.gitbook/assets/3 (1) (1) (1).jpeg>)
 
 *
   * Normal laboratory environments, such as liquid nitrogen and -80 and even wet and cold environments such as using wet ice or even using liquid nitrogen, snap freeze samples are already treacherous environments for laboratory containers, and tubes
@@ -30,7 +30,7 @@
 *
   *
 
-![Picture 3](<../.gitbook/assets/6 (9).png>)**BENEFITS OF USING BARCODING**
+![Picture 3](<../.gitbook/assets/6 (9) (1).png>)**BENEFITS OF USING BARCODING**
 
 Enables the moving away from adhesive labels which fail under extreme environments Reduce Manual Entry/ Reduce Errors
 
@@ -58,13 +58,13 @@ Improve Customer & Employee Satisfaction
 |                                                                            |            |                   |          |                 |           |                            |                               |                     |                                  |            |
 | Direct Mark                                                                | Outsourced | ✓                 | ✓        | ✓               | ✓         |                            |                               |                     |                                  |            |
 
-![A row of green and pink plastic trays with numbers  Description automatically generated with medium confidence](<../.gitbook/assets/7 (1) (1).jpeg>)![A roll of tape on a table  Description automatically generated](<../.gitbook/assets/8 (1) (1).jpeg>)![A group of test tubes on a table  Description automatically generated](<../.gitbook/assets/9 (1) (1).jpeg>)![A person holding a plastic container  Description automatically generated with medium confidence](<../.gitbook/assets/10 (3).jpeg>)**WHY IS PROPER SAMPLE LABELING STRATEGY IMPORTANT?**
+![A row of green and pink plastic trays with numbers  Description automatically generated with medium confidence](<../.gitbook/assets/7 (1) (1) (1).jpeg>)![A roll of tape on a table  Description automatically generated](<../.gitbook/assets/8 (1) (1) (1).jpeg>)![A group of test tubes on a table  Description automatically generated](<../.gitbook/assets/9 (1) (1) (1).jpeg>)![A person holding a plastic container  Description automatically generated with medium confidence](<../.gitbook/assets/10 (3) (1).jpeg>)**WHY IS PROPER SAMPLE LABELING STRATEGY IMPORTANT?**
 
 **BARCODING STRATEGIES**
 
-![](<../.gitbook/assets/11 (1) (1) (1).png>)![](<../.gitbook/assets/12 (1) (1) (1).png>)
+![](<../.gitbook/assets/11 (1) (1) (1) (1).png>)![](<../.gitbook/assets/12 (1) (1) (1) (1).png>)
 
-![Picture 3](<../.gitbook/assets/13 (1) (1) (1).jpeg>) ![Picture 6](<../.gitbook/assets/14 (3).jpeg>)
+![Picture 3](<../.gitbook/assets/13 (1) (1) (1) (1).jpeg>) ![Picture 6](<../.gitbook/assets/14 (3).jpeg>)
 
 **HOW TO AUTOMATE BARCODE LABELING**
 
@@ -81,15 +81,15 @@ Improve Customer & Employee Satisfaction
 * While employee safety and comfort may seem like a natural bonus of implementing automation, these benefits also boost efficiency and productivity.
 * Prioritizing these factors in the laboratory can help maximize the results of a safer process and environment.
 
-![þÿ](<../.gitbook/assets/17 (1) (1).png>)Reduction in Labeling Time: By adopting LVL tubes and leveraging partnerships, the project aims to significantly reduce the time scientists spend on labeling, thus accelerating research workflows.
+![þÿ](<../.gitbook/assets/17 (1) (1) (1).png>)Reduction in Labeling Time: By adopting LVL tubes and leveraging partnerships, the project aims to significantly reduce the time scientists spend on labeling, thus accelerating research workflows.
 
 Eliminating Traditional Labeling System Pain Points: The shift to pre-etched labware addresses common issues with traditional labeling systems, such as label detachment, illegibility, re-labeling and time consumption.
 
-![þÿ](<../.gitbook/assets/18 (1) (1).png>)Enhancing Lab Automation: The initiative is designed to enhance lab efficiency, organization, and streamline processes, contributing to a more effective and reliable lab environment.
+![þÿ](<../.gitbook/assets/18 (1) (1) (1).png>)Enhancing Lab Automation: The initiative is designed to enhance lab efficiency, organization, and streamline processes, contributing to a more effective and reliable lab environment.
 
 **AUTOMATED CAPPING AND DE-CAPPING**
 
-![](<../.gitbook/assets/19 (3).jpeg>)![](<../.gitbook/assets/20 (4).png>)![](../.gitbook/assets/21.png)![](<../.gitbook/assets/22 (1).jpeg>)
+![](<../.gitbook/assets/19 (3).jpeg>)![](<../.gitbook/assets/20 (4) (1).png>)![](../.gitbook/assets/21.png)![](<../.gitbook/assets/22 (1) (1).jpeg>)
 
 **CONTAINERIZATION**
 

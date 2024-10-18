@@ -2,7 +2,7 @@
 
 Two types of data collection are possible when you use a cuvette: a reference read and a sample read.
 
-You can start a read after you define the acquisition settings. It is not necessary to define groups and assign cuvettes in the Template Editor dialog first, but you can use the Template Editor to create the required number of cuvettes in the section. As an alternative, you can create a small number of cuvettes one at a time with the ![](<../../../.gitbook/assets/0 (4).jpeg>) New Cuvette Set icon in the Navigation Tree.
+You can start a read after you define the acquisition settings. It is not necessary to define groups and assign cuvettes in the Template Editor dialog first, but you can use the Template Editor to create the required number of cuvettes in the section. As an alternative, you can create a small number of cuvettes one at a time with the ![](<../../../.gitbook/assets/0 (4) (1).jpeg>) New Cuvette Set icon in the Navigation Tree.
 
 Instrument settings must be the same for all cuvettes in a Cuvette Set section.
 
@@ -15,7 +15,7 @@ If you select more than one cuvette, the software starts with the left-most sele
 To do a sample read:
 
 1. In the Navigation Tree, select a cuvette in the Cuvette Set section.
-2. Click ![](<../../../.gitbook/assets/1 (4).jpeg>) **Read** on the Home tab or below the Settings Information area. The Read button changes to ![](<../../../.gitbook/assets/2 (3).jpeg>) **Stop**, to terminate a read.
+2. Click ![](<../../../.gitbook/assets/1 (4) (1).jpeg>) **Read** on the Home tab or below the Settings Information area. The Read button changes to ![](<../../../.gitbook/assets/2 (3) (1).jpeg>) **Stop**, to terminate a read.
 
 ### Reference Read
 
@@ -25,13 +25,13 @@ The reference can be read before or after you read samples.
 
 If you do not take a reference read in a Cuvette Set section before samples were read and you then read a reference, the following occurs:
 
-![](<../../../.gitbook/assets/3 (4).png>) The software applies the reference read to all cuvettes in the Cuvette Set section if it is the first reference read.
+![](<../../../.gitbook/assets/3 (4) (1).png>) The software applies the reference read to all cuvettes in the Cuvette Set section if it is the first reference read.
 
-![](<../../../.gitbook/assets/4 (4).png>) In subsequent reference reads, if you select one or more cuvettes, the software selectively replaces the reference read for the cuvettes you select.
+![](<../../../.gitbook/assets/4 (4) (1).png>) In subsequent reference reads, if you select one or more cuvettes, the software selectively replaces the reference read for the cuvettes you select.
 
-![](<../../../.gitbook/assets/5 (3).png>) The time and date of the read displays under each cuvette in the section.
+![](<../../../.gitbook/assets/5 (3) (1).png>) The time and date of the read displays under each cuvette in the section.
 
-![](<../../../.gitbook/assets/6 (4).png>) The software applies the reference to new cuvettes you subsequently create in the section.
+![](<../../../.gitbook/assets/6 (4) (1).png>) The software applies the reference to new cuvettes you subsequently create in the section.
 
 You can have more than one reference per Cuvette Set section. To do a reference read:
 
@@ -54,8 +54,8 @@ If you want to have both reference and read values available, do the following:
 
 1. Create a Cuvette Set section with up to the maximum of 96 cuvettes.
 2. Define a template blank in the Cuvette Set section.
-3. Place buffer in the cuvette and click ![](<../../../.gitbook/assets/0 (3).jpeg>) **Read**.
-4. Click ![](<../../../.gitbook/assets/1 (3).jpeg>) **Read** again to read the remaining samples.
+3. Place buffer in the cuvette and click ![](<../../../.gitbook/assets/0 (3) (1).jpeg>) **Read**.
+4. Click ![](<../../../.gitbook/assets/1 (3) (1).jpeg>) **Read** again to read the remaining samples.
 
 The software subtracts the optical density of the cuvette you designate as the template blank from the optical density of all the other cuvettes in the Cuvette Set section.
 

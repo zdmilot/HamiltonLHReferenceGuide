@@ -8,25 +8,25 @@ The Ribbon contains tabs with icons that vary depending on the instrument that i
 
 The Home tab displays the following icons:
 
-![](<../../../.gitbook/assets/1 (11).png>) Click ![](<../../../.gitbook/assets/2 (9).jpeg>) **Instrument** to connect the software to the instrument. Displays other instrument information such as connection status and chamber temperature. See Selecting an Instrument on page 58.
+![](<../../../.gitbook/assets/1 (11) (1).png>) Click ![](<../../../.gitbook/assets/2 (9).jpeg>) **Instrument** to connect the software to the instrument. Displays other instrument information such as connection status and chamber temperature. See Selecting an Instrument on page 58.
 
-![](<../../../.gitbook/assets/3 (14).png>) **Instrument Commands** - Icons depend on the instrument you select.
+![](<../../../.gitbook/assets/3 (14) (1).png>) **Instrument Commands** - Icons depend on the instrument you select.
 
-![](<../../../.gitbook/assets/4 (16).png>) Click ![](<../../../.gitbook/assets/5 (10).png>) **Temperature** to display the Temperature Control dialog where you set the temperature of the plate chamber or cuvette chamber. See Temperature Control on page 112.
+![](<../../../.gitbook/assets/4 (16) (1).png>) Click ![](<../../../.gitbook/assets/5 (10) (1).png>) **Temperature** to display the Temperature Control dialog where you set the temperature of the plate chamber or cuvette chamber. See Temperature Control on page 112.
 
-![](<../../../.gitbook/assets/6 (10).png>) Click ![](<../../../.gitbook/assets/7 (7).jpeg>) **Shake** and hold the mouse button to shake the plate. Release the mouse button to stop the shake. This shake icon is independent of the shake settings in an experiment. When you create an experiment, a separate workflow allows you to define how to shake the plate as part of the experiment.
+![](<../../../.gitbook/assets/6 (10) (1).png>) Click ![](<../../../.gitbook/assets/7 (7).jpeg>) **Shake** and hold the mouse button to shake the plate. Release the mouse button to stop the shake. This shake icon is independent of the shake settings in an experiment. When you create an experiment, a separate workflow allows you to define how to shake the plate as part of the experiment.
 
-![](<../../../.gitbook/assets/8 (10).png>) Click ![](<../../../.gitbook/assets/9 (10).png>) **Open/Close** to open and close the instrument plate drawer. The software can open and close other drawers for some instruments such as the drawers for the FlexStation® 3 Multi-Mode Microplate Reader. Click ![](<../../../.gitbook/assets/10 (4).jpeg>) **Tips** for the tip rack drawer or click ![](<../../../.gitbook/assets/11 (7).jpeg>) **Reagent** for the compound plate drawer.
+![](<../../../.gitbook/assets/8 (10) (1).png>) Click ![](<../../../.gitbook/assets/9 (10) (1).png>) **Open/Close** to open and close the instrument plate drawer. The software can open and close other drawers for some instruments such as the drawers for the FlexStation® 3 Multi-Mode Microplate Reader. Click ![](<../../../.gitbook/assets/10 (4).jpeg>) **Tips** for the tip rack drawer or click ![](<../../../.gitbook/assets/11 (7).jpeg>) **Reagent** for the compound plate drawer.
 
 **Note:** The ![](<../../../.gitbook/assets/12 (3).jpeg>) Info icon on the Operations tab provides access to the Instrument Information dialog. Use the Instrument Information dialog to open and close the cartridge drawers for the SpectraMax i3x and SpectraMax Paradigm. Use this dialog to open and close the filter drawers for the FilterMax F3 and FilterMax F5. See Instrument Information on page 354.
 
-![](<../../../.gitbook/assets/13 (8).png>)
+![](<../../../.gitbook/assets/13 (8) (1).png>)
 
-![](<../../../.gitbook/assets/14 (7).png>) Click ![](<../../../.gitbook/assets/15 (6).jpeg>) **Protocol Manager** to display the list of protocols in the Protocol Library. The Protocol Library contains over 160 protocols that contain instrument settings and formulas. You can customize the protocols in the Protocol Library to facilitate the data analysis and report creation.
+![](<../../../.gitbook/assets/14 (7) (1).png>) Click ![](<../../../.gitbook/assets/15 (6).jpeg>) **Protocol Manager** to display the list of protocols in the Protocol Library. The Protocol Library contains over 160 protocols that contain instrument settings and formulas. You can customize the protocols in the Protocol Library to facilitate the data analysis and report creation.
 
 Click ![](<../../../.gitbook/assets/16 (5).jpeg>) **Acquisition Settings** to display the Settings dialog where you define instrument settings for the read. See Acquisition Settings on page 109.
 
-![](<../../../.gitbook/assets/17 (9).png>) Click ![](<../../../.gitbook/assets/18 (6).jpeg>) **ABS**, ![](<../../../.gitbook/assets/19 (4).jpeg>) **FL**, and ![](<../../../.gitbook/assets/20 (4).jpeg>) **LUM** to do a quick start absorbance, fluorescence, or luminescence read using default settings. (Available for SpectraMax iD3 and SpectraMax iD5.)
+![](<../../../.gitbook/assets/17 (9) (1).png>) Click ![](<../../../.gitbook/assets/18 (6).jpeg>) **ABS**, ![](<../../../.gitbook/assets/19 (4).jpeg>) **FL**, and ![](<../../../.gitbook/assets/20 (4).jpeg>) **LUM** to do a quick start absorbance, fluorescence, or luminescence read using default settings. (Available for SpectraMax iD3 and SpectraMax iD5.)
 
 **Controls and Status** - Icons to start and stop a read.
 

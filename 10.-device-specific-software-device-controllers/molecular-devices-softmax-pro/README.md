@@ -20,15 +20,15 @@ You should install the SoftMax Pro Software on the computer before you set up th
 
 **Note:** Installation and usage of the SoftMax Pro Software on the Windows XP and Windows 8 operating systems is no longer supported. The software is neither tested nor validated on Windows XP or Windows 8. Windows 7 with 32 bit operating system is also no longer supported. You can install the SoftMax Pro Software - Standard edition on a Windows 7 with 64 bit operating system, but Windows 10 is strongly recommended.
 
-![](<../../.gitbook/assets/1 (8).png>)
+![](<../../.gitbook/assets/1 (8) (1).png>)
 
 See the following documents for installation instructions:
 
-![](<../../.gitbook/assets/2 (8).png>) _SoftMax Pro Data Acquisition and Analysis Software Standard Edition and MiniMax Imaging Edition Installation Guide_
+![](<../../.gitbook/assets/2 (8) (1).png>) _SoftMax Pro Data Acquisition and Analysis Software Standard Edition and MiniMax Imaging Edition Installation Guide_
 
-![](<../../.gitbook/assets/3 (11).png>) _SoftMax Pro Data Acquisition and Analysis Software - GxP Edition - Installation Guide for the Multi Computer Setup_
+![](<../../.gitbook/assets/3 (11) (1).png>) _SoftMax Pro Data Acquisition and Analysis Software - GxP Edition - Installation Guide for the Multi Computer Setup_
 
-![](<../../.gitbook/assets/4 (13).png>) _SoftMax Pro Data Acquisition and Analysis Software - GxP Edition - Installation Guide for the Single Computer Setup_
+![](<../../.gitbook/assets/4 (13) (1).png>) _SoftMax Pro Data Acquisition and Analysis Software - GxP Edition - Installation Guide for the Single Computer Setup_
 
 ### Uninstalling the Software
 
@@ -51,15 +51,15 @@ Power on the instrument and wait for the instrument to complete its start-up seq
 
 To start the software:
 
-![](<../../.gitbook/assets/5 (8).png>) For the SoftMax Pro Software - Standard edition: Double-click the ![](<../../.gitbook/assets/6 (3).jpeg>) SoftMax Pro icon on the desktop or from the Windows Start menu, click **Start** > **All Programs** > **Molecular Devices** > **SoftMax Pro 7.n.n** > **SoftMax Pro 7.n.n.exe**.
+![](<../../.gitbook/assets/5 (8) (1).png>) For the SoftMax Pro Software - Standard edition: Double-click the ![](<../../.gitbook/assets/6 (3).jpeg>) SoftMax Pro icon on the desktop or from the Windows Start menu, click **Start** > **All Programs** > **Molecular Devices** > **SoftMax Pro 7.n.n** > **SoftMax Pro 7.n.n.exe**.
 
-![](<../../.gitbook/assets/7 (6).png>) For the SoftMax Pro Software - GxP edition: Double-click the ![](<../../.gitbook/assets/8 (2).jpeg>) SoftMax Pro GxP icon on the desktop or from the Windows Start menu, click **Start** > **All Programs** > **Molecular Devices** > **SoftMax Pro 7.n.n GxP** > **SoftMax Pro 7.n.n GxP.exe**
+![](<../../.gitbook/assets/7 (6) (1).png>) For the SoftMax Pro Software - GxP edition: Double-click the ![](<../../.gitbook/assets/8 (2) (1).jpeg>) SoftMax Pro GxP icon on the desktop or from the Windows Start menu, click **Start** > **All Programs** > **Molecular Devices** > **SoftMax Pro 7.n.n GxP** > **SoftMax Pro 7.n.n GxP.exe**
 
-![](<../../.gitbook/assets/9 (6).png>) Enter your user name and password, and then click **Log On**. See Logging In To The SoftMax Pro Software - GxP Edition on page 252.
+![](<../../.gitbook/assets/9 (6) (1).png>) Enter your user name and password, and then click **Log On**. See Logging In To The SoftMax Pro Software - GxP Edition on page 252.
 
 **Note:** When you use the SpectraMax® i3x Multi-Mode Detection Platform, SpectraMax® i3 Multi-Mode Detection Platform, SpectraMax® Paradigm Multi-Mode Microplate Reader, FilterMax® F3 Multi-Mode Microplate Reader, and FilterMax® F5 Multi-Mode Microplate Reader for the first time, the installation process installs the latest instrument firmware updates.
 
-![](<../../.gitbook/assets/10 (4).png>)
+![](<../../.gitbook/assets/10 (4) (1).png>)
 
 The SoftMax Pro Software saves instrument firmware updates on the computer hard drive. If you put a new image on the computer or you replace the computer, this information is lost. However, the software installation and updates automatically install the latest instrument firmware.
 
@@ -96,11 +96,11 @@ You can use Application Programming Interface (API) command scripts to automate 
 To start Automation mode:
 
 1. Select the **Operations** tab in the Ribbon.
-2. Click ![](<../../.gitbook/assets/12 (6).png>) **Automation Mode**.
+2. Click ![](<../../.gitbook/assets/12 (6) (1).png>) **Automation Mode**.
 
 Automation mode prevents user interaction and the software displays the following dialog in front of the main window.
 
-![](<../../.gitbook/assets/13 (1).jpeg>)
+![](<../../.gitbook/assets/13 (1) (1).jpeg>)
 
 When the software acquires data, the Plate section displays in the main window behind the automation mode dialog and displays the data.
 
@@ -127,11 +127,11 @@ The SoftMax Pro Excel workflows expand the industry-leading handling of plate fo
 
 After you install the custom Add-In in Excel, you can run and edit the Excel workflows or you can create your own workflows. The installation places the workflows in the same folder as the Excel Add-In files.
 
-![](<../../.gitbook/assets/14 (4).png>) For a 32-bit installation, the workflows are in the following folder:
+![](<../../.gitbook/assets/14 (4) (1).png>) For a 32-bit installation, the workflows are in the following folder:
 
 #### C:\Program Files\Molecular Devices\SoftMax Pro 7.n.n Automation SDK\ExcelAddIn
 
-![](<../../.gitbook/assets/15 (3).png>) For a 64-bit installation, the workflows are in the following folder: **C:\Program Files (x86)\Molecular Devices\SoftMax Pro 7.n.n Automation SDK\ExcelAddIn**
+![](<../../.gitbook/assets/15 (3) (1).png>) For a 64-bit installation, the workflows are in the following folder: **C:\Program Files (x86)\Molecular Devices\SoftMax Pro 7.n.n Automation SDK\ExcelAddIn**
 
 The Excel workflow files have a .xlsm extension.
 

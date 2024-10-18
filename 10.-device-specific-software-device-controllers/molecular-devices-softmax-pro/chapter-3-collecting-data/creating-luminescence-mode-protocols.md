@@ -7,9 +7,9 @@ To create a Luminescence Mode protocol:
 1. Start the software. See Starting the Software on page 7.
 2. Select an instrument. See Selecting an Instrument on page 58.
 3. In the Navigation Tree, select a Plate section or Cuvette Set section.
-4. Click ![](<../../../.gitbook/assets/0 (7).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
+4. Click ![](<../../../.gitbook/assets/0 (7) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. For the SpectraMax Paradigm, select a Luminescence cartridge. For the SpectraMax i3x, select either **Monochromator** or select a Luminescence cartridge.
-6. Select the ![](<../../../.gitbook/assets/1 (7).jpeg>) **LUM** read mode.
+6. Select the ![](<../../../.gitbook/assets/1 (7) (1).jpeg>) **LUM** read mode.
 7. Select a Read Type.
 8. Define the settings.
 

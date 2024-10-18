@@ -80,7 +80,7 @@ Normally only the first position has to be taught. If the rows and columns of a 
 
 The actual position and increment step size is displayed.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Make sure that the step size is appropriate. When moving the x-arm with a step size of 100 mm, make sure to decrease the step size first. Otherwise, the pipetting channel will move 100 mm downwards and will possibly crash</em>.</p></td></tr></tbody></table>
 
@@ -90,7 +90,7 @@ The actual position and increment step size is displayed.
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 9. Click \[OK], to transfer the data to the deck layout.
 
 <table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Do not use</em> [Move Probe] <em>in the simulation mode. The computer will try to establish a connection to an instrument several times otherwise will prompt a communication error after approximately 10 seconds.</em></p></td></tr></tbody></table>

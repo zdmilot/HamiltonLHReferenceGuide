@@ -6,7 +6,7 @@ When you start the software, the Untitled1 document tab displays in the Document
 
 **Note:** For the SoftMax Pro Software - GxP edition, no document tabs display and the Workspace area is empty. Your permissions determine which actions you can perform. See SoftMax Pro Software - GxP Edition on page 247.
 
-![](<../../../.gitbook/assets/1 (9).png>)
+![](<../../../.gitbook/assets/1 (9) (1).png>)
 
 ![](<../../../.gitbook/assets/2 (7).jpeg>)
 
@@ -36,25 +36,25 @@ The ![](<../../../.gitbook/assets/3 (4).jpeg>) Application menu icon in the uppe
 
 The Application menu also provides access to the SoftMax Pro Options dialog where you set options for Data Recovery, Web Browser, Plate Setup Helper, Plate Height Warning, Plate Eject After Read, Remote Control, Calculation, and SpectraMax iDx Control. See Application Options on page 45.
 
-![](<../../../.gitbook/assets/4 (2).jpeg>)
+![](<../../../.gitbook/assets/4 (2) (1).jpeg>)
 
 Click ![](<../../../.gitbook/assets/5 (3).jpeg>) to open the Application menu.
 
-![](<../../../.gitbook/assets/6 (8).png>) Select ![](<../../../.gitbook/assets/7 (8).png>) **New** to create a new document. See Creating Protocols and Data Documents on page 20.
+![](<../../../.gitbook/assets/6 (8) (1).png>) Select ![](<../../../.gitbook/assets/7 (8) (1).png>) **New** to create a new document. See Creating Protocols and Data Documents on page 20.
 
-![](<../../../.gitbook/assets/8 (7).png>) Select ![](<../../../.gitbook/assets/9 (2).jpeg>) **Open** to open a document or to select the document from the **Recent Documents** list on the right. See Opening Protocols and Data Documents on page 21.
+![](<../../../.gitbook/assets/8 (7) (1).png>) Select ![](<../../../.gitbook/assets/9 (2).jpeg>) **Open** to open a document or to select the document from the **Recent Documents** list on the right. See Opening Protocols and Data Documents on page 21.
 
-![](<../../../.gitbook/assets/10 (5).png>) Select ![](<../../../.gitbook/assets/11 (4).jpeg>) **Save** to save updates to a document.
+![](<../../../.gitbook/assets/10 (5) (1).png>) Select ![](<../../../.gitbook/assets/11 (4).jpeg>) **Save** to save updates to a document.
 
-![](<../../../.gitbook/assets/12 (7).png>) Select ![](<../../../.gitbook/assets/13 (2).jpeg>) **Save As** to rename a document, to save a protocol as a data document, to save a data document as a protocol, to move a document to a different location, or to give a new document a name. See Saving Protocols and Data Documents on page 22.
+![](<../../../.gitbook/assets/12 (7) (1).png>) Select ![](<../../../.gitbook/assets/13 (2) (1).jpeg>) **Save As** to rename a document, to save a protocol as a data document, to save a data document as a protocol, to move a document to a different location, or to give a new document a name. See Saving Protocols and Data Documents on page 22.
 
-![](<../../../.gitbook/assets/14 (5).png>) Select ![](<../../../.gitbook/assets/15 (4).jpeg>)**Auto Export** to define settings to export documents to a new location, in a format that is compatible with other software applications. See Auto Export on page 23.
+![](<../../../.gitbook/assets/14 (5) (1).png>) Select ![](<../../../.gitbook/assets/15 (4).jpeg>)**Auto Export** to define settings to export documents to a new location, in a format that is compatible with other software applications. See Auto Export on page 23.
 
-![](<../../../.gitbook/assets/16 (5).png>) For the SoftMax Pro Software - GxP edition, select ![](<../../../.gitbook/assets/17 (1).jpeg>) **Auto Save** to define settings to save documents. See Auto Save on page 26.
+![](<../../../.gitbook/assets/16 (5) (1).png>) For the SoftMax Pro Software - GxP edition, select ![](<../../../.gitbook/assets/17 (1) (1).jpeg>) **Auto Save** to define settings to save documents. See Auto Save on page 26.
 
-![](<../../../.gitbook/assets/18 (3).png>) Click ![](<../../../.gitbook/assets/19 (2).jpeg>) **Print** and select one of the following:
+![](<../../../.gitbook/assets/18 (3) (1).png>) Click ![](<../../../.gitbook/assets/19 (2).jpeg>) **Print** and select one of the following:
 
-![](<../../../.gitbook/assets/20 (3).png>) Select  **Print All** to print information, settings, and results in a document.
+![](<../../../.gitbook/assets/20 (3) (1).png>) Select  **Print All** to print information, settings, and results in a document.
 
 &#x20;Select  **Print Preview** to create a preview of information, settings, and results before you choose to print. See Previewing Print Jobs on page 28.
 

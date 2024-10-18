@@ -6,30 +6,30 @@
 
 1.  Select yes when prompted to install the SQL database.
 
-    ![](<../../.gitbook/assets/6 (2) (1).png>)
+    ![](<../../.gitbook/assets/6 (2) (1) (1).png>)
 
-    ![](<../../.gitbook/assets/5 (2) (1).png>)
+    ![](<../../.gitbook/assets/5 (2) (1) (1).png>)
 
 
 2.  Close the Portable WinCDEmu. The installation drive is now mounted on your computer. Open the drive and select the Microlab\_Star folder. Right click on the setup application and select run as administrator. (Note: Administrator rights are needed to install the software properly.)
 
-    ![](<../../.gitbook/assets/4 (2) (1).png>)
+    ![](<../../.gitbook/assets/4 (2) (1) (1).png>)
 
 
 3.  Select mount image, mount the Microlab STAR Software VENUS four base package 4.5.0.5217 and select open.\
 
 
-    ![](<../../.gitbook/assets/3 (2) (1).png>)
+    ![](<../../.gitbook/assets/3 (2) (1) (1).png>)
 
 
 4.  Select yes when prompted to install the Portable WINCDEmu Driver.
 
-    ![](<../../.gitbook/assets/2 (1) (1) (1) (1).png>)
+    ![](<../../.gitbook/assets/2 (1) (1) (1) (1) (1).png>)
 
 
 5.  Open the Portable WinCDEmu-4.0. application located in the Venus 4 software folde
 
-    <figure><img src="../../.gitbook/assets/1 (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/1 (1) (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
 
 
 
@@ -43,13 +43,13 @@ Using VENUS Software requires access to a Microsoft SQL Server. If the “Micros
 
 1.  During installation, a prompt will be displayed asking if the SQL Server 2014 Service Pack 2 (SP2) shal be installed.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="267"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="267"><figcaption></figcaption></figure>
 2. Click \[Yes] to continue. If \[No] is chosen, please prepare the following information to be able to use another SQL Server:
    * Microsoft SQL Server Location
    * Database User Name and Password
 3.  Click \[Next >] to continue.
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>
 4.  Click \[Yes] to continue after the virus protection software and all other applications have been closed.
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="378"><figcaption></figcaption></figure>

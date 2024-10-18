@@ -21,7 +21,7 @@ To create a Time-Resolved Fluorescence Mode protocol:
 1. Start the software. See Starting the Software on page 7.
 2. Select an instrument. See Selecting an Instrument on page 58.
 3. In the Navigation Tree, select a Plate section or Cuvette Set section.
-4. Click ![](<../../../.gitbook/assets/0 (8).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
+4. Click ![](<../../../.gitbook/assets/0 (8) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. For the SpectraMax Paradigm and SpectraMax i3x, select a TRF-capable detection cartridge.
 6. Click ![](<../../../.gitbook/assets/1 (8).jpeg>) **TRF** to select the **Time-Resolved Fluorescence** read mode.
 7. Click a Read Type.
@@ -41,9 +41,9 @@ In Time-Resolved Fluorescence (TRF) read mode, the instrument detects the extrem
 
 Time-Resolved Fluorescence is a measurement technique that depends on three characteristics that lead to better discrimination between the specific signal, proportional to the quantity of label, and the unspecific fluorescence resulting from background and compound interference:
 
-![](<../../../.gitbook/assets/2 (4).png>) Pulsed excitation light sources
+![](<../../../.gitbook/assets/2 (4) (1).png>) Pulsed excitation light sources
 
-![](<../../../.gitbook/assets/3 (8).png>) Time-gated electronics faster than the fluorescence lifetime ![](<../../../.gitbook/assets/4 (9).png>) Labels with prolonged fluorescence lifetime
+![](<../../../.gitbook/assets/3 (8) (1).png>) Time-gated electronics faster than the fluorescence lifetime ![](<../../../.gitbook/assets/4 (9) (1).png>) Labels with prolonged fluorescence lifetime
 
 The time-gating electronics introduce a delay between the cutoff of each light pulse and the start of signal collection. During the delay, the unspecific fluorescence (caused by test compounds, assay reagents, and the plate) vanishes, while only a small portion of the specific fluorescence from the label is sacrificed. Enough of the specific signal remains during the decay period, with the added benefit of reduced background.
 
@@ -74,10 +74,10 @@ The integration delay and integration time are usually specified in the package 
 
 Some examples of TRF assays are:
 
-![](<../../../.gitbook/assets/0 (6).png>) IMAP® TR-FRET
+![](<../../../.gitbook/assets/0 (6) (1).png>) IMAP® TR-FRET
 
-![](<../../../.gitbook/assets/1 (6).png>) Cisbio HTRF
+![](<../../../.gitbook/assets/1 (6) (1).png>) Cisbio HTRF
 
-![](<../../../.gitbook/assets/2 (6).png>) LanthaScreen TR-FRET ![](<../../../.gitbook/assets/3 (9).png>) LANCE TR-FRET
+![](<../../../.gitbook/assets/2 (6) (1).png>) LanthaScreen TR-FRET ![](<../../../.gitbook/assets/3 (9) (1).png>) LANCE TR-FRET
 
-![](<../../../.gitbook/assets/4 (10).png>)DELFIA TRF
+![](<../../../.gitbook/assets/4 (10) (1).png>)DELFIA TRF

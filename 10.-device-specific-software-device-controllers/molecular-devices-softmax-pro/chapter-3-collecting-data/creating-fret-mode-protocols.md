@@ -5,9 +5,9 @@ To create a Fluorescence Resonance Energy Transfer (FRET) protocol:
 1. Start the software. See Starting the Software on page 7.
 2. Select an instrument. See Selecting an Instrument on page 58.
 3. In the Navigation Tree, select a Plate section or Cuvette Set section.
-4. Click ![](<../../../.gitbook/assets/5 (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
+4. Click ![](<../../../.gitbook/assets/5 (1) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. For the SpectraMax Paradigm and SpectraMax i3x, select a FRET-capable detection cartridge.
-6. Select the ![](<../../../.gitbook/assets/6 (1).jpeg>) **FRET** read mode.
+6. Select the ![](<../../../.gitbook/assets/6 (1) (1).jpeg>) **FRET** read mode.
 7. Select a Read Type.
 8. Define the settings.
 

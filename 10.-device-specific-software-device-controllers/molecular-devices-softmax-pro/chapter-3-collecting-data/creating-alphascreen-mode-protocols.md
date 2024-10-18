@@ -5,9 +5,9 @@ To create an AlphaScreen Mode protocol:
 1. Start the software. See Starting the Software on page 7.
 2. Select the SpectraMax Paradigm or SpectraMax i3x instrument. See Selecting an Instrument on page 58.
 3. In the Navigation Tree, select a Plate section.
-4. Click ![](<../../../.gitbook/assets/0 (6).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
+4. Click ![](<../../../.gitbook/assets/0 (6) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. Select an AlphaScreen Detection Cartridge.
-6. Select the ![](<../../../.gitbook/assets/1 (5).jpeg>) **Screen** read mode.
+6. Select the ![](<../../../.gitbook/assets/1 (5) (1).jpeg>) **Screen** read mode.
 7. Select a Read Type.
 8. Define the settings.
 
@@ -31,6 +31,6 @@ An AlphaScreen measurement includes a light pulse, by turning on the laser diode
 
 **Note:** AlphaScreen beads are light sensitive. Beads are best handled under subdued (<100 lux) or green filtered (Roscolux filters #389 from Rosco, or equivalent) light conditions. Do incubation steps in the dark.
 
-![](<../../../.gitbook/assets/0 (4).png>)
+![](<../../../.gitbook/assets/0 (4) (1).png>)
 
 For more information, see AlphaScreen Read Mode on page 306.

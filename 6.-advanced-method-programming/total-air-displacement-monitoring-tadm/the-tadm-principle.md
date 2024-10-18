@@ -28,7 +28,7 @@ Because the pressure value is not re-zeroed between consecutive aspiration steps
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>In order to use TADM tolerance bands for an aspiration step such as in Figure 6, different liquid classes have to be used for the individual aspiration steps</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>In order to use TADM tolerance bands for an aspiration step such as in Figure 6, different liquid classes have to be used for the individual aspiration steps</em></p></td></tr></tbody></table>
 
 
 
@@ -45,7 +45,7 @@ The following two figures show the different types of TADM curves that can be ob
 
 The type of pipetting step (aspiration or dispensing) influences what kind of scenario a specific error produces. For example, a blocked tip will produce pressure below normal during aspiration and pressure above normal during dispensing, while a short sample will produce pressure above normal during aspiration and pressure below normal during dispensing.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The vast majority of pipetting errors will be detected during the aspiration step. Foam can behave rather unpredictably and can produce pressure above as well as pressure below normal errors during aspiration and / or dispensing”).</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The vast majority of pipetting errors will be detected during the aspiration step. Foam can behave rather unpredictably and can produce pressure above as well as pressure below normal errors during aspiration and / or dispensing”).</em></p></td></tr></tbody></table>
 
 
 
@@ -102,7 +102,7 @@ However, special attention has to be paid to a number of settings that can effec
 
 <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></p><p></p></td><td><p><em>ATTENTION</em></p><p><em>If TADM is not enabled for the liquid class, no TADM monitoring will take place for this liquid class even if the TADM mode is set to monitoring.</em></p><p><em>If a tolerance band has not been defined for a specific volume used during</em></p><p><em>pipetting in TADM monitoring mode, the run will be aborted.</em></p></td></tr></tbody></table>
 
-<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The temperature of the liquid can have a significant influence on the pressure</em></p><p><em>curve. It is mandatory that the liquid used for recording the reference pressure curves have the same temperature as the liquid used during routine work.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The temperature of the liquid can have a significant influence on the pressure</em></p><p><em>curve. It is mandatory that the liquid used for recording the reference pressure curves have the same temperature as the liquid used during routine work.</em></p></td></tr></tbody></table>
 
 
 
@@ -142,7 +142,7 @@ During the development and testing phase, the instrument should be set to “TAD
 
 The settings for the TADM modes / TADM Upload Modes can be set individually for every pipetting device such as 1000ul channels, 5ml channels and the CO-RE 96 Head.
 
-![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1) (1) (1).png>)
+![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1) (1) (1) (1).png>)
 
 Select your instrument (STAR, STARlet, STARplus) in the left of the window, and then scroll down the right side of the window to the entry "TADM settings". Change "TADM Mode" to "Recording" for the desired pipetting devices. Close the System Configuration Editor and save the changes.
 
@@ -152,7 +152,7 @@ Refer to figure 9 for an explanation of the different settings.
 
 To use the TADM feature, the used liquid classes have to be prepared for that. In order to do this, start the Liquid Editor. The "Liquid Classes" window lists all liquid classes available and also shows whether TADM is enabled or disabled for a specific liquid class.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>All predefined liquid classes supplied by HAMILTON with the installation of the software have TADM disabled and are write-protected.</em></p><p><em>To have the TADM feature enabled, copy the desired predefined liquid class and then enable the TADM feature</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>All predefined liquid classes supplied by HAMILTON with the installation of the software have TADM disabled and are write-protected.</em></p><p><em>To have the TADM feature enabled, copy the desired predefined liquid class and then enable the TADM feature</em></p></td></tr></tbody></table>
 
 
 
@@ -170,7 +170,7 @@ Enter the new name (e.g. with suffix “\_TADM”) and close the dialog by click
 
 The newly created class will be added at the end of the list:
 
-![Fig. 13: The newly created liquid class is added to the list](<../../.gitbook/assets/20 (1) (1).png>)
+![Fig. 13: The newly created liquid class is added to the list](<../../.gitbook/assets/20 (1) (1) (1).png>)
 
 
 
@@ -192,7 +192,7 @@ The system is now ready to record TADM curves.
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The TADM feature 5.1 supports all pipetting channels such as the (old) 300ul channel, the 1000ul channel, the 5ml channel and the CO-RE 96 Head TADM.</em></p><p><em>The CO-RE head 384 does not have individual pressure sensors on each channel and does therefore not support TADM.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The TADM feature 5.1 supports all pipetting channels such as the (old) 300ul channel, the 1000ul channel, the 5ml channel and the CO-RE 96 Head TADM.</em></p><p><em>The CO-RE head 384 does not have individual pressure sensors on each channel and does therefore not support TADM.</em></p></td></tr></tbody></table>
 
 
 
@@ -230,7 +230,7 @@ Select the desired runs by marking the check box and clicking "OK". There are se
 | Ctrl+C   | Check the checkboxes of the selected runs in the list.                     |
 | Ctrl+T   | Toggle checkbox state of the selected runs in the list.                    |
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>A maximum of 60 runs can be selected simultaneously.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>A maximum of 60 runs can be selected simultaneously.</em></p></td></tr></tbody></table>
 
 
 
@@ -274,7 +274,7 @@ The following example shows typical curves for jet dispense steps.
 
 The peak seen in the curves at 100ms in Figure 21 is typical for a dispense step and is not necessarily the result of sub-optimal settings. It actually reflects the dispensing of the transport air and the moment the liquid starts to leave the tip. The same holds true for the apparent fraying of the TADM curves at the end of the dispense step, which is the result of the blow-out volume and the resulting pressure inside the system.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>A narrow bundle of curves is not an indication that the pipetting process is precise and robust. Moreover, a precise and robust pipetting process does not guarantee closely bundled pressure curves.</em></p><p><em>TADM curves such as in Figure 20a can be - but do not have to be - an indication that the pipetting process is not robust and precise..</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>A narrow bundle of curves is not an indication that the pipetting process is precise and robust. Moreover, a precise and robust pipetting process does not guarantee closely bundled pressure curves.</em></p><p><em>TADM curves such as in Figure 20a can be - but do not have to be - an indication that the pipetting process is not robust and precise..</em></p></td></tr></tbody></table>
 
 
 
@@ -321,11 +321,11 @@ From this pipetting mode, a different pressure curve results. Please see below t
 
 <figure><img src="../../.gitbook/assets/image (29) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Fig. 25: Pressure curve for a dispense on the fly step</strong></p></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>It is not necessary to define a tolerance band over all peaks of a dispense-on- the-fly pressure curve. Simply define the upper and lower limitation curve for the first peak, all following peaks will be handled respecting the data defined for peak one.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>It is not necessary to define a tolerance band over all peaks of a dispense-on- the-fly pressure curve. Simply define the upper and lower limitation curve for the first peak, all following peaks will be handled respecting the data defined for peak one.</em></p></td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/image (31) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Fig. 26: Tolerance band for a dispense on the fly step</strong></p></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>Please make sure the defined upper and lower limitation curve respects the highest peak and the lowest source in the whole curve, although it is defined only for the first peak.</em></p><p><em>Refer to Figure 27, where the highest peak is at the end of the 12 shots.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>Please make sure the defined upper and lower limitation curve respects the highest peak and the lowest source in the whole curve, although it is defined only for the first peak.</em></p><p><em>Refer to Figure 27, where the highest peak is at the end of the 12 shots.</em></p></td></tr></tbody></table>
 
 
 
@@ -383,7 +383,7 @@ The TADM Tolerance Band Editor consists of several parts, as shown in its main w
 
 The TADM window consists of three tabs (Upper Curve, Lower Curve, TADM Curves). The first two tabs contain the coordinates for the points of the upper and lower tolerance bands respectively. The third tab lists the properties of the displayed TADM curves. The following properties can be viewed: the method name of the run where the TADM curve was recorded, the channel number, pipette date, pipette result (processed/aborted), TADM mode (Recording/Monitoring), and the Curve ID. TADM curves of aborted pipetting steps are displayed in red in the plotting area, while successfully processed ones are displayed in dark blue.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The Pipette result “Aborted” can only occur if the run was performed in Monitoring mode.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"></p><p></p></td><td><p><strong>NOTE</strong></p><p><em>The Pipette result “Aborted” can only occur if the run was performed in Monitoring mode.</em></p></td></tr></tbody></table>
 
 
 
