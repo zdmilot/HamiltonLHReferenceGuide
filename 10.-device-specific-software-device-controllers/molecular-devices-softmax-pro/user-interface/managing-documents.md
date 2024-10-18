@@ -10,7 +10,7 @@ Data documents allow you to create reports and graphs from the data you collect.
 
 SoftMax Pro Software - Standard edition version 7.1 (and later) can open documents from version 4.0 or later.
 
-SoftMax Pro Software - GxP edition version 7.1.1 allows you to import documents from version 6.0 or later. You can update documents created in earlier versions to a versions 6 or version 7 document and then import the document into the SoftMax Pro Software - GxP edition database. See Importing Legacy Documents on page 42.
+SoftMax Pro Software - GxP edition version 7.1.1 allows you to import documents from version 6.0 or later. You can update documents created in earlier versions to a versions 6 or version 7 document and then import the document into the SoftMax Pro Software - GxP edition database.&#x20;
 
 **Note:** Before you open a document, make sure the instrument you select uses the same settings or compatible settings as the instrument used to create the document.
 
@@ -18,9 +18,9 @@ SoftMax Pro Software - GxP edition version 7.1.1 allows you to import documents 
 
 ### Protocols
 
-You can use predefined protocols and you can create your own protocols. Protocols contain plate well layout assignments, reduction parameters, and instrument settings, but no data. Protocols are useful when you want to repeat experiments because they save instrument experiment settings and formulas for reuse. See Creating Protocols and Data Documents on page 20.
+You can use predefined protocols and you can create your own protocols. Protocols contain plate well layout assignments, reduction parameters, and instrument settings, but no data. Protocols are useful when you want to repeat experiments because they save instrument experiment settings and formulas for reuse.&#x20;
 
-When you open a new document, the settings from the default protocol appear in the Workspace. The default protocol settings help you get started when you create a new document. When you install the software, the Basic Endpoint protocol is set as the default protocol with the file name _default.spr_. Use the  Save As Default icon on the Protocols tab to change the default protocol settings. See Protocols Tab on page 51.
+When you open a new document, the settings from the default protocol appear in the Workspace. The default protocol settings help you get started when you create a new document. When you install the software, the Basic Endpoint protocol is set as the default protocol with the file name _default.spr_. Use the  Save As Default icon on the Protocols tab to change the default protocol settings.&#x20;
 
 **Note:** When you save a data document as a protocol, the software creates a new protocol that saves the experiment settings without the data. Any data you collect in the current experiment remains unchanged and is saved with the data document.
 
@@ -28,13 +28,13 @@ When you open a new document, the settings from the default protocol appear in t
 
 The  Protocol Manager icon on the Home tab and on the Protocols tab provides access to the Protocol Library. The Protocol Library contains over 160 protocols that contain instrument settings and formulas. You can customize the protocols in the Protocol Library to facilitate the data analysis and report creation.
 
-Use the  Folder Locations icon on the Protocols tab to add or remove the folders that display in the Protocol Library. This helps you find the protocols you use most often. See Protocol Library Folder Locations on page 57.
+Use the  Folder Locations icon on the Protocols tab to add or remove the folders that display in the Protocol Library. This helps you find the protocols you use most often.&#x20;
 
 The  Protocol Home Page icon on the Protocols tab provides access to the SoftMax Pro Software user community where you can share protocols, exchange tips and tricks, and network with other users.
 
 **Protocol File Extensions**
 
-You can open protocols that have the following file extensions. See Opening Protocols and Data Documents on page 21:
+You can open protocols that have the following file extensions.:
 
 &#x20;.spr for SoftMax Pro Software - Standard edition version 6 and 7 protocols.  .sprx for SoftMax Pro Software - GxP edition version 6 and 7.0.x protocols.
 
@@ -195,7 +195,7 @@ To save documents:
 
 Use the Auto Export dialog to define how and where the software is to automatically export data immediately after each plate read completes. Auto export reduces the likelihood of lost data, particularly when you choose to export documents to corporate network file locations that are backed up on a regular basis. You can define multiple auto export instances. The software saves auto export settings with each document.
 
-This feature helps prevent data loss when you do automated reads, such as with the StakMax Microplate Handling System. See StakMax Microplate Handling System on page 341.
+This feature helps prevent data loss when you do automated reads, such as with the StakMax Microplate Handling System.
 
 For Imaging mode experiments, export the data to a .txt file format. If you use auto export to export multiple Imaging mode data documents, the software exports each new data document without the folders required to save images and results.
 
@@ -279,7 +279,7 @@ Use the  Application menu to print the contents of the document that is open in 
 
 ### Print Options
 
-Before you print, you can add a logo image, and define the header, footer, and print quality in the Printing Options dialog. See Printing Options on page 30.
+Before you print, you can add a logo image, and define the header, footer, and print quality in the Printing Options dialog.
 
 Click  to open the Application menu, click  **Print**, and then select  **Printing Options** to display the Printing Options dialog.
 
@@ -305,11 +305,11 @@ To print a document:
 
 ### Previewing Print Jobs <a href="#bookmark7" id="bookmark7"></a>
 
-Use the Print Preview dialog to preview the print job before you print. Use the Print Options dialog to add a header, footer, and logo image. See Printing Options on page 30.
+Use the Print Preview dialog to preview the print job before you print. Use the Print Options dialog to add a header, footer, and logo image.&#x20;
 
 To preview the printed output:
 
-To print to a .pdf file, select the **Molecular Devices (PDF Writer)**. See Saving Data as a PDF on page 32.
+To print to a .pdf file, select the **Molecular Devices (PDF Writer)**.&#x20;
 
 *
   1. Click **Print**.
@@ -765,11 +765,11 @@ The SoftMax Pro Options dialog contains settings for the following options:
 
 &#x20;**Data Recovery** - The **Save Opened Files For Data Recovery Every 5 Minutes** check box is selected by default. The software saves unsaved documents to a temporary file every five minutes to assist with data recovery. If the software experiences an unexpected interruption, when the software restarts, the Document Recovery dialog displays the list of the documents that can be recovered. Recovered documents are saved to C:\Users\\\<windows user>\Documents\SMP\<nn>. You cannot turn this option off.
 
-&#x20;**Web Browser** - Select the **Do Not Display the Web Browser (What’s New Website) On Startup** check box to stop the display of the What's New page of the Molecular Devices web site every time you start the software. This used to be the What's New tab that appeared in previous versions of the software. You can view the What's New page from the Help tab in the Ribbon. See Help Tab on page 56.
+&#x20;**Web Browser** - Select the **Do Not Display the Web Browser (What’s New Website) On Startup** check box to stop the display of the What's New page of the Molecular Devices web site every time you start the software. This used to be the What's New tab that appeared in previous versions of the software. You can view the What's New page from the Help tab in the Ribbon.&#x20;
 
-**Plate Setup Helper** - Select the **Disable Auto Opening of Helper On New Protocol** check box to prevent the display of the Plate Setup Helper dialog when you open a new document. See Plate Setup Helper on page 78.
+**Plate Setup Helper** - Select the **Disable Auto Opening of Helper On New Protocol** check box to prevent the display of the Plate Setup Helper dialog when you open a new document.&#x20;
 
-**Plate Height Warning** - Select the **Disable Plate Height Warning On Protocol Run** check box to prevent the display of the plate height warning when you start a read. To prevent damage to the SpectraMax i3, i3x, iD3, iD5, Paradigm, and FilterMax F3 and F5 the plate height warning displays as a reminder to make sure that you correctly define the plate height. See Plate Editor on page 117.
+**Plate Height Warning** - Select the **Disable Plate Height Warning On Protocol Run** check box to prevent the display of the plate height warning when you start a read. To prevent damage to the SpectraMax i3, i3x, iD3, iD5, Paradigm, and FilterMax F3 and F5 the plate height warning displays as a reminder to make sure that you correctly define the plate height.&#x20;
 
 **Plate Eject After Read** - Select the **Plate Remains Inside Instrument After Completion of Read** to have the plate drawer remain closed after a read completes. Leave this check box clear to have the plate drawer open after a read completes.
 
@@ -781,4 +781,4 @@ The SoftMax Pro Options dialog contains settings for the following options:
 
 &#x20;Select the **Legacy Rounding** check box to improve consistency with the SoftMax Pro Software version 5. This introduces a small factor to force rounding upward.
 
-**SpectraMax iDx Control** - When you use the SpectraMax iD3 and SpectraMax iD5, select the **Enable Control of SpectraMax iDx Instruments** check box to use the software to connect to a specific IP address. If the Instrument Connection dialog does not detect the instrument automatically, enter the IP address of the instrument. You can enter up to five different IP addresses to connect the computer to multiple instruments on your network. To find the instrument IP address, on the instrument touchscreen touch **Maintenance** > **System Information**. See SpectraMax iD5 Multi-Mode Microplate Reader on page 320 and SpectraMax iD3 Multi-Mode Microplate Reader on page 317.
+**SpectraMax iDx Control** - When you use the SpectraMax iD3 and SpectraMax iD5, select the **Enable Control of SpectraMax iDx Instruments** check box to use the software to connect to a specific IP address. If the Instrument Connection dialog does not detect the instrument automatically, enter the IP address of the instrument. You can enter up to five different IP addresses to connect the computer to multiple instruments on your network. To find the instrument IP address, on the instrument touchscreen touch **Maintenance** > **System Information**.&#x20;
