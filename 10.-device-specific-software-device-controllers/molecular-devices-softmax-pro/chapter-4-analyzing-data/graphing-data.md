@@ -6,7 +6,7 @@ Use Graph sections to plot information as a scatter plot graph or a bar graph. Y
 
 ### Creating New Graphs
 
-![](<../../../.gitbook/assets/0 (2).jpeg>)
+![](<../../../.gitbook/assets/0 (2) (1).jpeg>)
 
 To create a new graph:
 
@@ -20,17 +20,17 @@ To create a new graph:
 
 **Note:** For scatter plot graphs, you can choose to display error bars for the plot of the data for the X-axis and Y-axis. Error bars are lines that extend outside of a plotted value in either or both directions and graphically represent some error in plotted data.
 
-![](<../../../.gitbook/assets/2 (3).png>)
+![](<../../../.gitbook/assets/2 (3) (1).png>)
 
 1. In the **Plot Attributes** area:
 
-![](<../../../.gitbook/assets/3 (4).png>) Click the **Symbol Style** drop-down and select the symbol to use to mark each data point in a scatter plot graph.
+![](<../../../.gitbook/assets/3 (4) (1).png>) Click the **Symbol Style** drop-down and select the symbol to use to mark each data point in a scatter plot graph.
 
-![](<../../../.gitbook/assets/4 (3).png>) Click the **Symbol Size** drop-down and select the size of the symbol in a scatter plot.
+![](<../../../.gitbook/assets/4 (3) (1).png>) Click the **Symbol Size** drop-down and select the size of the symbol in a scatter plot.
 
-![](<../../../.gitbook/assets/5 (4).png>) Click the **Line** drop-down and select the line style to use between data points in a scatter plot.
+![](<../../../.gitbook/assets/5 (4) (1).png>) Click the **Line** drop-down and select the line style to use between data points in a scatter plot.
 
-![](<../../../.gitbook/assets/6 (5).png>) Click **Set Color** and select the color of the symbol and the line in a scatter plot or the color of the bar in a bar graph.
+![](<../../../.gitbook/assets/6 (5) (1).png>) Click **Set Color** and select the color of the symbol and the line in a scatter plot or the color of the bar in a bar graph.
 
 1. Click **OK**.
 
@@ -40,7 +40,7 @@ The Graph section displays in the Navigation Tree and the data plots display in 
 
 Use Graph sections to plot information as a scatter plot graph or a bar graph. You can create custom graphs and you can graph the data from Group section tables. You can use columns in a Group section table as the X or Y input for plots on a graph in a Graph section. The Graph section can use data from any Group section in the document and you can create as many Graph sections as you need.
 
-![](<../../../.gitbook/assets/7 (5).png>)
+![](<../../../.gitbook/assets/7 (5) (1).png>)
 
 To edit a graph:
 
@@ -48,10 +48,10 @@ To edit a graph:
 2. To change the name of the Graph section, right-click the Graph section in the Navigation Tree and select **Rename**. The Rename Section dialog displays.
 3. Select the Home tab:
 
-![](<../../../.gitbook/assets/8 (5).png>) Click ![](<../../../.gitbook/assets/9 (4).png>) to display data as a scatter plot graph. ![](<../../../.gitbook/assets/10 (3).png>) Click ![](<../../../.gitbook/assets/11 (4).png>) to display data as a bar graph.
+![](<../../../.gitbook/assets/8 (5) (1).png>) Click ![](<../../../.gitbook/assets/9 (4) (1).png>) to display data as a scatter plot graph. ![](<../../../.gitbook/assets/10 (3) (1).png>) Click ![](<../../../.gitbook/assets/11 (4).png>) to display data as a bar graph.
 
-1. Click ![](../../../.gitbook/assets/12.jpeg) in the Graph section toolbar or on the Home tab to display the Plot Editor dialog. See below for additional steps.
-2. Click ![](../../../.gitbook/assets/13.jpeg) in the Graph section toolbar or on the Home tab to display the Graph Appearance dialog where you define the graph appearance including axis labels. See Graph Appearance on page 219.
+1. Click ![](<../../../.gitbook/assets/12 (1).jpeg>) in the Graph section toolbar or on the Home tab to display the Plot Editor dialog. See below for additional steps.
+2. Click ![](<../../../.gitbook/assets/13 (1).jpeg>) in the Graph section toolbar or on the Home tab to display the Graph Appearance dialog where you define the graph appearance including axis labels. See Graph Appearance on page 219.
 3. For scatter plot graphs, use the Category drop-down, Fit drop-down and ![](../../../.gitbook/assets/14.jpeg) to define curve fits. See Curve Fit Settings on page 221.
 4. Click ![](../../../.gitbook/assets/15.jpeg) to export the graph data. See Exporting Images of Graph Sections on page 235.
 
@@ -77,14 +77,14 @@ To change plots and plot attributes:
 
 **Note:** For scatter plot graphs, you can choose to display error bars for the plot of the data for the X-axis and Y-axis.
 
-![](<../../../.gitbook/assets/18 (3).png>)
+![](<../../../.gitbook/assets/18 (3) (1).png>)
 
 *
   1. In the **Plot Attributes** area:
 
-![](<../../../.gitbook/assets/19 (3).png>) Click the **Symbol Style** drop-down and select the symbol to use to mark each data point in a scatter plot graph.
+![](<../../../.gitbook/assets/19 (3) (1).png>) Click the **Symbol Style** drop-down and select the symbol to use to mark each data point in a scatter plot graph.
 
-![](<../../../.gitbook/assets/20 (2).png>) Click the **Symbol Size** drop-down and select the size of the symbol in a scatter plot.
+![](<../../../.gitbook/assets/20 (2) (1).png>) Click the **Symbol Size** drop-down and select the size of the symbol in a scatter plot.
 
 &#x20;Click the **Line** drop-down and select the line style to use between data points in a scatter plot.
 

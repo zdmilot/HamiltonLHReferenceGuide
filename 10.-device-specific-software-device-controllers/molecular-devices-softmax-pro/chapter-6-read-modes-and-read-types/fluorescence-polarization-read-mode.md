@@ -18,9 +18,9 @@ For information about how to set up a Fluorescence Polarization mode protocol, s
 
 ### Fluorescence Polarization Instruments and Detection Cartridges
 
-The following instruments have Fluorescence Polarization read mode capability: ![](<../../../.gitbook/assets/0 (9).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320
+The following instruments have Fluorescence Polarization read mode capability: ![](<../../../.gitbook/assets/0 (9) (1).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320
 
-![](<../../../.gitbook/assets/1 (10).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 ( i3x requires a Fluorescence Polarization (FP) Detection Cartridges, see page 349)
+![](<../../../.gitbook/assets/1 (10) (1).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 ( i3x requires a Fluorescence Polarization (FP) Detection Cartridges, see page 349)
 
 SpectraMax Paradigm Multi-Mode Microplate Reader, see page 327 ( requires a Fluorescence Polarization (FP) Detection Cartridges, see page 349)
 
@@ -28,7 +28,7 @@ SpectraMax M5 and SpectraMax M5e Multi-Mode Microplate Readers, see page 330 Fle
 
 FilterMax F5 Multi-Mode Microplate Reader, see page 335
 
-![](<../../../.gitbook/assets/2 (12).png>)
+![](<../../../.gitbook/assets/2 (12) (1).png>)
 
 **Note:** For the SpectraMax i3x, you can use the detection cartridges for top reads only.
 
@@ -38,9 +38,9 @@ The Fluorescence Polarization read mode returns two sets of data: one for fluore
 
 Fluorescence Polarization assays in plates are generally designed with two control samples:
 
-![](<../../../.gitbook/assets/3 (13).png>) LOW control sample: minimal polarization value resulting from unbound labeled ligand only
+![](<../../../.gitbook/assets/3 (13) (1).png>) LOW control sample: minimal polarization value resulting from unbound labeled ligand only
 
-![](<../../../.gitbook/assets/4 (11).png>) HIGH control sample: maximum polarization value resulting from bound labeled ligand only
+![](<../../../.gitbook/assets/4 (11) (1).png>) HIGH control sample: maximum polarization value resulting from bound labeled ligand only
 
 The Fluorescence Polarization data for a sample is evaluated based on its relative position between the low and high control values. Total intensity can also be determined from the raw data and is proportional to the quantity of label in a sample.
 

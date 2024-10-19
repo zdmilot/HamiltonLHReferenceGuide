@@ -7,7 +7,7 @@ Use the Change Password dialog to change your password. The GxP Admin Software a
 To change your password:
 
 1. In the Ribbon, select the **GxP** tab.
-2. Click ![](<../../../.gitbook/assets/1 (20).png>) **Change Password** to display the Change Password dialog.
+2. Click ![](<../../../.gitbook/assets/1 (20) (1).png>) **Change Password** to display the Change Password dialog.
 3. In the **\<Password>** field, enter your current password.
 4. In the **\<New Password>** field, enter your new password.
 5. In the **\<Confirm Password>** field, enter your new password again to confirm it.
@@ -35,7 +35,7 @@ The SoftMax Pro 7.1.1 GxP Compliance Software Suite installation includes three 
 
 The following document workflow corresponds to the default Roles. Your laboratory can define Roles and document workflows that meet your needs.
 
-![](../../../.gitbook/assets/11.jpeg)
+![](<../../../.gitbook/assets/11 (1).jpeg>)
 
 ### In Work Document Status - Scientist Role
 

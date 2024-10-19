@@ -6,7 +6,7 @@ For a copy of the SoftMax Pro .xml schema, contact Molecular Devices.
 
 The first line of an export file defines the number of sections (or "Blocks") that are in the export with the following format:
 
-![](<../../../.gitbook/assets/1 (22).png>) ##BLOCKS= _n_
+![](<../../../.gitbook/assets/1 (22) (1).png>) ##BLOCKS= _n_
 
 where _n_ is the number of sections that are in the export file.
 

@@ -4,7 +4,7 @@ Using the cLLD (capacitive Liquid Level Detection) can cause extended pipetting 
 
 Having only small amounts of liquid in such labware, the pipetting channel starts almost at the upper border and travels a long way down to find liquid (see picture below with the “**first pipette**” label).
 
-![](<../../../.gitbook/assets/0 (9) (1).png>)
+![](<../../../.gitbook/assets/0 (9) (1) (1).png>)
 
 Using the “**Speed up cLLD detection**” Function, the following aspirate / dispense steps will use a calculated height from the previously detected level. This reduces the total time for pipetting due to the decreased search time.
 

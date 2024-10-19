@@ -8,11 +8,11 @@ In the Ribbon, use the View tab to split the Workspace to view multiple document
 
 Use the three buttons below the Document tabs to change the Workspace view. Use each Workspace view to manage the open document and experiment results.
 
-![](<../../../.gitbook/assets/2 (10) (1).png>) Use the **Document** view to scroll through the experiment sections.
+![](<../../../.gitbook/assets/2 (10) (1) (1).png>) Use the **Document** view to scroll through the experiment sections.
 
-![](<../../../.gitbook/assets/3 (13) (1).png>) Use the **Comparison** view to drag sections from the Navigation Tree and arrange them in the Workspace wherever you want.
+![](<../../../.gitbook/assets/3 (13) (1) (1).png>) Use the **Comparison** view to drag sections from the Navigation Tree and arrange them in the Workspace wherever you want.
 
-![](<../../../.gitbook/assets/4 (15) (1).png>) Use the **Workflow** view to manage complex experiments that include repeated tasks and multitask kinetic reads.
+![](<../../../.gitbook/assets/4 (15) (1) (1).png>) Use the **Workflow** view to manage complex experiments that include repeated tasks and multitask kinetic reads.
 
 The left side of the Workspace is the Navigation Tree that displays the experiments in the open document. Each document can contain a virtually unlimited number of experiments. Each experiment can contain a virtually unlimited number of Note, Plate, Cuvette Set, Group, and Graph sections.
 

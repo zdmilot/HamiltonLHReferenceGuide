@@ -2,25 +2,25 @@
 
 After you scan a membrane for Western Blot data, the data displays in the software as an image. Use the image tools in the Plate section to zoom, crop, colorize, and adjust the intensity of the image. You can select a region of interest (ROI) and rescan the membrane at a higher resolution.
 
-![](<../../../.gitbook/assets/0 (3).png>) Drag the slider on the side of the Plate section to zoom the image in or out. ![](<../../../.gitbook/assets/1 (3).png>) Click ![](<../../../.gitbook/assets/2 (2).png>) on the side of the Plate section to view the image at its actual size. ![](<../../../.gitbook/assets/3 (3).png>) Click ![](<../../../.gitbook/assets/4 (2).png>) on the side of the Plate section to fit the image to the Plate section.
+![](<../../../.gitbook/assets/0 (3) (1).png>) Drag the slider on the side of the Plate section to zoom the image in or out. ![](<../../../.gitbook/assets/1 (3) (1).png>) Click ![](<../../../.gitbook/assets/2 (2) (1).png>) on the side of the Plate section to view the image at its actual size. ![](<../../../.gitbook/assets/3 (3) (1).png>) Click ![](<../../../.gitbook/assets/4 (2) (1).png>) on the side of the Plate section to fit the image to the Plate section.
 
-![](<../../../.gitbook/assets/5 (3).png>) Click ![](<../../../.gitbook/assets/6 (4).png>) on the side of the Plate section and then drag across the image to define the area to zoom to zoom in on a specific area of the image.
+![](<../../../.gitbook/assets/5 (3) (1).png>) Click ![](<../../../.gitbook/assets/6 (4) (1).png>) on the side of the Plate section and then drag across the image to define the area to zoom to zoom in on a specific area of the image.
 
-![](<../../../.gitbook/assets/7 (4).png>) Click ![](<../../../.gitbook/assets/8 (4).png>) on the side of the Plate section and then drag the image to move it to move the image within the Plate section.
+![](<../../../.gitbook/assets/7 (4) (1).png>) Click ![](<../../../.gitbook/assets/8 (4) (1).png>) on the side of the Plate section and then drag the image to move it to move the image within the Plate section.
 
-![](<../../../.gitbook/assets/9 (3).png>) Click ![](<../../../.gitbook/assets/10 (2).png>) on the side of the Plate section and then drag across the image to define the cropped area to crop the image.
+![](<../../../.gitbook/assets/9 (3) (1).png>) Click ![](<../../../.gitbook/assets/10 (2) (1).png>) on the side of the Plate section and then drag across the image to define the cropped area to crop the image.
 
-![](<../../../.gitbook/assets/11 (3).png>) Select a color option from the **LUT** list at the top of the Plate section to colorize the image from a look-up table.
+![](<../../../.gitbook/assets/11 (3) (1).png>) Select a color option from the **LUT** list at the top of the Plate section to colorize the image from a look-up table.
 
-![](<../../../.gitbook/assets/12 (3).png>) In the **Subtract** field, enter the value to subtract from the image intensity to adjust the intensity of the image.
+![](<../../../.gitbook/assets/12 (3) (1).png>) In the **Subtract** field, enter the value to subtract from the image intensity to adjust the intensity of the image.
 
-![](<../../../.gitbook/assets/13 (3).png>) Select the **Log** check box to scale the image intensity.
+![](<../../../.gitbook/assets/13 (3) (1).png>) Select the **Log** check box to scale the image intensity.
 
-![](<../../../.gitbook/assets/14 (3).png>) Select the **Invert** check box to invert the colors of the image similar to a photographic negative.
+![](<../../../.gitbook/assets/14 (3) (1).png>) Select the **Invert** check box to invert the colors of the image similar to a photographic negative.
 
-![](<../../../.gitbook/assets/15 (2).png>) Click ![](<../../../.gitbook/assets/16 (2).png>) on the left side of the Plate section and then drag across the image to define the region of interest (ROI) to scan. Click ![](../../../.gitbook/assets/17.jpeg) to scan the region using the ROI Scan Resolution you define in the Settings dialog. The data from the ROI scan replaces the data from the original scan.
+![](<../../../.gitbook/assets/15 (2) (1).png>) Click ![](<../../../.gitbook/assets/16 (2) (1).png>) on the left side of the Plate section and then drag across the image to define the region of interest (ROI) to scan. Click ![](../../../.gitbook/assets/17.jpeg) to scan the region using the ROI Scan Resolution you define in the Settings dialog. The data from the ROI scan replaces the data from the original scan.
 
-![](<../../../.gitbook/assets/18 (2).png>) Click the following to adjust the resolution of the scanned image: ![](<../../../.gitbook/assets/19 (2).png>) Click ![](../../../.gitbook/assets/20.jpeg) to view the image at the scanned resolution.
+![](<../../../.gitbook/assets/18 (2) (1).png>) Click the following to adjust the resolution of the scanned image: ![](<../../../.gitbook/assets/19 (2) (1).png>) Click ![](<../../../.gitbook/assets/20 (1).jpeg>) to view the image at the scanned resolution.
 
 &#x20;Click  to view the image at a fine resolution suitable for external analysis.  Click  to view the image at a very fine resolution suitable for publishing.
 

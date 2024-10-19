@@ -5,7 +5,7 @@ Use the Settings dialog to configure the settings for the instrument to use to r
 To access the Settings dialog:
 
 1. In the Navigation Tree, select a Plate section or Cuvette Set section.
-2. Click ![](<../../../.gitbook/assets/2 (4) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
+2. Click ![](<../../../.gitbook/assets/2 (4) (1) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 
 #### Standard View
 
@@ -15,7 +15,7 @@ You must use the Standard view to define the settings for Imaging reads and Scan
 
 **CAUTION!** If you define an Imaging read or a ScanLater Western Blot read in the Standard view and then switch to the Acquisition view, your settings are not saved.
 
-![](<../../../.gitbook/assets/3 (5) (1).png>)![](<../../../.gitbook/assets/4 (5) (1).png>)
+![](<../../../.gitbook/assets/3 (5) (1) (1).png>)![](<../../../.gitbook/assets/4 (5) (1) (1).png>)
 
 #### Acquisition View
 
@@ -25,17 +25,17 @@ The Acquisition view uses an acquisition plan with tools that allow you to defin
 
 To switch between the Standard view and the Acquisition view:
 
-![](<../../../.gitbook/assets/5 (4) (1).png>) Click ![](<../../../.gitbook/assets/6 (1).jpeg>) in the lower-left corner in the Settings dialog.
+![](<../../../.gitbook/assets/5 (4) (1) (1).png>) Click ![](<../../../.gitbook/assets/6 (1) (1).jpeg>) in the lower-left corner in the Settings dialog.
 
 **CAUTION!** You must use the Acquisition view to define reads with injection. If you define a read with injection and then switch to the Standard view, your settings are not saved.
 
-![](<../../../.gitbook/assets/7 (3) (1).png>)![](<../../../.gitbook/assets/8 (3) (1).png>)
+![](<../../../.gitbook/assets/7 (3) (1) (1).png>)![](<../../../.gitbook/assets/8 (3) (1) (1).png>)
 
 **Acquisition Settings**
 
 Use the Settings dialog to configure the following parameters for a Plate section or Cuvette Set section: read type, read mode, wavelengths, plate type, wells to read, PathCheck technology, optics, shake, timing for Kinetic runs, speed read, and more.
 
-![](<../../../.gitbook/assets/9 (1) (1).jpeg>)
+![](<../../../.gitbook/assets/9 (1) (1) (1).jpeg>)
 
 Each Plate section or Cuvette Set section in a document must use the same instrument but can have different parameters for the acquisition settings.
 
@@ -44,19 +44,19 @@ To define acquisition settings:
 1. In the Navigation Tree, select a Plate section or Cuvette Set section.
 2. Click ![](<../../../.gitbook/assets/10 (2) (1).jpeg>) in the section toolbar, in the Settings Information area, or on the Home tab to display the Settings dialog.
 3. For the SpectraMax Paradigm, SpectraMax i3, and SpectraMax i3x, select the detection cartridge or optical configuration to use. This determines the available read modes. See Selecting a Detection Cartridge or Optical Configuration on page 111.
-4. For all instruments, select a read mode. This determines the available read types. ![](<../../../.gitbook/assets/11 (1) (1) (1).png>) Absorbance Read Mode on page 278
+4. For all instruments, select a read mode. This determines the available read types. ![](<../../../.gitbook/assets/11 (1) (1) (1) (1).png>) Absorbance Read Mode on page 278
 
-![](<../../../.gitbook/assets/12 (2) (1).png>) Fluorescence Intensity Read Mode on page 284
+![](<../../../.gitbook/assets/12 (2) (1) (1).png>) Fluorescence Intensity Read Mode on page 284
 
-![](<../../../.gitbook/assets/13 (2) (1).png>) Luminescence Read Mode on page 289 (Luminescence Dual Wavelength is available for the SpectraMax L and SpectraMax iD5)
+![](<../../../.gitbook/assets/13 (2) (1) (1).png>) Luminescence Read Mode on page 289 (Luminescence Dual Wavelength is available for the SpectraMax L and SpectraMax iD5)
 
-![](<../../../.gitbook/assets/14 (2) (1).png>) Time-Resolved Fluorescence Read Mode on page 293 ![](<../../../.gitbook/assets/15 (1) (1) (1).png>) FRET Read Mode on page 298
+![](<../../../.gitbook/assets/14 (2) (1) (1).png>) Time-Resolved Fluorescence Read Mode on page 293 ![](<../../../.gitbook/assets/15 (1) (1) (1) (1).png>) FRET Read Mode on page 298
 
-![](<../../../.gitbook/assets/16 (1) (1) (1).png>) HTRF Read Mode on page 300
+![](<../../../.gitbook/assets/16 (1) (1) (1) (1).png>) HTRF Read Mode on page 300
 
-![](<../../../.gitbook/assets/17 (2) (1).png>) Fluorescence Polarization Read Mode on page 303 ![](<../../../.gitbook/assets/18 (1) (1) (1).png>) AlphaScreen Read Mode on page 306
+![](<../../../.gitbook/assets/17 (2) (1) (1).png>) Fluorescence Polarization Read Mode on page 303 ![](<../../../.gitbook/assets/18 (1) (1) (1) (1).png>) AlphaScreen Read Mode on page 306
 
-![](<../../../.gitbook/assets/19 (10).png>) ScanLater Western Blot TRF Read Mode on page 309 ![](<../../../.gitbook/assets/20 (1) (1) (1).png>) Imaging Read Mode on page 312
+![](<../../../.gitbook/assets/19 (10).png>) ScanLater Western Blot TRF Read Mode on page 309 ![](<../../../.gitbook/assets/20 (1) (1) (1) (1).png>) Imaging Read Mode on page 312
 
 1. Select a read type. This determines which setting categories appear in the Category list.  Endpoint Read Type on page 275
 
@@ -1285,4 +1285,4 @@ To define triturate settings:
 
 **Note:** If you enter a Time Point that is incompatible with the Triturate settings, a message appears. You modify the Time Point in the Compound Transfer category. See Compound Transfer Settings on page 145.
 
-![](<../../../.gitbook/assets/0 (7) (1).png>)
+![](<../../../.gitbook/assets/0 (7) (1) (1).png>)

@@ -8,13 +8,13 @@ The Ribbon contains tabs with icons that vary depending on the instrument that i
 
 The Home tab displays the following icons:
 
-![](<../../../.gitbook/assets/1 (11) (1).png>) Click ![](<../../../.gitbook/assets/2 (9).jpeg>) **Instrument** to connect the software to the instrument. Displays other instrument information such as connection status and chamber temperature. See Selecting an Instrument on page 58.
+![](<../../../.gitbook/assets/1 (11) (1) (1).png>) Click ![](<../../../.gitbook/assets/2 (9).jpeg>) **Instrument** to connect the software to the instrument. Displays other instrument information such as connection status and chamber temperature. See Selecting an Instrument on page 58.
 
-![](<../../../.gitbook/assets/3 (14) (1).png>) **Instrument Commands** - Icons depend on the instrument you select.
+![](<../../../.gitbook/assets/3 (14) (1) (1).png>) **Instrument Commands** - Icons depend on the instrument you select.
 
-![](<../../../.gitbook/assets/4 (16) (1).png>) Click ![](<../../../.gitbook/assets/5 (10) (1).png>) **Temperature** to display the Temperature Control dialog where you set the temperature of the plate chamber or cuvette chamber. See Temperature Control on page 112.
+![](<../../../.gitbook/assets/4 (16) (1).png>) Click ![](<../../../.gitbook/assets/5 (10) (1) (1).png>) **Temperature** to display the Temperature Control dialog where you set the temperature of the plate chamber or cuvette chamber. See Temperature Control on page 112.
 
-![](<../../../.gitbook/assets/6 (10) (1).png>) Click ![](<../../../.gitbook/assets/7 (7).jpeg>) **Shake** and hold the mouse button to shake the plate. Release the mouse button to stop the shake. This shake icon is independent of the shake settings in an experiment. When you create an experiment, a separate workflow allows you to define how to shake the plate as part of the experiment.
+![](<../../../.gitbook/assets/6 (10) (1) (1).png>) Click ![](<../../../.gitbook/assets/7 (7).jpeg>) **Shake** and hold the mouse button to shake the plate. Release the mouse button to stop the shake. This shake icon is independent of the shake settings in an experiment. When you create an experiment, a separate workflow allows you to define how to shake the plate as part of the experiment.
 
 ![](<../../../.gitbook/assets/8 (10) (1).png>) Click ![](<../../../.gitbook/assets/9 (10) (1).png>) **Open/Close** to open and close the instrument plate drawer. The software can open and close other drawers for some instruments such as the drawers for the FlexStation® 3 Multi-Mode Microplate Reader. Click ![](<../../../.gitbook/assets/10 (4).jpeg>) **Tips** for the tip rack drawer or click ![](<../../../.gitbook/assets/11 (7).jpeg>) **Reagent** for the compound plate drawer.
 

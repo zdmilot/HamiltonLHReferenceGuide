@@ -2,7 +2,7 @@
 
 Use the Release a Protocol dialog to take a data document with the Reviewed status and release the document as a protocol with the Released status.
 
-![](<../../../.gitbook/assets/0 (5).jpeg>)
+![](<../../../.gitbook/assets/0 (5) (1).jpeg>)
 
 To release a protocol:
 
@@ -22,19 +22,19 @@ Each document can have multiple statements. Each statement can have one signatur
 
 The following user permissions pertain to statements:
 
-![](<../../../.gitbook/assets/2 (7).png>) **Add/Modify Statements** - Grants the user permission to add or modify statements. See Adding Statements on page 269.
+![](<../../../.gitbook/assets/2 (7) (1).png>) **Add/Modify Statements** - Grants the user permission to add or modify statements. See Adding Statements on page 269.
 
-![](<../../../.gitbook/assets/3 (8).png>) **Sign Statements** - Grants the user permission to sign statements. See Signing Statements on page 271.
+![](<../../../.gitbook/assets/3 (8) (1).png>) **Sign Statements** - Grants the user permission to sign statements. See Signing Statements on page 271.
 
-![](<../../../.gitbook/assets/4 (6).png>) **Revoke Any Signature** - Grants the user permission to revoke any signature from statements. See Revoking Signatures from Statements on page 272.
+![](<../../../.gitbook/assets/4 (6) (1).png>) **Revoke Any Signature** - Grants the user permission to revoke any signature from statements. See Revoking Signatures from Statements on page 272.
 
-![](<../../../.gitbook/assets/5 (8).png>) **Revoke Own Signature** - Grants the user permission to revoke only their own signatures from statements.
+![](<../../../.gitbook/assets/5 (8) (1).png>) **Revoke Own Signature** - Grants the user permission to revoke only their own signatures from statements.
 
-![](../../../.gitbook/assets/6.jpeg)
+![](<../../../.gitbook/assets/6 (3).jpeg>)
 
-Click ![](../../../.gitbook/assets/7.jpeg) above the right side of the Workspace or select the **GxP** tab and click **Statements** to display the Statements dialog.
+Click ![](<../../../.gitbook/assets/7 (1).jpeg>) above the right side of the Workspace or select the **GxP** tab and click **Statements** to display the Statements dialog.
 
-![](<../../../.gitbook/assets/8 (1).jpeg>)![](../../../.gitbook/assets/9.jpeg)After you add statements and after you sign statements, the button reflects the changes made to the statements for the document.
+![](<../../../.gitbook/assets/8 (1) (1).jpeg>)![](<../../../.gitbook/assets/9 (1).jpeg>)After you add statements and after you sign statements, the button reflects the changes made to the statements for the document.
 
 The first time you access the Statements dialog you need to add a statement before the icons in the dialog toolbar are available.
 
@@ -44,7 +44,7 @@ The first time you access the Statements dialog you need to add a statement befo
 
 *
 
-![](<../../../.gitbook/assets/17 (3).png>) ![](<../../../.gitbook/assets/18 (5).png>) and ![](../../../.gitbook/assets/19.jpeg) - Click to include or exclude the statement from the printed version of the document. Statements also print when you print the document audit trail. See Printing on page 27.
+![](<../../../.gitbook/assets/17 (3) (1).png>) ![](<../../../.gitbook/assets/18 (5).png>) and ![](<../../../.gitbook/assets/19 (1).jpeg>) - Click to include or exclude the statement from the printed version of the document. Statements also print when you print the document audit trail. See Printing on page 27.
 
 ![](<../../../.gitbook/assets/20 (4).png>) ![](../../../.gitbook/assets/21.jpeg) and ![](../../../.gitbook/assets/22.jpeg) - Click to lock or unlock statements to permit or prevent the ability to edit and manage the statement. You cannot lock signed statements.
 

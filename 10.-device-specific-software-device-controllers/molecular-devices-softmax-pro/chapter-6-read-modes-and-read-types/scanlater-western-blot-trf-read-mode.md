@@ -14,15 +14,15 @@ The SpectraMax Western Blot system is a simple, sensitive, and stable platform t
 
 ### Applications
 
-![](<../../../.gitbook/assets/0 (8).png>) Identify the nature of the protein or epitope effectively. Also, it can be used as a tool for quantitative analysis of protein.
+![](<../../../.gitbook/assets/0 (8) (1).png>) Identify the nature of the protein or epitope effectively. Also, it can be used as a tool for quantitative analysis of protein.
 
-![](<../../../.gitbook/assets/1 (9).png>) Use for chromatography components analysis, sucrose gradient analysis.
+![](<../../../.gitbook/assets/1 (9) (1).png>) Use for chromatography components analysis, sucrose gradient analysis.
 
-![](<../../../.gitbook/assets/2 (11).png>) Test the endogenous or exogenous expression of phosphoprotein to detect the phosphorylation signal.
+![](<../../../.gitbook/assets/2 (11) (1).png>) Test the endogenous or exogenous expression of phosphoprotein to detect the phosphorylation signal.
 
-![](<../../../.gitbook/assets/3 (12).png>) Protein resilience in the function experiment. ![](<../../../.gitbook/assets/4 (10).png>) Structure domain analysis.
+![](<../../../.gitbook/assets/3 (12) (1).png>) Protein resilience in the function experiment. ![](<../../../.gitbook/assets/4 (10) (1).png>) Structure domain analysis.
 
-![](<../../../.gitbook/assets/5 (12).png>) Analysis of the protein expression level. ![](<../../../.gitbook/assets/6 (12).png>) Analysis of protein content in the serum.
+![](<../../../.gitbook/assets/5 (12) (1).png>) Analysis of the protein expression level. ![](<../../../.gitbook/assets/6 (12).png>) Analysis of protein content in the serum.
 
 ![](<../../../.gitbook/assets/7 (12).png>) Analysis of regulatory proteins expressed in the cell cycle.
 

@@ -1,6 +1,6 @@
 # Sample Management
 
-![](<../.gitbook/assets/0 (1) (1) (1) (1).jpeg>)![](<../.gitbook/assets/1 (10) (1).png>)![](<../.gitbook/assets/2 (9) (1).png>)![](<../.gitbook/assets/3 (12) (1).png>)
+![](<../.gitbook/assets/0 (1) (1) (1) (1) (1).jpeg>)![](<../.gitbook/assets/1 (10) (1) (1).png>)![](<../.gitbook/assets/2 (9) (1) (1).png>)![](<../.gitbook/assets/3 (12) (1) (1).png>)
 
 **SAMPLE MANAGEMENT**
 
@@ -14,7 +14,7 @@ global.vrtx.com
 
 **PURPOSE**
 
-* ![Image](<../.gitbook/assets/4 (1) (1) (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
+* ![Image](<../.gitbook/assets/4 (1) (1) (1) (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
 * Text based labeling is one of the first problems in switching to high throughput automation and it is the simplest to solve
 * Starting early and with a unified approach to sample labeling and tracking will allow assays to grow and expand without severe bottlenecks, saving time when testing requirements expand
 * Adhesive labels and ink based marking are not compatible with solvents needed for proper cell culture nor are they durable enough with long term storage in extreme temperatures
@@ -30,7 +30,7 @@ global.vrtx.com
 
 **STANDING ON THE SHOULDERS OF GIANTS**
 
-![](<../.gitbook/assets/5 (1) (1) (1).jpeg>)![](<../.gitbook/assets/6 (1) (1) (1).jpeg>)![](<../.gitbook/assets/7 (5).jpeg>)
+![](<../.gitbook/assets/5 (1) (1) (1) (1).jpeg>)![](<../.gitbook/assets/6 (1) (1) (1) (1).jpeg>)![](<../.gitbook/assets/7 (5).jpeg>)
 
 *
   * Normal laboratory environments, such as liquid nitrogen and -80 and even wet and cold environments such as using wet ice or even using liquid nitrogen, snap freeze samples are already treacherous environments for laboratory containers, and tubes
@@ -43,17 +43,17 @@ global.vrtx.com
 
 9,000 Samples/Day
 
-![Picture 4](<../.gitbook/assets/9 (3).jpeg>)![Picture 5](<../.gitbook/assets/10 (1) (1) (1) (1).png>)\~2,350,000 Samples/Year
+![Picture 4](<../.gitbook/assets/9 (3).jpeg>)![Picture 5](<../.gitbook/assets/10 (1) (1) (1) (1) (1).png>)\~2,350,000 Samples/Year
 
-![Picture 6](<../.gitbook/assets/11 (1) (1) (1) (1).png>)< 15 Hour Turn Around Time
+![Picture 6](<../.gitbook/assets/11 (1) (1) (1) (1) (1).png>)< 15 Hour Turn Around Time
 
 global.vrtx.com
 
-![Picture 4](<../.gitbook/assets/12 (1) (1) (1) (1).png>)**SAMPLE JOURNEY AND CAPTURED DATA**
+![Picture 4](<../.gitbook/assets/12 (1) (1) (1) (1) (1).png>)**SAMPLE JOURNEY AND CAPTURED DATA**
 
-![](<../.gitbook/assets/13 (1) (1) (1).jpeg>)![](<../.gitbook/assets/14 (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/13 (1) (1) (1) (1).jpeg>)![](<../.gitbook/assets/14 (1) (1) (1) (1) (1).png>)
 
-![Picture 4](<../.gitbook/assets/15 (1) (1) (1) (1).png>)![Picture 3](<../.gitbook/assets/16 (1) (1) (1) (1).png>)**LAB EXPERIENCE: SYSTEM INTEGRATION**
+![Picture 4](<../.gitbook/assets/15 (1) (1) (1) (1) (1).png>)![Picture 3](<../.gitbook/assets/16 (1) (1) (1) (1) (1).png>)**LAB EXPERIENCE: SYSTEM INTEGRATION**
 
 ![Picture 2](<../.gitbook/assets/17 (2) (1).jpeg>)
 

@@ -31,6 +31,6 @@ An AlphaScreen measurement includes a light pulse, by turning on the laser diode
 
 **Note:** AlphaScreen beads are light sensitive. Beads are best handled under subdued (<100 lux) or green filtered (Roscolux filters #389 from Rosco, or equivalent) light conditions. Do incubation steps in the dark.
 
-![](<../../../.gitbook/assets/0 (4) (1).png>)
+![](<../../../.gitbook/assets/0 (4) (1) (1).png>)
 
 For more information, see AlphaScreen Read Mode on page 306.

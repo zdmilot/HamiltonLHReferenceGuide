@@ -54,15 +54,15 @@ For information about setting up an Absorbance mode protocol, see Creating Absor
 
 ### Absorbance Instruments
 
-The following instruments have absorbance read mode capability: ![](<../../../.gitbook/assets/0 (12).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320
+The following instruments have absorbance read mode capability: ![](<../../../.gitbook/assets/0 (12) (1).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320
 
-![](<../../../.gitbook/assets/1 (14).png>) SpectraMax iD3 Multi-Mode Microplate Reader, see page 317
+![](<../../../.gitbook/assets/1 (14) (1).png>) SpectraMax iD3 Multi-Mode Microplate Reader, see page 317
 
 ![](<../../../.gitbook/assets/2 (16).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 ![](<../../../.gitbook/assets/3 (17).png>) SpectraMax Paradigm Multi-Mode Microplate Reader, see page 327 (requires the
 
 Absorbance Detection Cartridge, see page 344.
 
-![](<../../../.gitbook/assets/4 (15).png>) VersaMax Microplate Reader, see page 329
+![](<../../../.gitbook/assets/4 (15) (1).png>) VersaMax Microplate Reader, see page 329
 
 ![](<../../../.gitbook/assets/5 (16).png>) SpectraMax ABS and SpectraMax ABS Plus Microplate Readers on page 329 ![](<../../../.gitbook/assets/6 (16).png>) SpectraMax Plus 384 Absorbance Microplate Reader, see page 330
 

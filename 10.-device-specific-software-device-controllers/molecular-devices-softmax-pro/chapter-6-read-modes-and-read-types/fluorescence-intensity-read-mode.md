@@ -12,7 +12,7 @@ Excitation maximum
 
 1.0
 
-![](<../../../.gitbook/assets/0 (13).png>)![](<../../../.gitbook/assets/1 (15).png>)
+![](<../../../.gitbook/assets/0 (13) (1).png>)![](<../../../.gitbook/assets/1 (15) (1).png>)
 
 Emission maximum
 

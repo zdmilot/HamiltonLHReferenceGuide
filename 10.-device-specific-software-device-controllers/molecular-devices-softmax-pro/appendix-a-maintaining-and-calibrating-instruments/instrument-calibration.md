@@ -6,7 +6,7 @@ The Operations tab contains a Calibration icon when the instrument supports the 
 
 **Note:** Air-calibration applies to absorbance reads. You do not need a plate or cuvette for instrument calibration. The cuvette chamber must be empty for a cuvette calibration.
 
-![](<../../../.gitbook/assets/1 (23).png>)
+![](<../../../.gitbook/assets/1 (23) (1).png>)
 
 The software calculates air-calibration values and stores these values in the firmware. The instrument uses the stored air-calibration values when you use Speed Read and when the Calibrate icon is disabled in the Settings dialog. See Speed Read Settings on page 125 and Calibrate on page 141.
 

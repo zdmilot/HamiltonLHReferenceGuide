@@ -1,12 +1,12 @@
 # Chapter 6: Read Modes and Read Types
 
-Use the software to define the parameters for the read mode and read type of your assay. ![](<../../../.gitbook/assets/1 (13).png>) Absorbance Read Mode on page 278
+Use the software to define the parameters for the read mode and read type of your assay. ![](<../../../.gitbook/assets/1 (13) (1).png>) Absorbance Read Mode on page 278
 
 ![](<../../../.gitbook/assets/2 (15).png>) Fluorescence Intensity Read Mode on page 284
 
-![](<../../../.gitbook/assets/3 (16).png>) Luminescence Read Mode on page 289 (Luminescence Dual Wavelength is available for the SpectraMax L and SpectraMax iD5)
+![](<../../../.gitbook/assets/3 (16) (1).png>) Luminescence Read Mode on page 289 (Luminescence Dual Wavelength is available for the SpectraMax L and SpectraMax iD5)
 
-![](<../../../.gitbook/assets/4 (14).png>) Time-Resolved Fluorescence Read Mode on page 293 ![](<../../../.gitbook/assets/5 (15).png>) FRET Read Mode on page 298
+![](<../../../.gitbook/assets/4 (14) (1).png>) Time-Resolved Fluorescence Read Mode on page 293 ![](<../../../.gitbook/assets/5 (15).png>) FRET Read Mode on page 298
 
 ![](<../../../.gitbook/assets/6 (15).png>) HTRF Read Mode on page 300
 

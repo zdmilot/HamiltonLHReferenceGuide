@@ -39,7 +39,7 @@ Before you start an image acquisition, save the protocol to a .txt file format, 
 
 **Note:** Use of an external hard drive can slow the data acquisition and is not recommended. Use of a USB flash drive or saving to a network location is not supported.
 
-![](<../../../.gitbook/assets/9 (2) (1).png>)
+![](<../../../.gitbook/assets/9 (2) (1) (1).png>)
 
 When you create a document for an Imaging mode experiment or a Western Blot experiment, the software creates a folder with the same name as the document. Each image file can be larger than 2 megabytes. The software can generate 300 megabytes of image data when you acquire the image of a single site in each well of a 96-well plate. A 384-well plate can generate 1 gigabyte of image data. When you acquire images of multiple sites, you increase the data storage requirement.
 
@@ -49,12 +49,12 @@ An image of the selected well displays in the Image Acquisition, Image Selection
 
 To view a larger version of the image area:
 
-![](<../../../.gitbook/assets/0 (3) (1).png>) Double-click the image to display the Zoom Well dialog.
+![](<../../../.gitbook/assets/0 (3) (1) (1).png>) Double-click the image to display the Zoom Well dialog.
 
 In the Zoom Well dialog, the image area displays the acquired image from the selected well. To zoom the image in and out:
 
-![](<../../../.gitbook/assets/1 (4) (1).png>) Right-click the image and select **Zoom In** or **Zoom Out**, ![](<../../../.gitbook/assets/2 (3) (1).png>) Hold the **CTRL** key and press **+** or **-**.
+![](<../../../.gitbook/assets/1 (4) (1) (1).png>) Right-click the image and select **Zoom In** or **Zoom Out**, ![](<../../../.gitbook/assets/2 (3) (1) (1).png>) Hold the **CTRL** key and press **+** or **-**.
 
-![](<../../../.gitbook/assets/3 (7) (1).png>) Use the mouse wheel to zoom in or out. To move the image in the image area:
+![](<../../../.gitbook/assets/3 (7) (1) (1).png>) Use the mouse wheel to zoom in or out. To move the image in the image area:
 
-![](<../../../.gitbook/assets/4 (7) (1).png>)Use the scroll bars or click the image and drag it into position.
+![](<../../../.gitbook/assets/4 (7) (1) (1).png>)Use the scroll bars or click the image and drag it into position.

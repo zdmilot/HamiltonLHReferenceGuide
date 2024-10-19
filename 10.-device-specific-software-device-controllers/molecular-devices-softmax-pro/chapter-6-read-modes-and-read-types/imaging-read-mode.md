@@ -20,13 +20,13 @@ Whole-cell imaging assays measure a diverse set of cellular responses, such as f
 
 Supported dyes include the following:
 
-![](<../../../.gitbook/assets/0 (6).png>) EarlyTox™ Cell Integrity Kit
+![](<../../../.gitbook/assets/0 (6) (1).png>) EarlyTox™ Cell Integrity Kit
 
-![](<../../../.gitbook/assets/1 (7).png>) Fluorescein isothiocyanate (FITC) ![](<../../../.gitbook/assets/2 (9).png>) Calcein AM
+![](<../../../.gitbook/assets/1 (7) (1).png>) Fluorescein isothiocyanate (FITC) ![](<../../../.gitbook/assets/2 (9) (1).png>) Calcein AM
 
-![](<../../../.gitbook/assets/3 (10).png>) Alexa Fluor 488 or Alexa Fluor 647 ![](<../../../.gitbook/assets/4 (8).png>) Cy5
+![](<../../../.gitbook/assets/3 (10) (1).png>) Alexa Fluor 488 or Alexa Fluor 647 ![](<../../../.gitbook/assets/4 (8) (1).png>) Cy5
 
-![](<../../../.gitbook/assets/5 (10).png>) DRAQ5
+![](<../../../.gitbook/assets/5 (10) (1).png>) DRAQ5
 
 For information about creating Imaging read mode protocols, see Creating Imaging Mode Protocols on page 177.
 
@@ -34,7 +34,7 @@ For information about creating Imaging read mode protocols, see Creating Imaging
 
 The following instrument has Imaging read mode capability:
 
-![](<../../../.gitbook/assets/6 (10).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 The SpectraMax® MiniMax™ 300 Imaging Cytometer adds imaging capability to the
+![](<../../../.gitbook/assets/6 (10) (1).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 The SpectraMax® MiniMax™ 300 Imaging Cytometer adds imaging capability to the
 
 SpectraMax i3x to visually inspect your sample and to run cell-based assays at cellular or
 

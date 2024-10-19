@@ -32,13 +32,13 @@ Role permissions are grouped into the following categories:
 
 Use Document Access permissions to manage what users can do with documents.
 
-![](<../../../.gitbook/assets/3 (9).png>) **Open Imported** - Allows users to open documents that have the status: Imported.
+![](<../../../.gitbook/assets/3 (9) (1).png>) **Open Imported** - Allows users to open documents that have the status: Imported.
 
-![](<../../../.gitbook/assets/4 (7).png>) **Open In Work** - Allows users to open documents that have the status: In Work.
+![](<../../../.gitbook/assets/4 (7) (1).png>) **Open In Work** - Allows users to open documents that have the status: In Work.
 
-![](<../../../.gitbook/assets/5 (9).png>) **Open Review Pending** - Allows users to open documents that have the status: Review Pending.
+![](<../../../.gitbook/assets/5 (9) (1).png>) **Open Review Pending** - Allows users to open documents that have the status: Review Pending.
 
-![](<../../../.gitbook/assets/6 (9).png>) **Open Reviewed** - Allows users to open documents that have the status: Reviewed. ![](<../../../.gitbook/assets/7 (9).png>) **Open Released** - Allows users to open documents that have the status: Released. ![](<../../../.gitbook/assets/8 (8).png>) **Open Outdated** - Allows users to open documents that have the status: Outdated.
+![](<../../../.gitbook/assets/6 (9) (1).png>) **Open Reviewed** - Allows users to open documents that have the status: Reviewed. ![](<../../../.gitbook/assets/7 (9).png>) **Open Released** - Allows users to open documents that have the status: Released. ![](<../../../.gitbook/assets/8 (8).png>) **Open Outdated** - Allows users to open documents that have the status: Outdated.
 
 ![](<../../../.gitbook/assets/9 (7).png>) **Open In Progress** - Allows users to open documents that have the status: In Progress.
 
@@ -58,9 +58,9 @@ Use Document Workflow permissions to manage what users can do in the document wo
 
 ![](<../../../.gitbook/assets/15 (5).png>) **Released Protocol** - Allows users to release a document as a protocol which sets the document status to Released.
 
-![](<../../../.gitbook/assets/16 (4).png>) **Set Outdated** - Allows users to set documents to the status: Outdated.
+![](<../../../.gitbook/assets/16 (4) (1).png>) **Set Outdated** - Allows users to set documents to the status: Outdated.
 
-![](<../../../.gitbook/assets/17 (4).png>) **Generate Compliance Data** - Allows users to generate compliance data. For example, (using the system default Roles) this user would be the Lab Technician who can open a protocol document with the status Released. The software prompts the user to save the document as a data document and assigns the document the status In Progress. The user then runs the assay to generate compliance data.
+![](<../../../.gitbook/assets/17 (4) (1).png>) **Generate Compliance Data** - Allows users to generate compliance data. For example, (using the system default Roles) this user would be the Lab Technician who can open a protocol document with the status Released. The software prompts the user to save the document as a data document and assigns the document the status In Progress. The user then runs the assay to generate compliance data.
 
 ![](<../../../.gitbook/assets/18 (6).png>) **Set Approval Pending** - Allows users to set documents to the status: Approval Pending.
 

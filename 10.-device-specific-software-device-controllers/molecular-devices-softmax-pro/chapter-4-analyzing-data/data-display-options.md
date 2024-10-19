@@ -8,26 +8,26 @@ You can clone a plate to view both raw and reduced data or multiple reductions o
 
 **Note:** If you change the display setting for one cuvette, you change the display settings for all the cuvettes in that Cuvette Set section.
 
-![](<../../../.gitbook/assets/2 (4).png>)
+![](<../../../.gitbook/assets/2 (4) (1).png>)
 
-![](<../../../.gitbook/assets/3 (5).png>)
+![](<../../../.gitbook/assets/3 (5) (1).png>)
 
 To define display options:
 
 1. ![](<../../../.gitbook/assets/4 (4).jpeg>)Click in the section toolbar or on the Home tab to display the Display Options dialog.
 2. Select a **Specify How Data Is Displayed** option:
 
-![](<../../../.gitbook/assets/5 (5).png>) Select **Raw Data** to display the default data type for the read type you select, See the Raw Data Settings section below.
+![](<../../../.gitbook/assets/5 (5) (1).png>) Select **Raw Data** to display the default data type for the read type you select, See the Raw Data Settings section below.
 
-![](<../../../.gitbook/assets/6 (6).png>) Select **Reduced Data** to display reduced data. See the Reduced Data Settings section below.
+![](<../../../.gitbook/assets/6 (6) (1).png>) Select **Reduced Data** to display reduced data. See the Reduced Data Settings section below.
 
-![](<../../../.gitbook/assets/7 (6).png>) For the Imaging read mode **Imaging Data** replaces the **Raw Data** option. See the Imaging Data Settings section below.
+![](<../../../.gitbook/assets/7 (6) (1).png>) For the Imaging read mode **Imaging Data** replaces the **Raw Data** option. See the Imaging Data Settings section below.
 
 1. In the **Raw/Reduced Data Format** area, click the drop-down:
 
-![](<../../../.gitbook/assets/8 (6).png>) Select **Default** to have the software determine the number of decimal places to display based on the space available. For example, for a plate with 96 wells or fewer, each well is limited to five digits, plus one character for the decimal point, if applicable. For a 384-well plate, each well is limited to four characters, including the decimal point. If the value requires greater precision than can fit in the available space, the format changes to scientific notation.
+![](<../../../.gitbook/assets/8 (6) (1).png>) Select **Default** to have the software determine the number of decimal places to display based on the space available. For example, for a plate with 96 wells or fewer, each well is limited to five digits, plus one character for the decimal point, if applicable. For a 384-well plate, each well is limited to four characters, including the decimal point. If the value requires greater precision than can fit in the available space, the format changes to scientific notation.
 
-![](<../../../.gitbook/assets/9 (5).png>) Select **Numeric Notation** to display data in numeric format. Select to display either **Significant Figures** or **Decimal Places** and then enter the number of figures or places to display.
+![](<../../../.gitbook/assets/9 (5) (1).png>) Select **Numeric Notation** to display data in numeric format. Select to display either **Significant Figures** or **Decimal Places** and then enter the number of figures or places to display.
 
 ![](<../../../.gitbook/assets/10 (4).png>) Select **Scientific Notation** to display data in scientific notation format. Select to display either **Significant Figures** or **Decimal Places** and then enter the number of figures or places to display.
 
@@ -41,21 +41,21 @@ Select **Raw Data** to display the default data type for the read type you selec
 
 ![](<../../../.gitbook/assets/13 (4).png>) The Spectrum read type displays raw OD/RFU/RLU values for the range of wavelengths as a plot.
 
-![](<../../../.gitbook/assets/14 (4).png>) The Well Scan read type displays raw OD/RFU/RLU values as shades of blue to red. ![](<../../../.gitbook/assets/15 (3).png>) To display a reduced number, select the **With Reduced Number** check box.
+![](<../../../.gitbook/assets/14 (4) (1).png>) The Well Scan read type displays raw OD/RFU/RLU values as shades of blue to red. ![](<../../../.gitbook/assets/15 (3) (1).png>) To display a reduced number, select the **With Reduced Number** check box.
 
 ### Reduced Data Settings
 
 Select **Reduced Data** to display reduced data only. The software reports the reduced number in the Group section when you define a template. The reduced data display is based on the selections you make in the Data Reduction dialog. See Data Reduction on page 193.
 
-![](<../../../.gitbook/assets/16 (3).png>) Click the **Options** drop-down:
+![](<../../../.gitbook/assets/16 (3) (1).png>) Click the **Options** drop-down:
 
-![](<../../../.gitbook/assets/17 (2).png>) Select **Number** to view only the reduced number.
+![](<../../../.gitbook/assets/17 (2) (1).png>) Select **Number** to view only the reduced number.
 
 ![](<../../../.gitbook/assets/18 (4).png>) Select **Plot** for the Kinetic read type to display a plot of the raw data. To also view the reduced number, select the **Reduced Number** check box.
 
 ![](<../../../.gitbook/assets/19 (4).png>) Select **Grayscale** to display the raw data in eight shades of gray, that range from light for values less than or equal to the low limit, to dark for values greater than or equal to the high limit. Enter the **High Limit** and the **Low Limit** for the grayscale map. To also view the reduced number, select the **Reduced Number** check box.
 
-![](<../../../.gitbook/assets/20 (3).png>) Select **Color Map** to display the raw data in eight colors, that range from blue for values less than or equal to the low limit, to red for values greater than or equal to the high limit. To define the **High Limit** and the **Low Limit** for the color map, enter values in the fields. To also view the reduced number, select the **Reduced Number** check box.
+![](<../../../.gitbook/assets/20 (3) (1).png>) Select **Color Map** to display the raw data in eight colors, that range from blue for values less than or equal to the low limit, to red for values greater than or equal to the high limit. To define the **High Limit** and the **Low Limit** for the color map, enter values in the fields. To also view the reduced number, select the **Reduced Number** check box.
 
 ### Imaging Data Settings
 

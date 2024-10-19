@@ -30,15 +30,15 @@ The fluorescence ratio related to the HTRF readout is a correction method develo
 
 The following instruments have HTRF read mode capability:
 
-![](<../../../.gitbook/assets/0 (10).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320 (requires the Enhanced TRF module)
+![](<../../../.gitbook/assets/0 (10) (1).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320 (requires the Enhanced TRF module)
 
-![](<../../../.gitbook/assets/1 (11).png>) SpectraMax M5 and SpectraMax M5e Multi-Mode Microplate Readers on page 330 ![](<../../../.gitbook/assets/2 (13).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 (
+![](<../../../.gitbook/assets/1 (11) (1).png>) SpectraMax M5 and SpectraMax M5e Multi-Mode Microplate Readers on page 330 ![](<../../../.gitbook/assets/2 (13) (1).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 (
 
 requires the Cisbio HTRF Detection Cartridge, see page 346)
 
-![](<../../../.gitbook/assets/3 (14).png>) SpectraMax Paradigm Multi-Mode Microplate Reader, see page 327 (requires the Cisbio HTRF Detection Cartridge, see page 346)
+![](<../../../.gitbook/assets/3 (14) (1).png>) SpectraMax Paradigm Multi-Mode Microplate Reader, see page 327 (requires the Cisbio HTRF Detection Cartridge, see page 346)
 
-![](<../../../.gitbook/assets/4 (12).png>)
+![](<../../../.gitbook/assets/4 (12) (1).png>)
 
 **Note:** For the SpectraMax i3x, you can use the detection cartridges for top reads only.
 
@@ -76,7 +76,7 @@ All low-light-level detection devices have some measurement noise in common. To 
 
 As the number of flashes (read time per well) is increased, several aspects of the data improve:
 
-![](<../../../.gitbook/assets/5 (13).png>) Delta F values show less variability (better CVs).
+![](<../../../.gitbook/assets/5 (13) (1).png>) Delta F values show less variability (better CVs).
 
 ![](<../../../.gitbook/assets/6 (13).png>) Small Delta F values are better distinguished from noise. ![](<../../../.gitbook/assets/7 (13).png>) Noise of background is reduced.
 

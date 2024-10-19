@@ -6,6 +6,6 @@ The header line contains the type of section, such as Group, and the title of th
 
 The data lines immediately follow the header line and contain the text and data from the exported section.
 
-![](<../../../.gitbook/assets/0 (16).png>) The data from the group table displays in a table that contains the column headings in the first row followed by the data from the table.
+![](<../../../.gitbook/assets/0 (16) (1).png>) The data from the group table displays in a table that contains the column headings in the first row followed by the data from the table.
 
-![](<../../../.gitbook/assets/1 (18).png>)Group summaries, if present, display in the rows at the end of the section.
+![](<../../../.gitbook/assets/1 (18) (1).png>)Group summaries, if present, display in the rows at the end of the section.

@@ -7,7 +7,7 @@ To create a Fluorescence Intensity protocol:
 3. In the Navigation Tree, select a Plate section or Cuvette Set section.
 4. Click ![](<../../../.gitbook/assets/1 (9).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. For the SpectraMax Paradigm, select a Fluorescence Intensity cartridge. For the SpectraMax i3x, select either **Monochromator** or select a Fluorescence Intensity cartridge.
-6. Select the ![](<../../../.gitbook/assets/2 (6).jpeg>) **FL** read mode.
+6. Select the ![](<../../../.gitbook/assets/2 (6) (1).jpeg>) **FL** read mode.
 7. Select a Read Type.
 8. Define the settings.
 
@@ -33,7 +33,7 @@ Excitation maximum
 
 1.0
 
-![](<../../../.gitbook/assets/3 (10) (1).png>)![](<../../../.gitbook/assets/4 (12) (1).png>)
+![](<../../../.gitbook/assets/3 (10) (1) (1).png>)![](<../../../.gitbook/assets/4 (12) (1) (1).png>)
 
 Emission maximum
 
@@ -53,7 +53,7 @@ Wavelength (nm)
 
 **Tip:** If the Stokes shift is small, choose an excitation wavelength that is as far away from the emission maximum as possible while still being capable of stimulating the fluorophore so that less of the excited light overlaps the emission spectrum, permitting better selection and quantitation of the emitted light.
 
-![](<../../../.gitbook/assets/5 (7) (1).png>)![](<../../../.gitbook/assets/6 (7) (1).png>)
+![](<../../../.gitbook/assets/5 (7) (1) (1).png>)![](<../../../.gitbook/assets/6 (7) (1) (1).png>)
 
 Because the intensity of the excitation light is usually many tens of thousands of times greater than that of the emitted light, some type of spectral separation is necessary to reduce the interference of the excitation light with detection of the emitted light.
 
@@ -95,25 +95,25 @@ The optimal instrument settings for detection of a particular fluorophore depend
 
 Another important factor that is independent of the instrument but can affect assay optimization is the Stokes shift, which is the difference between the wavelengths of the excitation and emission maxima. When the Stokes shift is very small, optimizing the excitation and emission wavelengths and correct cutoff filter choices are very important.
 
-![](<../../../.gitbook/assets/7 (5) (1).png>) Excitation and Emission Wavelengths
+![](<../../../.gitbook/assets/7 (5) (1) (1).png>) Excitation and Emission Wavelengths
 
 The excitation and emission wavelengths can be set in 1 nm increments between 250 nm and 850 nm. The available wavelengths are dependent on the instrument. For more information about the available wavelengths, see the documentation for the instrument you are using.
 
 A procedure to optimize excitation and emission wavelengths for a given assay is outlined in Spectral Scanning on page 163.
 
-![](<../../../.gitbook/assets/8 (5) (1).png>) Emission Cutoff Filter
+![](<../../../.gitbook/assets/8 (5) (1) (1).png>) Emission Cutoff Filter
 
 The emission cutoff filters assist in reducing background. Sources of background include stray excitation light and native fluorescence of plate materials, sample constituents, and solvents (including water). The default setting lets the instrument and the software determine which cutoff filter to use for the Endpoint and Kinetic read types. The Spectrum read type default uses no cutoff filter.
 
-![](<../../../.gitbook/assets/9 (5) (1).png>) Reads Per Well
+![](<../../../.gitbook/assets/9 (5) (1) (1).png>) Reads Per Well
 
 The number of reads per well can vary between 1 (for a quick estimate) and 100 (for very precise measurements). The default number of reads per well varies with the read mode: for Fluorescence, the default is 6, and for Luminescence the instrument does 1 read per well.
 
-![](<../../../.gitbook/assets/10 (3) (1).png>) PMT Voltage
+![](<../../../.gitbook/assets/10 (3) (1) (1).png>) PMT Voltage
 
 The voltage of the photomultiplier tube can be set to low (for higher concentration samples), medium, or high (for lower concentration samples) for all read modes. For the Endpoint and Spectrum read types, you can select Automatic to have the instrument automatically adjusts the PMT voltage for varying concentrations of sample in the plate.
 
-![](<../../../.gitbook/assets/11 (3) (1).png>) Temperature Control
+![](<../../../.gitbook/assets/11 (3) (1) (1).png>) Temperature Control
 
 The chamber of the instrument is isothermal at ambient as well as at elevated temperatures.
 
@@ -157,7 +157,7 @@ If the excitation scan shows no apparent peak, change the PMT setting to High an
 
 **Note:** If the Stokes shift is less than 50 nm, then start the emission scan above the excitation wavelength.
 
-![](<../../../.gitbook/assets/15 (2) (1).png>)
+![](<../../../.gitbook/assets/15 (2) (1) (1).png>)
 
 1. Set the step increment to 2 nm to 3 nm (or do a preliminary scan with a 10 nm increment to determine the approximate peak location and then repeat the scan over a narrower wavelength range using a 2 nm to 3 nm increment.)
 2. Do the scan and view the results as a plot of fluorescence vs. emission wavelength.
@@ -179,7 +179,7 @@ The optimal excitation and emission wavelengths are those you determine in the E
 
 ### Comments
 
-![](<../../../.gitbook/assets/16 (4) (1).png>) For the Fluorescence read mode with the Endpoint or Kinetic read type, the **AutoCutoff** feature generally selects the same cutoff filter wavelength as the previously described optimization method. However, you can specify the cutoff filters manually.
+![](<../../../.gitbook/assets/16 (4) (1) (1).png>) For the Fluorescence read mode with the Endpoint or Kinetic read type, the **AutoCutoff** feature generally selects the same cutoff filter wavelength as the previously described optimization method. However, you can specify the cutoff filters manually.
 
 ![](<../../../.gitbook/assets/17 (5) (1).png>) For emission wavelengths less than 325 nanometers, experimental iteration is usually the best method to determine the optimal emission and excitation wavelengths. Start the previously described optimization procedure. Try emission and excitation wavelength combinations with the 325 cutoff or with no cutoff filter. For excitation wavelengths greater than 660 nanometers, try emission and excitation wavelength combinations with the 695 cutoff or with no cutoff filter.
 

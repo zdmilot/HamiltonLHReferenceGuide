@@ -8,22 +8,22 @@ Use auto read to read multiple Plate sections in the same experiment. See Using 
 
 To collect data from plates:
 
-1. To open the plate drawer of the instrument, select the **Home** tab and click ![](<../../../.gitbook/assets/5 (6) (1).png>)
+1. To open the plate drawer of the instrument, select the **Home** tab and click ![](<../../../.gitbook/assets/5 (6) (1) (1).png>)
 
 **Open/Close**. See Home Tab on page 49.
 
 The plate carrier on the EMax Plus moves in and out of the read chamber during the read, and then returns to the home position after the read ends. If the plate carrier does not return to the home position, select the Operations tab and click **Initialize**.
 
 1. Insert the prepared plate matching well A1 with position A1 in the plate drawer. Make sure the plate is flat against the drawer bottom or against the adapter.
-2. Click ![](<../../../.gitbook/assets/6 (6) (1).png>) **Open/Close** to close the plate drawer.
+2. Click ![](<../../../.gitbook/assets/6 (6) (1) (1).png>) **Open/Close** to close the plate drawer.
 3. Open a document that contains the acquisition settings for the plate read. As an alternative, create new acquisition settings by selecting the Plate section in the Navigation Tree and configuring the acquisition settings sing the Settings dialog. See Acquisition Settings on page 109.
 4. You should save the document before you start a read. For Imaging reads and Western Blot reads, you must save the document before you start the read.
-5. Click ![](<../../../.gitbook/assets/7 (4).jpeg>) **Read** below the Settings Information area or on the Home tab. The Read button changes to ![](<../../../.gitbook/assets/8 (1) (1).jpeg>) **Stop** so you can terminate a read.
+5. Click ![](<../../../.gitbook/assets/7 (4).jpeg>) **Read** below the Settings Information area or on the Home tab. The Read button changes to ![](<../../../.gitbook/assets/8 (1) (1) (1).jpeg>) **Stop** so you can terminate a read.
 6. The instrument reads the Plate section you select.
 
-![](<../../../.gitbook/assets/9 (3) (1).png>) For the SpectraMax i3x, SpectraMax Paradigm, SpectraMax iD3, SpectraMax iD5, FilterMax F3, and FilterMax F5 and you select to do pre-read optimizations, the Pre- Read Optimization Options dialog displays. See Pre-Read Optimization Options on page 184.
+![](<../../../.gitbook/assets/9 (3) (1) (1).png>) For the SpectraMax i3x, SpectraMax Paradigm, SpectraMax iD3, SpectraMax iD5, FilterMax F3, and FilterMax F5 and you select to do pre-read optimizations, the Pre- Read Optimization Options dialog displays. See Pre-Read Optimization Options on page 184.
 
-![](<../../../.gitbook/assets/10 (1) (1) (1).png>) For the SpectraMax i3x and SpectraMax Paradigm with a Tunable Wavelength (TUNE) Detection Cartridge and select to run spectral optimization, the Spectral Optimization Wizard runs before the plate is read. See Spectral Optimization on page 182.
+![](<../../../.gitbook/assets/10 (1) (1) (1) (1).png>) For the SpectraMax i3x and SpectraMax Paradigm with a Tunable Wavelength (TUNE) Detection Cartridge and select to run spectral optimization, the Spectral Optimization Wizard runs before the plate is read. See Spectral Optimization on page 182.
 
 1. After the read completes, the plate drawer opens so you can remove the plate. If temperature control is on, the drawer closes again after approximately 10 seconds.
 2. After the read completes, save the document and do any additional data analysis.
@@ -43,7 +43,7 @@ To enable Auto Read:
 1. In the Navigation Tree, select the experiment that has the Plate sections that you want to automatically advance with Auto Read.
 2. Select the Operations tab and click ![](<../../../.gitbook/assets/11 (2).jpeg>) **Auto Read**.
 
-![](<../../../.gitbook/assets/12 (3) (1).png>)
+![](<../../../.gitbook/assets/12 (3) (1) (1).png>)
 
 1. In the Auto Read dialog, select the Plate sections you want to automatically advance with Auto Read.
 2. Optionally, enter the number of seconds to delay (the interval) between each Plate section read.
@@ -51,7 +51,7 @@ To enable Auto Read:
 
 **Note:** If you have a Cuvette Set section that follows an enabled Plate section, Auto Read does not advance to or beyond the Cuvette Set section.
 
-![](<../../../.gitbook/assets/13 (3) (1).png>)
+![](<../../../.gitbook/assets/13 (3) (1) (1).png>)
 
 ### Spectral Optimization <a href="#bookmark2" id="bookmark2"></a>
 
@@ -101,24 +101,24 @@ To run spectral optimization:
 3. On the Optimization Complete page:
    1. View the 3-dimensional heat map image. The software uses the formula (S – B) / B to generate, where S = signal and B = background.
 
-![](<../../../.gitbook/assets/16 (2) (1).png>)
+![](<../../../.gitbook/assets/16 (2) (1) (1).png>)
 
 **Note:** For a Luminescence protocol, this is a 2-dimensional graph.
 
 *
   1. In the image, locate the cross hair that indicates the optimized peak wavelengths.
 
-1. To change the wavelengths for the read, either: ![](<../../../.gitbook/assets/17 (3) (1).png>) Drag the cross hair to a new location
+1. To change the wavelengths for the read, either: ![](<../../../.gitbook/assets/17 (3) (1) (1).png>) Drag the cross hair to a new location
 
-![](<../../../.gitbook/assets/18 (2) (1).png>) Enter values in the Excitation field and the Emission field. The Emission value must be a minimum of 20 nm greater than the Excitation value. Use an emission value that is a minimum of 40 nm greater than the excitation value. You can specify only emission values for Luminescence reads.
+![](<../../../.gitbook/assets/18 (2) (1) (1).png>) Enter values in the Excitation field and the Emission field. The Emission value must be a minimum of 20 nm greater than the Excitation value. Use an emission value that is a minimum of 40 nm greater than the excitation value. You can specify only emission values for Luminescence reads.
 
 1. Select the **Use Log Scale** check box to use log scale for the display of the heat map image.
 2. If you edit the Wavelength (Custom) values, click **Reset to Optimized Peak** to reset the values to the software defined optimized peak.
 3. Right-click on the image:
 
-![](<../../../.gitbook/assets/19 (1) (1) (1).png>) Select **Copy Raw Data** to copy the data in a tab-delimited format that you can paste into a spreadsheet or text editor (SpectraMax i3x only).
+![](<../../../.gitbook/assets/19 (1) (1) (1) (1).png>) Select **Copy Raw Data** to copy the data in a tab-delimited format that you can paste into a spreadsheet or text editor (SpectraMax i3x only).
 
-![](<../../../.gitbook/assets/20 (2) (1).png>) Select **Copy Image** to copy the image into a bitmap file that you can paste into an image editing program.
+![](<../../../.gitbook/assets/20 (2) (1) (1).png>) Select **Copy Image** to copy the image into a bitmap file that you can paste into an image editing program.
 
 &#x20;Select **Save Raw Data to Disk** to save the data into a text file in tab delimited format (SpectraMax i3x with the monochromator only).
 

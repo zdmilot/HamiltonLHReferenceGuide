@@ -6,30 +6,30 @@
 
 1.  Select yes when prompted to install the SQL database.
 
-    ![](<../../.gitbook/assets/6 (2) (1) (1).png>)
+    ![](<../../.gitbook/assets/6 (2) (1) (1) (1).png>)
 
-    ![](<../../.gitbook/assets/5 (2) (1) (1).png>)
+    ![](<../../.gitbook/assets/5 (2) (1) (1) (1).png>)
 
 
 2.  Close the Portable WinCDEmu. The installation drive is now mounted on your computer. Open the drive and select the Microlab\_Star folder. Right click on the setup application and select run as administrator. (Note: Administrator rights are needed to install the software properly.)
 
-    ![](<../../.gitbook/assets/4 (2) (1) (1).png>)
+    ![](<../../.gitbook/assets/4 (2) (1) (1) (1).png>)
 
 
 3.  Select mount image, mount the Microlab STAR Software VENUS four base package 4.5.0.5217 and select open.\
 
 
-    ![](<../../.gitbook/assets/3 (2) (1) (1).png>)
+    ![](<../../.gitbook/assets/3 (2) (1) (1) (1).png>)
 
 
 4.  Select yes when prompted to install the Portable WINCDEmu Driver.
 
-    ![](<../../.gitbook/assets/2 (1) (1) (1) (1) (1) (1).png>)
+    ![](<../../.gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1).png>)
 
 
 5.  Open the Portable WinCDEmu-4.0. application located in the Venus 4 software folde
 
-    <figure><img src="../../.gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
 
 
 

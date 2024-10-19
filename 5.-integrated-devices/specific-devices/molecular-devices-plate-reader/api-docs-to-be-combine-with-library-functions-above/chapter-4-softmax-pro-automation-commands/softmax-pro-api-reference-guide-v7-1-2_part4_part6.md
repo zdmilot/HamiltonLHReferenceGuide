@@ -1,0 +1,37 @@
+# softmax pro api reference guide v7 1 2\_Part4\_Part6
+
+CloseDocument\
+Int32 CloseDocument()\
+The CloseDocument command closes the current document.
+
+| <img src="../../../../../.gitbook/assets/0 (12).png" alt="" data-size="original"> | Note: For the SoftMax Pro Software - GxP edition, the document must be unlocked, the document status must be In Work, and all statements must be unsigned. |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+If the data is not saved, the document closes with no warning and data is not saved. Parameters\
+None
+
+CloseAllDocuments\
+Int32 CloseAllDocuments()\
+The CloseAllDocuments command closes all open documents.
+
+Parameters\
+None
+
+CloseDrawer\
+Int32 CloseDrawer()\
+Int32 CloseDrawer(String drawerType)\
+The CloseDrawer command closes the drawer you specify on the instrument. This command closes the plate drawer for most instruments.
+
+Parameters\
+CloseDrawer parameters are recognized by the FlexStation® 3 Multi-Mode Microplate Reader only. The parameters are ignored and can be omitted for all other instruments.
+
+drawerType\
+Type: String\
+Must be one of the following strings:\
+• “Assay Plate Drawer” \[default]\
+• "Compound Plate Drawer”\
+• “Tips Drawer”\
+These values are not case sensitive.
+
+| <img src="../../../../../.gitbook/assets/1 (15).png" alt="" data-size="original"> | Note: The drawerType parameter is required for the FlexStation 3. If you omit this parameter the assay plate drawer closes. |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |

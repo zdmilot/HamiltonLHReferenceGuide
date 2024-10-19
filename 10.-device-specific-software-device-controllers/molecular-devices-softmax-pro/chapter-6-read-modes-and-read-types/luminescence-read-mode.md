@@ -20,9 +20,9 @@ Concentrations or qualitative results are derived from raw data with a standard 
 
 Chemiluminescent or bioluminescent reactions can be induced to measure the quantity of a particular compound in a sample. Examples of luminescent assays include the following:
 
-![](<../../../.gitbook/assets/0 (14).png>) Reporter gene assays (the measurement of luciferase gene expression)
+![](<../../../.gitbook/assets/0 (14) (1).png>) Reporter gene assays (the measurement of luciferase gene expression)
 
-![](<../../../.gitbook/assets/1 (16).png>) Quantitation of adenosine triphosphate (ATP) as an indication of cell counts with cell- proliferation, cytotoxicity, and biomass assays
+![](<../../../.gitbook/assets/1 (16) (1).png>) Quantitation of adenosine triphosphate (ATP) as an indication of cell counts with cell- proliferation, cytotoxicity, and biomass assays
 
 ![](<../../../.gitbook/assets/2 (18).png>) Enzyme measurements with luminescent substrates, such as immunoassays
 
