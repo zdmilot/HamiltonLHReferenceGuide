@@ -6,7 +6,7 @@ Use Graph sections to plot information as a scatter plot graph or a bar graph. Y
 
 ### Creating New Graphs
 
-![](<../../../.gitbook/assets/0 (2) (1).jpeg>)
+![](<../../../.gitbook/assets/0 (2) (1) (1).jpeg>)
 
 To create a new graph:
 

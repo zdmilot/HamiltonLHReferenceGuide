@@ -9,12 +9,10 @@ Sets the columns header descriptions (captions / localizations).
 
 i\_ arrInputListHeaderLocalization must contain three and only three elements of type string for the default headers:
 
-�         Type,
-
-�         Value,
-
-�         Description.\
-\
+* Type,
+* Value,
+* Description.\
+  \
 
 
 ## Arguments & Return Values
@@ -32,6 +30,6 @@ For examples or demo please see also (Copy & Paste to Explorer Address Field):
 
 %PROGRAMFILES%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\
 
-64Bit OS (XP64/Vista/Windows7):
+64Bit S (XP64/Vista/Windows7):
 
 %PROGRAMFILES(X86)%\HAMILTON\Methods\Library Demo Methods\ASWStandardDialogs\\

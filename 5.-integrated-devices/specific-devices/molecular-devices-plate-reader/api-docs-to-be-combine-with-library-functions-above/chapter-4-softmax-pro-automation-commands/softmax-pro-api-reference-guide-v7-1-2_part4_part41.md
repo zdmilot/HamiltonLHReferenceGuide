@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part41
-
-StartRead
+# StartRead
 
 Int32 StartRead()\
 The StartRead command reads a Plate section or CuvetteSet section. If the current section is neither a Plate section nor CuvetteSet section, the command reads the next Plate section or CuvetteSet section.
@@ -42,3 +40,21 @@ Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.E
 private void CommandCompleted( object sender,\
 SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
 {
+
+Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if( mCopyID == e.QueueID )\
+{\
+Results.AppendResult(e.StringResult);\
+}\
+if( e.QueueEmpty)\
+{\
+Results.AppendResult("Queue empty - disconnecting events");\
+AutomationObject.ErrorReport -= Error;\
+AutomationObject.CommandCompleted -= CommandCompleted;\
+AutomationObject.InstrumentStatusChanged -= InstrumentStatus;\
+AutomationObject.Dispose();\
+}\
+}\
+private void InstrumentStatus( object sender,\
+SoftMaxPro.AutomationClient.SMPAutomationClient.InstrumentStatusEventArgs e) {\
+Results.AppendResult("Status changed to " + e.Status);\
+}

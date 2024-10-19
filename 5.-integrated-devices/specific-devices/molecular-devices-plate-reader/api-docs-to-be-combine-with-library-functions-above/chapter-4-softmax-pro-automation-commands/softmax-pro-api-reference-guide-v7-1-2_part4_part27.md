@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part27
-
-NewExperiment
+# NewExperiment
 
 Int32 NewExperiment()\
 The NewExperiment command creates a new experiment in a document.
@@ -43,3 +41,6 @@ AutomationObject.Dispose();\
 }\
 private void Error( object sender,\
 SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)
+
+{\
+Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }

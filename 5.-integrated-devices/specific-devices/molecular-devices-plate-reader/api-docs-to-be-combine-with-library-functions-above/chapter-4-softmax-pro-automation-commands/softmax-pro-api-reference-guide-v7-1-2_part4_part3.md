@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part3
-
-AppendTitle
+# AppendTitle
 
 Int32 AppendTitle(String titletext)\
 The AppendTitle command appends text to the section title. This cannot alter the experiment name.

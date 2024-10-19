@@ -4,7 +4,7 @@ Carriers are placed onto the ML STAR deck. They have sites for labware, such as 
 
 In the following a carrier that is pre-loaded with flat 96-well Nunc microplates is defined.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>A Tube Carrier in the sense of labware is not a carrier (template). It is a rack which directly fits the track geometry of the Microlab STAR and therefore can directly be loaded onto the instrument deck.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>A Tube Carrier in the sense of labware is not a carrier (template). It is a rack which directly fits the track geometry of the Microlab STAR and therefore can directly be loaded onto the instrument deck.</em></p></td></tr></tbody></table>
 
 To define a Carrier:
 
@@ -26,7 +26,7 @@ To define a Carrier:
 
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>The clearance height defines – the traverse height at which the pipetting channels can move without collision.</em></p><p><em>Clearance height should not exceed 140mm.</em></p><p><em>Wrong clearance height definitions can lead to serious damages.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>The clearance height defines – the traverse height at which the pipetting channels can move without collision.</em></p><p><em>Clearance height should not exceed 140mm.</em></p><p><em>Wrong clearance height definitions can lead to serious damages.</em></p></td></tr></tbody></table>
 3.  In the next window, the sites hosting the plates have to be defined:
 
     <figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
@@ -62,7 +62,7 @@ To define a Carrier:
     \
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Always start with the given settings of a standard carrier and the apply changes in a step by step manner. Do not change the properties names or their spelling. These names are system properties.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Always start with the given settings of a standard carrier and the apply changes in a step by step manner. Do not change the properties names or their spelling. These names are system properties.</em></p></td></tr></tbody></table>
 
 
 13. A “Properties” Dialog for the racks is also available.

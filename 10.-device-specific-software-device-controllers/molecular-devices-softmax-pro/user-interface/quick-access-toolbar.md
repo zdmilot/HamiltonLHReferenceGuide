@@ -1,6 +1,6 @@
 # Quick Access Toolbar
 
-The Quick Access toolbar provides a shortcut to the features in the Ribbon and in the Application menu. The toolbar displays to the right of the ![](<../../../.gitbook/assets/0 (1) (1) (1) (1).jpeg>) icon in the upper-left corner of the main window. You can change content of the Quick Access toolbar and its location.
+The Quick Access toolbar provides a shortcut to the features in the Ribbon and in the Application menu. The toolbar displays to the right of the ![](<../../../.gitbook/assets/0 (1) (1) (1) (1) (1).jpeg>) icon in the upper-left corner of the main window. You can change content of the Quick Access toolbar and its location.
 
 ![](<../../../.gitbook/assets/1 (1) (1) (1).jpeg>)
 

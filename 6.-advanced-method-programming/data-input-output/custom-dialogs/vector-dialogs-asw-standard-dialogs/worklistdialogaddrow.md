@@ -10,7 +10,7 @@
 |                        | variable i\_arrValueColumns\[] | )variable |   |
 
 Add a row in the work list view with default columns and custom columns.\
-\
+![](<../../../../.gitbook/assets/image (13).png>)\
 
 
 ## Arguments & Return Values

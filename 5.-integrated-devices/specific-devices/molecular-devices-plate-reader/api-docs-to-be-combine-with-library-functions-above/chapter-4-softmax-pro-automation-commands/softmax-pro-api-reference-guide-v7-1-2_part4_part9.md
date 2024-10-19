@@ -1,20 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part9
-
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }\
-private void CommandCompleted( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
-{\
-Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if( e.QueueEmpty)\
-{\
-Results.AppendResult("Queue empty - disconnecting events");\
-AutomationObject.ErrorReport -= Error;\
-AutomationObject.CommandCompleted -= CommandCompleted;\
-AutomationObject.Dispose();\
-}\
-}
-
-ExportSectionAs
+# ExportSectionAs
 
 Int32 ExportSectionAs(String path, ExportAsFormat exportAsFormat, Bool append) The ExportSectionAs command exports an experiment section.
 

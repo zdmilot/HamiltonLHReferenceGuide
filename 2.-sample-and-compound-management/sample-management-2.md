@@ -2,7 +2,7 @@
 
 **PURPOSE**
 
-* ![Image](<../.gitbook/assets/0 (1) (1) (1) (1) (1) (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
+* ![Image](<../.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1).jpeg>)As our utilization of automation in the lab grows, so will our sample throughput
 * Text based labeling is one of the first problems in switching to high throughput automation and it is the simplest to solve
 * Starting early and with a unified approach to sample labeling and tracking will allow assays to grow and expand without severe bottlenecks, saving time when testing requirements expand
 * Adhesive labels and ink based marking are not compatible with solvents needed for proper cell culture nor are they durable enough with long term storage in extreme temperatures

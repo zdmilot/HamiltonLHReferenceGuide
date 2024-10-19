@@ -1,20 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part23
-
-AutomationObject.InstrumentStatusChanged -= InstrumentStatus;\
-AutomationObject.Dispose();\
-}\
-}\
-private void Error( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }\
-private void InstrumentStatus( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.InstrumentStatusEventArgs e)\
-{\
-Results.AppendResult("Status changed to " + e.Status);\
-}
-
-Initialize
+# Initialize
 
 Boolean Initialize ()\
 Boolean Initialize (String server)\

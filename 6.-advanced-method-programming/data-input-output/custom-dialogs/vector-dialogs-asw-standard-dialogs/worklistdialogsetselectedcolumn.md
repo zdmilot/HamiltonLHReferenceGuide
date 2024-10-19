@@ -6,9 +6,9 @@
 | --------------------------------- | ----------------------------------- | -------- |
 |                                   | variable i\_strSelectedColumnName ) | variable |
 
-Set the header and the visibility of the �Selected� column.
+Set the header and the visibility of the "Selected" column.
 
-�\
+![](<../../../../.gitbook/assets/image (19).png>)\
 \
 
 

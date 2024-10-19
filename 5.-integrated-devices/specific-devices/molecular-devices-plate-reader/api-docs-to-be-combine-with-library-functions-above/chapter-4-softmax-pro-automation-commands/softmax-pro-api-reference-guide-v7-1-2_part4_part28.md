@@ -1,9 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part28
-
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }
-
-NewNotes
+# NewNotes
 
 Int32 NewNotes()\
 The NewNotes command creates a new Note section in an experiment.
@@ -43,3 +38,6 @@ AutomationObject.Dispose();\
 }\
 private void Error( object sender,\
 SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)
+
+{\
+Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }

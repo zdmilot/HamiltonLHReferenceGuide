@@ -4,7 +4,7 @@ Automation command statements are included with the SoftMax Pro Software Automat
 
 The first column contains the command name and the columns to the right contain the command's parameter values. The following displays examples of automation command statements:
 
-![](<../../../../../.gitbook/assets/0 (2).jpeg>)
+![](<../../../../../.gitbook/assets/0 (2) (1).jpeg>)
 
 Most automation command statements perform an action. Some command statements retrieve data from the SoftMax Pro Software to make data available to be written into worksheets and some command statements control the flow of a workflow.
 

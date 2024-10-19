@@ -6,7 +6,7 @@ To install the library execute the file “InstallHHSLibrary\_Vx.x.exe”. The f
 
 After confirming the installation of the addition, the heater shaker library will be installed automatically.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The library requires the following Microsoft Package, which will be installed automatically during the setup procedure:</em></p><p><em>Microsoft Visual C++ 2005 Redistributable Package (x86).</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The library requires the following Microsoft Package, which will be installed automatically during the setup procedure:</em></p><p><em>Microsoft Visual C++ 2005 Redistributable Package (x86).</em></p></td></tr></tbody></table>
 
 
 

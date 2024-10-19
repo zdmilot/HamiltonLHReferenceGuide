@@ -15,19 +15,19 @@ USB, ISO, and DVD media of the VENUS software install all include the Microlab\_
 * Right-click Setup.exe and select Run as administrator
 * Wait while the SQL Server 2014 software prepares the necessary files
 
-<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Once the SQL Server Installation Center screen appears, verify you are on the
 
     Installation (1) menu by clicking on the text
 * Click the hyperlink New SQL Server stand-alone installation or add features to an existing installation (2)
 
-<figure><img src="../../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the checkbox for I accept the license terms (1)
 *   Click Next (2)
 
-    ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 *   If presented with a Microsoft Update or Product Updates screen, click Next (1)
 

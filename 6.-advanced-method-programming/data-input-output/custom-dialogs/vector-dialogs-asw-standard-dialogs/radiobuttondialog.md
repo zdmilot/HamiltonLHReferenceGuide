@@ -20,6 +20,8 @@
 
 Creates a n-RadioButton Dialog.
 
+<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 ## Arguments & Return Values
 
 | argument              | range              | description                                                                                                                                                                                                  |

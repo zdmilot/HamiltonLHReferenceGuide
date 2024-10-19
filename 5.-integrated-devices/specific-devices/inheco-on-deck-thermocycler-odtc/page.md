@@ -58,16 +58,16 @@ To be sure to configure the right adapter, disconnect the customer network from 
 * Click 'Start', then 'Control Panel'
 * Click on 'Network and Sharing Center'
 * Click on 'Change adapter settings':\
-  ![](<../../../.gitbook/assets/image (18) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (18) (1) (1) (1).png>)
 * Double-click the adapter that is shown as enabled:\
-  ![](<../../../.gitbook/assets/image (19) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (19) (1) (1) (1).png>)
 * Click on 'Properties'
 * Select 'Internet protocol version 4 (TCP/IP v4)
 * Set the Properties to 'Obtain an IP adress automatically':\
-  ![](<../../../.gitbook/assets/image (20) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (20) (1) (1) (1).png>)
 * Close the two dialogs with OK
 * Click on 'Details':\
-  ![](<../../../.gitbook/assets/image (21) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (21) (1) (1) (1).png>)
 * Note the shown IP address for further use in Network Settings
 
 ### Retrieving ODTC device IP address(es)

@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part10
-
-GetAllFolders
+# GetAllFolders
 
 Int32 GetAllFolders(string folder, string type)\
 The GetAllFolders command returns folder information from the database or file system.

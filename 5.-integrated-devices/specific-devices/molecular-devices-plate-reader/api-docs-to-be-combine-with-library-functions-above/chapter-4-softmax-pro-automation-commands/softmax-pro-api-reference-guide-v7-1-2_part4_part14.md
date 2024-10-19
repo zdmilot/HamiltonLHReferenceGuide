@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part14
-
-GetDrawerStatus
+# GetDrawerStatus
 
 Int32 GetDrawerStatus()\
 Int32 GetDrawerStatus(String drawerType)\
@@ -87,3 +85,8 @@ if( e.QueueEmpty)\
 {\
 Results.AppendResult("Queue empty - disconnecting events");\
 AutomationObject.CommandCompleted -= CommandCompleted;
+
+AutomationObject.ErrorReport -= Error;\
+AutomationObject.Dispose();\
+}\
+}

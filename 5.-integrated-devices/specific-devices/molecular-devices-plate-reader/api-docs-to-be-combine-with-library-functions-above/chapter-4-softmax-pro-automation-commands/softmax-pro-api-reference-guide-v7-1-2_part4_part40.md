@@ -1,33 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part40
-
-Results.AppendResult("Set Temperature Status = " + ID.ToString());\
-}\
-private void CommandCompleted( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
-{\
-Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if(ID == e.QueueID )\
-{\
-Results.AppendResult(e.StringResult);\
-}\
-if( e.QueueEmpty)\
-{\
-Results.AppendResult("Queue empty - disconnecting events");\
-AutomationObject.ErrorReport -= Error;\
-AutomationObject.CommandCompleted -= CommandCompleted;\
-AutomationObject.Dispose();\
-}\
-}\
-private void Error( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }\
-private void InstrumentStatus( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.InstrumentStatusEventArgs e)\
-{\
-Results.AppendResult("Status changed to " + e.Status);\
-}
-
-SetTitle
+# SetTitle
 
 Int32 SetTitle()\
 The SetTitle command sets the title of a section in an experiment. The command confirms that the name is unique within the current experiment and if not, makes no change.

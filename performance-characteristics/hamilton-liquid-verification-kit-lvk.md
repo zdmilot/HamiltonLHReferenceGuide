@@ -8,7 +8,7 @@ Environmental factors such as altitude, temperature, and humidity, combined with
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>LVK — Microplate Adapter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption><p>LVK — Microplate Adapter</p></figcaption></figure>
 
  
 

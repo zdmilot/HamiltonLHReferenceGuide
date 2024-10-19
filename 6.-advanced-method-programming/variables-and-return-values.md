@@ -47,7 +47,7 @@ Within a method, the programmer will naturally define and process variables. The
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is important to avoid mixing and confusing local and global variables. If possible, use naming conventions allowing the identification of each variable type:</p><p>GV&#x3C;variable name> for global variables used for all tasks of the same method</p><p>TV&#x3C;variable name> for task local variables used in one method</p><p>LV&#x3C;variable name> for local variables used in a sub-method</p><p>It is not possible to define variables which are valid in a method without being also valid in the related sub-methods. For this requirement, define task local variables with reserved names, e.g.:</p><p>MLV&#x3C;variable name> for local variables used in a method.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is important to avoid mixing and confusing local and global variables. If possible, use naming conventions allowing the identification of each variable type:</p><p>GV&#x3C;variable name> for global variables used for all tasks of the same method</p><p>TV&#x3C;variable name> for task local variables used in one method</p><p>LV&#x3C;variable name> for local variables used in a sub-method</p><p>It is not possible to define variables which are valid in a method without being also valid in the related sub-methods. For this requirement, define task local variables with reserved names, e.g.:</p><p>MLV&#x3C;variable name> for local variables used in a method.</p></td></tr></tbody></table>
 
 \
 
@@ -67,7 +67,7 @@ If not requested (as it is the case for the “Open File” Dialog), the variabl
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>NOTE<br><em>To define a string (text) variable through the assignment step, the text must be enclosed in quotation marks, e.g. “s” = “Test”. The variable “s” is then of type string. Otherwise, the contents of a variable named “Test” and its contents will be assigned to s. If the “Test” variable does not exist, a warning will be prompted.</em><br><br><img src="../.gitbook/assets/image (536).png" alt=""></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>NOTE<br><em>To define a string (text) variable through the assignment step, the text must be enclosed in quotation marks, e.g. “s” = “Test”. The variable “s” is then of type string. Otherwise, the contents of a variable named “Test” and its contents will be assigned to s. If the “Test” variable does not exist, a warning will be prompted.</em><br><br><img src="../.gitbook/assets/image (536).png" alt=""></td></tr></tbody></table>
 
 \
 
@@ -122,7 +122,7 @@ To do this perform these steps:
 
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The “Easy Steps” and “Smart Steps” do not have the “Bind Return values…” Function.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The “Easy Steps” and “Smart Steps” do not have the “Bind Return values…” Function.</p></td></tr></tbody></table>
 
 
 

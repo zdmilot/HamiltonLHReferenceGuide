@@ -1,15 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part32
-
-AutomationObject.CommandCompleted -= CommandCompleted;\
-AutomationObject.Dispose();\
-}\
-}\
-private void Error( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }
-
-Quit
+# Quit
 
 Int32 Quit()\
 The Quit command exits the SoftMax Pro Software.
@@ -43,3 +32,10 @@ Results.AppendResult("Queue empty - disconnecting events");\
 AutomationObject.ErrorReport -= Error;\
 AutomationObject.CommandCompleted -= CommandCompleted;\
 AutomationObject.Dispose();
+
+}\
+}\
+private void Error( object sender,\
+SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
+{\
+Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }

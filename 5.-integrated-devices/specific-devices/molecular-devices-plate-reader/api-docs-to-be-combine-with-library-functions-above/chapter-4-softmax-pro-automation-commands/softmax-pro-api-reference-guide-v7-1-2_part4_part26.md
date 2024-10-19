@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part26
-
-NewDocument
+# NewDocument
 
 Int32 NewDocument()\
 The NewDocument command creates a new document that uses the Default Protocol.spr protocol settings.

@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part18
-
-GetNumberPlateSections
+# GetNumberPlateSections
 
 Int32 GetNumberPlateSections()\
 The GetNumberPlateSections command returns the number of Plate sections in an experiment.

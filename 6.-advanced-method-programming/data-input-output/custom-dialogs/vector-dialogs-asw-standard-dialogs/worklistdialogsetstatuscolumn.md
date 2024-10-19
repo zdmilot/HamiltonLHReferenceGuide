@@ -6,9 +6,9 @@
 | ------------------------------- | ---------------------------------- | - |
 |                                 | variable i\_strStatusColumnName    | ) |
 
-Set the header and visibility of the �Status� column.\
+Set the header and visibility of the "Status" column.\
 \
-
+![](<../../../../.gitbook/assets/image (18).png>)
 
 ## Arguments & Return Values
 

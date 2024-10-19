@@ -1,22 +1,6 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part21
+# ImportPlateData
 
-private void CommandCompleted( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
-{\
-Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if( mStatusID== e.QueueID )\
-{\
-Results.AppendResult( "Version: " +e.StringResult);\
-}\
-if( e.QueueEmpty)\
-{\
-Results.AppendResult("Queue empty - disconnecting events");\
-AutomationObject.CommandCompleted -= CommandCompleted;\
-AutomationObject.ErrorReport -= Error;\
-AutomationObject.Dispose();\
-}\
-}
 
-ImportPlateData
 
 Int32 ImportPlateData(string importType, params string\[] importParameter) The ImportPlateData command imports data from a file into a Plate section in a document.
 

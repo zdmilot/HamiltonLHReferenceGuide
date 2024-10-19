@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part7
-
-Dispose
+# Dispose
 
 Void Dispose()\
 The Dispose command closes the final automation application dialog. The termination dialog that contains the Terminate button displays in the SoftMax Pro Software after the script execution completes.

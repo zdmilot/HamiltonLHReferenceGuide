@@ -24,13 +24,13 @@ The following table gives the minimum volume a single pipetting channel can dete
 | 384-well flat-bottom microplate   | 50         | PLT\_CAR\_L5MD     |
 | 96-deep well microplate (archive) | 150        | PLT\_CAR\_L5AC     |
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Using an ionic buffer in the assay in place of distilled water may help to overcome Liquid Level Detection problems.</p><p>Use only original Hamilton labware carriers, disposables or needles. For a proper capacitive Liquid Level Detection, a sufficient conductive coupling of carrier and labware (tubes or microplates) is crucial.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Using an ionic buffer in the assay in place of distilled water may help to overcome Liquid Level Detection problems.</p><p>Use only original Hamilton labware carriers, disposables or needles. For a proper capacitive Liquid Level Detection, a sufficient conductive coupling of carrier and labware (tubes or microplates) is crucial.</p></td></tr></tbody></table>
 
 ## Pressure Liquid Level Detection, pLLD
 
 When pipetting non-conductive liquids or in the case of an insufficient electrical coupling between the container bottom and the carrier, Hamilton recommends to use the advantage of pressure LLD.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Pressure LLD only works with new and empty tips. The suitable settings depend on the tip size and on the type of liquid.t conductive coupling of carrier and labware (tubes or microplates) is crucial.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Pressure LLD only works with new and empty tips. The suitable settings depend on the tip size and on the type of liquid.t conductive coupling of carrier and labware (tubes or microplates) is crucial.</p></td></tr></tbody></table>
 
 Settings available for example, the 1000µl-pipetting channels:
 

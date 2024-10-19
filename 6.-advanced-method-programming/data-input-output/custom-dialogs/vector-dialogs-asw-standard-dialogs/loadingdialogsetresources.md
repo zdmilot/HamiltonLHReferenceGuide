@@ -9,9 +9,11 @@ Sets the optional header resources (captions / localizations).
 
 Default values are
 
-Column 1��������� Column 2��������� Column 3
+Column 1          Column 2          Column 3
 
-"Position"��� "Quantity"��� "Description"
+&#x20;
+
+"Position"    "Quantity"    "Description"
 
 ## Arguments & Return Values
 

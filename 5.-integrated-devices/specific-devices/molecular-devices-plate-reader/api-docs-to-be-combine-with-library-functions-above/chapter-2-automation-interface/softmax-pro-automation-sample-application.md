@@ -4,9 +4,9 @@
 
 The SoftMax Pro Automation Sample Application allows you to prototype and test code. The SoftMax Pro Automation Sample Application binds the automation interface to a Microsoft scripting control.
 
-![](../../../../../.gitbook/assets/0.png)
+![](<../../../../../.gitbook/assets/0 (1).png>)
 
-![](../../../../../.gitbook/assets/1.png)
+![](<../../../../../.gitbook/assets/1 (1).png>)
 
 **Note:** The SoftMax Pro Automation Sample Application is not intended for use in an actual laboratory or research environment.
 
@@ -25,13 +25,13 @@ After you prototype the programming code in the Script area in the Scripting Win
 The automation interface allows you to use your preferred programming language to develop custom applications and create new projects with Visual Studio.
 
 1. Select the relevant template (for example, Windows Form Application, WPF Application, or Console Application).
-2. Add a reference to each of the following assemblies: ![](<../../../../../.gitbook/assets/2 (1).png>) SoftMax Pro AutomationClient.dll
+2. Add a reference to each of the following assemblies: ![](<../../../../../.gitbook/assets/2 (1) (1).png>) SoftMax Pro AutomationClient.dll
 
-![](<../../../../../.gitbook/assets/3 (1).png>) SoftMaxPro.AutomationInterface.dll ![](../../../../../.gitbook/assets/4.png) SoftMaxPro.AutomationExtensions.dll
+![](<../../../../../.gitbook/assets/3 (1) (1).png>) SoftMaxPro.AutomationInterface.dll ![](<../../../../../.gitbook/assets/4 (1).png>) SoftMaxPro.AutomationExtensions.dll
 
 The default installation places these assembles in the following path: C:\Program Files (x86)\Molecular Devices\SoftMax Pro n.n Automation SDK
 
-![](<../../../../../.gitbook/assets/5 (1).png>)
+![](<../../../../../.gitbook/assets/5 (1) (1).png>)
 
 **Note:** The SoftMax Pro Automation Sample Application does not display the assembly because the assembly loads dynamically at run time and is injected into the scripting interface. You must reference the assembly for normal application development.
 

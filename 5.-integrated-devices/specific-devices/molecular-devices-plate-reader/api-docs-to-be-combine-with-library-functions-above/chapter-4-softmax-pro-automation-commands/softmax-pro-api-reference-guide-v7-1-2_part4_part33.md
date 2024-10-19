@@ -1,13 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part33
-
-}\
-}\
-private void Error( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }
-
-SaveAs
+# SaveAs
 
 Int32 SaveAs(String pathname)\
 The SaveAs command saves the current document as a data document or a protocol. Define the document type by the file extension in the path statement. For the SoftMax Pro Software - Standard edition, use the \*.sda file extension for data documents and \*.spr file extension for protocols. For the SoftMax Pro Software -GxP edition, do not enter a file extension.
@@ -41,3 +32,17 @@ SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
 Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if( mStatusID == e.QueueID )\
 {\
 Results.AppendResult(e.StringResult);
+
+}\
+if( e.QueueEmpty)\
+{\
+Results.AppendResult("Queue empty - disconnecting events");\
+AutomationObject.ErrorReport -= Error;\
+AutomationObject.CommandCompleted -= CommandCompleted;\
+AutomationObject.Dispose();\
+}\
+}\
+private void Error( object sender,\
+SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
+{\
+Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }

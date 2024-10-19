@@ -1,10 +1,6 @@
 # SetButtonResources
 
-| �SetButtonResources |   |
-| ------------------- | - |
-| �Syntax             |   |
-
-##
+## Syntax
 
 | SetButtonResources ( | variable i\_strOk,     |            |
 | -------------------- | ---------------------- | ---------- |

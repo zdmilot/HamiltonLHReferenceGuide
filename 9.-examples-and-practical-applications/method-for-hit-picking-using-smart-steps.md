@@ -98,7 +98,7 @@ The Deck Layout contains (see picture below):
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The “AllHits” Sequence was created in the previous step and the current position of the sequence is undefined.</em></p><p><em>To set, use the SetCurrentPosition command from the General Steps or in the load step, set the start Position to 1.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The “AllHits” Sequence was created in the previous step and the current position of the sequence is undefined.</em></p><p><em>To set, use the SetCurrentPosition command from the General Steps or in the load step, set the start Position to 1.</em></p></td></tr></tbody></table>
 
     \
     \

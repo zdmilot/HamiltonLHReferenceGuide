@@ -2,7 +2,7 @@
 
 VENUS Software offers a dispense on the fly (Single Step). This step does not stop the x- movement while pipetting which allows a very fast dispensing of liquid, e.g. to fill a plate with reagent.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>This feature is available for 1000µl-pipetting channels and for 5ml-pipetting channels.</em>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>This feature is available for 1000µl-pipetting channels and for 5ml-pipetting channels.</em>.</p></td></tr></tbody></table>
 
 
 
@@ -72,13 +72,13 @@ Example: A1 / B1 must be left empty since it is a blank position on the reader p
 
 Add a separate dispense step after dispense on the fly, using the dispense mode ‘Drain tip in jet mode’ to dispense the rest of the volume out of the tip.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Make sure that the liquid class in the aspiration is set to DispenseJet Part Volume, otherwise the “Dispense on the Fly” Step will show an error.</em></p><p><em>Run some tests on the instrument to properly adjust the x-speed during dispense. Set the value to “0” to let VENUS calculate the x-speed.</em></p><p><em>The x-speed during dispense depends on the volume, the liquid class parameters and the labware geometry.</em>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Make sure that the liquid class in the aspiration is set to DispenseJet Part Volume, otherwise the “Dispense on the Fly” Step will show an error.</em></p><p><em>Run some tests on the instrument to properly adjust the x-speed during dispense. Set the value to “0” to let VENUS calculate the x-speed.</em></p><p><em>The x-speed during dispense depends on the volume, the liquid class parameters and the labware geometry.</em>.</p></td></tr></tbody></table>
 
 <table><thead><tr><th width="445"></th><th></th></tr></thead><tbody><tr><td><p>A table guide to find the correct settings. Liquid: Water</p><p>Tip Size: High volume 1000ul, no filter</p><p>Liquid Class:High_Volume_Water_DispenseJet_Part Shots per pipetting channel: 12 (full plate)</p></td><td><img src="../.gitbook/assets/image (60) (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Different tip sizes, liquid classes and shoot numbers may require different settings.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Different tip sizes, liquid classes and shoot numbers may require different settings.</em></p></td></tr></tbody></table>
 
 
 

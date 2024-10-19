@@ -1,11 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part15
-
-AutomationObject.ErrorReport -= Error;\
-AutomationObject.Dispose();\
-}\
-}
-
-GetFormulaResult
+# GetFormulaResult
 
 Int32 GetformulaResult(String results)\
 The GetFormulaResult command returns the result from a formula. This command requires the name of the formula, name of either the Note section or the Group section, and the name of the experiment. If you do not specify the experiment name, it searches from the first experiment in the document.

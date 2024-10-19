@@ -4,7 +4,7 @@ Use the Instrument Connection dialog to connect the SoftMax Pro Software to the 
 
 **Note:** You can use the software without a physical connection between the computer and the instrument in Offline mode to do data analysis or in Simulator mode to create protocols.
 
-![](<../../../.gitbook/assets/0 (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/0 (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/1 (2) (1).jpeg>)
 
@@ -25,7 +25,7 @@ To select an instrument:
 
 1. Click **OK**. The Home tab displays an icon for the instrument you select.
 
-![](<../../../.gitbook/assets/5 (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/5 (1) (1) (1) (1) (1).png>)
 
 **Note:** The ![](<../../../.gitbook/assets/6 (2) (1) (1).png>) icon is for troubleshooting purposes only.
 

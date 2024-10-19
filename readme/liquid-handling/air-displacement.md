@@ -29,7 +29,7 @@ Transferring small volumes of liquid accurately, and without contamination, is s
 
 Of the above options the air displacement pipette has become the go-to technology for speed, accuracy, and precision. Air displacement pipettes were invented in the 1950s but were not available for sale until the 1960s when Eppendorf introduced the microlter system \[6]. Gilson, Finnpipette, and other companies followed suit in the 1970s and now there are pipettes available from many manufacturers which can pipette volumes from 10ml down to a few microlitres.
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **How the air displacement pipette works**
 
@@ -91,7 +91,7 @@ Here I will only present the first two of these methods (see \[5] for descriptio
 
 #### **Method 1: Forward (‘normal’) mode pipetting**
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This is the standard method used for the majority of samples (see Figure 3).
 

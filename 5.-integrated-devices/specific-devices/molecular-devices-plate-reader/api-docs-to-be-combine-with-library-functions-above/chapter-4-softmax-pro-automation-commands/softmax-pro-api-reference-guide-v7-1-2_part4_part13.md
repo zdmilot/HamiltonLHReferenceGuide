@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part13
-
-GetDocuments
+# GetDocuments
 
 Int32 GetDocuments(folderName)\
 The GetDocuments command extracts document information.

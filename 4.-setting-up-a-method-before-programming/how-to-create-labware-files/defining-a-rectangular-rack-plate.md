@@ -5,7 +5,7 @@ The following section illustrates the procedures for defining a labware using th
 
 For ease of use, in defining a rack for the containers, ensure that all racks and containers defined have clear and distinct names.
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select “New -> Rectangular Rack” from the File Menu in the Labware Editor. A series of dialog boxes will appear allowing the programmer to design the rack.
    * Always choose “Regular rectangular rack” to define or modify rectangular racks and microplates. Choosing “Microplate” requests only a subset of the information relevant for the ML STAR.
@@ -44,7 +44,7 @@ For ease of use, in defining a rack for the containers, ensure that all racks an
 6.  Specify the dimensions of each segment in mm as shown below.\
 
 
-    <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7. Click \[OK] on the “Geometry Segment” Screen and click \[Next >] on the “Rack Definition” Wizard.
 8. After doing so, a new wizard will display, still requiring values.
 9. In this dialog, key in the following:
@@ -63,7 +63,7 @@ For ease of use, in defining a rack for the containers, ensure that all racks an
        <figure><img src="../../.gitbook/assets/image (122) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
        \
-       ![](<../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
+       ![](<../../.gitbook/assets/image (21) (1) (1) (1) (1) (1).png>)
    * Tick “Include Rack Boundary”, to allow the boundaries to be set in one of the next steps.
 10. Click \[Next >], to get the “Rectangular Rack Measurements” Dialog box shown below.
 11. Enter the distance between the holes in:
@@ -90,7 +90,7 @@ For ease of use, in defining a rack for the containers, ensure that all racks an
 18. To handle the offsets for each container, click \[Containers with Offset]. All the containers with their offsets are listed in a table as presented below.\
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Update common values first, followed by updating each position through the grid, and the “fine tune” offset values.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Update common values first, followed by updating each position through the grid, and the “fine tune” offset values.</em></p></td></tr></tbody></table>
 
     \
     \
@@ -104,7 +104,7 @@ For ease of use, in defining a rack for the containers, ensure that all racks an
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The offset values are per container position only.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The offset values are per container position only.</em></p></td></tr></tbody></table>
 
 
 

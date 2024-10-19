@@ -1,6 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part8
-
-ExportAs
+# ExportAs
 
 Int32 ExportAs(String path, ExportAsFormat exportAsFormat)\
 The ExportAs command exports data in the Columns, Plate, or .xml format. The ExportAs command overwrites any existing file without warning.
@@ -42,3 +40,17 @@ commandID = AutomationObject.ExportAs("C:\\\COLUMNS.txt",\
 SoftMaxPro.AutomationClient.SMPAutomationClient.ExportAsFormat.TIME); Results.AppendResult("Command ID = " + commandID.ToString() ); }\
 private void Error( object sender,\
 SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)
+
+{\
+Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }\
+private void CommandCompleted( object sender,\
+SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
+{\
+Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if( e.QueueEmpty)\
+{\
+Results.AppendResult("Queue empty - disconnecting events");\
+AutomationObject.ErrorReport -= Error;\
+AutomationObject.CommandCompleted -= CommandCompleted;\
+AutomationObject.Dispose();\
+}\
+}

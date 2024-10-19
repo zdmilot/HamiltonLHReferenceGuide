@@ -1,20 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part34
-
-}\
-if( e.QueueEmpty)\
-{\
-Results.AppendResult("Queue empty - disconnecting events");\
-AutomationObject.ErrorReport -= Error;\
-AutomationObject.CommandCompleted -= CommandCompleted;\
-AutomationObject.Dispose();\
-}\
-}\
-private void Error( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }
-
-SelectNextPlateSection
+# SelectNextPlateSection
 
 Int32 SelectNextPlateSection()\
 The SelectNextPlateSection command selects the next Plate section in an experiment.
@@ -43,3 +27,13 @@ SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
 Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if( e.QueueEmpty)\
 {\
 Results.AppendResult("Queue empty - disconnecting events");
+
+AutomationObject.ErrorReport -= Error;\
+AutomationObject.CommandCompleted -= CommandCompleted;\
+AutomationObject.Dispose();\
+}\
+}\
+private void Error( object sender,\
+SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
+{\
+Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }

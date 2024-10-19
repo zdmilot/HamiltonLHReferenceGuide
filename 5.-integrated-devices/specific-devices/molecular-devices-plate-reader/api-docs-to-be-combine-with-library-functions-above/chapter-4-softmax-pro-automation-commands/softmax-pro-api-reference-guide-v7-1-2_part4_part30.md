@@ -1,20 +1,4 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part30
-
-AutomationObject.InstrumentStatusChanged -= InstrumentStatus;\
-AutomationObject.Dispose();\
-}\
-}\
-private void Error( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
-{\
-Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }\
-private void InstrumentStatus( object sender,\
-SoftMaxPro.AutomationClient.SMPAutomationClient.InstrumentStatusEventArgs e)\
-{\
-Results.AppendResult("Status changed to " + e.Status);\
-}
-
-OpenDrawer
+# OpenDrawer
 
 OpenDrawer()\
 CloseDrawer(String drawerType)\
@@ -93,4 +77,10 @@ SoftMaxPro.AutomationClient.SMPAutomationClient.CommandStatusEventArg e)\
 Results.AppendResult("Command complete Command ID = " + e.QueueID.ToString() ); if( mStatusID== e.QueueID )\
 {\
 Results.AppendResult( "Result: " +e.StringResult);\
+}
+
+if( e.QueueEmpty)\
+{\
+Results.AppendResult("Queue empty - disconnecting events");\
+AutomationObject.CommandCompleted -= CommandCompleted;AutomationObject.Dispose(); }\
 }

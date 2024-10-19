@@ -28,6 +28,8 @@ b)    The Timer will be stopped as soon as there is an interaction by the user (
 
 In this case dialog have to be closed by the user.
 
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ## Arguments & Return Values
 
 | argument           | range              | description                                                                                                            | key |

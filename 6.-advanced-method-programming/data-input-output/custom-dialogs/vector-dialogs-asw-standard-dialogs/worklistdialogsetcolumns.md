@@ -2,12 +2,12 @@
 
 ## Syntax
 
-| WorklistDialogSetColumns ( | variable i\_arrColumnNames\[] ) variable |   |
-| -------------------------- | ---------------------------------------- | - |
+| WorklistDialogSetColumns ( | variable i\_arrColumnNames\[] ) variable |
+| -------------------------- | ---------------------------------------- |
 
 Sets the columns names of the worklist view.\
 \
-
+![](<../../../../.gitbook/assets/image (14).png>)
 
 ## Arguments & Return Values
 

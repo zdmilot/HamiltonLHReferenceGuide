@@ -23,6 +23,8 @@
 
 Creates a n-ImageRadioButton Dialog.
 
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ## Arguments & Return Values
 
 
@@ -44,7 +46,7 @@ Creates a n-ImageRadioButton Dialog.
 | io\_arrIsSelected\[]  | integer array      | defines the preselection of each checkbox / returns selected radiobutton/s                                                                                                                                   |
 | i\_arrGroupName\[]    | string array       | defines the optional groups for different radiobutton groupings (optional)                                                                                                                                   |
 | i\_intWrapOrientation | integer\[0..1]     | <p>sets the orientation of the group content layout container, horizontal or vertical</p><p>(Enumerations R)</p>                                                                                             |
-| i\_intSortDirection   | integer \[0..2]    | <p>defines the sorting direction for the labels (important for the arrangement in a group)</p><p>if you choose �Unsorted� your given order by default (array i_arrLabels) is used</p><p>(Enumerations R)</p> |
+| i\_intSortDirection   | integer \[0..2]    | <p>defines the sorting direction for the labels (important for the arrangement in a group)</p><p>if you choose "Unsorted" your given order by default (array i_arrLabels) is used</p><p>(Enumerations R)</p> |
 | return values         | integer \[-9..7]   | value of clicked dialog button (see also ASWGlobal.hsl) or error value (return value < 0, see also chapter Errorcodes)                                                                                       |
 
 ## Example of RadioButtonDialog

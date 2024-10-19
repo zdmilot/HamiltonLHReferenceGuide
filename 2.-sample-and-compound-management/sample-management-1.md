@@ -1,6 +1,6 @@
 # Sample Management
 
-![](<../.gitbook/assets/0 (1) (1) (1) (1) (1).jpeg>)![](<../.gitbook/assets/1 (10) (1) (1).png>)![](<../.gitbook/assets/2 (9) (1) (1).png>)![](<../.gitbook/assets/3 (12) (1) (1).png>)
+![](<../.gitbook/assets/0 (1) (1) (1) (1) (1) (1).jpeg>)![](<../.gitbook/assets/1 (10) (1) (1).png>)![](<../.gitbook/assets/2 (9) (1) (1).png>)![](<../.gitbook/assets/3 (12) (1) (1).png>)
 
 **SAMPLE MANAGEMENT**
 

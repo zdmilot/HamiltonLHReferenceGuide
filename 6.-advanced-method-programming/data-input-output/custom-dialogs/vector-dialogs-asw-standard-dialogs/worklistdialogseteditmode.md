@@ -7,7 +7,7 @@
 
 Set the edit mode of the work list view. According to the selected edit mode the visibility of the radio buttons and buttons will changed.
 
-�\
+![](<../../../../.gitbook/assets/image (15).png>)\
 \
 
 

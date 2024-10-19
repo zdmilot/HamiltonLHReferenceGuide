@@ -1,12 +1,6 @@
-# softmax pro api reference guide v7 1 2\_Part4\_Part31
+# OpenFile
 
-if( e.QueueEmpty)\
-{\
-Results.AppendResult("Queue empty - disconnecting events");\
-AutomationObject.CommandCompleted -= CommandCompleted;AutomationObject.Dispose(); }\
-}
 
-OpenFile
 
 Int32 OpenFile(String pathname)\
 The OpenFile command opens a protocol or data document. If the file is not found, the SoftMax Pro application does nothing.
@@ -43,3 +37,12 @@ if( e.QueueEmpty)\
 {\
 Results.AppendResult("Queue empty - disconnecting events");\
 AutomationObject.ErrorReport -= Error;
+
+AutomationObject.CommandCompleted -= CommandCompleted;\
+AutomationObject.Dispose();\
+}\
+}\
+private void Error( object sender,\
+SoftMaxPro.AutomationClient.SMPAutomationClient.ErrorEventArgs e)\
+{\
+Results.AppendResult("Error: Command ID = " + e.QueueID.ToString() + " - " + e.Error); }
