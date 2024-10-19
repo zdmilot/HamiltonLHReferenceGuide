@@ -818,6 +818,7 @@
 * [18. Quick Guides](18.-quick-guides.md)
 * [18. Error Index](13.-error-index/README.md)
   * [Hardware Issues](13.-error-index/hardware-issues/README.md)
+    * [Removing a Stuck Tip](13.-error-index/hardware-issues/removing-a-stuck-tip.md)
     * [Channel Seal Error](13.-error-index/hardware-issues/channel-seal-error.md)
   * [Users.cfg Corruption Solution](13.-error-index/users.cfg-corruption-solution.md)
   * [Fixing Syntax Errors with ASW Libraries](13.-error-index/fixing-syntax-errors-with-asw-libraries.md)
