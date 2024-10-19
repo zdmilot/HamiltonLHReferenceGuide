@@ -11,7 +11,7 @@ liquid handling refers to the automated processes used in laboratories to precis
 
 lab automation, specifically liquid handling, refers to the use of robotic systems to automate the process of handling and manipulating liquids, such as pipetting, dispensing, and mixing, in laboratory settings.
 
-these systems
+These systems:
 
 * enable precise and efficient transfer of liquids
 * reduce manual labor and minimize errors
@@ -30,4 +30,4 @@ Liquid handlers are automated robotic systems used to precisely dispense and tra
 * handling hazardous or infectious liquids with minimal human exposure. [2](https://www.promegaconnections.com/exploring-instrumentation-for-your-lab-particle-movers-vs-liquid-handlers/)
 * applications like PCR setup, ELISA, nucleic acid extraction, next-gen sequencing library prep where consistent liquid transfers are critical. [5](https://www.aurorabiomed.com/beginners-guide-to-understanding-automated-liquid-handling/)
 
-the key advantages of liquid handlers are their ability to pipette extremely small volumes (micro/nanoliters) with high reproducibility, perform high-throughput liquid transfers rapidly, integrate accessory modules for automated workflows, and provide sample traceability.
+The key advantages of liquid handlers are their ability to pipette extremely small volumes (micro/nanoliters) with high reproducibility, perform high-throughput liquid transfers rapidly, integrate accessory modules for automated workflows, and provide sample traceability.

@@ -142,7 +142,7 @@ During the development and testing phase, the instrument should be set to “TAD
 
 The settings for the TADM modes / TADM Upload Modes can be set individually for every pipetting device such as 1000ul channels, 5ml channels and the CO-RE 96 Head.
 
-![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1) (1) (1) (1).png>)
+![Fig. 10: System Configuration Editor: TADM settings](<../../.gitbook/assets/16 (1) (1) (1) (1) (1).png>)
 
 Select your instrument (STAR, STARlet, STARplus) in the left of the window, and then scroll down the right side of the window to the entry "TADM settings". Change "TADM Mode" to "Recording" for the desired pipetting devices. Close the System Configuration Editor and save the changes.
 
@@ -170,7 +170,7 @@ Enter the new name (e.g. with suffix “\_TADM”) and close the dialog by click
 
 The newly created class will be added at the end of the list:
 
-![Fig. 13: The newly created liquid class is added to the list](<../../.gitbook/assets/20 (1) (1) (1).png>)
+![Fig. 13: The newly created liquid class is added to the list](<../../.gitbook/assets/20 (1) (1) (1) (1).png>)
 
 
 

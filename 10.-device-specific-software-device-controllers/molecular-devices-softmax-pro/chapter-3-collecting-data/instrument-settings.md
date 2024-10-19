@@ -44,19 +44,19 @@ To define acquisition settings:
 1. In the Navigation Tree, select a Plate section or Cuvette Set section.
 2. Click ![](<../../../.gitbook/assets/10 (2) (1).jpeg>) in the section toolbar, in the Settings Information area, or on the Home tab to display the Settings dialog.
 3. For the SpectraMax Paradigm, SpectraMax i3, and SpectraMax i3x, select the detection cartridge or optical configuration to use. This determines the available read modes. See Selecting a Detection Cartridge or Optical Configuration on page 111.
-4. For all instruments, select a read mode. This determines the available read types. ![](<../../../.gitbook/assets/11 (1) (1).png>) Absorbance Read Mode on page 278
+4. For all instruments, select a read mode. This determines the available read types. ![](<../../../.gitbook/assets/11 (1) (1) (1).png>) Absorbance Read Mode on page 278
 
 ![](<../../../.gitbook/assets/12 (2) (1).png>) Fluorescence Intensity Read Mode on page 284
 
 ![](<../../../.gitbook/assets/13 (2) (1).png>) Luminescence Read Mode on page 289 (Luminescence Dual Wavelength is available for the SpectraMax L and SpectraMax iD5)
 
-![](<../../../.gitbook/assets/14 (2) (1).png>) Time-Resolved Fluorescence Read Mode on page 293 ![](<../../../.gitbook/assets/15 (1) (1).png>) FRET Read Mode on page 298
+![](<../../../.gitbook/assets/14 (2) (1).png>) Time-Resolved Fluorescence Read Mode on page 293 ![](<../../../.gitbook/assets/15 (1) (1) (1).png>) FRET Read Mode on page 298
 
-![](<../../../.gitbook/assets/16 (1) (1).png>) HTRF Read Mode on page 300
+![](<../../../.gitbook/assets/16 (1) (1) (1).png>) HTRF Read Mode on page 300
 
-![](<../../../.gitbook/assets/17 (2) (1).png>) Fluorescence Polarization Read Mode on page 303 ![](<../../../.gitbook/assets/18 (1) (1).png>) AlphaScreen Read Mode on page 306
+![](<../../../.gitbook/assets/17 (2) (1).png>) Fluorescence Polarization Read Mode on page 303 ![](<../../../.gitbook/assets/18 (1) (1) (1).png>) AlphaScreen Read Mode on page 306
 
-![](<../../../.gitbook/assets/19 (10).png>) ScanLater Western Blot TRF Read Mode on page 309 ![](<../../../.gitbook/assets/20 (1) (1).png>) Imaging Read Mode on page 312
+![](<../../../.gitbook/assets/19 (10).png>) ScanLater Western Blot TRF Read Mode on page 309 ![](<../../../.gitbook/assets/20 (1) (1) (1).png>) Imaging Read Mode on page 312
 
 1. Select a read type. This determines which setting categories appear in the Category list.  Endpoint Read Type on page 275
 

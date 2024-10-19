@@ -24,12 +24,12 @@
 
 4.  Select yes when prompted to install the Portable WINCDEmu Driver.
 
-    ![](<../../.gitbook/assets/2 (1) (1) (1) (1) (1).png>)
+    ![](<../../.gitbook/assets/2 (1) (1) (1) (1) (1) (1).png>)
 
 
 5.  Open the Portable WinCDEmu-4.0. application located in the Venus 4 software folde
 
-    <figure><img src="../../.gitbook/assets/1 (1) (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
 
 
 
