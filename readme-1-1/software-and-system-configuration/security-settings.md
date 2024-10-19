@@ -8,4 +8,4 @@ In the “Security settings”:
 * Enable/disable the audit trail, i.e. a protocol of methods that are run
 * Enable/disable the protocol of the files used by methods
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

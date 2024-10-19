@@ -23,7 +23,7 @@ The plate carrier on the EMax Plus moves in and out of the read chamber during t
 
 ![](<../../../.gitbook/assets/9 (3) (1) (1).png>) For the SpectraMax i3x, SpectraMax Paradigm, SpectraMax iD3, SpectraMax iD5, FilterMax F3, and FilterMax F5 and you select to do pre-read optimizations, the Pre- Read Optimization Options dialog displays. See Pre-Read Optimization Options on page 184.
 
-![](<../../../.gitbook/assets/10 (1) (1) (1) (1) (1).png>) For the SpectraMax i3x and SpectraMax Paradigm with a Tunable Wavelength (TUNE) Detection Cartridge and select to run spectral optimization, the Spectral Optimization Wizard runs before the plate is read. See Spectral Optimization on page 182.
+![](<../../../.gitbook/assets/10 (1) (1) (1) (1) (1) (1).png>) For the SpectraMax i3x and SpectraMax Paradigm with a Tunable Wavelength (TUNE) Detection Cartridge and select to run spectral optimization, the Spectral Optimization Wizard runs before the plate is read. See Spectral Optimization on page 182.
 
 1. After the read completes, the plate drawer opens so you can remove the plate. If temperature control is on, the drawer closes again after approximately 10 seconds.
 2. After the read completes, save the document and do any additional data analysis.

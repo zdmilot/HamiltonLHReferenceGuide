@@ -9,7 +9,7 @@ With this information from the sample tracker, the user can:
 * Use the output to link it to a LIMS
 * Use the output file for documentation (GLP)
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To configure, collect and visualize tracker data, use the Generate Mapping File step from the Data handling step collection.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To configure, collect and visualize tracker data, use the Generate Mapping File step from the Data handling step collection.</p></td></tr></tbody></table>
 
 \
 
@@ -78,7 +78,7 @@ The \[Customize] Button offers multiple options to customize the output mapping 
     \
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>When the aspirate step is mixing the liquid, it will create an entry in the database. To suppress this liquid transfer, check the checkbox “Exclude multiple entries if source is mixed”. Otherwise, at least two lines per sample will be found.</p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>When the aspirate step is mixing the liquid, it will create an entry in the database. To suppress this liquid transfer, check the checkbox “Exclude multiple entries if source is mixed”. Otherwise, at least two lines per sample will be found.</p></td></tr></tbody></table>
 
 
 

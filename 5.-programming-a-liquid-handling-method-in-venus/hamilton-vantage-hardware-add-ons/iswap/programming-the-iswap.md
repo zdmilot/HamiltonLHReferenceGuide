@@ -6,7 +6,7 @@ The following example demonstrates the use of iSWAP with Microlab STAR. A plate 
 
 <figure><img src="../../../.gitbook/assets/image (95) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To save deck space, the stacker carrier can be positioned 4 tracks to the left of the deck (track positions –3 to +3), and the plates will still be fully accessible by the iSWAP.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To save deck space, the stacker carrier can be positioned 4 tracks to the left of the deck (track positions –3 to +3), and the plates will still be fully accessible by the iSWAP.</p></td></tr></tbody></table>
 
 
 

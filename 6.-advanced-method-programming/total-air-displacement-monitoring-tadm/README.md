@@ -10,7 +10,7 @@ The TADM feature 5.1 supports all pipetting channels such as the (old) 300μl ch
 
 TADM (Total Aspiration and Dispense Monitoring) is a tool to increase the safety and the robustness of pipetting processes. A pressure sensor inside each individual pipetting channel constantly records the pressure in the system during aspiration and dispensing.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Fig. 1: Air displacement system with pressure sensor for TADM</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Fig. 1: Air displacement system with pressure sensor for TADM</strong></p></figcaption></figure>
 
 The software generates a pressure / time curve (See Fig. 2) that is different for each liquid (class) and each volume pipetted. The values obtained by the pressure sensor during a pipetting step (aspiration or dispensing) can be compared to user-defined values, which means real-time monitoring of the pipetting process.
 
@@ -56,13 +56,13 @@ In the scenarios listed above, TADM doesn’t offer a benefit or might not even 
 
 During aspiration, TADM monitors the pressure in the channel and reports it in a curve. The curve can be used to detect anomalies in the aspiration. Use the figure to read the different aspects of the TADM curve.
 
-<figure><img src="../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## How to Read an Dispense TADM Curve
 
 During dispensing, TADM monitors the pressure in the channel and reports it in a curve. The curve can be used to detect anomalies in the dispense. Use the figure to read the different aspects of the TADM curve.
 
-<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Use TADM Guardbands
 
@@ -70,4 +70,4 @@ When collecting TADM curves, look for consistency in the pressure profiles for e
 
 In the example image below, the green lines are guardbands put in place to monitor aspirations. Any aspiration that results in a line within the guardbands executed as expected. An error occurs when aspiration crosses outside of the guardbands. User or automated error recovery steps could be enabled to address the error.
 
-<figure><img src="../../.gitbook/assets/image (26) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>

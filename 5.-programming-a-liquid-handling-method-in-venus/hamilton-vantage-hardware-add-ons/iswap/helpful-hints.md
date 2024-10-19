@@ -2,7 +2,7 @@
 
 ## Define Special Labware Data / Parameters Only Once
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is possible to unmark the “Generate default deck sequence” in the “Labware” Tab. In this case, no default sequences are created. This option is helpful if many special sequences have to be created.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is possible to unmark the “Generate default deck sequence” in the “Labware” Tab. In this case, no default sequences are created. This option is helpful if many special sequences have to be created.</p></td></tr></tbody></table>
 
 If the default values for GripForce, GripWidth, GripHeigth, OpeningWidthBeforeAccess (because an own new plate labware has been created or the method must use different values) are not used, it would seem sensible to save these parameters in a variable. This can be done by selecting “View” -> “Variables” in the Method Editor.
 

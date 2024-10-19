@@ -4,7 +4,7 @@ description: How to automate decision-making and repeated actions in Venus.
 
 # Inserting Conditions and Loops
 
-![](<../../../.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### ![](<../../../.gitbook/assets/1 (1) (1) (1) (1) (1).jpeg>)Loops <a href="#slide-number-2" id="slide-number-2"></a>
 
@@ -22,11 +22,11 @@ Repeat until the selected file has reached its end: no more records
 
 ### ![](<../../../.gitbook/assets/2 (1) (1) (1) (1) (1).jpeg>)Using Loops <a href="#slide-number-3" id="slide-number-3"></a>
 
-![](<../../../.gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1).png>)Add the General Step **Loop** to your Method and the **Loop** dialogue window appears
+![](<../../../.gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Add the General Step **Loop** to your Method and the **Loop** dialogue window appears
 
-![](<../../../.gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1).png>)Select the way to Loop, provide any info needed, and click **OK**
+![](<../../../.gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Select the way to Loop, provide any info needed, and click **OK**
 
-![](<../../../.gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1) (1).png>)An empty **Loop**-**End Loop** step combo is added to the Method
+![](<../../../.gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)An empty **Loop**-**End Loop** step combo is added to the Method
 
 Steps added between the **Loop** and **End Loop** will be repeated when the Method runs
 
@@ -34,22 +34,22 @@ Examples:
 
 ### Loops
 
-1. ![](<../../../.gitbook/assets/6 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Repeat the step 12 times
+1. ![](<../../../.gitbook/assets/6 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Repeat the step 12 times
 2. Repeat forever or until the step Loop-Break is encountered
 
-![](<../../../.gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 1. Repeat the pipetting steps until all sequence positions in
 
-![](<../../../.gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1) (1).png>)TargetPlatesX4 are processed
+![](<../../../.gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)TargetPlatesX4 are processed
 
-1. ![](<../../../.gitbook/assets/9 (1) (1) (1) (1) (1) (1) (1) (1).png>)Read each record from the work list until the end-of-file is reached
+1. ![](<../../../.gitbook/assets/9 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Read each record from the work list until the end-of-file is reached
 
 ### Loops <a href="#slide-number-5" id="slide-number-5"></a>
 
 **“Iterate over sequence” =** Repeat the steps inside the loop until the “**Controlling**” sequence runs out of positions (i.e. reaches it’s **End Position)**
 
-![](<../../../.gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **=**
 
@@ -61,7 +61,7 @@ Examples:
 
 **after loop** = **current position** set to 1 _after_ Loop step is finished
 
-![](<../../../.gitbook/assets/13 (1) (1) (1) (1) (1) (1).png>)**before & after loop** = **current position** set to 1 _before & after_ Loop step
+![](<../../../.gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1).png>)**before & after loop** = **current position** set to 1 _before & after_ Loop step
 
 When more than one sequence is checked as **Controlling** then the Loop will end when the first sequence runs out of positions
 

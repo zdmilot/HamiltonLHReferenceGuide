@@ -840,4 +840,10 @@
   * [Invalid class string (0x23 - 0x2 - 0x39)](13.-error-index/invalid-class-string-0x23-0x2-0x39.md)
 * [19. Glossary](14.-glossary.md)
 
-## Custom Dialogs
+## Imported Course
+
+* [Liquid Handling Training](imported-course/liquid-handling-training/README.md)
+  * [Pipetting Technology](imported-course/liquid-handling-training/pipetting-technology.md)
+  * [Pipetting Consumables](imported-course/liquid-handling-training/pipetting-consumables.md)
+  * [Liquid Handling Methodology](imported-course/liquid-handling-training/liquid-handling-methodology.md)
+  * [Best Practices](imported-course/liquid-handling-training/best-practices.md)

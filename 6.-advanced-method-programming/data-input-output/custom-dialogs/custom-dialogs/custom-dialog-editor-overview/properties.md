@@ -2,11 +2,11 @@
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -16,7 +16,7 @@ Allows you to make modifications to the element currently selected in the worksp
    1.  **Appearance** – how the element appears in the dialog.\
 
 
-       <figure><img src="../../../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
        1. **Background colors** can be an effective way to distinguish elements within the dialog.
        2. **Drop Shadow** can add depth to the element, or help it to stand out from the workspace.
@@ -38,7 +38,7 @@ Allows you to make modifications to the element currently selected in the worksp
 
 
 
-       <figure><img src="../../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
        1. Allows for modification of characters, color, font family, size and styling.
        2. Can be a powerful tool for customizing your dialog, and making a polished user prompt.
@@ -47,7 +47,7 @@ Allows you to make modifications to the element currently selected in the worksp
 
 
 
-       <figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
        1. **Close/Return** - For example the bottom element can be delegated as: \
           1 = OK \
@@ -64,31 +64,31 @@ Allows you to make modifications to the element currently selected in the worksp
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,21 +96,21 @@ Allows you to make modifications to the element currently selected in the worksp
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -124,4 +124,4 @@ Clicking this icon produces the variable designation window.
 * Choose a pre-existing variable from the drop down, or create a new one by typing the name in the middle cell.
 * Hit the green check mark to initialize the variable. X to remove a binding.
 
-<figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>

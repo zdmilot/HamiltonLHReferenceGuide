@@ -11,7 +11,7 @@ In the event that the SQL Server database has already been created and you want 
 * Without clicking on anything else, start typing compmgmt.msc (2)
 *   Click on the computer management shortcut, compmgmt.msc (3)
 
-    ![](<../../../.gitbook/assets/image (30) (1) (1) (1) (1) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (30) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 * On the Computer Management screen expand Services and Applications (1)
 * Expand SQL Server Configuration Manager (2)
@@ -19,4 +19,4 @@ In the event that the SQL Server database has already been created and you want 
 *   Look for the name in parentheses (4), that is the database name
 
     \
-    ![](<../../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (1).png>)
+    ![](<../../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (1) (1).png>)

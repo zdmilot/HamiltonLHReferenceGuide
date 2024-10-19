@@ -7,7 +7,7 @@
 
 Sets the columns names of the worklist view.\
 \
-![](<../../../../.gitbook/assets/image (14) (1).png>)
+![](<../../../../.gitbook/assets/image (14) (1) (1).png>)
 
 ## Arguments & Return Values
 

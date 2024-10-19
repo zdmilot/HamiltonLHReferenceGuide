@@ -24,5 +24,5 @@ To link the deck layout to the new method, simply follow these steps:
 5. As soon as the method uses instrument-specific steps, the “ML STAR” Option in the “Instrument” Section of the “Instruments” Dialog (see image shown above), is locked and can no longer be disabled. The system deck can no longer be separated from the method until all instrument-specific steps are deleted again. The same applies to the options in the Smart Steps Section.\
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Instrument specific commands are only visible if an instrument is linked to a deck layout.</p><p>Linking the deck of another instrument to a ML STAR will result in an error message.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Instrument specific commands are only visible if an instrument is linked to a deck layout.</p><p>Linking the deck of another instrument to a ML STAR will result in an error message.</p></td></tr></tbody></table>
 

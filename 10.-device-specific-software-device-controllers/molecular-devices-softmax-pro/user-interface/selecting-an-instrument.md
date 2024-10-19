@@ -4,7 +4,7 @@ Use the Instrument Connection dialog to connect the SoftMax Pro Software to the 
 
 **Note:** You can use the software without a physical connection between the computer and the instrument in Offline mode to do data analysis or in Simulator mode to create protocols.
 
-![](<../../../.gitbook/assets/0 (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/1 (2) (1).jpeg>)
 
@@ -25,7 +25,7 @@ To select an instrument:
 
 1. Click **OK**. The Home tab displays an icon for the instrument you select.
 
-![](<../../../.gitbook/assets/5 (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1).png>)
 
 **Note:** The ![](<../../../.gitbook/assets/6 (2) (1) (1) (1).png>) icon is for troubleshooting purposes only.
 
@@ -70,11 +70,11 @@ For users that use the SoftMax Pro Software - GxP edition to operate the instrum
 
 ![](<../../../.gitbook/assets/11 (15).png>) SoftMax Pro Software - GxP edition version 7.0.3 users require the Sign Signature permission.
 
-![](<../../../.gitbook/assets/12 (1) (1) (1) (1) (1).png>) SoftMax Pro Software - GxP edition version 7.1.1 and later users require the Lock/Unlock Instrument permission.
+![](<../../../.gitbook/assets/12 (1) (1) (1) (1) (1) (1).png>) SoftMax Pro Software - GxP edition version 7.1.1 and later users require the Lock/Unlock Instrument permission.
 
 In the Ribbon, on the GxP tab, users with appropriate permission can use the following icons to lock and unlock the instrument touchscreen:
 
-![](<../../../.gitbook/assets/13 (1) (1) (1) (1) (1).png>) Click ![](<../../../.gitbook/assets/14 (1).jpeg>) **GxP Mode On** to lock the instrument touchscreen and operate the instrument from the computer running the SoftMax Pro Software in GxP mode. This locks the instrument touchscreen for all users and you must operate the instrument from a computer running the SoftMax Pro Software - GxP edition.
+![](<../../../.gitbook/assets/13 (1) (1) (1) (1) (1) (1).png>) Click ![](<../../../.gitbook/assets/14 (1).jpeg>) **GxP Mode On** to lock the instrument touchscreen and operate the instrument from the computer running the SoftMax Pro Software in GxP mode. This locks the instrument touchscreen for all users and you must operate the instrument from a computer running the SoftMax Pro Software - GxP edition.
 
 ![](<../../../.gitbook/assets/15 (12).png>) Click ![](<../../../.gitbook/assets/16 (1) (1).jpeg>) **GxP Mode Off** to release the lock from the instrument touchscreen and allow users to use the instrument touchscreen to run experiments.
 

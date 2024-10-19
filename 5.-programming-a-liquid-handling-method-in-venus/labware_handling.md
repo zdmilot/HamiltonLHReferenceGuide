@@ -10,7 +10,7 @@ There are two options to load labware on the deck: Autoload and manual load. In 
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If no “Load carrier” Commands are specified in the method, no checking of carrier presence is possible</em>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If no “Load carrier” Commands are specified in the method, no checking of carrier presence is possible</em>.</p></td></tr></tbody></table>
 
 
 
@@ -32,7 +32,7 @@ With “Load Carrier” Commands in the method:
 3. Click \[Load] in the dialog.\
    The carriers are loaded onto the deck automatically by the “Load Carrier” Command in the method. At the same time, the barcodes of carriers and labware are read and stored in a file.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If “Sample Tracking” is enabled (in the system configuration editor), the barcodes will be written to the Database.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If “Sample Tracking” is enabled (in the system configuration editor), the barcodes will be written to the Database.</em></p></td></tr></tbody></table>
 
 
 

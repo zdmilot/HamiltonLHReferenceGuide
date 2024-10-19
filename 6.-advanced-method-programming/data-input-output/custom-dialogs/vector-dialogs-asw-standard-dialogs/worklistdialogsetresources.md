@@ -23,7 +23,7 @@
 
 Sets the generic resources in the work list view like dialog titles, labels, the button text and the button tooltips.
 
-![](<../../../../.gitbook/assets/image (17) (1).png>)\
+![](<../../../../.gitbook/assets/image (17) (1) (1).png>)\
 \
 
 
