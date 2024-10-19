@@ -20,15 +20,15 @@ To create a new graph:
 
 **Note:** For scatter plot graphs, you can choose to display error bars for the plot of the data for the X-axis and Y-axis. Error bars are lines that extend outside of a plotted value in either or both directions and graphically represent some error in plotted data.
 
-![](<../../../.gitbook/assets/2 (3) (1).png>)
+![](<../../../.gitbook/assets/2 (3) (1) (1).png>)
 
 1. In the **Plot Attributes** area:
 
-![](<../../../.gitbook/assets/3 (4) (1).png>) Click the **Symbol Style** drop-down and select the symbol to use to mark each data point in a scatter plot graph.
+![](<../../../.gitbook/assets/3 (4) (1) (1).png>) Click the **Symbol Style** drop-down and select the symbol to use to mark each data point in a scatter plot graph.
 
-![](<../../../.gitbook/assets/4 (3) (1).png>) Click the **Symbol Size** drop-down and select the size of the symbol in a scatter plot.
+![](<../../../.gitbook/assets/4 (3) (1) (1).png>) Click the **Symbol Size** drop-down and select the size of the symbol in a scatter plot.
 
-![](<../../../.gitbook/assets/5 (4) (1).png>) Click the **Line** drop-down and select the line style to use between data points in a scatter plot.
+![](<../../../.gitbook/assets/5 (4) (1) (1).png>) Click the **Line** drop-down and select the line style to use between data points in a scatter plot.
 
 ![](<../../../.gitbook/assets/6 (5) (1).png>) Click **Set Color** and select the color of the symbol and the line in a scatter plot or the color of the bar in a bar graph.
 

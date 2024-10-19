@@ -4,13 +4,13 @@ The Settings dialog for the SpectraMax i3, SpectraMax i3x, SpectraMax iD3, and S
 
 The Acquisition view uses an acquisition plan with tools that allows you to define settings in a workflow design when you need to do multi-step plate reads.
 
-![](<../../../.gitbook/assets/1 (7) (1) (1).png>)
+![](<../../../.gitbook/assets/1 (7) (1) (1) (1).png>)
 
 **Note:** You must use the Acquisition view to define reads with injection.
 
 To switch between the views:
 
-![](<../../../.gitbook/assets/2 (7) (1) (1).png>) Click ![](<../../../.gitbook/assets/3 (3) (1) (1).jpeg>) in the lower-left corner in the Settings dialog.
+![](<../../../.gitbook/assets/2 (7) (1) (1) (1).png>) Click ![](<../../../.gitbook/assets/3 (3) (1) (1).jpeg>) in the lower-left corner in the Settings dialog.
 
 **Note:** If you define a read with injection and then switch to the Standard view, your settings are not saved.
 
@@ -37,11 +37,11 @@ Use the top area of the dialog to select the plate settings, read area, and read
 
 ![](<../../../.gitbook/assets/9 (4) (1) (1).png>) Select the **Select All** check box to read all the wells in the plate.
 
-![](<../../../.gitbook/assets/10 (2) (1) (1).png>) To select a contiguous, rectangular region on the plate, use your mouse to drag the pointer and select the wells to read.
+![](<../../../.gitbook/assets/10 (2) (1) (1) (1).png>) To select a contiguous, rectangular region on the plate, use your mouse to drag the pointer and select the wells to read.
 
 1. Select a **Read Order**:
 
-![](<../../../.gitbook/assets/11 (2) (1) (1).png>) Select **Row** to read the entire plate row-by-row.
+![](<../../../.gitbook/assets/11 (2) (1) (1) (1).png>) Select **Row** to read the entire plate row-by-row.
 
 ![](<../../../.gitbook/assets/12 (4) (1).png>) Select **Column** to read the entire plate column-by-column.
 

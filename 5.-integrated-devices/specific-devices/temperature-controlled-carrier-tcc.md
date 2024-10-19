@@ -4,11 +4,11 @@ The temperature controlled carrier (TCC) is a device for heating and cooling of 
 
 A maximum of two TCCs can be placed on one ML STAR and controlled by the VENUS Software. Activate the Temperature Controlled Carrier in the System Configuration Editor (ML STAR Tab).
 
-<figure><img src="../../.gitbook/assets/image (36) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The method is also using the sample tracker to store the pipetting data to a file. It can be activated in the System Configuration Editor (System Tab) as well.
 
-<figure><img src="../../.gitbook/assets/image (38) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -17,7 +17,7 @@ The method is also using the sample tracker to store the pipetting data to a fil
 
 The table below gives a brief overview of the available commands for the TCC.
 
-<table><thead><tr><th>Command</th><th width="175">Icon</th><th></th></tr></thead><tbody><tr><td>Set Carrier Temperature</td><td><img src="../../.gitbook/assets/image (42) (1) (1) (1).png" alt="" data-size="original"></td><td>Sets the temperature of a TCC.</td></tr><tr><td>Get Carrier Temperature</td><td><img src="../../.gitbook/assets/image (41) (1) (1) (1).png" alt="" data-size="original"></td><td>Retrieves the temperature of a TCC.</td></tr></tbody></table>
+<table><thead><tr><th>Command</th><th width="175">Icon</th><th></th></tr></thead><tbody><tr><td>Set Carrier Temperature</td><td><img src="../../.gitbook/assets/image (42) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Sets the temperature of a TCC.</td></tr><tr><td>Get Carrier Temperature</td><td><img src="../../.gitbook/assets/image (41) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Retrieves the temperature of a TCC.</td></tr></tbody></table>
 
 
 
@@ -47,7 +47,7 @@ Create the Deck Layout holding the following:
 * Two standard Nunc plates (Nun\_96\_Fl\_L) on the TCC.\
 
 
-<figure><img src="../../.gitbook/assets/image (44) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,11 +62,11 @@ Under the “Sequences” Tab, select the “Channels” Stamp Tool and create t
 
 In order to use the “Generate Mapping File” Step, which will create an output file with source / target / volume information, the “Data Handling Steps” Option has to be activated in “Method -> Instruments and Smart Steps”
 
-<figure><img src="../../.gitbook/assets/image (46) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The complete method should look like the image presented below, following the first “Initialize” Step.
 
-<figure><img src="../../.gitbook/assets/image (47) (1) (1) (1).png" alt="" width="552"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47) (1) (1) (1) (1).png" alt="" width="552"><figcaption></figcaption></figure>
 
 
 
@@ -78,7 +78,7 @@ A look on how the method is constructed.
 2. A user input is used in line 2 to get both the number of samples to process and the temperature of the TCC to set. Do not forget to enclose the text in quotation marks; otherwise the system will interpret it as a new variable.
 3. Step 3 will set the temperature of the TCC.
 
-<figure><img src="../../.gitbook/assets/image (48) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -86,7 +86,7 @@ A look on how the method is constructed.
 5. Please note that this step will continue when the temperature is reached. This means that it will wait for 600 sec and then check if the temperature was reached. For detailed information, refer to the steps in the help file.
 6. In step 4, the end position of the AllSamples sequence is set to the number the user has specified. Since there is a limit in the user’s input, the number cannot be set wrong.
 
-<figure><img src="../../.gitbook/assets/image (49) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. The “Pipette Simple” Step will bring the liquid from the tubes into the plate. Depending on the number of samples, either only one plate or both plates are used.
 8. In step 6 a “Report Mapping File” is generated. In this file, all the liquid transfers of selectable sequences are reported.&#x20;
@@ -98,14 +98,14 @@ A look on how the method is constructed.
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (50) (1) (1) (1).png" alt="" width="315"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (50) (1) (1) (1) (1).png" alt="" width="315"><figcaption></figcaption></figure>
 14. The output file will be filtered to contain only the error free processed samples.
 15. To do so, click the \[Customize…] Button.\
 
 
 
 
-    <figure><img src="../../.gitbook/assets/image (51) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (51) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -114,9 +114,9 @@ A look on how the method is constructed.
 18. As seen below, it is possible to customize the columns. The standard and constant columns are displayed on the left side; either the CAT heater shaker or TELESHAKE. Renaming the column name on the right side can be done.\
 
 
-    <figure><img src="../../.gitbook/assets/image (52) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (52) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 19. The resulting file is shown below. If customized column names are specified, all columns are marked with a “T” refers to the Target Sequence while all columns beginning with “S” refers to the Source Sequence.\
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (53) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (53) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

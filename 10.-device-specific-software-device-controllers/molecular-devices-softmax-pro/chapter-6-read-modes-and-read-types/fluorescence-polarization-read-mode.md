@@ -18,9 +18,9 @@ For information about how to set up a Fluorescence Polarization mode protocol, s
 
 ### Fluorescence Polarization Instruments and Detection Cartridges
 
-The following instruments have Fluorescence Polarization read mode capability: ![](<../../../.gitbook/assets/0 (9) (1).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320
+The following instruments have Fluorescence Polarization read mode capability: ![](<../../../.gitbook/assets/0 (9) (1) (1).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320
 
-![](<../../../.gitbook/assets/1 (10) (1).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 ( i3x requires a Fluorescence Polarization (FP) Detection Cartridges, see page 349)
+![](<../../../.gitbook/assets/1 (10) (1) (1).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 ( i3x requires a Fluorescence Polarization (FP) Detection Cartridges, see page 349)
 
 SpectraMax Paradigm Multi-Mode Microplate Reader, see page 327 ( requires a Fluorescence Polarization (FP) Detection Cartridges, see page 349)
 

@@ -1,8 +1,35 @@
-# Importing Custom Dialog Templates
+# Templates
+
+## Templates
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Dialog templates can be created for faster and more consistent creation of dialogs.
+
+To that end, a new custom dialog template has been created with updated graphics and functionality. To use:
+
+* Copy the Hamilton1Enu.cdt file to your \HAMILTON\Config folder.&#x20;
+* When installed, you will see a new icon called "Hamilton1" whenever you create a new custom dialog.
+
+The new dialog has a Hamilton banner and updated graphics for buttons, grouping, etc. It allows for resizing of checkboxes and radio buttons as font size is increased. It also includes a default return variable for the dialog box.
+
+
+
+***
+
+
 
 Here is the file location and file type of the templates
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

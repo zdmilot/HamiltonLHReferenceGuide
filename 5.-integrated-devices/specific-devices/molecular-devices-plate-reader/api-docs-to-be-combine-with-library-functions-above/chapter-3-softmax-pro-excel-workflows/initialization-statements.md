@@ -12,11 +12,11 @@ The PlateSize statements define the size of the plate you use in the instrument.
 
 PlateSize has one argument:
 
-![](<../../../../../.gitbook/assets/0 (6).png>) The number of wells in the plate.
+![](<../../../../../.gitbook/assets/0 (6) (1).png>) The number of wells in the plate.
 
-The following plate sizes are supported. ![](<../../../../../.gitbook/assets/1 (7).png>) 24-well plates
+The following plate sizes are supported. ![](<../../../../../.gitbook/assets/1 (7) (1).png>) 24-well plates
 
-![](<../../../../../.gitbook/assets/2 (4).png>) 48-well plates ![](<../../../../../.gitbook/assets/3 (7).png>) 96-well plates ![](<../../../../../.gitbook/assets/4 (6).png>) 384-well plates
+![](<../../../../../.gitbook/assets/2 (4) (1).png>) 48-well plates ![](<../../../../../.gitbook/assets/3 (7) (1).png>) 96-well plates ![](<../../../../../.gitbook/assets/4 (6).png>) 384-well plates
 
 ### Defaults
 

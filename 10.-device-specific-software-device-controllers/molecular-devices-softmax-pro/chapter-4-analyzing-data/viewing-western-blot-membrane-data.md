@@ -2,13 +2,13 @@
 
 After you scan a membrane for Western Blot data, the data displays in the software as an image. Use the image tools in the Plate section to zoom, crop, colorize, and adjust the intensity of the image. You can select a region of interest (ROI) and rescan the membrane at a higher resolution.
 
-![](<../../../.gitbook/assets/0 (3) (1).png>) Drag the slider on the side of the Plate section to zoom the image in or out. ![](<../../../.gitbook/assets/1 (3) (1).png>) Click ![](<../../../.gitbook/assets/2 (2) (1).png>) on the side of the Plate section to view the image at its actual size. ![](<../../../.gitbook/assets/3 (3) (1).png>) Click ![](<../../../.gitbook/assets/4 (2) (1).png>) on the side of the Plate section to fit the image to the Plate section.
+![](<../../../.gitbook/assets/0 (3) (1) (1).png>) Drag the slider on the side of the Plate section to zoom the image in or out. ![](<../../../.gitbook/assets/1 (3) (1) (1).png>) Click ![](<../../../.gitbook/assets/2 (2) (1) (1).png>) on the side of the Plate section to view the image at its actual size. ![](<../../../.gitbook/assets/3 (3) (1) (1).png>) Click ![](<../../../.gitbook/assets/4 (2) (1) (1).png>) on the side of the Plate section to fit the image to the Plate section.
 
-![](<../../../.gitbook/assets/5 (3) (1).png>) Click ![](<../../../.gitbook/assets/6 (4) (1).png>) on the side of the Plate section and then drag across the image to define the area to zoom to zoom in on a specific area of the image.
+![](<../../../.gitbook/assets/5 (3) (1) (1).png>) Click ![](<../../../.gitbook/assets/6 (4) (1).png>) on the side of the Plate section and then drag across the image to define the area to zoom to zoom in on a specific area of the image.
 
 ![](<../../../.gitbook/assets/7 (4) (1).png>) Click ![](<../../../.gitbook/assets/8 (4) (1).png>) on the side of the Plate section and then drag the image to move it to move the image within the Plate section.
 
-![](<../../../.gitbook/assets/9 (3) (1).png>) Click ![](<../../../.gitbook/assets/10 (2) (1).png>) on the side of the Plate section and then drag across the image to define the cropped area to crop the image.
+![](<../../../.gitbook/assets/9 (3) (1).png>) Click ![](<../../../.gitbook/assets/10 (2) (1) (1).png>) on the side of the Plate section and then drag across the image to define the cropped area to crop the image.
 
 ![](<../../../.gitbook/assets/11 (3) (1).png>) Select a color option from the **LUT** list at the top of the Plate section to colorize the image from a look-up table.
 

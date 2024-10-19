@@ -2,9 +2,9 @@
 
 Workflow flow control statements allow the workflow to repeat a section of statements or pause until a given condition is satisfied. In the provided example, Workbooks control statements are color coded gray.
 
-![](<../../../../../.gitbook/assets/0 (7).png>) Loop and EndLoop Statements (see below) ![](<../../../../../.gitbook/assets/1 (10).png>) Pause Statement, see page 42
+![](<../../../../../.gitbook/assets/0 (7) (1).png>) Loop and EndLoop Statements (see below) ![](<../../../../../.gitbook/assets/1 (10) (1).png>) Pause Statement, see page 42
 
-![](<../../../../../.gitbook/assets/2 (7).png>) WaitUntil Statement, see page 43
+![](<../../../../../.gitbook/assets/2 (7) (1).png>) WaitUntil Statement, see page 43
 
 ### Loop and EndLoop Statements
 
@@ -40,7 +40,7 @@ The Pause statement pauses workflow execution for a fixed number of seconds. Whe
 
 Pause has one argument:
 
-![](<../../../../../.gitbook/assets/7 (3).png>) The number of seconds the workflow should pause
+![](<../../../../../.gitbook/assets/7 (3) (1).png>) The number of seconds the workflow should pause
 
 ### Defaults
 
@@ -60,25 +60,25 @@ The WaitUntil statement pauses workflow execution until a given condition has be
 
 WaitUntil has four arguments:
 
-![](<../../../../../.gitbook/assets/9 (1).png>) Automation Command
+![](<../../../../../.gitbook/assets/9 (1) (1).png>) Automation Command
 
 This command must return a result that can be tested in combination with the second and third arguments.
 
-![](../../../../../.gitbook/assets/10.png) Operator
+![](<../../../../../.gitbook/assets/10 (2).png>) Operator
 
 This can be one of the following values:
 
-![](../../../../../.gitbook/assets/11.png) EQ meaning equals ![](../../../../../.gitbook/assets/12.png) LT meaning less than
+![](<../../../../../.gitbook/assets/11 (2).png>) EQ meaning equals ![](<../../../../../.gitbook/assets/12 (2).png>) LT meaning less than
 
-![](../../../../../.gitbook/assets/13.png) GT meaning greater than
+![](<../../../../../.gitbook/assets/13 (2).png>) GT meaning greater than
 
-![](<../../../../../.gitbook/assets/14 (1).png>) LE meaning less than or equals
+![](<../../../../../.gitbook/assets/14 (1) (1).png>) LE meaning less than or equals
 
-![](<../../../../../.gitbook/assets/15 (1).png>) GE meaning greater than or equals ![](<../../../../../.gitbook/assets/16 (1).png>) Target Value
+![](<../../../../../.gitbook/assets/15 (1) (1).png>) GE meaning greater than or equals ![](<../../../../../.gitbook/assets/16 (1) (1).png>) Target Value
 
 The target value against which the result from argument one is tested.
 
-![](<../../../../../.gitbook/assets/17 (1).png>) Description
+![](<../../../../../.gitbook/assets/17 (1) (1).png>) Description
 
 This gives the reason the workflow is waiting and displays while the pause is in effect. This optional argument makes the wait reason more descriptive by adding context or using a local language.
 

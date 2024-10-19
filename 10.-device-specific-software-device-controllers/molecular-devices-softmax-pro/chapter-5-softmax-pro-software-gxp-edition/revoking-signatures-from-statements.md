@@ -13,7 +13,7 @@ To revoke the signature from a statement:
 
 **CAUTION!** There is no undo for this. After you revoke all signatures, the document is unlocked and can be changed.
 
-![](<../../../.gitbook/assets/2 (6) (1).png>)![](<../../../.gitbook/assets/3 (7) (1).png>)
+![](<../../../.gitbook/assets/2 (6) (1) (1).png>)![](<../../../.gitbook/assets/3 (7) (1) (1).png>)
 
 1. In the **Note** field, enter the reason for the signature removal.
 2. Click **Revoke** to display the User Verification dialog.

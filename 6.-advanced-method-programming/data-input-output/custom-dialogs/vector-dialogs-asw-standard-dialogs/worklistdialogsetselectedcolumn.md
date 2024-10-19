@@ -8,7 +8,7 @@
 
 Set the header and the visibility of the "Selected" column.
 
-![](<../../../../.gitbook/assets/image (19).png>)\
+![](<../../../../.gitbook/assets/image (19) (1).png>)\
 \
 
 

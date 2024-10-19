@@ -54,7 +54,7 @@ After pulling out of the liquid and before moving to the target container, a var
 
 At the end of an aspiration step the situation in the tip is as shown below.
 
-<img src="../../../../../../.gitbook/assets/image (64) (1).png" alt="" data-size="original">
+<img src="../../../../../../.gitbook/assets/image (64) (1) (1).png" alt="" data-size="original">
 
 When using a fixed height aspiration (or dispense), the position of the transport air intake can be defined by the parameter “Retract distance for transport air”. Using this value makes sure that the tip’s end is out of liquid before aspirating the transport air.
 

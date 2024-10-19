@@ -2,7 +2,7 @@
 
 **To maintain best performance, the Vantage requires regular maintenance.** The routines for daily, weekly, and yearly maintenance are all accessed and run the same way. This article describes what you will need before starting maintenance and how to successfully complete each maintenance process.
 
-<table data-header-hidden><thead><tr><th width="118"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></p><p></p></td><td><p><em>ATTENTION</em></p><p>Do not use hypochlorite or bleaching fluids</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="118"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></p><p></p></td><td><p><em>ATTENTION</em></p><p>Do not use hypochlorite or bleaching fluids</p></td></tr></tbody></table>
 
 ## Materials Needed
 

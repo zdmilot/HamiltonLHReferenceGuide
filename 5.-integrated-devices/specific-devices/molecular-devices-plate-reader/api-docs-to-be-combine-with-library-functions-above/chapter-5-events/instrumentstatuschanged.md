@@ -12,15 +12,15 @@ instrument changes. **InstrumentStatusEventArgs Property**
 
 ### Returns
 
-The following properties can be used for testing which state has been returned: ![](../../../../../.gitbook/assets/1.png) SMPAutomationClient.InstrumentStatus.IDLE
+The following properties can be used for testing which state has been returned: ![](<../../../../../.gitbook/assets/1 (11).png>) SMPAutomationClient.InstrumentStatus.IDLE
 
-![](../../../../../.gitbook/assets/2.png) SMPAutomationClient.InstrumentStatus.INITIALIZING
+![](<../../../../../.gitbook/assets/2 (10).png>) SMPAutomationClient.InstrumentStatus.INITIALIZING
 
-![](../../../../../.gitbook/assets/3.png) SMPAutomationClient.InstrumentStatus.BUSY
+![](<../../../../../.gitbook/assets/3 (7).png>) SMPAutomationClient.InstrumentStatus.BUSY
 
-![](../../../../../.gitbook/assets/4.png) SMPAutomationClient.InstrumentStatus.STOPPING ![](../../../../../.gitbook/assets/5.png) SMPAutomationClient.InstrumentStatus.ERROR
+![](<../../../../../.gitbook/assets/4 (4).png>) SMPAutomationClient.InstrumentStatus.STOPPING ![](<../../../../../.gitbook/assets/5 (4).png>) SMPAutomationClient.InstrumentStatus.ERROR
 
-![](../../../../../.gitbook/assets/6.png) SMPAutomationClient.InstrumentStatus.TIMEOUT ![](../../../../../.gitbook/assets/7.png) SMPAutomationClient.InstrumentStatus.OFFLINE
+![](<../../../../../.gitbook/assets/6 (3).png>) SMPAutomationClient.InstrumentStatus.TIMEOUT ![](<../../../../../.gitbook/assets/7 (3).png>) SMPAutomationClient.InstrumentStatus.OFFLINE
 
 ### Example
 

@@ -4,7 +4,7 @@ After you install the Add-In, you can run or edit the provided Excel workflows t
 
 C:\Program Files (x86)\Molecular Devices\SoftMax Pro n.n Automation SDK\ExcelAddIn\Examples The Excel workflow files have the .xlsm file extension.
 
-![](<../../../../../.gitbook/assets/6 (1) (1).png>)
+![](<../../../../../.gitbook/assets/6 (1) (1) (1).png>)
 
 **Note:** Save a copy of the workflow before you run or edit a provided Excel workflow.
 
@@ -30,8 +30,8 @@ Each statement in the workflow is on a single row that starts in column B and ca
 
 After you click Execute, the first statement is read and executed. See Running Excel Workflows on page 23.
 
-![](<../../../../../.gitbook/assets/7 (1).png>) The first blank column in the statement row indicates the end of the statement and then the next statement in the following row executes.
+![](<../../../../../.gitbook/assets/7 (1) (1).png>) The first blank column in the statement row indicates the end of the statement and then the next statement in the following row executes.
 
-![](../../../../../.gitbook/assets/8.png) The first blank row indicates the end of the workflow.
+![](<../../../../../.gitbook/assets/8 (3).png>) The first blank row indicates the end of the workflow.
 
 This document contains the list of valid instrument names to prevent mismatches in the format of the name of the instrument. You should copy and paste name into the workflow. See SetReader on page 87.

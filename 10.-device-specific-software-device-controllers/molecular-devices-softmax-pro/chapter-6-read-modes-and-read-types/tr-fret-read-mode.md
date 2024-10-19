@@ -32,7 +32,7 @@ The following instruments have HTRF read mode capability:
 
 ![](<../../../.gitbook/assets/0 (10) (1).png>) SpectraMax iD5 Multi-Mode Microplate Reader on page 320 (requires the Enhanced TRF module)
 
-![](<../../../.gitbook/assets/1 (11) (1).png>) SpectraMax M5 and SpectraMax M5e Multi-Mode Microplate Readers on page 330 ![](<../../../.gitbook/assets/2 (13) (1).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 (
+![](<../../../.gitbook/assets/1 (11) (1) (1).png>) SpectraMax M5 and SpectraMax M5e Multi-Mode Microplate Readers on page 330 ![](<../../../.gitbook/assets/2 (13) (1).png>) SpectraMax i3x and SpectraMax i3 Multi-Mode Detection Platforms, see page 323 (
 
 requires the Cisbio HTRF Detection Cartridge, see page 346)
 

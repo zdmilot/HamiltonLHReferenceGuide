@@ -8,6 +8,6 @@ The first column contains the command name and the columns to the right contain 
 
 Most automation command statements perform an action. Some command statements retrieve data from the SoftMax Pro Software to make data available to be written into worksheets and some command statements control the flow of a workflow.
 
-![](<../../../../../.gitbook/assets/1 (8).png>) **Worksheet Formatting Statements** - Retrieve the data from the SoftMax Pro Software, define the format of the data to write to worksheets, and write the data to the Excel worksheet. See below.
+![](<../../../../../.gitbook/assets/1 (8) (1).png>) **Worksheet Formatting Statements** - Retrieve the data from the SoftMax Pro Software, define the format of the data to write to worksheets, and write the data to the Excel worksheet. See below.
 
-![](<../../../../../.gitbook/assets/2 (5).png>) **Workflow Flow Control Statements** - Allows the workflow to repeat a section of statements or pause until a condition is satisfied. See Workflow Flow Control Statements on page 41.
+![](<../../../../../.gitbook/assets/2 (5) (1).png>) **Workflow Flow Control Statements** - Allows the workflow to repeat a section of statements or pause until a condition is satisfied. See Workflow Flow Control Statements on page 41.

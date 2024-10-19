@@ -14,9 +14,9 @@ The SpectraMax Western Blot system is a simple, sensitive, and stable platform t
 
 ### Applications
 
-![](<../../../.gitbook/assets/0 (8) (1).png>) Identify the nature of the protein or epitope effectively. Also, it can be used as a tool for quantitative analysis of protein.
+![](<../../../.gitbook/assets/0 (8) (1) (1).png>) Identify the nature of the protein or epitope effectively. Also, it can be used as a tool for quantitative analysis of protein.
 
-![](<../../../.gitbook/assets/1 (9) (1).png>) Use for chromatography components analysis, sucrose gradient analysis.
+![](<../../../.gitbook/assets/1 (9) (1) (1).png>) Use for chromatography components analysis, sucrose gradient analysis.
 
 ![](<../../../.gitbook/assets/2 (11) (1).png>) Test the endogenous or exogenous expression of phosphoprotein to detect the phosphorylation signal.
 

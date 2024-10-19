@@ -27,7 +27,7 @@ If all files are housed within the Hamilton folder, then it is simplest to back 
 
 In addition to backing up VENUS files required for method functionality, libraries and device drivers requiring installers will need to be uninstalled and subsequently reinstalled following VENUS reinstallation. In the Programs and Features Windows control panel, take note of any installed application containing ‘Hamilton’ and take note of the version. Collect the appropriate installers for each add-on/driver/library ensuring that the proper version is maintained, and store with the rest of the backup materials.
 
-<figure><img src="../../.gitbook/assets/image (60) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How to uninstall Microsoft SQL Server 2014
 
@@ -41,11 +41,11 @@ If you uninstall VENUS without first uninstalling SQL Server, the Hamilton SQL d
 
     <div>
 
-    <figure><img src="../../.gitbook/assets/image (63) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (63) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
      
 
-    <figure><img src="../../.gitbook/assets/image (62) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (62) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     </div>
 2.  Go through the Remove SQL Server wizard to remove the HAMILTON SQL server instance as well as all components and features. When prompted for which features to remove, click Select All.
@@ -54,16 +54,16 @@ If you uninstall VENUS without first uninstalling SQL Server, the Hamilton SQL d
 
     <div>
 
-    <figure><img src="../../.gitbook/assets/image (67) (1) (1) (1).png" alt="" width="525"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (67) (1) (1) (1) (1).png" alt="" width="525"><figcaption></figcaption></figure>
 
      
 
-    <figure><img src="../../.gitbook/assets/image (66) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (66) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
     </div>
 3.  Once the Remove SQL Server wizard is complete, uninstall all remaining SQL components from Windows Programs and Features control panel.
 
-    <figure><img src="../../.gitbook/assets/image (68) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (68) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     \
 
@@ -84,15 +84,15 @@ If you uninstall VENUS without first uninstalling SQL Server, the Hamilton SQL d
 
        <div>
 
-       <figure><img src="../../.gitbook/assets/image (72) (1) (1).png" alt="" width="212"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (72) (1) (1) (1).png" alt="" width="212"><figcaption></figcaption></figure>
 
         
 
-       <figure><img src="../../.gitbook/assets/image (70) (1) (1).png" alt="" width="275"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (70) (1) (1) (1).png" alt="" width="275"><figcaption></figcaption></figure>
 
         
 
-       <figure><img src="../../.gitbook/assets/image (71) (1) (1).png" alt="" width="335"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (71) (1) (1) (1).png" alt="" width="335"><figcaption></figcaption></figure>
 
        </div>
 7. Delete anything with the word Hamilton (if remaining) in:

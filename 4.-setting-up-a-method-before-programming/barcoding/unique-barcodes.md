@@ -17,7 +17,7 @@ Every load step will now refer to this database and check if the barcode has bee
 
 To use the Unique barcode check, Sample Tracking must be set to “ON” in the “System Configuration Editor -> System Settings”:
 
-<figure><img src="../../.gitbook/assets/image (28) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -43,30 +43,30 @@ Click the \['...'] Button if unique barcode duration is selected, to open a wiza
 *   Current run: Barcodes must be unique within the current run.\
 
 
-    <figure><img src="../../.gitbook/assets/image (29) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (29) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   Time in hours: Duration in hours within a barcode must be unique.\
 
 
-    <figure><img src="../../.gitbook/assets/image (30) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (30) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Set the Unique Barcode Check Flag on the Labware:
 
 1.  Open the Context Menu of the specified labware in the Deck Layout (right mouse-click).\
 
 
-    <figure><img src="../../.gitbook/assets/image (31) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (31) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     To make the sample carrier barcode itself unique, tick the “Barcode must be unique” Checkbox underneath the barcode mask. Now, the carrier barcode will be controlled at every load step.\
 
 
-    <figure><img src="../../.gitbook/assets/image (32) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (32) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  To set barcodes on the tubes as unique, select the \[By Position…] Tab.\
     \
     In the example shown below, there are two barcodes that should not be checked for distinction. Every barcode in position 1 and 2 is allowed to appear multiple times, but the barcode mask for these barcodes must be correct.\
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (33) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (33) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. All other positions are marked as “Unique” in the right most column. This will enable the checking for unique barcodes (as long as all other settings are appropriate).
 4. To mark all barcodes for checking, check the “Barcode must be unique” Checkbox. Select all positions and click the \[Apply to selected positions] Tab.
 
@@ -86,8 +86,8 @@ This table is true for “Check and Track” when activated within same run or w
 
 ## Barcode Not Unique Error
 
-<figure><img src="../../.gitbook/assets/image (34) (1) (1) (1).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1) (1) (1) (1).png" alt="" width="288"><figcaption></figcaption></figure>
 
 ## Barcode Already Used Error
 
-<figure><img src="../../.gitbook/assets/image (35) (1) (1) (1).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1) (1) (1) (1).png" alt="" width="288"><figcaption></figcaption></figure>

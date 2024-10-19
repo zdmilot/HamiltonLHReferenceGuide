@@ -10,9 +10,9 @@ Worksheet has two arguments:
 
 This is either one of two values:
 
-![](<../../../../../.gitbook/assets/7 (2).png>) Select ![](<../../../../../.gitbook/assets/8 (2).png>) Add
+![](<../../../../../.gitbook/assets/7 (2) (1).png>) Select ![](<../../../../../.gitbook/assets/8 (2) (1).png>) Add
 
-![](../../../../../.gitbook/assets/9.png) Name (optional)
+![](<../../../../../.gitbook/assets/9 (2).png>) Name (optional)
 
 This is the name of the worksheet to select or add.
 
@@ -40,27 +40,27 @@ Add a worksheet named Sheet3 in a workbook that already has worksheets named She
 
 Before the application writes to a worksheet, you must have the workflow define the format in which to write data. There are two statements that enable you to define the write format:
 
-![](../../../../../.gitbook/assets/14.png) CellFormat Statement (see below) ![](../../../../../.gitbook/assets/15.png)RowFormat Statement, see page 36
+![](<../../../../../.gitbook/assets/14 (1).png>) CellFormat Statement (see below) ![](<../../../../../.gitbook/assets/15 (1).png>)RowFormat Statement, see page 36
 
 ### CellFormat Statement
 
 The CellFormat statement defines the format in which to write data into one Excel worksheet cell. Use the CellFormat statement in conjunction with the following two workflow statements:
 
-![](../../../../../.gitbook/assets/16.png) FormatWorksheet Statement, see page 39
+![](<../../../../../.gitbook/assets/16 (1).png>) FormatWorksheet Statement, see page 39
 
-![](../../../../../.gitbook/assets/17.png) ProcessCommandResult Statement, see page 40
+![](<../../../../../.gitbook/assets/17 (1).png>) ProcessCommandResult Statement, see page 40
 
 ### Arguments
 
 CellFormat has up to four arguments:
 
-![](../../../../../.gitbook/assets/18.png) Format Name - This must be unique within the workflow. Both the FormatWorksheet and ProcessCommandResult statements reference this name.
+![](<../../../../../.gitbook/assets/18 (1).png>) Format Name - This must be unique within the workflow. Both the FormatWorksheet and ProcessCommandResult statements reference this name.
 
-![](../../../../../.gitbook/assets/19.png) Target Worksheet Column - Defines which worksheet column to write into in the following format: worksheet-name:worksheet-column or worksheet-column
+![](<../../../../../.gitbook/assets/19 (1).png>) Target Worksheet Column - Defines which worksheet column to write into in the following format: worksheet-name:worksheet-column or worksheet-column
 
 If you specify only the worksheet column, the worksheet row to use is determined to be the next empty cell in the column, working down from the top of the target worksheet.
 
-![](../../../../../.gitbook/assets/20.png) Row Number (optional) -Allows output to write to a specific row. If omitted, the output writes to the next free row in the target column. This ensures headings are written out only once in discontinuous reads.
+![](<../../../../../.gitbook/assets/20 (1).png>) Row Number (optional) -Allows output to write to a specific row. If omitted, the output writes to the next free row in the target column. This ensures headings are written out only once in discontinuous reads.
 
 &#x20;Cell Content (sometimes not required, see defaults below) - Defines what writes into the worksheet column. When you write an Excel formula (e.g. '=Sum(A1:A5)' you can use the following keywords and this is substituted immediately prior to the formula being written to a worksheet,
 

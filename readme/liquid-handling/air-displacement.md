@@ -4,7 +4,7 @@ Air-displacement pipetting uses air pressure to draw up and dispense liquids, in
 
 Hamilton Vantage is based on the air displacement pipetting principle, comparable to the work principle of handheld pipettes.
 
-<figure><img src="../../.gitbook/assets/image (26) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Air displacement means that the liquid is aspirated into and dispensed from a disposable tip or needle by the movement of a plunger. There is air between the plunger and the liquid surface. No system liquid of any kind is involved in the ML STAR. On the ML STAR, the pipetting of volumes from 0.5µl up to 5ml are processed. Filter tips can be used to avoid contamination by aerosol.
 
@@ -29,7 +29,7 @@ Transferring small volumes of liquid accurately, and without contamination, is s
 
 Of the above options the air displacement pipette has become the go-to technology for speed, accuracy, and precision. Air displacement pipettes were invented in the 1950s but were not available for sale until the 1960s when Eppendorf introduced the microlter system \[6]. Gilson, Finnpipette, and other companies followed suit in the 1970s and now there are pipettes available from many manufacturers which can pipette volumes from 10ml down to a few microlitres.
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **How the air displacement pipette works**
 
@@ -91,7 +91,7 @@ Here I will only present the first two of these methods (see \[5] for descriptio
 
 #### **Method 1: Forward (‘normal’) mode pipetting**
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This is the standard method used for the majority of samples (see Figure 3).
 

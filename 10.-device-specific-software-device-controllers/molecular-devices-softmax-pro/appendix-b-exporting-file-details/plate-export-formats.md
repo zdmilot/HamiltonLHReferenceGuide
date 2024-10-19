@@ -185,12 +185,12 @@ The format of the data depends on whether the data was exported in column format
 
 For column formats, the data displays in a single row. The data for multiple time points for kinetic reads, multiple data points for well scan reads, or multiple wavelengths for spectrum reads is listed in separate rows. For endpoint, kinetic, or well scan reads with multiple wavelengths, the data for each wavelength displays in subsequent rows below the previous wavelength. For imaging reads, the data for each measurement is in a separate row.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Kinetic Data Exported in Column Format**
 
 For plate formats, the data displays in a table to indicate the columns and rows of the plate. The data for multiple time points for kinetic reads, multiple data points for well scan reads, or multiple wavelengths for spectrum reads is listed in separate tables below the previous table. For endpoint, kinetic, or well scan reads with multiple wavelengths, the data for each wavelength displays in separate tables to the right of the previous table. For imaging reads, the data for each measurement is in a separate table to the right of the previous table.
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Kinetic Data Exported in Plate Format**

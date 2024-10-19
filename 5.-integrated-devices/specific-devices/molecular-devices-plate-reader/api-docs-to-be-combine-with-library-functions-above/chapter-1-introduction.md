@@ -34,9 +34,9 @@ Obsolete Commands:
 
 ![](<../../../../.gitbook/assets/9 (4).png>) int SelectDatabaseFromFile(String databaseFilePath)
 
-![](<../../../../.gitbook/assets/10 (2).png>) int SelectDatabaseFromTcpIP(String portNumber, String ipAddress) ![](<../../../../.gitbook/assets/11 (2).png>) int SetUserName(String userName)
+![](<../../../../.gitbook/assets/10 (2) (1).png>) int SelectDatabaseFromTcpIP(String portNumber, String ipAddress) ![](<../../../../.gitbook/assets/11 (2) (1).png>) int SetUserName(String userName)
 
-![](<../../../../.gitbook/assets/12 (2).png>) int SelectDocument(Boolean, Boolean, Boolean) ![](<../../../../.gitbook/assets/13 (2).png>) int SetProtocolFolder(System, String)
+![](<../../../../.gitbook/assets/12 (2) (1).png>) int SelectDocument(Boolean, Boolean, Boolean) ![](<../../../../.gitbook/assets/13 (2) (1).png>) int SetProtocolFolder(System, String)
 
 ### Computer System Requirements <a href="#computer-system-requirements" id="computer-system-requirements"></a>
 

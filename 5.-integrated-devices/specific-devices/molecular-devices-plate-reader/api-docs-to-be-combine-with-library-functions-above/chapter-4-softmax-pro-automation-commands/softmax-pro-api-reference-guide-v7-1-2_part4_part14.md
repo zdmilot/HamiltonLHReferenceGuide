@@ -33,7 +33,7 @@ The return string is one of following properties:
 
 ![](<../../../../../.gitbook/assets/1 (18).png>) SMPAutomationClient.DrawerStatus.OPENED = The drawer is open
 
-![](<../../../../../.gitbook/assets/2 (9).png>) SMPAutomationClient.DrawerStatus.CLOSED = The drawer is closed
+![](<../../../../../.gitbook/assets/2 (9) (1).png>) SMPAutomationClient.DrawerStatus.CLOSED = The drawer is closed
 
 Example\
 This example describes how to determine if each drawer on a FlexStation 3 is open or closed. All other instruments do not require this parameter.

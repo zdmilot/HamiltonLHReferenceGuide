@@ -8,23 +8,23 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
 2. Create a new method called “OnePlateToPlateEasySteps”.
 3. The method can be written easily by “Dragging and Dropping” the icons from the toolbox into the method window. The resulting method looks like this:\
    \
-   ![](<../.gitbook/assets/image (53).png>)\
+   ![](<../.gitbook/assets/image (53) (1).png>)\
 
 4.  The first step is an initialize step. In the “ML\_STAR” toolbar, drag “Initialize” to the main window. A window will be displayed.\
     \
-    ![](<../.gitbook/assets/image (54).png>)\
+    ![](<../.gitbook/assets/image (54) (1).png>)\
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>In using a single step in the beginning of a method, the initialize command has to be added prior to the single step.</em></p><p><em>When using Smart Steps and Easy Steps, the initialization will be executed automatically.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>In using a single step in the beginning of a method, the initialize command has to be added prior to the single step.</em></p><p><em>When using Smart Steps and Easy Steps, the initialization will be executed automatically.</em></p></td></tr></tbody></table>
 5. Drag “Load Carrier” into the next line of the method.\
    \
-   ![](<../.gitbook/assets/image (55).png>)\
+   ![](<../.gitbook/assets/image (55) (1).png>)\
 
 6. This command loads the carriers automatically onto the instrument deck during run time.
 7. Specify the name of the carrier to be loaded.
 8. Click \[Advanced…] to display the path where the plate barcodes are stored, under the default file name “barcode\_1.txt” (Note that the checkbox “barcode trace” within the configuration editor must be checked to generate the file). The positions on the deck are automatically retrieved from the Deck Layout during run time.\
    \
-   ![](<../.gitbook/assets/image (56).png>)\
+   ![](<../.gitbook/assets/image (56) (1).png>)\
 
 9. Click \[OK] twice.
 10. Repeat the “Load Carrier” Command for the target plate carrier and the source carrier.
@@ -33,7 +33,7 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
 13. Drag the “Loop” Command from the General Steps into the next line of the method window.
 14. The “Loop” Dialog window will appear as follows:\
     \
-    ![](<../.gitbook/assets/image (57).png>)\
+    ![](<../.gitbook/assets/image (57) (1).png>)\
 
 15. A loop can be performed looping:
     * Over a fixed number of iterations
@@ -45,7 +45,7 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
 
     \
 
@@ -58,11 +58,11 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
     * Submerge Depth: 2mm\
 
 
-    <figure><img src="../.gitbook/assets/image (58).png" alt="" width="211"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (58) (1).png" alt="" width="211"><figcaption></figcaption></figure>
 19. After completing all the fields, click \[OK].
 20. Drag the “1000μl Channel Dispense (Easy Step)” to the position below the aspirate command. A dialog box, as shown below will appear. Specify the values indicated below the dialog box.\
     \
-    ![](<../.gitbook/assets/image (59).png>)\
+    ![](<../.gitbook/assets/image (59) (1).png>)\
     \
 
     * Dispense to Sequence: “ML\_STAR.TargetPlate” (target plate)
@@ -73,7 +73,7 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
 
     \
 
@@ -81,7 +81,7 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
 23. To unload the carriers, drag the “Unload” Command (with the carrier name as a parameter) into the method and drop it after the end loop.
 24. The “Unload” Dialog appears:\
     \
-    ![](<../.gitbook/assets/image (61).png>)\
+    ![](<../.gitbook/assets/image (61) (1).png>)\
 
 25. Click \[OK].
 26. Insert “Unload” Commands for all three carriers.

@@ -4,6 +4,6 @@ Molecular Devices provides a fully integrated hardware and software solution for
 
 The typical regulated laboratory environment has several check points to confirm the integrity of an assay. The SoftMax Pro Software - GxP edition allows users with appropriate permissions to assign a corresponding status to documents to track and restrict the document through each check point. See Document Workflow on page 257.
 
-There are two software applications that make up this integrated solution: ![](<../../../.gitbook/assets/1 (6) (1).png>) GxP Admin Software
+There are two software applications that make up this integrated solution: ![](<../../../.gitbook/assets/1 (6) (1) (1).png>) GxP Admin Software
 
-![](<../../../.gitbook/assets/2 (8) (1).png>) SoftMax Pro Software - GxP edition
+![](<../../../.gitbook/assets/2 (8) (1) (1).png>) SoftMax Pro Software - GxP edition

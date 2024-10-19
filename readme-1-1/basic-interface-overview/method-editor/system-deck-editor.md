@@ -12,7 +12,7 @@ The system view (available by pressing the System Tab in the lower left of the w
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Instruments added on the system deck are graphical representations of the instruments only. In order to control these instruments, driver libraries must be added to the method.</p><p>The System Tab shows the ML STAR instrument in 3D view.r.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Instruments added on the system deck are graphical representations of the instruments only. In order to control these instruments, driver libraries must be added to the method.</p><p>The System Tab shows the ML STAR instrument in 3D view.r.</p></td></tr></tbody></table>
 
 \
 

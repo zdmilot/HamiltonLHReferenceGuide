@@ -8,7 +8,7 @@ In the Ribbon, use the View tab to split the Workspace to view multiple document
 
 Use the three buttons below the Document tabs to change the Workspace view. Use each Workspace view to manage the open document and experiment results.
 
-![](<../../../.gitbook/assets/2 (10) (1) (1).png>) Use the **Document** view to scroll through the experiment sections.
+![](<../../../.gitbook/assets/2 (10) (1) (1) (1).png>) Use the **Document** view to scroll through the experiment sections.
 
 ![](<../../../.gitbook/assets/3 (13) (1) (1).png>) Use the **Comparison** view to drag sections from the Navigation Tree and arrange them in the Workspace wherever you want.
 

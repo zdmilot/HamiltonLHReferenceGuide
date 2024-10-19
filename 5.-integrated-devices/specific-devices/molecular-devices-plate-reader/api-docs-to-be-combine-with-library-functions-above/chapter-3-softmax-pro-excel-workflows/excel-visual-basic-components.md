@@ -4,9 +4,9 @@ A Visual Basic module named SMPWorkflow contains logic to initiate the invocatio
 
 The following Visual Basic messages can display:
 
-![](<../../../../../.gitbook/assets/0 (3).png>) The workflow is being validated before execution. ![](<../../../../../.gitbook/assets/1 (4).png>) The workflow is being executed.
+![](<../../../../../.gitbook/assets/0 (3) (1).png>) The workflow is being validated before execution. ![](<../../../../../.gitbook/assets/1 (4) (1).png>) The workflow is being executed.
 
-![](<../../../../../.gitbook/assets/2 (3).png>) The workflow is paused, with details. ![](<../../../../../.gitbook/assets/3 (4).png>) An error was detected.
+![](<../../../../../.gitbook/assets/2 (3) (1).png>) The workflow is paused, with details. ![](<../../../../../.gitbook/assets/3 (4) (1).png>) An error was detected.
 
 Running Excel Workflows
 
@@ -14,9 +14,9 @@ To run a workflow for the first time, you need an open SoftMax Pro Excel workflo
 
 Workflows enable you to perform the following operations:
 
-![](<../../../../../.gitbook/assets/4 (3).png>) Executing Continuous Workflows (see below)
+![](<../../../../../.gitbook/assets/4 (3) (1).png>) Executing Continuous Workflows (see below)
 
-![](<../../../../../.gitbook/assets/5 (5).png>) Continuing Discontinuous Workflows, see page 24 ![](<../../../../../.gitbook/assets/6 (3).png>) Canceling Workflows, see page 25
+![](<../../../../../.gitbook/assets/5 (5).png>) Continuing Discontinuous Workflows, see page 24 ![](<../../../../../.gitbook/assets/6 (3) (1).png>) Canceling Workflows, see page 25
 
 In most workflows, you connect the SoftMax Pro Software to the instrument before you start the workflow. You can have the workflow connect the SoftMax Pro Software to the instrument without user intervention. See Instrument Connectivity on page 47.
 

@@ -2,11 +2,11 @@
 
 Do the following to troubleshoot the Excel workflows:
 
-![](<../../../../../.gitbook/assets/5 (3).png>) Make sure the SoftMax Pro Excel Add-In is enabled in Excel.
+![](<../../../../../.gitbook/assets/5 (3) (1).png>) Make sure the SoftMax Pro Excel Add-In is enabled in Excel.
 
-![](../../../../../.gitbook/assets/6.jpeg)![](<../../../../../.gitbook/assets/7 (1) (1).png>) Make sure the SoftMax Pro Software is started and the Automation Mode dialog does not display.
+![](../../../../../.gitbook/assets/6.jpeg)![](<../../../../../.gitbook/assets/7 (1) (1) (1).png>) Make sure the SoftMax Pro Software is started and the Automation Mode dialog does not display.
 
-![](<../../../../../.gitbook/assets/8 (1).png>) If a formula entered in the workflow evaluates before it is run enter with a single quotation mark prefix.
+![](<../../../../../.gitbook/assets/8 (1) (1).png>) If a formula entered in the workflow evaluates before it is run enter with a single quotation mark prefix.
 
 For example, instead of entering =SUM(A1: A5) enter '=SUM(A1: A5).
 

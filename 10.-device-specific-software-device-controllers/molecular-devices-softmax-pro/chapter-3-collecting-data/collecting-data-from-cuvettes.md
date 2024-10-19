@@ -25,11 +25,11 @@ The reference can be read before or after you read samples.
 
 If you do not take a reference read in a Cuvette Set section before samples were read and you then read a reference, the following occurs:
 
-![](<../../../.gitbook/assets/3 (4) (1) (1).png>) The software applies the reference read to all cuvettes in the Cuvette Set section if it is the first reference read.
+![](<../../../.gitbook/assets/3 (4) (1) (1) (1).png>) The software applies the reference read to all cuvettes in the Cuvette Set section if it is the first reference read.
 
-![](<../../../.gitbook/assets/4 (4) (1) (1).png>) In subsequent reference reads, if you select one or more cuvettes, the software selectively replaces the reference read for the cuvettes you select.
+![](<../../../.gitbook/assets/4 (4) (1) (1) (1).png>) In subsequent reference reads, if you select one or more cuvettes, the software selectively replaces the reference read for the cuvettes you select.
 
-![](<../../../.gitbook/assets/5 (3) (1) (1).png>) The time and date of the read displays under each cuvette in the section.
+![](<../../../.gitbook/assets/5 (3) (1) (1) (1).png>) The time and date of the read displays under each cuvette in the section.
 
 ![](<../../../.gitbook/assets/6 (4) (1) (1).png>) The software applies the reference to new cuvettes you subsequently create in the section.
 

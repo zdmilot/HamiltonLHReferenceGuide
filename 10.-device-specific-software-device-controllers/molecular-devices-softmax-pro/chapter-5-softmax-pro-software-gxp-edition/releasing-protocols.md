@@ -22,7 +22,7 @@ Each document can have multiple statements. Each statement can have one signatur
 
 The following user permissions pertain to statements:
 
-![](<../../../.gitbook/assets/2 (7) (1).png>) **Add/Modify Statements** - Grants the user permission to add or modify statements. See Adding Statements on page 269.
+![](<../../../.gitbook/assets/2 (7) (1) (1).png>) **Add/Modify Statements** - Grants the user permission to add or modify statements. See Adding Statements on page 269.
 
 ![](<../../../.gitbook/assets/3 (8) (1).png>) **Sign Statements** - Grants the user permission to sign statements. See Signing Statements on page 271.
 

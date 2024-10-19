@@ -29,7 +29,7 @@ Return Type: Boolean
 Examples\
 There are three ways to use the Initialize command:
 
-![](<../../../../../.gitbook/assets/2 (10).png>) bool initialize (), see page 73
+![](<../../../../../.gitbook/assets/2 (10) (1).png>) bool initialize (), see page 73
 
 ![](<../../../../../.gitbook/assets/3 (12).png>) bool initialize(string server), see page 74
 

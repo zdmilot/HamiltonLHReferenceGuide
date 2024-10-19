@@ -20,11 +20,11 @@ You should install the SoftMax Pro Software on the computer before you set up th
 
 **Note:** Installation and usage of the SoftMax Pro Software on the Windows XP and Windows 8 operating systems is no longer supported. The software is neither tested nor validated on Windows XP or Windows 8. Windows 7 with 32 bit operating system is also no longer supported. You can install the SoftMax Pro Software - Standard edition on a Windows 7 with 64 bit operating system, but Windows 10 is strongly recommended.
 
-![](<../../.gitbook/assets/1 (8) (1) (1).png>)
+![](<../../.gitbook/assets/1 (8) (1) (1) (1).png>)
 
 See the following documents for installation instructions:
 
-![](<../../.gitbook/assets/2 (8) (1) (1).png>) _SoftMax Pro Data Acquisition and Analysis Software Standard Edition and MiniMax Imaging Edition Installation Guide_
+![](<../../.gitbook/assets/2 (8) (1) (1) (1).png>) _SoftMax Pro Data Acquisition and Analysis Software Standard Edition and MiniMax Imaging Edition Installation Guide_
 
 ![](<../../.gitbook/assets/3 (11) (1) (1).png>) _SoftMax Pro Data Acquisition and Analysis Software - GxP Edition - Installation Guide for the Multi Computer Setup_
 

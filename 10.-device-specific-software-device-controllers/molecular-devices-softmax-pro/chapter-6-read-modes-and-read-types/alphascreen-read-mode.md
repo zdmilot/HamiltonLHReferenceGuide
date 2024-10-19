@@ -10,7 +10,7 @@ An AlphaScreen measurement includes a light pulse, by turning on the laser diode
 
 **Note:** AlphaScreen beads are light sensitive. Beads are best handled under subdued (<100 lux) or green filtered (Roscolux filters #389 from Rosco, or equivalent) light conditions. Do incubation steps in the dark.
 
-![](<../../../.gitbook/assets/0 (7) (1).png>)
+![](<../../../.gitbook/assets/0 (7) (1) (1).png>)
 
 The raw data can be normalized to counts per second.
 
@@ -18,9 +18,9 @@ The raw data can be normalized to counts per second.
 
 AlphaScreen reagent and assays are used for drug discovery purposes. Examples of AlphaScreen assays include:
 
-![](<../../../.gitbook/assets/1 (8) (1).png>) G-protein coupled receptor (GPCR) assay kits, for cAMP quantification or IP3 quantification.
+![](<../../../.gitbook/assets/1 (8) (1) (1).png>) G-protein coupled receptor (GPCR) assay kits, for cAMP quantification or IP3 quantification.
 
-![](<../../../.gitbook/assets/2 (10) (1).png>) Tyrosine Kinase assays.
+![](<../../../.gitbook/assets/2 (10) (1) (1).png>) Tyrosine Kinase assays.
 
 ![](<../../../.gitbook/assets/3 (11) (1).png>) Cytokine detection kits, such as TNF-alpha detection (immunoassay). AlphaScreen read mode can also capture the Europium emission line of AlphaLISA®.
 

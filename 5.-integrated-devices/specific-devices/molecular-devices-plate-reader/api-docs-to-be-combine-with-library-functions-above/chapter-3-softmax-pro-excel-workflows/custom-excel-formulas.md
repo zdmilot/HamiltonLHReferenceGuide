@@ -14,9 +14,9 @@ The date/time of each read must be recorded in the Excel Worksheet.
 
 \=ElapsedTime(Base Date Cell, Date Column) where:
 
-![](<../../../../../.gitbook/assets/0 (8).png>) Base Date Cell is the Excel worksheet cell that contains start date/time against which all other dates are compared.
+![](<../../../../../.gitbook/assets/0 (8) (1).png>) Base Date Cell is the Excel worksheet cell that contains start date/time against which all other dates are compared.
 
-![](<../../../../../.gitbook/assets/1 (11).png>) Date Column is the column that contains the dates to compare against the Base Date. The Date Column must be in quotation marks, for example, “C” for column C of the worksheet.
+![](<../../../../../.gitbook/assets/1 (11) (1).png>) Date Column is the column that contains the dates to compare against the Base Date. The Date Column must be in quotation marks, for example, “C” for column C of the worksheet.
 
 ### ElapsedTime Example
 

@@ -12,8 +12,8 @@ Commands in the automation interface return a command ID and the command IDs are
 
 You should consider the following published events when you design and write an automation application. See Events on page 97.
 
-![](<../../../../../.gitbook/assets/5 (1).png>) **ErrorReport Event** - When the automation server detects an error, an Error event is published, followed by a CommandComplete event. All commands in the automation server command queue are flushed.
+![](<../../../../../.gitbook/assets/5 (1) (1).png>) **ErrorReport Event** - When the automation server detects an error, an Error event is published, followed by a CommandComplete event. All commands in the automation server command queue are flushed.
 
-![](<../../../../../.gitbook/assets/6 (1).png>) **InstrumentStatus Event** - When the instrument changes state, for example from Idle to Busy, an InstrumentStatus event is published.
+![](<../../../../../.gitbook/assets/6 (1) (1).png>) **InstrumentStatus Event** - When the instrument changes state, for example from Idle to Busy, an InstrumentStatus event is published.
 
 To create an environment for C# and Visual Basic .NET clients, see Creating Projects With Visual Studio on page 12.
