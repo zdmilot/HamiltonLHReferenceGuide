@@ -192,7 +192,7 @@
       * [Teaching Off Deck with the iSWAP](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/iswap/teaching-off-deck-with-the-iswap.md)
       * [Helpful Hints](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/iswap/helpful-hints.md)
     * [Tube-gripper‌](HamiltonManual/additional-sections/tube-handling-tools.md)
-    * [CO-RE Gripper](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/co\_re\_gripper/README.md)
+    * [Quad CO-RE Gripper (QCG)](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/co\_re\_gripper/README.md)
       * [Programming the CO-RE Gripper](5.-programming-a-liquid-handling-method-in-venus/hamilton-vantage-hardware-add-ons/co\_re\_gripper/programming-the-co-re-gripper.md)
   * [How to Create a Sequence](5.-programming-a-liquid-handling-method-in-venus/how-to-create-a-sequence/README.md)
     * [Stamp Tool](5.-programming-a-liquid-handling-method-in-venus/how-to-create-a-sequence/stamp-tool.md)

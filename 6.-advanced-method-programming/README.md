@@ -1,7 +1,7 @@
 ---
-cover: ../.gitbook/assets/feat-20-1313-COVIDLAB-131-1600x1200.jpg
-coverY: 135.78565799842397
+cover: ../.gitbook/assets/5_QCT (Quad CO-RE Gripper) Plate Transport_0.jpg
+coverY: 0
 ---
 
-# 7. Advanced Method Programming
+# 11. Advanced Method Programming
 

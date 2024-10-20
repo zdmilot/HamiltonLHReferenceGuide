@@ -1,4 +1,6 @@
-# CO-RE Gripper
+# Quad CO-RE Gripper (QCG)
+
+<figure><img src="../../../.gitbook/assets/image (837).png" alt=""><figcaption></figcaption></figure>
 
 This section provides information about labware handling using the CO-RE gripper.&#x20;
 

@@ -1,7 +1,7 @@
 ---
-cover: ../.gitbook/assets/Blake Carpenter - Biotek 2.28.19 (6 of 56).jpg
+cover: ../.gitbook/assets/555_1011183732 (1).jpg
 coverY: 0
 ---
 
-# 12. Conclusion
+# 17. Conclusion
 

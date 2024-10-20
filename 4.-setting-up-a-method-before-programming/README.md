@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/newsimage391497.jpg
-coverY: 0
+coverY: -191.50624540778838
 ---
 
-# 4. Setting Up a Method Before Programming
+# 7. Setting Up a Method Before Programming
 
