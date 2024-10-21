@@ -1,6 +1,6 @@
 # Toolbox
 
-<figure><img src="../../../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click and drag items from either group into the workspace to start creating your dialog.
 

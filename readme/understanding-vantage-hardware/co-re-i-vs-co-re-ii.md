@@ -10,7 +10,7 @@ description: >-
 
 CO-RE II is used to attach disposable tips and tools to the pipetting channels of the Microlab® Prep™, Microlab® NIMBUS®, Microlab® STAR™, and Microlab® VANTAGE Liquid Handling System®.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ##
 

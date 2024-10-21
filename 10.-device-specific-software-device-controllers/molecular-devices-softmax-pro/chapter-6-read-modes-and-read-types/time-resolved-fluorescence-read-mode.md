@@ -2,7 +2,7 @@
 
 Time-Resolved Fluorescence is a measurement technique that depends on three characteristics that lead to better discrimination between the specific signal, proportional to the quantity of label, and the unspecific fluorescence resulting from background and compound interference:
 
-![](<../../../.gitbook/assets/0 (17) (1).png>) Pulsed excitation light sources
+![](<../../../.gitbook/assets/0 (17) (1) (1).png>) Pulsed excitation light sources
 
 ![](<../../../.gitbook/assets/1 (19) (1).png>) Time-gated electronics faster than the fluorescence lifetime ![](<../../../.gitbook/assets/2 (20).png>) Labels with prolonged fluorescence lifetime
 

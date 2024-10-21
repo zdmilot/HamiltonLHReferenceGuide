@@ -50,11 +50,11 @@ Environmental factors such as altitude, temperature, and humidity, combined with
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (21) (1) (1) (1) (1).png" alt=""><figcaption><p>LVK — Microplate Adapter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>LVK — Microplate Adapter</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption><p>LVK — Tube Adapter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1) (1) (1) (1).png" alt=""><figcaption><p>LVK — Tube Adapter</p></figcaption></figure>
 
 </div>
 
@@ -74,9 +74,9 @@ Verify customized liquid classes to ensure the liquid handling system is within 
 
 A gravimetric balance-based hardware and software kit, the LVK enables you to quickly develop, optimize, and verify liquid handling on all Hamilton liquid handling platforms. For regulated laboratories, the LVK provides a turn-key solution for QC to verify pipetting of samples and reagents.
 
-<figure><img src="../.gitbook/assets/image (23) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (24) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Key Features:**
 

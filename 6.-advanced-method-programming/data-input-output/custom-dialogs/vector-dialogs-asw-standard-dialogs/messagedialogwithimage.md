@@ -27,7 +27,7 @@ b)    The Timer will be stopped as soon as there is an interaction by the user (
 
 In this case dialog have to be closed by the user.
 
-<figure><img src="../../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Arguments & Return Values
 

@@ -14,7 +14,7 @@ Although the software can display reads and the numbers derived from those reads
 
 **Note:** In SoftMax Pro Software versions older than version 6.0, the software used a text-conversion algorithm with a slight upward bias. This can result in a mismatch between the rounded values in the newer version and the older version. Example: When rounding the raw value 14.849999… to one decimal place, versions 6.0 and newer display 14.8, while older versions display 14.9. This does not affect the accuracy of the calculations, since rounding occurs only as required for display formatting purposes, or in the evaluation of a formula in which you use the Round operator.
 
-![](<../../../.gitbook/assets/1 (5) (1) (1).png>)
+![](<../../../.gitbook/assets/1 (5) (1) (1) (1).png>)
 
 Computations always use the maximum available precision.
 
@@ -40,7 +40,7 @@ The following is the general hierarchy of reduction calculations:
 14. Apply Kinetic or Spectrum Reduction
 15. Subtract Group Blank (post-reduction option) For more information on calculations, see:
 
-![](<../../../.gitbook/assets/2 (5) (1) (1).png>) Kinetic Data Reduction Options on page 201
+![](<../../../.gitbook/assets/2 (5) (1) (1) (1).png>) Kinetic Data Reduction Options on page 201
 
 ![](<../../../.gitbook/assets/3 (6) (1) (1).png>) Spectrum Data Reduction Options on page 202
 

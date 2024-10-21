@@ -1285,4 +1285,4 @@ To define triturate settings:
 
 **Note:** If you enter a Time Point that is incompatible with the Triturate settings, a message appears. You modify the Time Point in the Compound Transfer category. See Compound Transfer Settings on page 145.
 
-![](<../../../.gitbook/assets/0 (7) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/0 (7) (1) (1) (1) (1).png>)

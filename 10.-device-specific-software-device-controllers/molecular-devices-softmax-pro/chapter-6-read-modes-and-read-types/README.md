@@ -1,6 +1,6 @@
 # Chapter 6: Read Modes and Read Types
 
-Use the software to define the parameters for the read mode and read type of your assay. ![](<../../../.gitbook/assets/1 (13) (1).png>) Absorbance Read Mode on page 278
+Use the software to define the parameters for the read mode and read type of your assay. ![](<../../../.gitbook/assets/1 (13) (1) (1).png>) Absorbance Read Mode on page 278
 
 ![](<../../../.gitbook/assets/2 (15).png>) Fluorescence Intensity Read Mode on page 284
 

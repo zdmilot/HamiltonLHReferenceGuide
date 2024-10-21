@@ -1,6 +1,6 @@
 # Liquid Handling Methodology
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@ The volumetric mass density of a substance is its mass per unit volume. It gives
 The density of different liquids is shown below to visualize the range (in kg/m3)\
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8).png>)
+<img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8) (1).png>)
 
 
 
@@ -31,7 +31,7 @@ The density of different liquids is shown below to visualize the range (in kg/m3
 * Describes the flow behavior of a liquid&#x20;
 * The more viscous a liquid, the thicker and less fluid the liquid
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 </details>
 
@@ -43,7 +43,7 @@ The density of different liquids is shown below to visualize the range (in kg/m3
 * In contrast to adhesion, the cohesion is based on binding forces within the same substance.&#x20;
 * Capillary action is due to the pressure of cohesion and adhesion which cause the liquid to work against gravity
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 </details>
 
@@ -56,7 +56,7 @@ The density of different liquids is shown below to visualize the range (in kg/m3
 * A substance with a high vapor pressure at normal temperatures is referred to as volatile.&#x20;
 * An increase in temperature increases the number of molecules coming into the vapor phase, thus increasing the vapor pressure.
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29) (1).png>)
 
 </details>
 
@@ -106,7 +106,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 * If the volume is too low, LLD may not work reliably and fixed height must be used&#x20;
 * Fixed height helps to minimize dead volume and improve speed
 * Enable additional functions to further optimize the liquid transfer\
-  ![](<../../.gitbook/assets/image (31).png>)
+  ![](<../../.gitbook/assets/image (31) (1).png>)
   * Touch off helps ensure consistent aspirate or dispense height from the bottom of the labware
   * Side touch helps ensure proper dispense of liquids that have residual droplets or foam
 
@@ -133,11 +133,11 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt="" width="226"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47) (1).png" alt="" width="226"><figcaption></figcaption></figure>
 
 </div>
 
@@ -190,7 +190,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 * Liquid flow rates in μL/s, correspond to plunger speed for aspiration, dispense, and mixing
 *   Influenced by tip geometry, liquid viscosity, density, and vapor pressure
 
-    <figure><img src="../../.gitbook/assets/image (10).png" alt="" width="18"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="18"><figcaption></figcaption></figure>
 
 <!---->
 
@@ -215,7 +215,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   Influenced by tip geometry and liquid vapor pressure\
 
 
-    <figure><img src="../../.gitbook/assets/image (12).png" alt="" width="49"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="49"><figcaption></figcaption></figure>
 * Helps prevent droplet formation
 * Recommend the following:
   * Use larger volume for volatile liquids
@@ -233,7 +233,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   Influenced by liquid viscosity and liquid vapour pressure\
 
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt="" width="51"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt="" width="51"><figcaption></figcaption></figure>
 * Set larger for more viscous liquids
 * Aspiration
   * Set equal to or greater than the blowout volume set for the dispense
@@ -251,7 +251,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   Speed in mm/s at which the pipette head is moved out of the liquid after aspiration and dispense.\
 
 
-    <figure><img src="../../.gitbook/assets/image (14).png" alt="" width="40"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="40"><figcaption></figcaption></figure>
 * Influenced by liquid viscosity and liquid vapour pressure
 * Set slower for more viscous fluids
 * Set faster for more volatile fluids
@@ -267,7 +267,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   Time in seconds that the pipette head remains in the liquid after the aspiration and dispense step before moving out of the liquid\
 
 
-    <figure><img src="../../.gitbook/assets/image (15).png" alt="" width="54"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="54"><figcaption></figcaption></figure>
 * Influenced by tip geometry and liquid viscosity
 * Set shorter for aqueous solutions
 * Set very short for highly volatile solutions
@@ -283,7 +283,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   A pre-wetting volume in μL. After aspirating the required volume an additional volume is aspirated and dispensed again immediately.\
 
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="64"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt="" width="64"><figcaption></figcaption></figure>
 * Influenced by liquid viscosity and vapor pressure
 * Can help minimize capillary effect
 * Useful at low volumes
@@ -300,7 +300,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   A parameter for clot detection which determines how high the pipette head is allowed to move out of the liquid while there is still a liquid detection signal after aspiration.\
 
 
-    <figure><img src="../../.gitbook/assets/image (17).png" alt="" width="45"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1).png" alt="" width="45"><figcaption></figcaption></figure>
 * It is measured from the liquid surface upwards. If this distance is exceeded, an error message is generated.
 * Doesn’t affect liquid transfers
 * Only used to help detect clots after aspiration
@@ -317,7 +317,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   Influenced by liquid viscosity\
 
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt="" width="93"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt="" width="93"><figcaption></figcaption></figure>
 * Set equal to or less than Dispense flow rate
 * Set slower for surface dispense and smaller relative to the dispense flow rate
 * Set faster for jet dispense and generally equal to dispense flow rate, especially when multi- dispensing
@@ -331,7 +331,7 @@ Prevent aspiration of air, excessive carryover when used in conjunction with sub
 *   Volume in μL which is aspirated again immediately after the dispense. This volume is aspirated as quickly as possible.\
 
 
-    <figure><img src="../../.gitbook/assets/image (20).png" alt="" width="63"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="63"><figcaption></figcaption></figure>
 * Influenced by liquid viscosity
 * Helps prevent droplets after dispense in jet part volume mode (setting only valid for jet part volume mode)
   * Acts as an air transport volume in between transfers when using jet part volume mode
@@ -348,11 +348,11 @@ The settings of the liquid class are only active if supported by the aspiration 
 
 #### Enabled Liquid Class Settings per Aspirate Mode
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Enabled Liquid Class Settings per Dispense Mode 
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4: Optimizing Parameters/Method Settings
 
@@ -360,11 +360,11 @@ Adjustment of Correction Curve
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="285"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt="" width="285"><figcaption></figcaption></figure>
 
 </div>
 
@@ -375,11 +375,11 @@ Adjustment of Correction Curve
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

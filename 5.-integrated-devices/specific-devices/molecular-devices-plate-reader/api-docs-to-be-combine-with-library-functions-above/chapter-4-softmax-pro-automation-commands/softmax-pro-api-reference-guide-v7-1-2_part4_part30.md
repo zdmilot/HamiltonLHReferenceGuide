@@ -7,8 +7,8 @@ OpenDrawer(Int32 xPosition, Int32 yPosition, Bool locked)
 Purpose\
 The OpenDrawer commands open a drawer on the instrument. This command opens the plate drawer for most instruments.
 
-| <img src="../../../../../.gitbook/assets/0 (24).png" alt="" data-size="original"> | Note: For instruments with temperature control, the plate drawer cannot open when the incubator is on. See SetTemperature on page 91. |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (24) (1).png" alt="" data-size="original"> | Note: For instruments with temperature control, the plate drawer cannot open when the incubator is on. See SetTemperature on page 91. |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 Parameters for the FlexStation 3\
 The OpenDrawer drawerType parameter is recognized by the FlexStation 3 only. This parameter is ignored and can be omitted for all other instruments.

@@ -1,7 +1,7 @@
 ---
-cover: ../.gitbook/assets/broad-feature-2.jpg
-coverY: 90.09305760709009
+cover: ../.gitbook/assets/Picture1.png
+coverY: 140
 ---
 
-# 8. Testing and Optimizing Your Method
+# 12. Testing and Optimizing Your Method
 

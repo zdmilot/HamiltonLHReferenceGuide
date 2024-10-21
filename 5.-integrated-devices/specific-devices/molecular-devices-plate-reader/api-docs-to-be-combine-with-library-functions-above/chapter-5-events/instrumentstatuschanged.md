@@ -12,7 +12,7 @@ instrument changes. **InstrumentStatusEventArgs Property**
 
 ### Returns
 
-The following properties can be used for testing which state has been returned: ![](<../../../../../.gitbook/assets/1 (11).png>) SMPAutomationClient.InstrumentStatus.IDLE
+The following properties can be used for testing which state has been returned: ![](<../../../../../.gitbook/assets/1 (11) (1).png>) SMPAutomationClient.InstrumentStatus.IDLE
 
 ![](<../../../../../.gitbook/assets/2 (10).png>) SMPAutomationClient.InstrumentStatus.INITIALIZING
 

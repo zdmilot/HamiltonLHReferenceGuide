@@ -4,9 +4,9 @@ A Visual Basic module named SMPWorkflow contains logic to initiate the invocatio
 
 The following Visual Basic messages can display:
 
-![](<../../../../../.gitbook/assets/0 (3) (1).png>) The workflow is being validated before execution. ![](<../../../../../.gitbook/assets/1 (4) (1).png>) The workflow is being executed.
+![](<../../../../../.gitbook/assets/0 (3) (1) (1).png>) The workflow is being validated before execution. ![](<../../../../../.gitbook/assets/1 (4) (1) (1).png>) The workflow is being executed.
 
-![](<../../../../../.gitbook/assets/2 (3) (1).png>) The workflow is paused, with details. ![](<../../../../../.gitbook/assets/3 (4) (1).png>) An error was detected.
+![](<../../../../../.gitbook/assets/2 (3) (1) (1).png>) The workflow is paused, with details. ![](<../../../../../.gitbook/assets/3 (4) (1).png>) An error was detected.
 
 Running Excel Workflows
 

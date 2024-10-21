@@ -3,8 +3,8 @@
 Int32 NewNotes()\
 The NewNotes command creates a new Note section in an experiment.
 
-| <img src="../../../../../.gitbook/assets/0 (22).png" alt="" data-size="original"> | Note: For the SoftMax Pro Software - GxP edition, the document must be unlocked, the document status must be In Work, and all statements must be unsigned. |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (22) (1).png" alt="" data-size="original"> | Note: For the SoftMax Pro Software - GxP edition, the document must be unlocked, the document status must be In Work, and all statements must be unsigned. |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Parameters\
 None

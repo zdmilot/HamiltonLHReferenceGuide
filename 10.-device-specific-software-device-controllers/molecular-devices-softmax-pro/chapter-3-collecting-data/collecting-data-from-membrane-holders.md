@@ -6,7 +6,7 @@ Use auto read to read multiple Plate sections in the same experiment. See Using 
 
 If you use the SoftMax Pro Software - GxP edition, you must have the following permissions to complete a Western Blot membrane read:
 
-![](<../../../.gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1).png>) **Read Empty Plates/Cuvettes** to start a read.
+![](<../../../.gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1).png>) **Read Empty Plates/Cuvettes** to start a read.
 
 ![](<../../../.gitbook/assets/3 (3) (1) (1) (1).png>) **Create/Save Data Documents** to save the data document before the read.
 

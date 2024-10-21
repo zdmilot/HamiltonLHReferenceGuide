@@ -4,7 +4,7 @@ Custom Dialogs can become more than a fixed piece of information presented to th
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Picture1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Picture1 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -22,7 +22,7 @@ Instead of having individual prompts for user input and user output, using the c
 
 The new dialog allows the user to scroll over the images and see labware required at each position. By customizing the properties of the dialog elements, and creating events based on various run time triggers, you can produce dynamic user prompts, which creates a user-friendly experience.
 
-<figure><img src="../../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

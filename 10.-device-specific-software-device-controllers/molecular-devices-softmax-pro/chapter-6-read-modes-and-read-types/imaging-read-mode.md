@@ -20,9 +20,9 @@ Whole-cell imaging assays measure a diverse set of cellular responses, such as f
 
 Supported dyes include the following:
 
-![](<../../../.gitbook/assets/0 (6) (1) (1).png>) EarlyTox™ Cell Integrity Kit
+![](<../../../.gitbook/assets/0 (6) (1) (1) (1).png>) EarlyTox™ Cell Integrity Kit
 
-![](<../../../.gitbook/assets/1 (7) (1) (1).png>) Fluorescein isothiocyanate (FITC) ![](<../../../.gitbook/assets/2 (9) (1) (1).png>) Calcein AM
+![](<../../../.gitbook/assets/1 (7) (1) (1) (1).png>) Fluorescein isothiocyanate (FITC) ![](<../../../.gitbook/assets/2 (9) (1) (1).png>) Calcein AM
 
 ![](<../../../.gitbook/assets/3 (10) (1).png>) Alexa Fluor 488 or Alexa Fluor 647 ![](<../../../.gitbook/assets/4 (8) (1).png>) Cy5
 

@@ -41,7 +41,7 @@ In Time-Resolved Fluorescence (TRF) read mode, the instrument detects the extrem
 
 Time-Resolved Fluorescence is a measurement technique that depends on three characteristics that lead to better discrimination between the specific signal, proportional to the quantity of label, and the unspecific fluorescence resulting from background and compound interference:
 
-![](<../../../.gitbook/assets/2 (4) (1) (1) (1).png>) Pulsed excitation light sources
+![](<../../../.gitbook/assets/2 (4) (1) (1) (1) (1).png>) Pulsed excitation light sources
 
 ![](<../../../.gitbook/assets/3 (8) (1) (1).png>) Time-gated electronics faster than the fluorescence lifetime ![](<../../../.gitbook/assets/4 (9) (1) (1).png>) Labels with prolonged fluorescence lifetime
 
@@ -74,10 +74,10 @@ The integration delay and integration time are usually specified in the package 
 
 Some examples of TRF assays are:
 
-![](<../../../.gitbook/assets/0 (6) (1) (1) (1).png>) IMAP® TR-FRET
+![](<../../../.gitbook/assets/0 (6) (1) (1) (1) (1).png>) IMAP® TR-FRET
 
-![](<../../../.gitbook/assets/1 (6) (1) (1) (1).png>) Cisbio HTRF
+![](<../../../.gitbook/assets/1 (6) (1) (1) (1) (1).png>) Cisbio HTRF
 
-![](<../../../.gitbook/assets/2 (6) (1) (1) (1).png>) LanthaScreen TR-FRET ![](<../../../.gitbook/assets/3 (9) (1) (1).png>) LANCE TR-FRET
+![](<../../../.gitbook/assets/2 (6) (1) (1) (1) (1).png>) LanthaScreen TR-FRET ![](<../../../.gitbook/assets/3 (9) (1) (1).png>) LANCE TR-FRET
 
 ![](<../../../.gitbook/assets/4 (10) (1) (1).png>)DELFIA TRF

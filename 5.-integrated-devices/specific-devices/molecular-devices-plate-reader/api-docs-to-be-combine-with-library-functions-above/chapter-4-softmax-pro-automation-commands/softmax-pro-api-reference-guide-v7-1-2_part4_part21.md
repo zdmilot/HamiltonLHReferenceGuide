@@ -4,8 +4,8 @@
 
 Int32 ImportPlateData(string importType, params string\[] importParameter) The ImportPlateData command imports data from a file into a Plate section in a document.
 
-| <img src="../../../../../.gitbook/assets/0 (17).png" alt="" data-size="original"> | Note: For the SoftMax Pro Software - GxP edition, the document must be unlocked, the document status must be In Work, and all statements must be unsigned. |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (17) (1).png" alt="" data-size="original"> | Note: For the SoftMax Pro Software - GxP edition, the document must be unlocked, the document status must be In Work, and all statements must be unsigned. |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Parameters\
 importType

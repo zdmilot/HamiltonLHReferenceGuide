@@ -46,7 +46,7 @@ Besides automatic created sequences, the Hamilton VENUS Software also allows the
    It is possible to use the rubber band action to add positions to a sequence. Please notice that the selected stamp tool will be used to sort the sequence when the rubber band action is being used.\
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To select a labware position, click on it once. If a labware position is clicked the second time, it will be added to the sequence again.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To select a labware position, click on it once. If a labware position is clicked the second time, it will be added to the sequence again.</p></td></tr></tbody></table>
 
 5.  Once all the positions belonging to a sequence have been selected, click the \[Save as] Button found on the upper left side of the window. A save dialog where the name for the sequence is specified will be prompted.\
     ![image](../../.gitbook/assets/Image\_451.jpg)
@@ -97,7 +97,7 @@ The “Advanced” Window offers several sorting options.
 3. **Apply Stamp Tool:** This sorting option refers to the selected stamp tool in the stamp tool panel. When for example the “Head 96” stamp tool is activated, the sequence will be sorted to process the positions with the Head 96.
 4. _**Delete Selected Positions**_ is used to delete one or more positions from the sequence. Click on the index (the number on the left side) of the position(s) to delete and click the \[Delete Selected Positions] Button.
 
-<figure><img src="../../.gitbook/assets/image (75) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The \[CTRL] Button can be used to select several specific positions in the sequence. All selected sequence positions are highlighted in the deck layout.
 
@@ -106,11 +106,11 @@ The \[CTRL] Button can be used to select several specific positions in the seque
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (76) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (77) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

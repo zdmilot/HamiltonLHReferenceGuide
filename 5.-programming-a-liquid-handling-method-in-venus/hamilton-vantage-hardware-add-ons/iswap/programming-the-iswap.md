@@ -4,9 +4,9 @@ The following example demonstrates the use of iSWAP with Microlab STAR. A plate 
 
 ## Creating the Deck Layout
 
-<figure><img src="../../../.gitbook/assets/image (95) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To save deck space, the stacker carrier can be positioned 4 tracks to the left of the deck (track positions –3 to +3), and the plates will still be fully accessible by the iSWAP.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>To save deck space, the stacker carrier can be positioned 4 tracks to the left of the deck (track positions –3 to +3), and the plates will still be fully accessible by the iSWAP.</p></td></tr></tbody></table>
 
 
 
@@ -14,13 +14,13 @@ The following example demonstrates the use of iSWAP with Microlab STAR. A plate 
 
 1. Click the “Sequences” Tab and create the following sequences:&#x20;
 2. On the foremost plate stack, select only the well A1 of all 9 plates. Make sure the stamp tool is set to “Single position select” and the sorting option is “Top Down” as shown below. \
-   ![](<../../../.gitbook/assets/image (96) (1) (1).png>)\
+   ![](<../../../.gitbook/assets/image (96) (1) (1) (1).png>)\
 
 3. This means that the stack from top to bottom is used as a SOURCE stack. \
-   ![](<../../../.gitbook/assets/image (97) (1) (1).png>)\
+   ![](<../../../.gitbook/assets/image (97) (1) (1) (1).png>)\
 
 4. In the “Advanced” Window, check if the plate on top (the one with the highest z-coordinate is on sequence position one. Save the sequence as ‘InputStack’. \
-   ![](<../../../.gitbook/assets/image (98) (1) (1).png>)\
+   ![](<../../../.gitbook/assets/image (98) (1) (1) (1).png>)\
    \
 
 5. Do the same for the output stack on position 4. But this time, sort the sequence to start with the deepest position (sorting option is “Descending”).&#x20;
@@ -61,29 +61,29 @@ The following tables give a brief overview of the available ML STAR-specific iSW
 To create the required method:&#x20;
 
 1. Drag and drop an “iSwap Transport” Step into the method. Since this is an Easy Step, an initialize step is not needed to initialize the instrument. \
-   ![](<../../../.gitbook/assets/image (99) (1) (1).png>)\
+   ![](<../../../.gitbook/assets/image (99) (1) (1) (1).png>)\
 
 2. Set the ‘InputStack’ sequence as the get sequence. Activate the ‘Auto increment’ to make sure the current position points to the next plate after getting this one.&#x20;
 3. Setting the ‘Search source labware first’ will force the iSWAP to check where the first free position is. This is especially helpful if the loading state of a stack is not known. The iSWAP will check this and set the current position according to the first free position.&#x20;
 4. Activate the ‘Read plate barcode’ box to identify the plate. The Autoload will move to track 12 to read the plate’s barcode. If the default settings from this step are being used then there is no risk of collision. That means that the barcode reading with iSWAP is possible even on a fully loaded deck.&#x20;
 5. Set the “Parking the iSWAP after labware is placed” to On.&#x20;
-6. Use a “Aliquote” Smart Step to pipette 50μl of reagent over the full plate. Even if the sequence of the Reagent trough is used up, it will still restart at the beginning, since the Radio Button is set to \[No, reuse the sequence from the beginning if necessary]: ![](<../../../.gitbook/assets/image (100) (1) (1).png>)\
+6. Use a “Aliquote” Smart Step to pipette 50μl of reagent over the full plate. Even if the sequence of the Reagent trough is used up, it will still restart at the beginning, since the Radio Button is set to \[No, reuse the sequence from the beginning if necessary]: ![](<../../../.gitbook/assets/image (100) (1) (1) (1).png>)\
 
 7. Also make sure the “Initial sequence manipulation” are set as follows: \
-   ![](<../../../.gitbook/assets/image (101) (1) (1).png>)\
+   ![](<../../../.gitbook/assets/image (101) (1) (1) (1).png>)\
 
 8. Because the sequence ‘Processing’ is used both for pipetting and transport, the “Final sequence manipulation” should be used as follows: \
-   ![](<../../../.gitbook/assets/image (102) (1) (1).png>)\
+   ![](<../../../.gitbook/assets/image (102) (1) (1) (1).png>)\
 
 9. Now, use an “iSwapTransport” Step to bring the plate from the “Processing” Position to the “Reader” Position. Do not park the iSWAP.&#x20;
 10. Since there is no reader connected, a comment step is used to simulate this.&#x20;
 11. After reading, the plate has to be taken at the reader position and brought to the output stack. Make sure the “Auto increment” is only set at the “Output Stack” Place Sequence.&#x20;
 12. To have all plates processed, create a loop and move all steps inside. The loop limitation should be the sequence ‘InputStack’. \
-    ![](<../../../.gitbook/assets/image (103) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (103) (1) (1) (1).png>)\
 
 13. To make the method perfect, add an iSWAP park step at the end (the transport step in line 6 was set to park iSWAP = Off).&#x20;
 14. When all of the steps have been done, the method should look like this: \
-    ![](<../../../.gitbook/assets/image (104) (1) (1).png>)\
+    ![](<../../../.gitbook/assets/image (104) (1) (1) (1).png>)\
 
 
 ## &#x20;

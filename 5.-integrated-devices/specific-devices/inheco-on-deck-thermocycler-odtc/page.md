@@ -20,7 +20,7 @@ The Inheco ODTC device is shipped with a router where all ODTC devices and also 
 
 
 
-<img src="../../../.gitbook/assets/image (25) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (25) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 There are 10 network connections named ETH1 to ETH10 which have to be used as follows:
 
@@ -58,16 +58,16 @@ To be sure to configure the right adapter, disconnect the customer network from 
 * Click 'Start', then 'Control Panel'
 * Click on 'Network and Sharing Center'
 * Click on 'Change adapter settings':\
-  ![](<../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
 * Double-click the adapter that is shown as enabled:\
-  ![](<../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1).png>)
 * Click on 'Properties'
 * Select 'Internet protocol version 4 (TCP/IP v4)
 * Set the Properties to 'Obtain an IP adress automatically':\
-  ![](<../../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1).png>)
 * Close the two dialogs with OK
 * Click on 'Details':\
-  ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1).png>)
 * Note the shown IP address for further use in Network Settings
 
 ### Retrieving ODTC device IP address(es)
@@ -109,13 +109,13 @@ To be sure to configure the right adapter, disconnect the customer network from 
 * Click 'Start', then 'Control Panel'
 * Click on 'Network and Sharing Center'
 * Click on 'Change adapter settings':\
-  ![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
 * Double-click the adapter that is shown as enabled:\
-  ![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
 * Click on 'Properties'
 * Select 'Internet protocol version 4 (TCP/IP v4)
 * Set the Properties to 'Use the following IP address':\
-  ![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
+  ![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1) (1).png>)
 * Set the value of 'IP-address' to the one of the computer that you noted in chapter Retrieving device IP address(es)
 * Set the value of 'Subnet mask' to '255.255.255.0' (filled automatically when you enter the last digit of the IP address)
 * Leave the value of 'Default gateway' empty !

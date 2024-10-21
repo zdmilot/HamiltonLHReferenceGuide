@@ -2,7 +2,7 @@
 
 The following topics describe the SoftMax Pro automation commands:
 
-![](<../../../../../.gitbook/assets/1 (12).png>) AppendData - Reads the current Plate section and appends the new data to the existing data.
+![](<../../../../../.gitbook/assets/1 (12) (1).png>) AppendData - Reads the current Plate section and appends the new data to the existing data.
 
 ![](<../../../../../.gitbook/assets/2 (8) (1).png>) AppendTitle - Appends the text to the title of the specified section.
 

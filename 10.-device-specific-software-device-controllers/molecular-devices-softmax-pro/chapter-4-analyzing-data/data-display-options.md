@@ -8,7 +8,7 @@ You can clone a plate to view both raw and reduced data or multiple reductions o
 
 **Note:** If you change the display setting for one cuvette, you change the display settings for all the cuvettes in that Cuvette Set section.
 
-![](<../../../.gitbook/assets/2 (4) (1) (1).png>)
+![](<../../../.gitbook/assets/2 (4) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/3 (5) (1) (1).png>)
 

@@ -49,11 +49,11 @@ An image of the selected well displays in the Image Acquisition, Image Selection
 
 To view a larger version of the image area:
 
-![](<../../../.gitbook/assets/0 (3) (1) (1) (1).png>) Double-click the image to display the Zoom Well dialog.
+![](<../../../.gitbook/assets/0 (3) (1) (1) (1) (1).png>) Double-click the image to display the Zoom Well dialog.
 
 In the Zoom Well dialog, the image area displays the acquired image from the selected well. To zoom the image in and out:
 
-![](<../../../.gitbook/assets/1 (4) (1) (1) (1).png>) Right-click the image and select **Zoom In** or **Zoom Out**, ![](<../../../.gitbook/assets/2 (3) (1) (1) (1).png>) Hold the **CTRL** key and press **+** or **-**.
+![](<../../../.gitbook/assets/1 (4) (1) (1) (1) (1).png>) Right-click the image and select **Zoom In** or **Zoom Out**, ![](<../../../.gitbook/assets/2 (3) (1) (1) (1) (1).png>) Hold the **CTRL** key and press **+** or **-**.
 
 ![](<../../../.gitbook/assets/3 (7) (1) (1) (1).png>) Use the mouse wheel to zoom in or out. To move the image in the image area:
 

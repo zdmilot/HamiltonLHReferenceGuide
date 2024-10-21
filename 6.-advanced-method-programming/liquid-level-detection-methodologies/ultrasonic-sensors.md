@@ -2,7 +2,7 @@
 
 Ultrasonic sensors measure liquid levels by emitting high-frequency sound waves and detecting the time it takes for the echoes to return, allowing precise non-contact detection of liquid surfaces.
 
-<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Introduction:
 

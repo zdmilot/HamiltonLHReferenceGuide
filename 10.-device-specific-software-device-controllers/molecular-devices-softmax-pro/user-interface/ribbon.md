@@ -8,7 +8,7 @@ The Ribbon contains tabs with icons that vary depending on the instrument that i
 
 The Home tab displays the following icons:
 
-![](<../../../.gitbook/assets/1 (11) (1) (1) (1).png>) Click ![](<../../../.gitbook/assets/2 (9).jpeg>) **Instrument** to connect the software to the instrument. Displays other instrument information such as connection status and chamber temperature. See Selecting an Instrument on page 58.
+![](<../../../.gitbook/assets/1 (11) (1) (1) (1) (1).png>) Click ![](<../../../.gitbook/assets/2 (9).jpeg>) **Instrument** to connect the software to the instrument. Displays other instrument information such as connection status and chamber temperature. See Selecting an Instrument on page 58.
 
 ![](<../../../.gitbook/assets/3 (14) (1) (1).png>) **Instrument Commands** - Icons depend on the instrument you select.
 

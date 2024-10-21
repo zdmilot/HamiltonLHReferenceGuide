@@ -20,7 +20,7 @@ In this example, the database used is a Microsoft Excel file. The name of the Ex
 The worklist then has 193 lines, 1 header line and the entries from 2 plates with 96 wells each.\
 
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Deck Layout contains (see picture below):
 
@@ -28,7 +28,7 @@ The Deck Layout contains (see picture below):
 * One plate carrier “PLT\_CAR\_L5MD\_A00.tml” with two Nunc plates “Nun\_96\_Fl\_L.rck”, which are the source plates (change the properties such that one plate is called “Source\_1” and the other “Source\_2”)
 * One plate carrier “PLT\_CAR\_L5MD\_A00.tml” with two Nunc plates “Nun\_96\_Fl\_L.rck”, which are the target plates
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Create the “Target” Sequence by activating the “Sequences” Tab in the Deck Layout Editor.
 2. Click on \[Clear selected].
@@ -42,11 +42,11 @@ The Deck Layout contains (see picture below):
 
 1. “Drag and Drop” the steps from the toolbox into the method, as shown below.\
    \
-   ![](<../.gitbook/assets/image (78).png>)\
+   ![](<../.gitbook/assets/image (78) (1).png>)\
 
 2. The first step is to request the user to input a threshold value for the absorption. This is saved as a variable called “Threshold”.\
    \
-   ![](<../.gitbook/assets/image (79).png>)\
+   ![](<../.gitbook/assets/image (79) (1).png>)\
 
 3. In the “Prompt” Field, type in the question to be asked to the user (do not forget to put the string in quotation marks for this is a text).
 4. Specify the “Type” (integer, float, string) of the input required. In this case, use a float type because this value will be used in an SQL statement.
@@ -55,7 +55,7 @@ The Deck Layout contains (see picture below):
 7. In the next step, create an SQL statement to get only the values with the specified OD or greater. The complete expression in the left field is:\
    \
    “SELECT \* FROM \[Absorbance$] WHERE OD >”\
-   ![](<../.gitbook/assets/image (80).png>)\
+   ![](<../.gitbook/assets/image (80) (1).png>)\
 
 8. This will create a variable SQL\_Statement which depends on the user input, e.g. if the user types in 500 as threshold, the statement to open the excel file will be “SELECT \* FROM \[Absorbance$] WHERE OD > 500”
 9. Here, “Absorbance$” refers to the name of the Excel sheet which is going to be opened during the next steps.
@@ -63,7 +63,7 @@ The Deck Layout contains (see picture below):
 11. Select the tab for opening “Microsoft Excel” Files.
 12. Under “File name (\*.xls)”, enter the file name. When browsing for the file, the full absolute path is required with the filename. Note that the backslash must be written twice. To use a relative path, delete it or simply enter the path enclosed in quotation marks.\
     \
-    ![](<../.gitbook/assets/image (81).png>)
+    ![](<../.gitbook/assets/image (81) (1).png>)
 13. The file type is an Excel file (.xls) where the sheet name (sheet1 if not defined otherwise, language dependent) and the $ sign must be added within the quotation marks.
 14. Define a file handle (here the default: “file1”) which is a name for the file used within the method. Later, data will be read from this file by referring to this file handle.
 15. Select “Open File to Read” as the mode to read data from this file.
@@ -74,31 +74,31 @@ The Deck Layout contains (see picture below):
 20. Click \[OK] to finish the definition.
 21. Create a loop after opening but before closing the input file. This will loop over the file until the file has been read completely.\
     \
-    ![](<../.gitbook/assets/image (82).png>)\
+    ![](<../.gitbook/assets/image (82) (1).png>)\
 
 22. Within the loop, the first record of the file is read.\
     \
-    ![](<../.gitbook/assets/image (83).png>)\
+    ![](<../.gitbook/assets/image (83) (1).png>)\
 
 23. As the file is being read, the variables defined in “Open File” will be filled with the information found.
 24. Use the “SeqAdd” Library Function. This command will add positions to a sequence when giving the LabID/PosID information (see image below).\
     \
-    ![](<../.gitbook/assets/image (84).png>)\
+    ![](<../.gitbook/assets/image (84) (1).png>)\
 
 25. In the sequence “Name” Field, insert a sequence name. Since in this example, a completely new sequence is being created for all the hits “AllHits”, a name can directly be typed in. The system will then create a new sequence with the specified name.
 26. Because the SQL selection string automatically skips all records with absorption values less than or equal to the value of the “Threshold” Variable, no other selection statements such as IF/ELSE are required.
 27. In the “LabwareId “/ “PositionId” fill the two variables from the file open.
 28. After the loop, use the “TrcTraceSequence” Command to see which positions have been added to the “AllHits” Sequence. This command will list all sequence positions in the trace window.\
     \
-    ![](<../.gitbook/assets/image (85).png>)\
+    ![](<../.gitbook/assets/image (85) (1).png>)\
 
 29. Add a “Load” Smart Step. After the file has been analyzed and the hit sequence has been generated, the loading of the sequences (carriers) onto the deck may start.\
     \
-    ![](<../.gitbook/assets/image (86).png>)\
+    ![](<../.gitbook/assets/image (86) (1).png>)\
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The “AllHits” Sequence was created in the previous step and the current position of the sequence is undefined.</em></p><p><em>To set, use the SetCurrentPosition command from the General Steps or in the load step, set the start Position to 1.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The “AllHits” Sequence was created in the previous step and the current position of the sequence is undefined.</em></p><p><em>To set, use the SetCurrentPosition command from the General Steps or in the load step, set the start Position to 1.</em></p></td></tr></tbody></table>
 
     \
     \
@@ -107,7 +107,7 @@ The Deck Layout contains (see picture below):
 31. In this step of the wizard, make sure that the control sequence is properly defined (see image below). The “AllHits” Aspiration Sequence is the controlling sequence and therefore is not reloadable. The target sequence is not reloadable either.\
 
 
-    <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (88) (1).png" alt=""><figcaption></figcaption></figure>
 32. The rest of the settings made are very similar to the previous example “OnePlateToPipette”.
 33. To end with, add a step for unloading.
 

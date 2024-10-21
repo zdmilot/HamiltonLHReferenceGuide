@@ -9,7 +9,7 @@ Set whether the legend (all icons with descriptions) is visible or not.
 
 The icon descriptions can be changed by using the function WorklistDialogSetResources.
 
-![](<../../../../.gitbook/assets/image (16) (1) (1).png>)\
+![](<../../../../.gitbook/assets/image (16) (1) (1) (1).png>)\
 \
 
 

@@ -2,9 +2,9 @@
 
 Workflow flow control statements allow the workflow to repeat a section of statements or pause until a given condition is satisfied. In the provided example, Workbooks control statements are color coded gray.
 
-![](<../../../../../.gitbook/assets/0 (7) (1).png>) Loop and EndLoop Statements (see below) ![](<../../../../../.gitbook/assets/1 (10) (1).png>) Pause Statement, see page 42
+![](<../../../../../.gitbook/assets/0 (7) (1) (1).png>) Loop and EndLoop Statements (see below) ![](<../../../../../.gitbook/assets/1 (10) (1) (1).png>) Pause Statement, see page 42
 
-![](<../../../../../.gitbook/assets/2 (7) (1).png>) WaitUntil Statement, see page 43
+![](<../../../../../.gitbook/assets/2 (7) (1) (1).png>) WaitUntil Statement, see page 43
 
 ### Loop and EndLoop Statements
 

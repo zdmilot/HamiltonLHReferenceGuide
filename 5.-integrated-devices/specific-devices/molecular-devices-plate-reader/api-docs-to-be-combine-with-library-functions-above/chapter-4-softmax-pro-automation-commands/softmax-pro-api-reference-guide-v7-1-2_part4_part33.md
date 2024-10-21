@@ -5,8 +5,8 @@ The SaveAs command saves the current document as a data document or a protocol. 
 
 If a document with the same name already exists, the SoftMax Pro Software - Standard edition automatically overwrites the document with no warning.
 
-| <img src="../../../../../.gitbook/assets/0 (25).png" alt="" data-size="original"> | Note: The SoftMax Pro Software - GxP edition does not allow you to save the document as a Protocol and prevents you from overwriting an existing document. |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (25) (1).png" alt="" data-size="original"> | Note: The SoftMax Pro Software - GxP edition does not allow you to save the document as a Protocol and prevents you from overwriting an existing document. |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Parameters\
 pathname

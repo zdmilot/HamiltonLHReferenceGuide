@@ -3,8 +3,8 @@
 Int32 ImportPlateTemplate(string path)\
 The ImportPlateTemplate command imports a template from a file into a Plate section.
 
-| <img src="../../../../../.gitbook/assets/0 (18).png" alt="" data-size="original"> | Note: For the SoftMax Pro Software - GxP edition, the document must be unlocked, the document status must be In Work, and all statements must be unsigned. |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (18) (1).png" alt="" data-size="original"> | Note: For the SoftMax Pro Software - GxP edition, the document must be unlocked, the document status must be In Work, and all statements must be unsigned. |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Parameters\
 path

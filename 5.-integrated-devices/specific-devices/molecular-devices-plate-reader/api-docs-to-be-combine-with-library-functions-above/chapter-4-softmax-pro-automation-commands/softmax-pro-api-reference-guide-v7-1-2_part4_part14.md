@@ -20,8 +20,8 @@ Must be one of the following:
 • “Tips Drawer”\
 These values are not case sensitive.
 
-| <img src="../../../../../.gitbook/assets/0 (15).png" alt="" data-size="original"> | Note: The drawerType parameter is required for the FlexStation 3. The status of the assay plate drawer is returned if you omit this parameter. |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (15) (1).png" alt="" data-size="original"> | Note: The drawerType parameter is required for the FlexStation 3. The status of the assay plate drawer is returned if you omit this parameter. |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Returns\
 This function returns the command ID used to retrieve the following from the CommandCompleted Event.

@@ -6,13 +6,13 @@ FRET relies on the distance-dependent transfer of energy from a donor molecule t
 
 While there are many factors that influence FRET, the primary conditions that need to be met for FRET to occur are relatively few:
 
-![](<../../../.gitbook/assets/0 (5) (1) (1) (1).png>) The donor and acceptor molecules must be in close proximity to each other.
+![](<../../../.gitbook/assets/0 (5) (1) (1) (1) (1).png>) The donor and acceptor molecules must be in close proximity to each other.
 
-![](<../../../.gitbook/assets/1 (5) (1) (1) (1).png>) The absorption or excitation spectrum of the acceptor must overlap the fluorescence emission spectrum of the donor.
+![](<../../../.gitbook/assets/1 (5) (1) (1) (1) (1).png>) The absorption or excitation spectrum of the acceptor must overlap the fluorescence emission spectrum of the donor.
 
 The degree to which they overlap is referred to as the spectral overlap integral (J).
 
-![](<../../../.gitbook/assets/2 (5) (1) (1) (1).png>)The donor and acceptor transition must be approximately parallel.
+![](<../../../.gitbook/assets/2 (5) (1) (1) (1) (1).png>)The donor and acceptor transition must be approximately parallel.
 
 ### Creating Fluorescence Polarization Mode Protocols
 

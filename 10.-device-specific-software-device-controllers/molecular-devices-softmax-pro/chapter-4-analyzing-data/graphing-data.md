@@ -20,7 +20,7 @@ To create a new graph:
 
 **Note:** For scatter plot graphs, you can choose to display error bars for the plot of the data for the X-axis and Y-axis. Error bars are lines that extend outside of a plotted value in either or both directions and graphically represent some error in plotted data.
 
-![](<../../../.gitbook/assets/2 (3) (1) (1).png>)
+![](<../../../.gitbook/assets/2 (3) (1) (1) (1).png>)
 
 1. In the **Plot Attributes** area:
 

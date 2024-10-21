@@ -3,8 +3,8 @@
 Int32 NewDocument()\
 The NewDocument command creates a new document that uses the Default Protocol.spr protocol settings.
 
-| <img src="../../../../../.gitbook/assets/0 (20).png" alt="" data-size="original"> | Note: Not available for SoftMax Pro Software - GxP edition. |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (20) (1).png" alt="" data-size="original"> | Note: Not available for SoftMax Pro Software - GxP edition. |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 
 Parameters\
 None

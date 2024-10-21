@@ -2,9 +2,9 @@
 
 When you edit workflows, keep in mind how workflow statements are interpreted when the workflow is run.
 
-![](<../../../../../.gitbook/assets/0 (4) (1).png>) The first blank column in the statement row indicates the end of the statement and then the next statement in the following row executes.
+![](<../../../../../.gitbook/assets/0 (4) (1) (1).png>) The first blank column in the statement row indicates the end of the statement and then the next statement in the following row executes.
 
-![](<../../../../../.gitbook/assets/1 (5) (1).png>) The first blank row indicates the end of the workflow.
+![](<../../../../../.gitbook/assets/1 (5) (1) (1).png>) The first blank row indicates the end of the workflow.
 
 **Moving the Execute Button**
 

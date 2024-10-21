@@ -1,6 +1,6 @@
 # Events
 
-<figure><img src="../../../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Designate modifications and/or actions to execute during run time. Availability of specific Triggers will depend on the type of element you have selected. For example, radio buttons and check boxes will have the “Checked/Unchecked” triggers where an image will only have “Mouse enter/Mouse leave”.\
 \
@@ -8,11 +8,11 @@ Designate modifications and/or actions to execute during run time. Availability 
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (14) (1).png" alt="" width="524"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (14) (1) (1).png" alt="" width="524"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/image (15) (1).png" alt="Expanding an Event Trigger will provide the + and – buttons.  These will add/remove Events from that particular Trigger.    The Left hand drop down designates which element will be affected.  The Right hand drop down assigns a particular event action to be executed.  => Input for specific parameter of the selected event action (in this case Opacity to 50%). "><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (15) (1) (1).png" alt="Expanding an Event Trigger will provide the + and – buttons.  These will add/remove Events from that particular Trigger.    The Left hand drop down designates which element will be affected.  The Right hand drop down assigns a particular event action to be executed.  => Input for specific parameter of the selected event action (in this case Opacity to 50%). "><figcaption></figcaption></figure>
 
 </div>
 
@@ -33,11 +33,11 @@ There are two parts that compose an item in the “Events” tab.
     With the current event, during run time, checking radioButton1 will trigger the Event Action of an Opacity change of button1 to 50%.\
 
 
-    <figure><img src="../../../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     1.  Event Actions\
         The type of Action available during a given Event is dependent on the element you have selected. For example, a button element has 15 different Actions that can be performed, while an image element only has 6.\
 
 
         In general, the Event Actions offer the same modifications available in the properties tab for a given element – color, font, visibility, tool tips etc.\
-        ![](<../../../../../.gitbook/assets/image (18) (1).png>)
+        ![](<../../../../../.gitbook/assets/image (18) (1) (1).png>)

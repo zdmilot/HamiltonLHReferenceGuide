@@ -1,6 +1,6 @@
 # Levels of Liquid Handling Automation
 
-<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. **Manual Single-Channel Pipettes**
 

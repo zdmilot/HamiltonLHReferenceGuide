@@ -6,7 +6,7 @@ When you start the software, the Untitled1 document tab displays in the Document
 
 **Note:** For the SoftMax Pro Software - GxP edition, no document tabs display and the Workspace area is empty. Your permissions determine which actions you can perform.&#x20;
 
-![](<../../../.gitbook/assets/1 (9) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/1 (9) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/2 (7).jpeg>)
 

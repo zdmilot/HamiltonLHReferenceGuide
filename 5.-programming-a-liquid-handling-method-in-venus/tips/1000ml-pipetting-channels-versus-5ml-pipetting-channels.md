@@ -10,7 +10,7 @@ Due to its large capacity, the 5ml-pipetting channel needs more space on the y-r
 
 Using the stamp tool for the 5ml-pipetting channel, a sequence on a plate will look like this:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This means that four 5ml-pipetting channels can work in parallel on a landscape plate.
 
@@ -20,10 +20,10 @@ Depending of the immersion depth, the 5ml-pipetting channel may collide with wel
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="193"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="193"><figcaption></figcaption></figure>
 
 </div>

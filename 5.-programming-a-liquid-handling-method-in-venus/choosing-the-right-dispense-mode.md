@@ -2,7 +2,7 @@
 
 The dispense mode controls how the liquid is released from the tip. There are two categories of dispense, jet and surface, with a few customizations for each category. Use the chart below to determine which mode to use for your application then read about each mode on the following page.
 
-<figure><img src="../.gitbook/assets/image (54) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Jet Dispense
 
@@ -12,7 +12,7 @@ When set to a jet dispense mode, liquid from the tip is released from above the 
 
 Empty the entire contents of the tip above the liquid level or into an empty container
 
-<figure><img src="../.gitbook/assets/image (55) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
 _When to Use_
 
@@ -23,7 +23,7 @@ _When to Use_
 
 Dispense partial amount of the volume in the tip above the liquid level or into an empty container.
 
-<figure><img src="../.gitbook/assets/image (56) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 When to Use&#x20;
 
@@ -40,7 +40,7 @@ When set to a surface dispense mode, liquid from the tip is released at the liqu
 
 Empty the entire contents of the tip into the liquid.&#x20;
 
-<figure><img src="../.gitbook/assets/image (58) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 When to Use&#x20;
 
@@ -54,7 +54,7 @@ When to Use&#x20;
 
 Dispense partial amount of the volume in the tip into the liquid.&#x20;
 
-<figure><img src="../.gitbook/assets/image (59) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 When to Use
 

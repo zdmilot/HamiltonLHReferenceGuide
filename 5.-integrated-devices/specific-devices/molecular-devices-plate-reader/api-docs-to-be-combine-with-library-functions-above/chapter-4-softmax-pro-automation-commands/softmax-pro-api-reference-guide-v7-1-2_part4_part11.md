@@ -14,6 +14,6 @@ Returns the AutoSave state.
 
 The return string is one of the following properties:
 
-![](<../../../../../.gitbook/assets/0 (14).png>) SMPAutomationClient.AutoSaveState.OFF = AutoSave is turned off
+![](<../../../../../.gitbook/assets/0 (14) (1).png>) SMPAutomationClient.AutoSaveState.OFF = AutoSave is turned off
 
-![](<../../../../../.gitbook/assets/1 (17).png>) SMPAutomationClient.AutoSaveState.ON = AutoSave is turned on
+![](<../../../../../.gitbook/assets/1 (17) (1).png>) SMPAutomationClient.AutoSaveState.ON = AutoSave is turned on

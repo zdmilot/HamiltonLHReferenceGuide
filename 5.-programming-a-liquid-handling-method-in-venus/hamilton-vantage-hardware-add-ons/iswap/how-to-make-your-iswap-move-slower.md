@@ -6,7 +6,7 @@ To reduce the speed of the iSWAP, you can use firmware commands to lower the def
 
 To do so, enter a firmware command in your method:
 
-![](<../../../.gitbook/assets/0 (8).png>)
+![](<../../../.gitbook/assets/0 (8) (1).png>)
 
 The Command “R0AA” is to set the new values (R0 is the CAN bus Node ID of the iSWAP, AA is to store values down in the instruments eeprom)
 
@@ -31,4 +31,4 @@ It is also extremely important that you set back the speed after the processed s
 
 ## Example:
 
-![](<../../../.gitbook/assets/1 (10).png>)
+![](<../../../.gitbook/assets/1 (10) (1).png>)

@@ -41,7 +41,7 @@ To load the membrane holder:
 
 1\. Place the membrane on the membrane holder with one corner of the membrane aligned with the A1 corner of the membrane holder.
 
-![](<../../../.gitbook/assets/0 (2) (1) (1) (1).png>)![](<../../../.gitbook/assets/1 (3) (1) (1) (1).png>)![](<../../../.gitbook/assets/2 (2) (1) (1) (1).png>)![](<../../../.gitbook/assets/3 (6) (1) (1) (1).png>)![](<../../../.gitbook/assets/4 (6) (1) (1).png>)
+![](<../../../.gitbook/assets/0 (2) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/1 (3) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/2 (2) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/3 (6) (1) (1) (1).png>)![](<../../../.gitbook/assets/4 (6) (1) (1).png>)
 
 A1
 

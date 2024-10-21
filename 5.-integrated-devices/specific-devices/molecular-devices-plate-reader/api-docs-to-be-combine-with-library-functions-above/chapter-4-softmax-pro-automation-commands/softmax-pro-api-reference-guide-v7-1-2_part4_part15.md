@@ -3,8 +3,8 @@
 Int32 GetformulaResult(String results)\
 The GetFormulaResult command returns the result from a formula. This command requires the name of the formula, name of either the Note section or the Group section, and the name of the experiment. If you do not specify the experiment name, it searches from the first experiment in the document.
 
-| <img src="../../../../../.gitbook/assets/0 (16).png" alt="" data-size="original"> | Note: The returned value is the calculated value for the formula, not the formula string. |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="../../../../../.gitbook/assets/0 (16) (1).png" alt="" data-size="original"> | Note: The returned value is the calculated value for the formula, not the formula string. |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 
 Parameters\
 results

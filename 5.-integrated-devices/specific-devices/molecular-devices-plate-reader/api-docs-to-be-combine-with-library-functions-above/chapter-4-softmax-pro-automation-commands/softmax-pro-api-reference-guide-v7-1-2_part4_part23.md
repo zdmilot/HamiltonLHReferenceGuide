@@ -22,7 +22,7 @@ the port address of the server
 Returns\
 Return Type: Boolean
 
-![](<../../../../../.gitbook/assets/0 (19).png>) True = initialization was successful
+![](<../../../../../.gitbook/assets/0 (19) (1).png>) True = initialization was successful
 
 ![](<../../../../../.gitbook/assets/1 (19).png>) False = initialization failed
 

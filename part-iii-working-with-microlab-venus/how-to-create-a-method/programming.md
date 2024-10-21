@@ -45,7 +45,7 @@ Disabled Steps change their color:
 1. To have a structure in the method, it is possible to combine several steps into one group. To do so, select the desired steps and right-click to enter the Context Menu.
 2.  Select “Group Selection”.
 
-    ![](<../../.gitbook/assets/image (50) (1) (1) (1).png>)\
+    ![](<../../.gitbook/assets/image (50) (1) (1) (1) (1).png>)\
 
 
 

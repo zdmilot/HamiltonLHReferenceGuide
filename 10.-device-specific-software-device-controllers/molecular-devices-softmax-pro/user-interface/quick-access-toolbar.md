@@ -8,7 +8,7 @@ The Quick Access toolbar has the following icons by default.
 
 ![](<../../../.gitbook/assets/7 (21).png>) Select **Show Below the Ribbon** to move the Quick Access toolbar below the Ribbon above the Workspace.
 
-![](<../../../.gitbook/assets/8 (1) (1) (1) (1) (1) (1).png>) Select **Show Above the Ribbon** to move the Quick Access toolbar above the Ribbon.
+![](<../../../.gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1).png>) Select **Show Above the Ribbon** to move the Quick Access toolbar above the Ribbon.
 
 ![](<../../../.gitbook/assets/9 (1) (1) (1) (1) (1) (1).png>) Select **Minimize the Ribbon** to hide the Ribbon from the display. The Ribbon tab names continue to display. Click the tab name to display the tab content. Clear the check box next to this option to maximize the Ribbon.
 
