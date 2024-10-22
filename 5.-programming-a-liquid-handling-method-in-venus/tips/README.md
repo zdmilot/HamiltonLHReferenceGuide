@@ -6,7 +6,7 @@ VENUS Software offers a tip recognition feature based on the different tip geome
 
 For distinguishing disposable CO-RE tips, 50µl and CO-RE tips and 300µl, a special library is needed. Please consult a local Hamilton Representative.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>All new or special tip types require additional settings (such as configuration file entries, liquid classes etc.) in the VENUS Software. Please consult a local Hamilton Representative for the implementation data of non-standard tips.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>All new or special tip types require additional settings (such as configuration file entries, liquid classes etc.) in the VENUS Software. Please consult a local Hamilton Representative for the implementation data of non-standard tips.</em></p></td></tr></tbody></table>
 
 
 
@@ -16,7 +16,7 @@ The tips used in a pipetting procedure must match with the suitable pipetting ch
 
 Whenever possible, use _loading with Autoload_ and make sure that only tip carriers with the suffix …BC… (e.g. TIP\_CAR\_480BC\_ST\_A00) are used. In case of a wrong tip rack, the system, while loading will prompt an error which looks like the image shown below.
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 
 When using another tip carrier (e.g. the 50 µl tip carrier) switch to the Deck Layout and change the properties MlStarCarBCOrientation to 1 and the MlStarCarNoReadBarcode to 0.
@@ -26,11 +26,11 @@ When using another tip carrier (e.g. the 50 µl tip carrier) switch to the Deck 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ When _loading manually_, pay extra attention to the tip types which are similar 
 \
 
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -50,6 +50,6 @@ When _loading manually_ and there is _no library available_ for distinguishing t
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Slim tips and 1000µl tips have the same head sizes therefore it can only be checked through the barcode reader.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Slim tips and 1000µl tips have the same head sizes therefore it can only be checked through the barcode reader.</em></p></td></tr></tbody></table>
 
 \

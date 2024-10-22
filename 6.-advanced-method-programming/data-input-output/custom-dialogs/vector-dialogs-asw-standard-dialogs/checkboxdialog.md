@@ -18,7 +18,7 @@
 
 Creates a n-CheckBox Dialog.
 
-&#x20;![](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
+&#x20;![](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 &#x20;
 

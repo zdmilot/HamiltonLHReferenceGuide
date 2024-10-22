@@ -16,7 +16,7 @@ To zoom a well or cuvette:
 
 ![](<../../../.gitbook/assets/8 (2) (1) (1).png>) Click **Show Reduced** or **Show Raw** to toggle between reduced and raw data.
 
-![](<../../../.gitbook/assets/9 (1) (1) (1) (1) (1).png>) Click **Reduction** to display the Data Reduction dialog where you modify the reduction settings. See Data Reduction on page 193.
+![](<../../../.gitbook/assets/9 (1) (1) (1) (1) (1) (1).png>) Click **Reduction** to display the Data Reduction dialog where you modify the reduction settings. See Data Reduction on page 193.
 
 *
   1. Click **Close** to close the Zoom Well dialog.
@@ -32,15 +32,15 @@ To define zoom well options:
 1. In the Zoom Well dialog, click **Options** to display the Zoom Well Options dialog.
 2. In the **Graph Type Settings** area:
 
-![](<../../../.gitbook/assets/11 (1) (1) (1) (1) (1).png>) Select the **Show Plot Settings** check box to display the plot symbols you define in the Plot Editor dialog. Clear the **Show Plot Settings** check box to display the graph line without plot symbols.
+![](<../../../.gitbook/assets/11 (1) (1) (1) (1) (1) (1).png>) Select the **Show Plot Settings** check box to display the plot symbols you define in the Plot Editor dialog. Clear the **Show Plot Settings** check box to display the graph line without plot symbols.
 
-![](<../../../.gitbook/assets/12 (1) (1) (1) (1) (1).png>) Select the **Show Data Coordinates** check box to display the data coordinates upon cursor hover. Clear the **Show Data Coordinates** check box to not have the coordinates display.
+![](<../../../.gitbook/assets/12 (1) (1) (1) (1) (1) (1).png>) Select the **Show Data Coordinates** check box to display the data coordinates upon cursor hover. Clear the **Show Data Coordinates** check box to not have the coordinates display.
 
 1. In the **Characteristics** area, do the following for both the X-Axis and the Y-Axis:
 
-![](<../../../.gitbook/assets/13 (1) (1) (1) (1) (1).png>) Select the **Auto Scale** check box to have the software scale the data. Clear the **Auto Scale** check box and enter the **Minimum** and **Maximum** scale values to define the scale.
+![](<../../../.gitbook/assets/13 (1) (1) (1) (1) (1) (1).png>) Select the **Auto Scale** check box to have the software scale the data. Clear the **Auto Scale** check box and enter the **Minimum** and **Maximum** scale values to define the scale.
 
-![](<../../../.gitbook/assets/14 (1) (1) (1) (1).png>) Select each **Grid Lines** check box for the grid lines to display.
+![](<../../../.gitbook/assets/14 (1) (1) (1) (1) (1).png>) Select each **Grid Lines** check box for the grid lines to display.
 
 1. Click **OK**.\
    \

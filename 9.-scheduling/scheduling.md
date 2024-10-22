@@ -52,4 +52,4 @@
 
 •       Same Operator pop up and potential for instrument movement!
 
-&#x20;![](<../.gitbook/assets/image (16).png>)
+&#x20;![](<../.gitbook/assets/image (16) (1).png>)

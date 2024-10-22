@@ -15,7 +15,7 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
     ![](<../.gitbook/assets/image (54) (1) (1).png>)\
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>In using a single step in the beginning of a method, the initialize command has to be added prior to the single step.</em></p><p><em>When using Smart Steps and Easy Steps, the initialization will be executed automatically.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>In using a single step in the beginning of a method, the initialize command has to be added prior to the single step.</em></p><p><em>When using Smart Steps and Easy Steps, the initialization will be executed automatically.</em></p></td></tr></tbody></table>
 5. Drag “Load Carrier” into the next line of the method.\
    \
    ![](<../.gitbook/assets/image (55) (1) (1).png>)\
@@ -45,7 +45,7 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
 
     \
 
@@ -73,7 +73,7 @@ This method uses the same Deck Layout as the method used with the Smart Steps.
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Keep in mind that in looping over a sequence, the sequence has to be incremented within the loop.</em></p></td></tr></tbody></table>
 
     \
 

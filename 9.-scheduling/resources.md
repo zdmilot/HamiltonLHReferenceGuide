@@ -10,7 +10,7 @@
 
 &#x20;
 
-| <img src="../.gitbook/assets/image (27).png" alt="" data-size="original">                                                                  | <img src="../.gitbook/assets/image (28).png" alt="" data-size="original">                           |
+| <img src="../.gitbook/assets/image (27) (1).png" alt="" data-size="original">                                                              | <img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="original">                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | A bank of Heater Shakers has a capacity of 1 per unit. Note – different temperature set points could mean splitting to different resources | The instrument ML\_STAR (or Vantage in VoV) counts as Capacity=1, which includes all arm components |
 
@@ -22,12 +22,12 @@
 
 *
 
-    <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 * Right click -> Add/Edit Resources
 
 ### Resource Properties
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Assign Properties
 * Images are useful for method organization

@@ -4,4 +4,4 @@ In addition to pressure-based clot detection, the ML STAR is equipped with capac
 
 <figure><img src="../../../../../.gitbook/assets/image (62) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The capacitance-based clot detection is available on the 1000μl-pipetting channels and the 5ml-pipetting channels</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The capacitance-based clot detection is available on the 1000μl-pipetting channels and the 5ml-pipetting channels</p></td></tr></tbody></table>

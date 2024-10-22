@@ -12,6 +12,6 @@ The Excel Add-In is compatible with the following versions of Microsoft Excel: !
 
 When you install the Add-In and enable macros, you can run or edit the provided workflows or create your own. You can write custom formulas if you have knowledge of Excel Visual Basic. See Custom Excel Formulas on page 45.
 
-You can also use the following Microsoft Add-Ins. ![](<../../../../../.gitbook/assets/4 (1) (1) (1) (1).png>) Analysis ToolPak
+You can also use the following Microsoft Add-Ins. ![](<../../../../../.gitbook/assets/4 (1) (1) (1) (1) (1).png>) Analysis ToolPak
 
 ![](<../../../../../.gitbook/assets/5 (2) (1).png>) Solver

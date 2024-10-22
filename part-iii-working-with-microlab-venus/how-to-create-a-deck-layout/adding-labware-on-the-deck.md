@@ -15,9 +15,9 @@ It is possible to mix plates on a carrier; like adding Microplates to a Deep Wel
 
 To add labware to the deck layout, make sure the “Labware” Tab is selected, highlighted on the picture below.
 
-<figure><img src="../../.gitbook/assets/image (30) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>If a tube carrier is placed directly adjacent to a plate or a tip carrier, using low volume tips may lead to a collision when the</em> pipetting <em>channel moves down to aspirate from the bottom of the tubes. Pipetting channels with low volume tips fitted cannot reach the deck surface. (Δz = 14.5 mm, zmin = 114,5 mm from origin) In this case, use larger tip sizes.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>If a tube carrier is placed directly adjacent to a plate or a tip carrier, using low volume tips may lead to a collision when the</em> pipetting <em>channel moves down to aspirate from the bottom of the tubes. Pipetting channels with low volume tips fitted cannot reach the deck surface. (Δz = 14.5 mm, zmin = 114,5 mm from origin) In this case, use larger tip sizes.</em></p></td></tr></tbody></table>
 
 
 
@@ -25,7 +25,7 @@ The “Search Labware” Function is a powerful tool that simplifies the deck la
 
 To add a plate carrier to the deck layout, use the “Search Labware” Field found on top of the labware window, highlighted on the image below.
 
-<figure><img src="../../.gitbook/assets/image (31) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 To find a labware, enter search criteria in the text field. The box right below the text field will display all the matching results based on the specified search string. Please note that not only the labware name, but also its description in plain text is scanned to generate the matching results.
 
@@ -34,7 +34,7 @@ To find a labware, enter search criteria in the text field. The box right below 
 
 Select the desired carrier and “Drag and Drop” the item onto the deck layout.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Although it is very simple to find any kind of labware with the “Search Labware” Assistant, make sure that the deck layout does contain the same carriers as loaded on the real deck.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Although it is very simple to find any kind of labware with the “Search Labware” Assistant, make sure that the deck layout does contain the same carriers as loaded on the real deck.</em></p></td></tr></tbody></table>
 
 
 

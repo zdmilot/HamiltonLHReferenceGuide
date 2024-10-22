@@ -60,7 +60,7 @@ The WaitUntil statement pauses workflow execution until a given condition has be
 
 WaitUntil has four arguments:
 
-![](<../../../../../.gitbook/assets/9 (1) (1) (1).png>) Automation Command
+![](<../../../../../.gitbook/assets/9 (1) (1) (1) (1).png>) Automation Command
 
 This command must return a result that can be tested in combination with the second and third arguments.
 
@@ -72,13 +72,13 @@ This can be one of the following values:
 
 ![](<../../../../../.gitbook/assets/13 (2).png>) GT meaning greater than
 
-![](<../../../../../.gitbook/assets/14 (1) (1).png>) LE meaning less than or equals
+![](<../../../../../.gitbook/assets/14 (1) (1) (1).png>) LE meaning less than or equals
 
-![](<../../../../../.gitbook/assets/15 (1) (1).png>) GE meaning greater than or equals ![](<../../../../../.gitbook/assets/16 (1) (1).png>) Target Value
+![](<../../../../../.gitbook/assets/15 (1) (1) (1).png>) GE meaning greater than or equals ![](<../../../../../.gitbook/assets/16 (1) (1) (1).png>) Target Value
 
 The target value against which the result from argument one is tested.
 
-![](<../../../../../.gitbook/assets/17 (1) (1).png>) Description
+![](<../../../../../.gitbook/assets/17 (1) (1) (1).png>) Description
 
 This gives the reason the workflow is waiting and displays while the pause is in effect. This optional argument makes the wait reason more descriptive by adding context or using a local language.
 
@@ -90,7 +90,7 @@ If a description argument is not supplied the first three arguments are concaten
 
 The following WaitUntil statement pauses until the instrument incubator is equal to, or greater than, 36 degrees.
 
-![](../../../../../.gitbook/assets/18.jpeg)
+![](<../../../../../.gitbook/assets/18 (1).jpeg>)
 
 While the workflow pauses the following dialog displays.
 

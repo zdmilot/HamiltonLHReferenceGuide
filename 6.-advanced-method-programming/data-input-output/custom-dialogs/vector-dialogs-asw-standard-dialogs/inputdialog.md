@@ -20,7 +20,7 @@
 
 Creates an Input Dialog.
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As long as there is a wrong/invalid value in one of the textboxes, the dialog cannot be
 

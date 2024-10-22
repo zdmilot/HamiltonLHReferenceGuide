@@ -1,2 +1,0 @@
-# Parallel processing within methods
-

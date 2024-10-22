@@ -10,7 +10,7 @@
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Examples:
 
@@ -26,7 +26,7 @@ A particular method has six distinct functions (example durations listed):
 6.  Return the plate from the HHSdeck (60s)\
 
 
-    <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A single plate will take (sum of times) 11 minutes to complete
 * Without scheduler, the method would run serially, with reloads between runs as needed by the operator:
@@ -43,6 +43,6 @@ Can be created by recognizing parallel capable processes
 * These approaches are fine for predictable assay timings
 * See Venus II Advanced Module #4 for additional information
 
-| <img src="../.gitbook/assets/image (23).png" alt="" data-size="original"> | <p>Example of parallel process functions “ping-ponging” a resource (MLSTAR), timers omitted for clarity</p><p></p><p><strong>Time on an HHS</strong> is the independent resource for each thread</p> |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="original"> | <p>Example of parallel process functions “ping-ponging” a resource (MLSTAR), timers omitted for clarity</p><p></p><p><strong>Time on an HHS</strong> is the independent resource for each thread</p> |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 

@@ -10,7 +10,7 @@ The transferred volume is 20μl. The method is named “OnePlateToPlatePipette�
 First, an appropriate Deck Layout must be created and saved as “OnePlateToPlatePipette.lay”. The Deck Layout for this method is shown in the following picture.\
 
 
-<figure><img src="../.gitbook/assets/image (31) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -65,7 +65,7 @@ First, an appropriate Deck Layout must be created and saved as “OnePlateToPlat
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>For safety reasons, explicit loading (specifying loading commands within the method) is recommended. If no loading commands are specified, no checking of the carrier positions is performed and the user must ensure that all carriers are positioned manually on the correct tracks.</em></p><p><em>The system will be initialized automatically when using Smart Steps.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>For safety reasons, explicit loading (specifying loading commands within the method) is recommended. If no loading commands are specified, no checking of the carrier positions is performed and the user must ensure that all carriers are positioned manually on the correct tracks.</em></p><p><em>The system will be initialized automatically when using Smart Steps.</em></p></td></tr></tbody></table>
 
     \
 
@@ -98,7 +98,7 @@ First, an appropriate Deck Layout must be created and saved as “OnePlateToPlat
 4.  Click \[Next >] to continue.\
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The “Aspirate” and “Dispense” Sequences can be selected in the Graphic Deck Layout View and then “Dragged and Dropped” onto the list fields in the “Step Wizard” Dialog (Use Ctrl + left mouse click to “Drag and Drop” from deck to step).</em></p><p><em>The two windows (Deck Layout View and Step Wizard) are interactive: when a sequence in the step wizard is clicked, this sequence is highlighted in the corresponding color. All aspirate / pick-up sequences are shown in blue, while all dispense/eject sequences are shown in green.</em></p><p><em>Having a sequence grid in the step (e.g. loading step), the inserted sequences will not only be highlighted but will also be flashing.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>The “Aspirate” and “Dispense” Sequences can be selected in the Graphic Deck Layout View and then “Dragged and Dropped” onto the list fields in the “Step Wizard” Dialog (Use Ctrl + left mouse click to “Drag and Drop” from deck to step).</em></p><p><em>The two windows (Deck Layout View and Step Wizard) are interactive: when a sequence in the step wizard is clicked, this sequence is highlighted in the corresponding color. All aspirate / pick-up sequences are shown in blue, while all dispense/eject sequences are shown in green.</em></p><p><em>Having a sequence grid in the step (e.g. loading step), the inserted sequences will not only be highlighted but will also be flashing.</em></p></td></tr></tbody></table>
 5. Here, the volume to be transferred is specified – 20μl; no additional volume should be aspirated. In this field, it is also possible to use a variable or an array.\
    \
    ![](<../.gitbook/assets/image (43) (1) (1) (1).png>)\

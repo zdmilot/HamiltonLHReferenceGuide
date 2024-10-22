@@ -20,13 +20,13 @@ The following topics describe the SoftMax Pro automation commands:
 
 ![](<../../../../../.gitbook/assets/9 (2) (1).png>) GetAllFolders - Extracts folder information.
 
-![](<../../../../../.gitbook/assets/10 (1) (1) (1).png>) GetAutosaveState - Returns the Auto Save setting for the document.
+![](<../../../../../.gitbook/assets/10 (1) (1) (1) (1).png>) GetAutosaveState - Returns the Auto Save setting for the document.
 
-![](<../../../../../.gitbook/assets/11 (1) (1) (1).png>) GetDataCopy - Copies the data to the client by way of an event.
+![](<../../../../../.gitbook/assets/11 (1) (1) (1) (1).png>) GetDataCopy - Copies the data to the client by way of an event.
 
-![](<../../../../../.gitbook/assets/12 (1) (1) (1).png>) GetDocuments - Extracts document information.
+![](<../../../../../.gitbook/assets/12 (1) (1) (1) (1).png>) GetDocuments - Extracts document information.
 
-![](<../../../../../.gitbook/assets/13 (1) (1) (1).png>) GetDrawerStatus - Returns the state of an instrument drawer.
+![](<../../../../../.gitbook/assets/13 (1) (1) (1) (1).png>) GetDrawerStatus - Returns the state of an instrument drawer.
 
 ![](<../../../../../.gitbook/assets/14 (2).png>) GetFormulaResult - Returns the result of a formula.
 
@@ -38,48 +38,48 @@ The following topics describe the SoftMax Pro automation commands:
 
 ![](<../../../../../.gitbook/assets/18 (1) (1).png>) GetTempreature - Returns the instrument incubator temperature.
 
-![](<../../../../../.gitbook/assets/19 (1) (1).png>) GetVersion - Returns the version of the SoftMax Pro Automation interface.
+![](<../../../../../.gitbook/assets/19 (1) (1) (1).png>) GetVersion - Returns the version of the SoftMax Pro Automation interface.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) ImportPlateData - Imports data from a file into a Plate section in the document.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) ImportPlateData - Imports data from a file into a Plate section in the document.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) ImportPlateTemplate - Imports a template from a file into a Plate section.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) ImportPlateTemplate - Imports a template from a file into a Plate section.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) Initialize - Initializes the automation interface.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) Initialize - Initializes the automation interface.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) NewDocument - Creates a new document.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) NewDocument - Creates a new document.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) Logon - Logs a user onto the SoftMax Pro GxP Software.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) Logon - Logs a user onto the SoftMax Pro GxP Software.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) Logoff - Logs a user off from the SoftMax Pro GxP Software,
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) Logoff - Logs a user off from the SoftMax Pro GxP Software,
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) NewExperiment - Creates a new experiment in the document.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) NewExperiment - Creates a new experiment in the document.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) NewNote - Creates a new Note section in the experiment.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) NewNote - Creates a new Note section in the experiment.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) NewPlate - Creates a new Plate section in the experiment.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) NewPlate - Creates a new Plate section in the experiment.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) OpenDrawer - Opens an instrument drawer.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) OpenDrawer - Opens an instrument drawer.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) OpenFile - Opens a document.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) OpenFile - Opens a document.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) Quit - Exits the SoftMax Pro Software.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) Quit - Exits the SoftMax Pro Software.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SaveAs - Saves the document as a protocol or data document.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SaveAs - Saves the document as a protocol or data document.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SelectNextPlateSection - Selects the next Plate section in the experiment.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SelectNextPlateSection - Selects the next Plate section in the experiment.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SelectSection - Selects a section by name or by the order of the sections within the experiment.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SelectSection - Selects a section by name or by the order of the sections within the experiment.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SetReader - Selects a reader type and sets the reader status.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SetReader - Selects a reader type and sets the reader status.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SetShake - Shakes the plate.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SetShake - Shakes the plate.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SetSimulationMode - Sets the SoftMax Pro Software into Simulator mode.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SetSimulationMode - Sets the SoftMax Pro Software into Simulator mode.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SetTemperature - Sets the instrument incubator temperature.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SetTemperature - Sets the instrument incubator temperature.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) SetTitle - Sets the title of a section.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) SetTitle - Sets the title of a section.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) StartRead - Reads the Plate section or Cuvette Set section.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) StartRead - Reads the Plate section or Cuvette Set section.
 
-![](<../../../../../.gitbook/assets/20 (1) (1).png>) StopRead - Stops the read of the Plate section or Cuvette Set section.
+![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) StopRead - Stops the read of the Plate section or Cuvette Set section.

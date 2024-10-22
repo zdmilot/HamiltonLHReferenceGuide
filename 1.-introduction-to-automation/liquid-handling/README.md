@@ -4,13 +4,29 @@ description: Madeline Wolf
 
 # Liquid Handling
 
+<div>
+
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt="" width="189"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Liquid handling is employing the proper combination of hardware and the proper method and liquid class settings to achieve optimal transfer of a liquid
+
 I often joke that the main function of life science companies is to move small volumes of liquid from one place to another. Add a reagent to a sample. Incubate or shake or spin down. Add another reagent and repeat.
 
 Is that vastly oversimplifying the centuries of scientific achievement that made an arsenal of molecular biology techniques routine? Yes. But it is often the automation engineer’s job to generalize, so here we are.
 
 Liquid Handlers are the robots designed to automate that transferring of liquid from one place to another. Each liquid handler model has its own strengths, weaknesses, and quirks, but the basic construction is this: a pipetting end effector attached to a [cartesian robot](https://theautomatedlab.com/article.html?content=lab-robots), all bolted to a deck that is designed to help the robot locate and interact with labware. The choices made in designing each of these elements define the capabilities of a liquid handler.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="351"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="351"><figcaption></figcaption></figure>
 
 #### Pipetting Heads
 

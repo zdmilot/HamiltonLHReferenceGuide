@@ -34,7 +34,7 @@ To customize the column captions of the list, use the function LoadingDialogSetR
 
 The nominal height and width of an image is 100x100.
 
-<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Arguments & Return Values
 

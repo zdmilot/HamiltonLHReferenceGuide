@@ -29,7 +29,7 @@ The ConnectUsingCOM command connects to the \[MPE]2 using a USB cable. This comm
 
 * comPort: Enter the port on the controlling computer to which the \[MPE]2 is connected. To find the COM port, open the File Explorer, right-click This PC, and select Manage. In the Computer Management window, select Device Manager. The COM port connections are listed under “Ports (COM & LPT)”.
 
-<figure><img src="../../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Figure 6–1: Obtaining COM port values
 

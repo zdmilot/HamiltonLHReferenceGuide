@@ -1,6 +1,6 @@
 # Shell
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The shell command option in **Venus** allows an app specialist to run an additional command such as a batch file, cmd file, or an external exe from within a method. If there is something you can think of that you can do with the Windows command prompt that **Venus** doesn’t natively allow, **Shell Command** is your path.
 

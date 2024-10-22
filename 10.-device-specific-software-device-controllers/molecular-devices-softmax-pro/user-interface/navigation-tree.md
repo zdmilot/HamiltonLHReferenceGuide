@@ -46,8 +46,8 @@ Right-click an experiment or a section to Rename, Duplicate, or Delete the exper
 
 ![](<../../../.gitbook/assets/20 (7) (1).png>) When you duplicate an experiment, the software duplicates all sections in the experiment to a new experiment, without data.
 
-![](<../../../.gitbook/assets/21 (1).png>) When you duplicate a Note section or a Graph section, the software creates a new section with the contents of the source section.
+![](<../../../.gitbook/assets/21 (1) (1).png>) When you duplicate a Note section or a Graph section, the software creates a new section with the contents of the source section.
 
-![](../../../.gitbook/assets/22.png) When you duplicate a Group section, the software creates a new Group section with the same properties as the source section.
+![](<../../../.gitbook/assets/22 (1).png>) When you duplicate a Group section, the software creates a new Group section with the same properties as the source section.
 
-![](../../../.gitbook/assets/23.png) When you duplicate a Plate section, the software creates a new Plate section with the settings from the source Plate section, without data.
+![](<../../../.gitbook/assets/23 (1).png>) When you duplicate a Plate section, the software creates a new Plate section with the settings from the source Plate section, without data.

@@ -59,7 +59,7 @@ Use the Add Statement dialog to add a statement to a document. Each statement ca
 To add a statement:
 
 1. Select the **GxP** tab and click **Statements** to display the Statements dialog.
-2. If the document has no statements, complete the following two fields and then click **Add**. If the document has statements, select the statement above where you want to add the new statement and then click ![](../../../.gitbook/assets/24.jpeg) in the Statements dialog toolbar to display the Add Statement dialog.
+2. If the document has no statements, complete the following two fields and then click **Add**. If the document has statements, select the statement above where you want to add the new statement and then click ![](<../../../.gitbook/assets/24 (1).jpeg>) in the Statements dialog toolbar to display the Add Statement dialog.
 3. In the **New Statement Title** field, enter the statement title.
 4. In the **New Statement Description** field, enter the statement content.
 5. Click **Add**.
@@ -68,7 +68,7 @@ To add a statement:
 
 Use the Edit Statement dialog to edit a statement. After any statement for a document is signed, you cannot edit the document or the statements associated with the document.
 
-![](../../../.gitbook/assets/25.jpeg)
+![](<../../../.gitbook/assets/25 (1).jpeg>)
 
 To edit a statement:
 

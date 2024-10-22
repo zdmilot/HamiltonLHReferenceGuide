@@ -30,7 +30,7 @@ Each statement in the workflow is on a single row that starts in column B and ca
 
 After you click Execute, the first statement is read and executed. See Running Excel Workflows on page 23.
 
-![](<../../../../../.gitbook/assets/7 (1) (1) (1).png>) The first blank column in the statement row indicates the end of the statement and then the next statement in the following row executes.
+![](<../../../../../.gitbook/assets/7 (1) (1) (1) (1).png>) The first blank column in the statement row indicates the end of the statement and then the next statement in the following row executes.
 
 ![](<../../../../../.gitbook/assets/8 (3).png>) The first blank row indicates the end of the workflow.
 

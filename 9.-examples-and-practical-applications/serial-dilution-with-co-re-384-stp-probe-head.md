@@ -70,7 +70,7 @@ Only one additional sequence is used in this method. Make sure the stamp tool is
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Ensure that all methods are tested. It is recommended to run a simulation first, fThis is the pattern of the CO-RE 384 Probe Head and NOT the pipetting pattern on the plate.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p><em>Ensure that all methods are tested. It is recommended to run a simulation first, fThis is the pattern of the CO-RE 384 Probe Head and NOT the pipetting pattern on the plate.</em></p></td></tr></tbody></table>
 
     \
     \
@@ -79,7 +79,7 @@ Only one additional sequence is used in this method. Make sure the stamp tool is
     \
 
 
-    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is not possible to have gaps (empty lines) in the pattern. To create such a pattern, use a second tip support and move the tips to the according columns, rows, quarters or single positions.</em></p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="98"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>It is not possible to have gaps (empty lines) in the pattern. To create such a pattern, use a second tip support and move the tips to the according columns, rows, quarters or single positions.</em></p></td></tr></tbody></table>
 
 
 11. If a reduced pattern mode other than “(0) All” is used, please read about the risks and limitations in the Help of the step  CO-RE 384 Head Pattern Mode Limitations.

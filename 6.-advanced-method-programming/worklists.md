@@ -40,7 +40,7 @@ To end, the file is closed (otherwise, it remains open and exclusively locked by
 
 ## ‌Importing a Worklist‌
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Once a Deck Layout has been linked to a method, the instrument specific steps will be visible in the toolbox.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Once a Deck Layout has been linked to a method, the instrument specific steps will be visible in the toolbox.</p></td></tr></tbody></table>
 
 1. From the toolbox, drag the “Load and Match” Command into the method.
 2.  The “Load and Match” Wizard Step 1 will start as shown below.
@@ -57,7 +57,7 @@ To end, the file is closed (otherwise, it remains open and exclusively locked by
     \
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is recommended to use fixed paths in the “Worklist filename” Field. Using fixed paths will allow a preview of the file. Using variables only does not allow a file preview.</p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>It is recommended to use fixed paths in the “Worklist filename” Field. Using fixed paths will allow a preview of the file. Using variables only does not allow a file preview.</p></td></tr></tbody></table>
 
 
 5.  Specify the sheet to be opened (when using Excel) and check the data preview.\
@@ -171,7 +171,7 @@ The following table lists the conventions for these settings.
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>A value in a range that exceeds the maximum number of rows, columns, or sheets for the worksheet or workbook cannot be specified. For more information on these values, refer to the Microsoft Excel documentation.</p><p>The format of all entries within a column in the Excel file must be identical: text, number, etc.</p><p>The handling (open/read/write/… file) of Excel files using the VENUS Software files do not require the installation of Microsoft Excel.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>A value in a range that exceeds the maximum number of rows, columns, or sheets for the worksheet or workbook cannot be specified. For more information on these values, refer to the Microsoft Excel documentation.</p><p>The format of all entries within a column in the Excel file must be identical: text, number, etc.</p><p>The handling (open/read/write/… file) of Excel files using the VENUS Software files do not require the installation of Microsoft Excel.</p></td></tr></tbody></table>
 
 
 

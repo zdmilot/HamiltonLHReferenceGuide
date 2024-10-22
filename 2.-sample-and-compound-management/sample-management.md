@@ -1,6 +1,6 @@
 # Sample Management
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -30,15 +30,15 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,11 +52,11 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="201"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="165"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="165"><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,15 +96,15 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -112,15 +112,15 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -130,7 +130,7 @@
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Traditional barcode labeling involved manual application of barcodes to tubes, vials and plates but this process is tedious and prone to error. In clinical labs, for example, samples may need to be read by many scanners, with increasing risks of error depending on labeling quality. Legacy systems may fail to read correctly if the barcode is not straight, while modern readers can handle barcodes in any orientation, including slanted barcodes.
 * Many barcode labeling systems are bench top size and can be used stand-alone or integrated into a sample preparation instrument. Whatever the solution, the lab has full control over the labeling process.
@@ -139,7 +139,7 @@
 
 ## Laboratory Safety & Ergonomics
 
-<figure><img src="../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DESIGN A SAFER, MORE COMFORTABLE WORKPLACE BY STREAMLINING PROCESSES.
 
@@ -151,15 +151,15 @@ DESIGN A SAFER, MORE COMFORTABLE WORKPLACE BY STREAMLINING PROCESSES.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -167,7 +167,7 @@ DESIGN A SAFER, MORE COMFORTABLE WORKPLACE BY STREAMLINING PROCESSES.
 
 ## Pre-Barcoded Tubes
 
-<figure><img src="../.gitbook/assets/image (19) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Importance of Labeling Durability
 
@@ -188,7 +188,7 @@ DESIGN A SAFER, MORE COMFORTABLE WORKPLACE BY STREAMLINING PROCESSES.
 
 ## Digital Tracibility
 
-<figure><img src="../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 IMPLEMENT TRACKING TO IDENTIFY AND MONITOR INVENTORY, REDUCE IN LABOR HOURS, AND INCREASE EFFICIENCY.
 
@@ -205,16 +205,16 @@ IMPLEMENT TRACKING TO IDENTIFY AND MONITOR INVENTORY, REDUCE IN LABOR HOURS, AND
 
 ## Sample Tracking within Automated Workflows
 
-<figure><img src="../.gitbook/assets/image (24) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure>
 
 A sample should be tracked from inception of experiment, throughout execution and finally associated with data generated. Barcoded plates and tubes are necessary to link the physical world with digital paper trail. Automated processes are essential for reducing human error.
 
 
 
-| <img src="../.gitbook/assets/image (21) (1) (1) (1) (1).png" alt="" data-size="line">              | <img src="../.gitbook/assets/image (22) (1) (1) (1).png" alt="" data-size="line">                                                                                                   | <img src="../.gitbook/assets/image (23) (1) (1) (1).png" alt="" data-size="line"> |
-| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Sample Acquisition**                                                                             | **Sample Processing**                                                                                                                                                               | **Sample Data**                                                                   |
-| <ul><li>ELN generates input worklist for run. Samples barcoded and match input worklist.</li></ul> | <ul><li>Samples scanned and cross-checked with input worklist prior to run execution. </li><li>Samples tracked throughout process. </li><li>Verify successful executions.</li></ul> | <ul><li>Data generated automatically associated with sample.</li></ul>            |
+| <img src="../.gitbook/assets/image (21) (1) (1) (1) (1) (1).png" alt="" data-size="line">          | <img src="../.gitbook/assets/image (22) (1) (1) (1) (1).png" alt="" data-size="line">                                                                                               | <img src="../.gitbook/assets/image (23) (1) (1) (1) (1).png" alt="" data-size="line"> |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Sample Acquisition**                                                                             | **Sample Processing**                                                                                                                                                               | **Sample Data**                                                                       |
+| <ul><li>ELN generates input worklist for run. Samples barcoded and match input worklist.</li></ul> | <ul><li>Samples scanned and cross-checked with input worklist prior to run execution. </li><li>Samples tracked throughout process. </li><li>Verify successful executions.</li></ul> | <ul><li>Data generated automatically associated with sample.</li></ul>                |
 
 ## The Complete Picture
 
@@ -229,7 +229,7 @@ DESIGNING AN AUTOMATED, BARCODE-OPTIMIZED, DATA-DRIVEN LABORATORY REQUIRES A COM
 
 ## Call To Action
 
-<figure><img src="../.gitbook/assets/image (25) (1) (1) (1).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1) (1) (1) (1).png" alt="" width="196"><figcaption></figcaption></figure>
 
 Pre-bottom Barcoded Labware: Pre-bottom barcoded labware is crucial for ensuring zero failure rate in labeling, streamlining the tracking process unfortunately just using bottom barcoded labware isn’t enough, the bottom barcodes must be logged and utilized and not ignored. In the current implementation users add stickers to the sides of pre-barcoded tubes and ignore bottom barcoding, leading to barcoding discrepancies and automation failures.
 

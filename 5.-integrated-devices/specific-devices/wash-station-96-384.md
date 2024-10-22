@@ -2,7 +2,7 @@
 
 The Wash Station 96/384 is an optional device for washing 96/384 disposable tips in parallel. The tips are washed both outside and inside at the same time: on the outside in the wash chambers of the wash station and on the inside by aspiration/dispense cycles using the CO-RE 96 Probe Head / TADM or the CO-RE 384 Probe Head. The result of washing the tips depends on the wash setting.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If carry-over is not acceptable for the application, use new disposable tips for each aspiration step.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>If carry-over is not acceptable for the application, use new disposable tips for each aspiration step.</em></p></td></tr></tbody></table>
 
 
 
@@ -15,7 +15,7 @@ The picture below shows a complete, hooked-up wash station 96/384:\
 
 Liquid level sensors inside the washer unit prevent flooding of the system. The washer unit recognizes if there is not enough liquid to fill the wash chamber.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Always empty the waste container when refilling the wash solution container. When re-using washed tips, pipetting precision may increase by a factor of 3.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Always empty the waste container when refilling the wash solution container. When re-using washed tips, pipetting precision may increase by a factor of 3.</em></p></td></tr></tbody></table>
 
 
 
@@ -35,7 +35,7 @@ The table below gives a brief overview of the available commands for the wash st
 
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>The CO-RE 384 Probe Head performs a blow out after the wash steps. The software automatically uses the tip picking up position (tip rack). Therefore do not reload the tip rack of the pick-up position if performing any wash steps.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>ATTENTION</p><p>The CO-RE 384 Probe Head performs a blow out after the wash steps. The software automatically uses the tip picking up position (tip rack). Therefore do not reload the tip rack of the pick-up position if performing any wash steps.</p></td></tr></tbody></table>
 
 
 
@@ -88,6 +88,6 @@ In step 2, the tips are picked up from the tip carrier (sequence counting = “M
 
     <figure><img src="../../.gitbook/assets/image (106) (1) (1).png" alt="" width="317"><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Always empty the waste container when refilling the wash solution container. When re-using washed tips, pipetting precision may increase by a factor of 3.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Always empty the waste container when refilling the wash solution container. When re-using washed tips, pipetting precision may increase by a factor of 3.</em></p></td></tr></tbody></table>
 
 \

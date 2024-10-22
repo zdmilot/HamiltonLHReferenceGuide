@@ -4,11 +4,11 @@ Custom Dialogs can become more than a fixed piece of information presented to th
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Picture1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Picture1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Picture2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Picture2 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 

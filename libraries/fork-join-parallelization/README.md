@@ -1,14 +1,28 @@
 # Fork / Join Parallelization
 
-_By Matt Morrison._
+Fork Splits to Sub-Method
 
-_HSL\_Fork\_Join_
+* Sub-Method name (string) is provided
+* Somewhat rarely objects will be passed by string name
+* Return value is a “handle” used for joining
+* Submethod must NOT have parameters
 
-**Contact**
+Join...Joins
 
-For assistance with this library please e-mail:
+* Provide the forked “handle” to bring back to the main line
 
-[MathewMorrison@outlook.com](mailto:MathewMorrison@outlook.com)
+\
+Warning: Not all functions are supported in a forked thread (MPE2)
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 

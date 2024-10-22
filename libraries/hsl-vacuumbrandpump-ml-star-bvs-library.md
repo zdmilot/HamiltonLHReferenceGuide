@@ -9,7 +9,7 @@ The high level functions control the whole vacuum process including tracking of 
 The use of HighLevelFunctions is recommended. High level functions have the prefix HSLStarBVSLib.\
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Different tip sizes, liquid classes and shoot numbers may require different sThe BVS Library can also be used for CVS.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Different tip sizes, liquid classes and shoot numbers may require different sThe BVS Library can also be used for CVS.</em></p></td></tr></tbody></table>
 
 
 
@@ -41,5 +41,5 @@ Low level functions have the prefix HSLVacuuBrandPump.
 \
 
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Do not mix high level functions and low level functions in the same method. Make sure to specify the library name.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>Do not mix high level functions and low level functions in the same method. Make sure to specify the library name.</em></p></td></tr></tbody></table>
 

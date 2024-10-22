@@ -1,10 +1,10 @@
 # Optional Oracle Database Installation
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The Installation of an Oracle Database requires the installation of the VENUS Database Plus 1.1 package. VENUS Database Plus 1.1 is a tool to track samples over multiple runs or multiple instruments throughout the lab. Database plus can be used on both local and remote servers. It allows easy access to run data, reliable sample tracking and customized reporting.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>The Installation of an Oracle Database requires the installation of the VENUS Database Plus 1.1 package. VENUS Database Plus 1.1 is a tool to track samples over multiple runs or multiple instruments throughout the lab. Database plus can be used on both local and remote servers. It allows easy access to run data, reliable sample tracking and customized reporting.</p></td></tr></tbody></table>
 
 To set up a database connection with an Oracle server, the Oracle server has to be installed and connected first. Also, a local client has to be installed (up to version 11g).
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE </p><p>For Oracle installation and server set-up, please refer to the appropriate Oracle information: www.oracle.com</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE </p><p>For Oracle installation and server set-up, please refer to the appropriate Oracle information: www.oracle.com</p></td></tr></tbody></table>
 
 \
 
