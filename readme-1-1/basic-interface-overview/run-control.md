@@ -41,10 +41,10 @@ The method is now loaded and the application either shows a  Run Control Toolbar
 
 The toolbar is displayed across the top of the application window, below the menu bar. The toolbar provides quick mouse access to many tools used in Hamilton Run Control application.
 
-| <img src="../../.gitbook/assets/Screenshot 2024-10-10 130837.png" alt="" data-size="original">                                  | Close Hamilton Run Control application and return to the parent editor. This button is available only if Hamilton Run Control application was started from an editor. |
-| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../../.gitbook/assets/image (26) (1) (1) (1) (1) (1).png" alt="" data-size="original">                                | Open a method file. Hamilton Run Control application displays the Open dialog box, in which you can locate and open the desired file.                                 |
-| <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> | Opens context sensitive Help window.                                                                                                                                  |
+| <img src="../../.gitbook/assets/Screenshot 2024-10-10 130837.png" alt="" data-size="original">                                      | Close Hamilton Run Control application and return to the parent editor. This button is available only if Hamilton Run Control application was started from an editor. |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../.gitbook/assets/image (26) (1) (1) (1) (1) (1).png" alt="" data-size="original">                                    | Open a method file. Hamilton Run Control application displays the Open dialog box, in which you can locate and open the desired file.                                 |
+| <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> | Opens context sensitive Help window.                                                                                                                                  |
 
 
 

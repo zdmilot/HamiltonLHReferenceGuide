@@ -76,6 +76,7 @@
     * [Importing and Installing Libraries](readme-1-1/page-4/importing-and-installing-libraries.md)
     * [VENUS Reinstallation and Upgrades](readme-1-1/page-4/venus-reinstallation-and-upgrades/README.md)
       * [Issues with Reinstallation](readme-1-1/page-4/venus-reinstallation-and-upgrades/issues-with-reinstallation.md)
+    * [Checking the Connection to the Hamilton Network Interface](readme-1-1/page-4/checking-the-connection-to-the-hamilton-network-interface.md)
     * [Venus on Vantage](readme-1-1/page-4/venus-on-vantage.md)
     * [Authentication Systems](readme-1-1/page-4/authentication-systems.md)
     * [Optional SQL Server Installation](readme-1-1/page-4/optional-sql-server-installation/README.md)
