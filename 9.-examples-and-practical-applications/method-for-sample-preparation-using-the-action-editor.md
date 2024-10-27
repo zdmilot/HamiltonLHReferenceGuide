@@ -30,7 +30,7 @@ First, create a new method. This will also add a Deck Layout with the same name 
     \
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7.  In the tree list right above the tabs, expand “ML STAR Carriers -> Plate Carriers” and select “PLT\_CAR\_L5MD\_A00”. This is a carrier for microplates.\
     \
     \

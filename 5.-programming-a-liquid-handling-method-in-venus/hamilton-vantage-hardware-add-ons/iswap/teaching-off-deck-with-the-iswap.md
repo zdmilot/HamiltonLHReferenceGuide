@@ -11,7 +11,7 @@ In order to teach off deck positions, the iSWAP must be used as a teaching tool.
 
 For this example, the system is configured with a device on the left hand side (LHS) of a STAR deck and will require the plate to be transferred with a wide grip.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 First, it is important to note that one cannot teach a plate site if the starting position is outside of the iSWAP reach, so do not put the plate to be taught too far outside of the system deck layout.
 

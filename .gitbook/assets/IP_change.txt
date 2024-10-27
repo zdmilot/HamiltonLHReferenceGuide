@@ -1,0 +1,7 @@
+Disable windows defender
+Open PMS
+Reset
+Set Config -> input string below with desired IP
+power Cycle
+
+<ParameterSet><Parameter name="NetworkConfig"><String>&lt;Network&gt;&lt;StaticIPv4&gt;&lt;IP&gt;192.168.1.50&lt;/IP&gt;&lt;Subnet&gt;255.255.255.0&lt;/Subnet&gt;&lt;/StaticIPv4&gt;&lt;/Network&gt;</String></Parameter></ParameterSet>

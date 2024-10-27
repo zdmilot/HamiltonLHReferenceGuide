@@ -29,7 +29,7 @@ The new dialog has a Hamilton banner and updated graphics for buttons, grouping,
 
 Here is the file location and file type of the templates
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -68,3 +68,28 @@ here is what is inside the template file
 * $$author=gSA_tfs_vector_build$$valid=2$$time=2022-02-08 15:24$$checksum=375303f1$$length=098$$
 ```
 
+Do note that due to the EOF (end of file) checksum the contents have not been verified to be editable which means that it is possible that this cannot be directly edited:\
+\
+Based on the contents of the file, it appears to be a **Hamilton Xaml Dialog Template (HxPars)** used in Hamilton robotics systems. This type of file uses **XML-like syntax**, and the `.cdt` stands for **Custom Dialog Template** or something similar specific to Hamilton.
+
+Here are the key clues:
+
+* The presence of `Xaml` tags suggests it's for designing a dialog UI, likely for automation equipment.
+* The file includes elements such as `<Window>`, `<Grid>`, `<RowDefinition>`, and `<hhcdf:HxButtonCtrl>`, which are typically part of XAML, a language used in .NET-based frameworks to define user interfaces.
+* The embedded image in the form of a base64 string (`data:image/png;base64`) indicates this file handles visual content, probably UI elements like icons or logos.
+
+#### Filetype:
+
+* `.cdt` in this case seems to be a custom format used by **Hamilton Robotics software** for defining dialog templates in their equipment. This is unlikely to be editable using a typical vector graphic editor like CorelDRAW, as it is not a graphic file but a configuration file for UI dialogs.
+
+#### How to Edit:
+
+* Since this file appears to be related to Hamilton Robotics software, it’s best edited using their proprietary **dialog creation tools** or **framework tools** like **HxCustomDialog** that support `.cdt` files.
+* **Hamilton Software** (likely running on their devices or computers connected to them) should provide an interface to modify and upload these templates.
+
+Alternatively, if you need to modify or edit the XAML and template structure directly:
+
+* You can use a text editor like **Notepad++** or **Visual Studio Code** for basic text-based modifications to the XAML layout and logic.
+* However, ensure that any edits maintain compatibility with the system that uses the file, as improper changes could break the dialog functionality.
+
+Would you like guidance on editing the XAML components or locating the appropriate Hamilton tools?

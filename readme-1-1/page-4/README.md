@@ -43,7 +43,7 @@ Using VENUS Software requires access to a Microsoft SQL Server. If the “Micros
 
 1.  During installation, a prompt will be displayed asking if the SQL Server 2014 Service Pack 2 (SP2) shal be installed.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="267"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="267"><figcaption></figcaption></figure>
 2. Click \[Yes] to continue. If \[No] is chosen, please prepare the following information to be able to use another SQL Server:
    * Microsoft SQL Server Location
    * Database User Name and Password
