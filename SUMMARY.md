@@ -448,6 +448,7 @@
     * [Inheco](5.-integrated-devices/specific-devices/inheco/README.md)
       * [Inheco TEC Control](5.-integrated-devices/specific-devices/inheco/inheco-tec-control.md)
       * [Inheco ODTC](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/README.md)
+        * [Resetting the ODTC (FROM INHECO)](5.-integrated-devices/specific-devices/inheco/inheco-on-deck-thermocycler-odtc/resetting-the-odtc-from-inheco.md)
         * [Configuring the ODTC](5.-integrated-devices/specific-devices/inheco/inheco-on-deck-thermocycler-odtc/configuring-the-odtc.md)
         * [To be merged with configuration and PMS](5.-integrated-devices/specific-devices/inheco-on-deck-thermocycler-odtc/page.md)
         * [SiLA PMS](5.-integrated-devices/specific-devices/inheco/inheco-on-deck-thermocycler-odtc/sila-pms.md)
