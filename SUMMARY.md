@@ -852,6 +852,7 @@
   * [Experiment Smarter, Not Harder: Design of Experiments (DOE) Fundamentals](17.-practical-applications/experiment-smarter-not-harder-design-of-experiments-doe-fundamentals.md)
   * [Sample Prep for Pandemic Response](17.-practical-applications/sample-prep-for-pandemic-response.md)
   * [High-Throughput Screening (HTS)](17.-practical-applications/high-throughput-screening-hts.md)
+  * [Utilizing an Automated Platform to Streamline Workflow Processes: Sample Preparation and Extraction for Definitive Drug Testing on the Hamilton Microlab STAR](17.-practical-applications/utilizing-an-automated-platform-to-streamline-workflow-processes-sample-preparation-and-extraction-f.md)
 * [17. Conclusion](9.-conclusion/README.md)
   * [Frequently Asked Questions](17.-faq.md)
   * [Additional Resources](9.-conclusion/additional-resources.md)
@@ -867,7 +868,9 @@
   * [Collection of Errors With Error Codes](13.-error-index/collection-of-errors-with-error-codes.md)
   * [Collection of Common Errors](13.-error-index/collection-of-common-errors.md)
   * [Invalid class string (0x23 - 0x2 - 0x39)](13.-error-index/invalid-class-string-0x23-0x2-0x39.md)
+  * [Error documentation from pylabrobot](13.-error-index/error-documentation-from-pylabrobot.md)
 * [19. Glossary](14.-glossary.md)
+* [Foreword](foreword.md)
 
 ## Imported Course
 
