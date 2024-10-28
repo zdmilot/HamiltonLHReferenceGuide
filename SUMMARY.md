@@ -859,6 +859,8 @@
   * [Additional Resources](9.-conclusion/additional-resources.md)
 * [18. Quick Guides](18.-quick-guides.md)
 * [18. Error Index](13.-error-index/README.md)
+  * [HxHslRunControl2 Error in Run Control at Run Time](13.-error-index/hxhslruncontrol2-error-in-run-control-at-run-time.md)
+  * [iSwap Filed to Reach Error](13.-error-index/iswap-filed-to-reach-error.md)
   * [Hardware Issues](13.-error-index/hardware-issues/README.md)
     * [Removing a Stuck Tip](13.-error-index/hardware-issues/removing-a-stuck-tip.md)
     * [Channel Seal Error](13.-error-index/hardware-issues/channel-seal-error.md)
