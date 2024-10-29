@@ -148,6 +148,7 @@
   * [How to Create Labware Files](4.-setting-up-a-method-before-programming/how-to-create-labware-files/README.md)
     * [Defining a Container](4.-setting-up-a-method-before-programming/how-to-create-labware-files/defining-a-container.md)
     * [Defining a Rectangular Rack (Plate)](4.-setting-up-a-method-before-programming/how-to-create-labware-files/defining-a-rectangular-rack-plate.md)
+    * [Defining a Custom MFX carrier](4.-setting-up-a-method-before-programming/how-to-create-labware-files/defining-a-custom-mfx-carrier.md)
     * [Defining a Carrier (Template)](4.-setting-up-a-method-before-programming/how-to-create-labware-files/how-to-create-labware-files.md)
     * [Labware Categories](4.-setting-up-a-method-before-programming/how-to-create-labware-files/how-to-create-labware-files-1.md)
     * [Labware Properties](4.-setting-up-a-method-before-programming/how-to-create-labware-files/how-to-create-labware-files-2.md)
