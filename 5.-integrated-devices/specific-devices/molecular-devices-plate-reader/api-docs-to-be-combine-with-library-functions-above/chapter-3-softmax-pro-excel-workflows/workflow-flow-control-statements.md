@@ -60,7 +60,7 @@ The WaitUntil statement pauses workflow execution until a given condition has be
 
 WaitUntil has four arguments:
 
-![](<../../../../../.gitbook/assets/9 (1) (1) (1) (1) (1).png>) Automation Command
+![](<../../../../../.gitbook/assets/9 (1) (1) (1) (1) (1) (1).png>) Automation Command
 
 This command must return a result that can be tested in combination with the second and third arguments.
 

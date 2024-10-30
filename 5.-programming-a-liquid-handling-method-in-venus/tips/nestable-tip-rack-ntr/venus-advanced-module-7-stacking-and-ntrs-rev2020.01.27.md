@@ -8,7 +8,7 @@
 * Efficient transport sequences only require **1 position per labware** and can span across multiple labwares (such as a stack of plates).
 * When selecting **single positions** across a **carrier**, use the **single position selector.**
 
-![](../../../.gitbook/assets/0.png)![](../../../.gitbook/assets/1.png)
+![](<../../../.gitbook/assets/0 (1).png>)![](<../../../.gitbook/assets/1 (1).png>)
 
 ### **Stacks**
 
@@ -24,7 +24,7 @@
 2. Can be used for display only
 3. Typically used at program start or when user interaction is needed
 
-![](../../../.gitbook/assets/2.png)
+![](<../../../.gitbook/assets/2 (1).png>)
 
 ### Functions- Edit\_PlateStack
 
@@ -51,7 +51,7 @@
 5. The number of plates that will be visible in the GUI – tie via variable into some current counter, or if setting at the beginning the max #.
 6.  The Edit command can either SHOW a stack (0) or let the user MODIFY the stacks available.
 
-    ![](../../../.gitbook/assets/7.png) ![](../../../.gitbook/assets/8.jpeg)
+    ![](<../../../.gitbook/assets/7 (1).png>) ![](../../../.gitbook/assets/8.jpeg)
 
     <figure><img src="../../../.gitbook/assets/image (879).png" alt=""><figcaption></figcaption></figure>
 7. Last Stack Empty?
@@ -63,7 +63,7 @@
 9. **GET** sequence **(trp) –** use for picking up plates – will have been edited vs. #1 to pickup from the top rear, and only as many plates as User indicated
 10. **PUT** sequence **(trp)** – **always** puts closest stack at start of sequence
 
-    ![](../../../.gitbook/assets/10.png)
+    ![](<../../../.gitbook/assets/10 (1).png>)
 11. Outputs the NUMBER of plates the user selected – very useful for keeping track of processed items outside of sequence positions
 
     <figure><img src="../../../.gitbook/assets/image (880).png" alt=""><figcaption></figcaption></figure>

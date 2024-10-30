@@ -26,7 +26,7 @@ This example describes how to use the ElapsedTime custom formula to write the el
 
 The output written to Excel appears in the following figure.
 
-![](<../../../../../.gitbook/assets/3 (1).jpeg>)
+![](<../../../../../.gitbook/assets/3 (1) (1).jpeg>)
 
 ### Visual Basic Code
 

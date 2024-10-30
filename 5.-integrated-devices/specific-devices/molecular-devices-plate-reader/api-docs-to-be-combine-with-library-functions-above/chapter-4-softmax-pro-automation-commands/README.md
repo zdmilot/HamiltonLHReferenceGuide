@@ -20,9 +20,9 @@ The following topics describe the SoftMax Pro automation commands:
 
 ![](<../../../../../.gitbook/assets/9 (2) (1).png>) GetAllFolders - Extracts folder information.
 
-![](<../../../../../.gitbook/assets/10 (1) (1) (1) (1) (1).png>) GetAutosaveState - Returns the Auto Save setting for the document.
+![](<../../../../../.gitbook/assets/10 (1) (1) (1) (1) (1) (1).png>) GetAutosaveState - Returns the Auto Save setting for the document.
 
-![](<../../../../../.gitbook/assets/11 (1) (1) (1) (1) (1).png>) GetDataCopy - Copies the data to the client by way of an event.
+![](<../../../../../.gitbook/assets/11 (1) (1) (1) (1) (1) (1).png>) GetDataCopy - Copies the data to the client by way of an event.
 
 ![](<../../../../../.gitbook/assets/12 (1) (1) (1) (1) (1).png>) GetDocuments - Extracts document information.
 

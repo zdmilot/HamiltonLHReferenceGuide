@@ -10,7 +10,7 @@ To create a Western Blot TRF Mode protocol:
 4. Click ![](<../../../.gitbook/assets/1 (6) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. Select the **SCANLATER WB** cartridge for the ScanLater Western Blot (WB) Detection Cartridge. (Skip this step for the SpectraMax iD5.)
 6. Select the ![](<../../../.gitbook/assets/2 (5) (1).jpeg>) **TRF** read mode.
-7. Select the ![](<../../../.gitbook/assets/3 (1) (1) (1).jpeg>) **Membrane** read type.
+7. Select the ![](<../../../.gitbook/assets/3 (1) (1) (1) (1).jpeg>) **Membrane** read type.
 8. Define the settings. For more information about the settings, see the SoftMax Pro Application Help.
 9. After you define the instrument settings, click **OK** to close the Settings dialog.
 10. Save the settings to a protocol. See Saving Protocols and Data Documents on page 22.

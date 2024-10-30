@@ -12,4 +12,4 @@ Select a tab to display the contents of the document in the Workspace.
 
 **Tip:** If you miss the What's New tab from previous versions of the software, the Help tab on the Ribbon provides access to the Molecular Devices What's New web page. See Help Tab on page 56. The ![](<../../../.gitbook/assets/2 (1) (1) (1).jpeg>) Application menu provides access to the Application Options dialog where you can choose to display the What's New information every time you start the software. See Application Options on page 45.
 
-![](<../../../.gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
