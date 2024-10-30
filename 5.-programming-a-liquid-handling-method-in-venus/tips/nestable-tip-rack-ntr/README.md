@@ -5,11 +5,11 @@ The Nestable Tip Rack (NTR) is designed to stack disposable tip racks which incr
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ The recommended workflow would be:
 4. As desired; single-, row- or column wise (shifted) Tip pickup out of the Tip adapter
 5. Ready for pipetting
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>An empty NTR can be transported to the waste either by the iSWAP or the CO- RE gripper. Note that the use of the CO-RE gripper for transports to the waste needs a special library to grip the rack shifted. Otherwise it is not possible to move the rack to the default waste position on a ML STAR and ML STARlet.</em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p><em>An empty NTR can be transported to the waste either by the iSWAP or the CO- RE gripper. Note that the use of the CO-RE gripper for transports to the waste needs a special library to grip the rack shifted. Otherwise it is not possible to move the rack to the default waste position on a ML STAR and ML STARlet.</em></p></td></tr></tbody></table>
 
 
 
@@ -45,10 +45,10 @@ Working with the CO-RE 96 Probe Head and Nestable Tip Racks will need some preca
 There is danger of collision when the CO-RE 96 Probe Head is picking up tips from lower positions if the neighboring positions are completely filled:\
 
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 In this case, either work from top to bottom over all stacks or transport the Nestable Tip Rack to a collision free position and pick up the tips there.
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \

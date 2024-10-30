@@ -20,7 +20,7 @@ After you scan a membrane for Western Blot data, the data displays in the softwa
 
 ![](<../../../.gitbook/assets/15 (2) (1).png>) Click ![](<../../../.gitbook/assets/16 (2) (1).png>) on the left side of the Plate section and then drag across the image to define the region of interest (ROI) to scan. Click ![](../../../.gitbook/assets/17.jpeg) to scan the region using the ROI Scan Resolution you define in the Settings dialog. The data from the ROI scan replaces the data from the original scan.
 
-![](<../../../.gitbook/assets/18 (2) (1).png>) Click the following to adjust the resolution of the scanned image: ![](<../../../.gitbook/assets/19 (2) (1).png>) Click ![](<../../../.gitbook/assets/20 (1).jpeg>) to view the image at the scanned resolution.
+![](<../../../.gitbook/assets/18 (2) (1).png>) Click the following to adjust the resolution of the scanned image: ![](<../../../.gitbook/assets/19 (2) (1).png>) Click ![](<../../../.gitbook/assets/20 (1) (1).jpeg>) to view the image at the scanned resolution.
 
 &#x20;Click  to view the image at a fine resolution suitable for external analysis.  Click  to view the image at a very fine resolution suitable for publishing.
 

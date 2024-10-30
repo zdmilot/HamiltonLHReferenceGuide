@@ -24,4 +24,4 @@ If you do not code the PlateSize Statement, the plate size defaults to 96 wells.
 
 **PlateSize Statement Examples**
 
-![](../../../../../.gitbook/assets/5.jpeg) ![](<../../../../../.gitbook/assets/6 (1).jpeg>)
+![](<../../../../../.gitbook/assets/5 (1).jpeg>) ![](<../../../../../.gitbook/assets/6 (1).jpeg>)

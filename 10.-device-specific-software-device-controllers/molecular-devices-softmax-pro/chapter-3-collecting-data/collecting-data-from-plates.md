@@ -18,12 +18,12 @@ The plate carrier on the EMax Plus moves in and out of the read chamber during t
 2. Click ![](<../../../.gitbook/assets/6 (6) (1) (1).png>) **Open/Close** to close the plate drawer.
 3. Open a document that contains the acquisition settings for the plate read. As an alternative, create new acquisition settings by selecting the Plate section in the Navigation Tree and configuring the acquisition settings sing the Settings dialog. See Acquisition Settings on page 109.
 4. You should save the document before you start a read. For Imaging reads and Western Blot reads, you must save the document before you start the read.
-5. Click ![](<../../../.gitbook/assets/7 (4).jpeg>) **Read** below the Settings Information area or on the Home tab. The Read button changes to ![](<../../../.gitbook/assets/8 (1) (1) (1).jpeg>) **Stop** so you can terminate a read.
+5. Click ![](<../../../.gitbook/assets/7 (4).jpeg>) **Read** below the Settings Information area or on the Home tab. The Read button changes to ![](<../../../.gitbook/assets/8 (1) (1) (1) (1).jpeg>) **Stop** so you can terminate a read.
 6. The instrument reads the Plate section you select.
 
 ![](<../../../.gitbook/assets/9 (3) (1) (1).png>) For the SpectraMax i3x, SpectraMax Paradigm, SpectraMax iD3, SpectraMax iD5, FilterMax F3, and FilterMax F5 and you select to do pre-read optimizations, the Pre- Read Optimization Options dialog displays. See Pre-Read Optimization Options on page 184.
 
-![](<../../../.gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1).png>) For the SpectraMax i3x and SpectraMax Paradigm with a Tunable Wavelength (TUNE) Detection Cartridge and select to run spectral optimization, the Spectral Optimization Wizard runs before the plate is read. See Spectral Optimization on page 182.
+![](<../../../.gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1).png>) For the SpectraMax i3x and SpectraMax Paradigm with a Tunable Wavelength (TUNE) Detection Cartridge and select to run spectral optimization, the Spectral Optimization Wizard runs before the plate is read. See Spectral Optimization on page 182.
 
 1. After the read completes, the plate drawer opens so you can remove the plate. If temperature control is on, the drawer closes again after approximately 10 seconds.
 2. After the read completes, save the document and do any additional data analysis.
@@ -116,7 +116,7 @@ To run spectral optimization:
 2. If you edit the Wavelength (Custom) values, click **Reset to Optimized Peak** to reset the values to the software defined optimized peak.
 3. Right-click on the image:
 
-![](<../../../.gitbook/assets/19 (1) (1) (1) (1) (1) (1).png>) Select **Copy Raw Data** to copy the data in a tab-delimited format that you can paste into a spreadsheet or text editor (SpectraMax i3x only).
+![](<../../../.gitbook/assets/19 (1) (1) (1) (1) (1) (1) (1).png>) Select **Copy Raw Data** to copy the data in a tab-delimited format that you can paste into a spreadsheet or text editor (SpectraMax i3x only).
 
 ![](<../../../.gitbook/assets/20 (2) (1) (1).png>) Select **Copy Image** to copy the image into a bitmap file that you can paste into an image editing program.
 

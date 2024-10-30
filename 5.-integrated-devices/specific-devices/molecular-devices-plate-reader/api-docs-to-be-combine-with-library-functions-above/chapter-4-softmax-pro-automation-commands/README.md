@@ -20,13 +20,13 @@ The following topics describe the SoftMax Pro automation commands:
 
 ![](<../../../../../.gitbook/assets/9 (2) (1).png>) GetAllFolders - Extracts folder information.
 
-![](<../../../../../.gitbook/assets/10 (1) (1) (1) (1).png>) GetAutosaveState - Returns the Auto Save setting for the document.
+![](<../../../../../.gitbook/assets/10 (1) (1) (1) (1) (1).png>) GetAutosaveState - Returns the Auto Save setting for the document.
 
-![](<../../../../../.gitbook/assets/11 (1) (1) (1) (1).png>) GetDataCopy - Copies the data to the client by way of an event.
+![](<../../../../../.gitbook/assets/11 (1) (1) (1) (1) (1).png>) GetDataCopy - Copies the data to the client by way of an event.
 
-![](<../../../../../.gitbook/assets/12 (1) (1) (1) (1).png>) GetDocuments - Extracts document information.
+![](<../../../../../.gitbook/assets/12 (1) (1) (1) (1) (1).png>) GetDocuments - Extracts document information.
 
-![](<../../../../../.gitbook/assets/13 (1) (1) (1) (1).png>) GetDrawerStatus - Returns the state of an instrument drawer.
+![](<../../../../../.gitbook/assets/13 (1) (1) (1) (1) (1).png>) GetDrawerStatus - Returns the state of an instrument drawer.
 
 ![](<../../../../../.gitbook/assets/14 (2).png>) GetFormulaResult - Returns the result of a formula.
 
@@ -36,9 +36,9 @@ The following topics describe the SoftMax Pro automation commands:
 
 ![](<../../../../../.gitbook/assets/17 (2).png>) GetNumberPlateSections - Returns the number of Plate sections in the experiment.
 
-![](<../../../../../.gitbook/assets/18 (1) (1).png>) GetTempreature - Returns the instrument incubator temperature.
+![](<../../../../../.gitbook/assets/18 (1) (1) (1).png>) GetTempreature - Returns the instrument incubator temperature.
 
-![](<../../../../../.gitbook/assets/19 (1) (1) (1).png>) GetVersion - Returns the version of the SoftMax Pro Automation interface.
+![](<../../../../../.gitbook/assets/19 (1) (1) (1) (1).png>) GetVersion - Returns the version of the SoftMax Pro Automation interface.
 
 ![](<../../../../../.gitbook/assets/20 (1) (1) (1).png>) ImportPlateData - Imports data from a file into a Plate section in the document.
 

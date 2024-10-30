@@ -23,7 +23,7 @@ To create a Fluorescence Polarization Mode protocol:
 3. In the Navigation Tree, select a Plate section or Cuvette Set section.
 4. Click ![](<../../../.gitbook/assets/3 (2) (1) (1).jpeg>) in the section toolbar, the Settings Information area, or on the Home tab to display the Settings dialog.
 5. For the SpectraMax Paradigm and SpectraMax i3x, select a Fluorescence Polarization (FP) Detection Cartridge.
-6. Select the ![](<../../../.gitbook/assets/4 (1) (1) (1).jpeg>) **FP** read mode.
+6. Select the ![](<../../../.gitbook/assets/4 (1) (1) (1) (1).jpeg>) **FP** read mode.
 7. Select a Read Type.
 8. Define the settings.
 

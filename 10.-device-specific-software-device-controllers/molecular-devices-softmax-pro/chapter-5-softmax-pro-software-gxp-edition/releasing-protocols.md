@@ -34,7 +34,7 @@ The following user permissions pertain to statements:
 
 Click ![](<../../../.gitbook/assets/7 (1).jpeg>) above the right side of the Workspace or select the **GxP** tab and click **Statements** to display the Statements dialog.
 
-![](<../../../.gitbook/assets/8 (1) (1).jpeg>)![](<../../../.gitbook/assets/9 (1).jpeg>)After you add statements and after you sign statements, the button reflects the changes made to the statements for the document.
+![](<../../../.gitbook/assets/8 (1) (1) (1).jpeg>)![](<../../../.gitbook/assets/9 (1).jpeg>)After you add statements and after you sign statements, the button reflects the changes made to the statements for the document.
 
 The first time you access the Statements dialog you need to add a statement before the icons in the dialog toolbar are available.
 

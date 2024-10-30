@@ -44,7 +44,7 @@ The audit trail for each Plate section in a data document includes the following
 
 Use the Audit Trail dialog to view the audit trail for the open document. You can add a note to the audit trail but you cannot edit the content of the audit trail.
 
-![](<../../../.gitbook/assets/8 (1).jpeg>)
+![](<../../../.gitbook/assets/8 (1) (1).jpeg>)
 
 For a list of the events that are included in the document audit trail, see the _GxP Admin Software User Guide_.
 

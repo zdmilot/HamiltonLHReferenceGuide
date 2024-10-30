@@ -40,23 +40,23 @@ Add a worksheet named Sheet3 in a workbook that already has worksheets named She
 
 Before the application writes to a worksheet, you must have the workflow define the format in which to write data. There are two statements that enable you to define the write format:
 
-![](<../../../../../.gitbook/assets/14 (1) (1).png>) CellFormat Statement (see below) ![](<../../../../../.gitbook/assets/15 (1) (1).png>)RowFormat Statement, see page 36
+![](<../../../../../.gitbook/assets/14 (1) (1) (1).png>) CellFormat Statement (see below) ![](<../../../../../.gitbook/assets/15 (1) (1) (1).png>)RowFormat Statement, see page 36
 
 ### CellFormat Statement
 
 The CellFormat statement defines the format in which to write data into one Excel worksheet cell. Use the CellFormat statement in conjunction with the following two workflow statements:
 
-![](<../../../../../.gitbook/assets/16 (1) (1).png>) FormatWorksheet Statement, see page 39
+![](<../../../../../.gitbook/assets/16 (1) (1) (1).png>) FormatWorksheet Statement, see page 39
 
-![](<../../../../../.gitbook/assets/17 (1) (1).png>) ProcessCommandResult Statement, see page 40
+![](<../../../../../.gitbook/assets/17 (1) (1) (1).png>) ProcessCommandResult Statement, see page 40
 
 ### Arguments
 
 CellFormat has up to four arguments:
 
-![](<../../../../../.gitbook/assets/18 (1).png>) Format Name - This must be unique within the workflow. Both the FormatWorksheet and ProcessCommandResult statements reference this name.
+![](<../../../../../.gitbook/assets/18 (1) (1).png>) Format Name - This must be unique within the workflow. Both the FormatWorksheet and ProcessCommandResult statements reference this name.
 
-![](<../../../../../.gitbook/assets/19 (1) (1).png>) Target Worksheet Column - Defines which worksheet column to write into in the following format: worksheet-name:worksheet-column or worksheet-column
+![](<../../../../../.gitbook/assets/19 (1) (1) (1).png>) Target Worksheet Column - Defines which worksheet column to write into in the following format: worksheet-name:worksheet-column or worksheet-column
 
 If you specify only the worksheet column, the worksheet row to use is determined to be the next empty cell in the column, working down from the top of the target worksheet.
 
