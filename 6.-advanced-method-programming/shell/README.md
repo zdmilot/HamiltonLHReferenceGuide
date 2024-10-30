@@ -2,6 +2,8 @@
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+The shell command can be found under the general steps, if not present, check the steps configuration to be able to change this step to "Step visible".
+
 The shell command option in **Venus** allows an app specialist to run an additional command such as a batch file, cmd file, or an external exe from within a method. If there is something you can think of that you can do with the Windows command prompt that **Venus** doesn’t natively allow, **Shell Command** is your path.
 
 | <p>You have the option to run the command in sequence or serial, so you’ll need to decide if the method should wait until the external command is finished before it continues.</p><p>This command executes a definable application.</p> | <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_278,h_255/https://raverobot.com/wp-content/uploads/2018/11/ShellCommand-1.jpg" alt="A shell command pointing to an external .bat file which 
