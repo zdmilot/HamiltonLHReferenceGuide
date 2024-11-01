@@ -14,4 +14,4 @@ Commands are sent to the SoftMax Pro Software by calling functions in the automa
 
 Command results and errors are obtained by subscribing to events on the automation interface. The Automation Server and the Automation Client are both multi-threaded:
 
-![](<../../../../../.gitbook/assets/2 (1) (1) (1) (1) (1) (1).png>) The client sends commands and the server receives the commands on one thread. ![](<../../../../../.gitbook/assets/3 (1) (1) (1) (1) (1).png>) The server publishes events and passes the events to the client on a second thread.
+![](<../../../../../.gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1).png>) The client sends commands and the server receives the commands on one thread. ![](<../../../../../.gitbook/assets/3 (1) (1) (1) (1) (1) (1).png>) The server publishes events and passes the events to the client on a second thread.

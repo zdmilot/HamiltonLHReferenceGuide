@@ -2,7 +2,7 @@
 
 ### Device Types
 
-![](../.gitbook/assets/0.png)
+![](<../.gitbook/assets/0 (2).png>)
 
 * FIRST PARTY – Provided/Branded by Hamilton
   * Typically, but not always OEM (Original Equipment Manufacturer)
@@ -14,7 +14,7 @@
 
 ### Drivers and Firmware
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (2).png>)
 
 *
   * Device Drivers _generally_ need to be installed for the OS to communicate
@@ -24,7 +24,7 @@
 
 ### Hardware Installation
 
-![](../.gitbook/assets/2.png)
+![](<../.gitbook/assets/2 (2).png>)
 
 
 
@@ -43,7 +43,7 @@
 * If the device has movement/inertia, make sure it is suitably fixed to the deck
   * Example: Integration hardware on a Multiflex 7T Carrier
 
-![](../.gitbook/assets/4.png)
+![](<../.gitbook/assets/4 (1).png>)
 
 ## Parameters & Return Values
 
@@ -61,7 +61,7 @@
 
 ### Example: HHS Create USB Device
 
-![](../.gitbook/assets/5.png)
+![](<../.gitbook/assets/5 (1).png>)
 
 * Command to Connect and Initialize an HHS
 * INPUT parameters
@@ -73,7 +73,7 @@
 
 ### Example: HHS Start Temperature Control
 
-![](../.gitbook/assets/6.png)
+![](<../.gitbook/assets/6 (1).png>)
 
 * INPUT parameters
   * **\[1] deviceNumber** from the create USB command
@@ -88,7 +88,7 @@
 
 ### Example: HHC Connect
 
-![](../.gitbook/assets/7.png)
+![](<../.gitbook/assets/7 (1).png>)
 
 * Command to Connect to one or multiple HHCs
 * INPUT parameters
@@ -102,7 +102,7 @@
 
 ### Example: HHC Set Temperature
 
-![](../.gitbook/assets/8.png)
+![](<../.gitbook/assets/8 (1).png>)
 
 * INPUT parameters
   * **\[1]** Individual device serial number
@@ -144,7 +144,7 @@
 
 ### Exit Considerations - Device Error Handling Testing
 
-![](../.gitbook/assets/9.png)
+![](<../.gitbook/assets/9 (1).png>)
 
 * Use “SIM” mode of driver if available, if not, exclusion of steps may be needed
 * Insert “**Dev testing**” logic
@@ -153,7 +153,7 @@
 
 ### Example Structure - MPE Error Handling for Unknown Conditions
 
-![](../.gitbook/assets/10.png)
+![](<../.gitbook/assets/10 (1).png>)
 
 * MPE applies a uniform air pressure across plate to push samples through a filter, either to waste or collection, for a given time and pressure (Control Point, CP)
 * Device can tell when wells are still blocked (Usually)
@@ -164,7 +164,7 @@
 
 Creating a Device Test Method
 
-![](../.gitbook/assets/11.png)
+![](<../.gitbook/assets/11 (1).png>)
 
 * Good Programming practices suggest having a **test method** dedicated to each device, independently
 * Use to determine issues with main (usually complicated) production method
