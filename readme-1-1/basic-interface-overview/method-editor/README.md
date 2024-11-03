@@ -2,7 +2,7 @@
 
 This section is a fast and easy introduction to the “Method Editor”. This section discusses the primary simple steps up to the programming proper. Setting up of the application can be started without explaining the details of VENUS Software. More detailed and illustrated examples can be found in other sections of this manual.
 
-<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Access the “Method Editor” by double clicking the “STAR Method Editor” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> MICROLAB STAR Method Editor”.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="119"></th><th></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Access the “Method Editor” by double clicking the “STAR Method Editor” Icon displayed on the desktop of the PC or select the “Start -> Programs -> HAMILTON -> MICROLAB STAR -> MICROLAB STAR Method Editor”.</td></tr></tbody></table>
 
 \
 Toolbox Window

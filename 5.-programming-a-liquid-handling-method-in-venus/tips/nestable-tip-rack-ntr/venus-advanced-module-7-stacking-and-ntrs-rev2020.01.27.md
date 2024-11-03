@@ -8,7 +8,7 @@
 * Efficient transport sequences only require **1 position per labware** and can span across multiple labwares (such as a stack of plates).
 * When selecting **single positions** across a **carrier**, use the **single position selector.**
 
-![](<../../../.gitbook/assets/0 (1) (1).png>)![](<../../../.gitbook/assets/1 (1) (1).png>)
+![](<../../../.gitbook/assets/0 (1) (1) (1).png>)![](<../../../.gitbook/assets/1 (1) (1) (1).png>)
 
 ### **Stacks**
 
@@ -24,11 +24,11 @@
 2. Can be used for display only
 3. Typically used at program start or when user interaction is needed
 
-![](<../../../.gitbook/assets/2 (1) (1).png>)
+![](<../../../.gitbook/assets/2 (1) (1) (1).png>)
 
 ### Functions- Edit\_PlateStack
 
-![](<../../../.gitbook/assets/3 (1).png>)
+![](<../../../.gitbook/assets/3 (1) (1).png>)
 
 1. Incoming sequence of the **plate stack**.
    * **trp** style if transport only

@@ -12,15 +12,15 @@ Sub-Methods are collections of steps and functions that can perform specific tas
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,7 +32,7 @@ Sub-Methods are collections of steps and functions that can perform specific tas
 
 OnAbort is a Sub-Method, but instead of being called on through Local Sub-Methods, is triggered by an error condition or forced through the “Abort” step.
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original"><img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
 
 * Use for final Tip Counters
 * Integrated device shut-down and accessibility

@@ -807,6 +807,9 @@
   * [Serial Communications Code Example](12.-hsl-programming/serial-communications-code-example.md)
   * [HSL Integration of a 3rd party device](12.-hsl-programming/hsl-integration-of-a-3rd-party-device.md)
   * [The HSL Method Editor](12.-hsl-programming/the-hsl-method-editor.md)
+* [13. Advanced HSL Programing](13.-advanced-hsl-programing/README.md)
+  * [HSL and DLLs - How to link HSL to external code](13.-advanced-hsl-programing/hsl-and-dlls-how-to-link-hsl-to-external-code.md)
+  * [HSL and DLLs Example](13.-advanced-hsl-programing/hsl-and-dlls-example.md)
 * [12. Testing and Optimizing Your Method](7.-testing-and-optimizing-your-method/README.md)
   * [Simulation Mode](7.-testing-and-optimizing-your-method/simulation-mode.md)
   * [Debugging and Troubleshooting](7.-testing-and-optimizing-your-method/debugging-and-troubleshooting.md)
@@ -887,6 +890,7 @@
   * [Collection of Common Errors](13.-error-index/collection-of-common-errors.md)
   * [Invalid class string (0x23 - 0x2 - 0x39)](13.-error-index/invalid-class-string-0x23-0x2-0x39.md)
   * [Error documentation from pylabrobot](13.-error-index/error-documentation-from-pylabrobot.md)
+  * [Tip Type Mismatch Issue](13.-error-index/tip-type-mismatch-issue.md)
 * [19. Glossary](14.-glossary.md)
 * [Foreword](foreword.md)
 

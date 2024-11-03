@@ -2,7 +2,7 @@
 
 Opening the “Vector Database Connection” allows the user to specify the connection to a database or to test the existing settings. These settings are used to define how the system connects to the “Hamilton Vector Database”.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The \[Test Connection] Tab allows checking of the existing connection. The message dialog shown above will appear when the connection is successful. End with \[OK].
 

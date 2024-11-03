@@ -1,8 +1,14 @@
 # Configuring the ODTC
 
+
+
+{% file src="../../../../.gitbook/assets/ODTC Device Manager.pdf" %}
+
+
+
 To configure the ODTC you need the ODTC device manager.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 this allows you to change configurations of the device and be able to ensure that devices are correctly configured.
 

@@ -66,9 +66,9 @@ _No labware is preloaded on the vacuum system carriers._
 
 _The z-position within the active position of the vacuum system is shown with different levels. See image below._
 
-| Plate on position 7                                                                                                                 | Plate on position 8                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> | <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| Plate on position 7                                                                                                                 | Plate on position 8                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> | <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
 
 \
 
@@ -136,7 +136,7 @@ _Pipette samples from tubes into the filter plate on the manifold._\
 _Make sure that the dispensing details settings in step 5 of the Smart Step are set as shown below._\
 \
 _The final sequence manipulation is now used to reset the filter plate sequence back to the start point (current = 1)._\
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 
 
 ### _STEP 4:_&#x20;
@@ -147,7 +147,7 @@ _Aliquote reagent 1 over all filter plate positions._\
 ### _STEP 5:_&#x20;
 
 _Activate the vacuum pump to wash the samples._\
-![](<../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 \
 **PumpID:** The id of the vacuum pump. Having more than one pump, count up from 1. \
 \

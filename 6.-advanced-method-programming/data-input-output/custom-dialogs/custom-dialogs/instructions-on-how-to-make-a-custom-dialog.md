@@ -5,7 +5,7 @@ icon: dev
 # Instructions on How to Make a Custom Dialog
 
 Drag the Custom Dialog over from the toolbox within venus\
-![](<../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)\
+![](<../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png>)\
 
 
 [![image](https://labautomation.io/uploads/default/optimized/2X/9/9f58b64f4c3b99fed50b1e67b364acc59d367bda\_2\_690x412.png)](https://labautomation.io/uploads/default/original/2X/9/9f58b64f4c3b99fed50b1e67b364acc59d367bda.png)
@@ -18,7 +18,7 @@ then it will ask you to choose a template
 
 here is where you choose the template
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This is what the first dialog looks like (run config/selection)
 

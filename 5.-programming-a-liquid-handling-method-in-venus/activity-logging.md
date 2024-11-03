@@ -35,7 +35,7 @@
   * Build a Sub Method Template!
   * Customize event string formats and parameters based on what **YOU** need to know
 
-![](<../.gitbook/assets/0 (1).png>)
+![](<../.gitbook/assets/0 (1) (1).png>)
 
 ## Format Data?
 
@@ -48,7 +48,7 @@
   * Fill left/right – adds spaces
 * Apps or Math Library for rounding times or responses
 
-![](<../.gitbook/assets/1 (1).png>)
+![](<../.gitbook/assets/1 (1) (1).png>)
 
 ## CAUTION!
 
@@ -58,7 +58,7 @@
 
 ## ASW Status Dialog
 
-![](<../.gitbook/assets/2 (1).png>)
+![](<../.gitbook/assets/2 (1) (1).png>)
 
 ### Visual Library
 

@@ -31,7 +31,7 @@ The density of different liquids is shown below to visualize the range (in kg/m3
 * Describes the flow behavior of a liquid&#x20;
 * The more viscous a liquid, the thicker and less fluid the liquid
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 </details>
 

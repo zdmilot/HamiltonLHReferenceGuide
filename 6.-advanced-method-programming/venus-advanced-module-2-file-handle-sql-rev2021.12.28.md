@@ -12,13 +12,13 @@
   * **Delete** files or directories when done
   * Coupled with File Handling, powerful tools for collecting information _from an entire directory_
 
-![](../.gitbook/assets/0.png)
+![](<../.gitbook/assets/0 (1).png>)
 
 
 
 ### What is SQL?
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (1).png>)
 
 ### Structured Query Language
 
@@ -76,7 +76,7 @@ _Try avoid using brackets unnecessarily – it can obfuscate already difficult t
 * The overall statement is called a **command string**
 * The SQL **command string** is referenced at the **File: Open** command
 
-![](../.gitbook/assets/2.png)
+![](<../.gitbook/assets/2 (1).png>)
 
 *
   * Command strings reference data by:
@@ -131,7 +131,7 @@ CSV – **File Name** Example: **\[Worklist.csv]** or **\[Worklist#csv] Field**:
 ### File Open: Aggregate Functions
 
 * Column for query/alias **must** be opened
-* ![](../.gitbook/assets/3.png)Column Specification helper typically **not** needed – column name is known already, and R/W variable can be named for easy access!
+* ![](<../.gitbook/assets/3 (1).png>)Column Specification helper typically **not** needed – column name is known already, and R/W variable can be named for easy access!
 
 ### Conditional Selections
 
@@ -168,7 +168,7 @@ FROM \[TABLE$]
 
 WHERE ((VALUE) >10 AND (VALUE)<=30)”
 
-![](../.gitbook/assets/4.png)
+![](<../.gitbook/assets/4 (1).png>)
 
 ### Building Repetitive and/or Variable Strings
 

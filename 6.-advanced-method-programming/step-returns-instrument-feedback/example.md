@@ -13,14 +13,14 @@
   * Requires Autoload and successful Carrier ID
 * Block Structure with carriage returns added for ease of view
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example Return: Aspirate Single Step
 
 * Return Value #3: Channel Sequence With Recovery Details
 * Block Structure with carriage returns added for ease of view
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example Return: Aspirate Single Step with errors
 

@@ -43,7 +43,7 @@
 * If the device has movement/inertia, make sure it is suitably fixed to the deck
   * Example: Integration hardware on a Multiflex 7T Carrier
 
-![](<../.gitbook/assets/4 (1).png>)
+![](<../.gitbook/assets/4 (1) (1).png>)
 
 ## Parameters & Return Values
 
