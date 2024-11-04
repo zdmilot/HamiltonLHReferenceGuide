@@ -810,6 +810,8 @@
 * [13. Advanced HSL Programing](13.-advanced-hsl-programing/README.md)
   * [HSL and DLLs - How to link HSL to external code](13.-advanced-hsl-programing/hsl-and-dlls-how-to-link-hsl-to-external-code.md)
   * [HSL and DLLs Example](13.-advanced-hsl-programing/hsl-and-dlls-example.md)
+  * [HSL and DLLs Example Linked Library](13.-advanced-hsl-programing/hsl-and-dlls-example-linked-library/README.md)
+    * [CommandCam](13.-advanced-hsl-programing/hsl-and-dlls-example-linked-library/commandcam.md)
 * [12. Testing and Optimizing Your Method](7.-testing-and-optimizing-your-method/README.md)
   * [Simulation Mode](7.-testing-and-optimizing-your-method/simulation-mode.md)
   * [Debugging and Troubleshooting](7.-testing-and-optimizing-your-method/debugging-and-troubleshooting.md)
