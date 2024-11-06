@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/0.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0.png" alt="" width="375"><figcaption></figcaption></figure>
 
 An HSL library is a “collection” of functions written in HSL code and available for use in Venus software HSL Libraries are written in the HSL Method editor found in C:\Program Files (x86)\HAMILTON\Bin
 
@@ -29,7 +29,7 @@ Help File
 * Use \[LibraryName].chm
 * Create using HTML Help Workshop
 
-![](../.gitbook/assets/1.png)
+![](../../.gitbook/assets/1.png)
 
 ## HSL Code
 
@@ -84,7 +84,7 @@ Stands for "Dynamic Link Library." A DLL (.dll) file contains a library of funct
 
 DLL’s used in ASW Dialog Library
 
-![](../.gitbook/assets/4.png)
+![](../../.gitbook/assets/4.png)
 
 
 
