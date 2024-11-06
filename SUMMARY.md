@@ -879,6 +879,7 @@
   * [Additional Resources](9.-conclusion/additional-resources.md)
 * [18. Quick Guides](18.-quick-guides.md)
 * [18. Error Index](13.-error-index/README.md)
+  * [Error Expected Labware not Present - QCG Error](13.-error-index/error-expected-labware-not-present-qcg-error.md)
   * [Simulation Mode Error  (0x39 – 0x1 – 0x27)](13.-error-index/simulation-mode-error-0x39-0x1-0x27.md)
   * [HxHslRunControl2 Error in Run Control at Run Time](13.-error-index/hxhslruncontrol2-error-in-run-control-at-run-time.md)
   * [iSwap Filed to Reach Error](13.-error-index/iswap-filed-to-reach-error.md)
