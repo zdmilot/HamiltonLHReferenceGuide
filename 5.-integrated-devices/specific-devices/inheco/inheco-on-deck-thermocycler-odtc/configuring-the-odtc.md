@@ -35,7 +35,7 @@ Ensure that the network adapter which the ODTC box is connected to is connected 
 **2. Create a Network Reset File**
 
 * **On the SD card**: Navigate to the SD card’s file system.
-* **Create a new file**: In the root directory of the SD card, create a text file named `NetworkReset` (without any file extension).
+* **Create a new file**: In the root directory of the SD card, create a text file named `ResetNetwork` (without any file extension).
 * **Safely eject the SD card**: Once the file is created, safely eject the SD card from your PC.
 
 **3. Reset the ODTC**
